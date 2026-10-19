@@ -32,7 +32,7 @@ Re-create with `npm install`, `pip install -r pipeline/requirements.txt`, then
 | **Total** | **15834** | **4309** | | |
 
 Output sizes include the carried-forward areas (see [vanished-realms.md](vanished-realms.md),
-section 6). The largest file is 1 BCE at 601 KB.
+section 6). The largest file is 1800 at 601 KB.
 
 History: the first version (also 2026-10-19) rounded coordinates and simplified realms whole. It
 came to 1.9 MB in total but lost 149 features in 1 BCE and dozens of islands per snapshot.

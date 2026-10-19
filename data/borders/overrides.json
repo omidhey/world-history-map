@@ -1,0 +1,79 @@
+[
+  {
+    "id": "taiwan-1800-qing",
+    "year": 1800,
+    "op": "rename",
+    "match": { "name": null, "point": [120.5, 23.5] },
+    "set": { "NAME": "Taiwan Prefecture (Qing)", "SUBJECTO": "Qing Empire", "PARTOF": "Qing Empire", "BORDERPRECISION": 1 },
+    "note": "Upstream leaves Taiwan unnamed in 1800. The Qing annexed it in 1684 and ruled it as a prefecture of Fujian until 1895; effective control was mostly the western plains.",
+    "sources": ["https://en.wikipedia.org/wiki/Taiwan_under_Qing_rule", "https://en.wikipedia.org/wiki/Taiwan_Prefecture"]
+  },
+  {
+    "id": "benin-1800-mislabel",
+    "year": 1800,
+    "op": "rename",
+    "match": { "name": "Sotho", "point": [6.0, 6.3] },
+    "set": { "NAME": "Kingdom of Benin", "SUBJECTO": "Kingdom of Benin", "PARTOF": "Kingdom of Benin" },
+    "note": "Upstream labels this polygon in southern Nigeria 'Sotho' (a people of southern Africa). It sits on the Edo Kingdom of Benin, which lasted until the British annexation of 1897.",
+    "sources": ["https://en.wikipedia.org/wiki/Kingdom_of_Benin"]
+  },
+  {
+    "id": "sri-lanka-1200-polonnaruwa",
+    "year": 1200,
+    "op": "carve",
+    "shape_from": { "year": 800, "name": "Sinhalese kingdoms" },
+    "hosts": ["Chola Empire"],
+    "set": { "NAME": "Kingdom of Polonnaruwa", "SUBJECTO": "Kingdom of Polonnaruwa", "PARTOF": "Kingdom of Polonnaruwa", "BORDERPRECISION": 1 },
+    "note": "Upstream gives Sri Lanka to the Chola Empire in 1200, but Vijayabahu I expelled the Cholas around 1070; the island was ruled from Polonnaruwa until 1232.",
+    "sources": ["https://en.wikipedia.org/wiki/Kingdom_of_Polonnaruwa"]
+  },
+  {
+    "id": "arakan-400-waithali",
+    "year": 400,
+    "op": "carve",
+    "shape_from": { "year": -1, "name": "Arakan" },
+    "hosts": [null],
+    "set": { "NAME": "Waithali (Arakan)", "SUBJECTO": "Waithali", "PARTOF": "Waithali", "BORDERPRECISION": 1 },
+    "note": "Arakan is named in 1 BCE and 1500 but left as unnamed land in 400. The Waithali kingdom ruled Arakan (Rakhine) from about 370 to 818.",
+    "sources": ["https://en.wikipedia.org/wiki/Waithali_kingdom"]
+  },
+  {
+    "id": "arakan-800-waithali",
+    "year": 800,
+    "op": "carve",
+    "shape_from": { "year": -1, "name": "Arakan" },
+    "hosts": ["Rajput Clans and Small States", "Palas"],
+    "set": { "NAME": "Waithali (Arakan)", "SUBJECTO": "Waithali", "PARTOF": "Waithali", "BORDERPRECISION": 1 },
+    "note": "Upstream extends 'Rajput Clans and Small States' over Arakan in 800. Arakan was still the Waithali kingdom (about 370 to 818).",
+    "sources": ["https://en.wikipedia.org/wiki/Waithali_kingdom"]
+  },
+  {
+    "id": "nepal-1500-malla",
+    "year": 1500,
+    "op": "carve",
+    "shape_from": { "year": 1200, "name": "Nepal" },
+    "hosts": ["Tibet", "Sultanate of Delhi"],
+    "set": { "NAME": "Nepal (Malla and hill kingdoms)", "SUBJECTO": "Nepal (Malla and hill kingdoms)", "PARTOF": "Nepal (Malla and hill kingdoms)", "BORDERPRECISION": 1 },
+    "note": "Upstream splits Nepal between Tibet and the Delhi Sultanate in 1500. Neither ruled it: the Kathmandu valley was held by the Malla kings (divided into three kingdoms about 1484) and the hills by the Baise and Chaubise principalities.",
+    "sources": ["https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal)", "https://en.wikipedia.org/wiki/Unification_of_Nepal"]
+  },
+  {
+    "id": "groswater-323bce",
+    "year": -323,
+    "op": "carve",
+    "shape_from": { "year": -500, "name": "Paleo-Inuit" },
+    "hosts": [null],
+    "set": { "NAME": "Paleo-Inuit (Groswater)", "SUBJECTO": "Paleo-Inuit", "PARTOF": "Paleo-Inuit", "BORDERPRECISION": 1 },
+    "note": "Paleo-Inuit are shown in 500 BCE and 1 BCE but not in 323 BCE. The Groswater Paleo-Inuit occupied Newfoundland and Labrador from about 800 BCE.",
+    "sources": ["https://en.wikipedia.org/wiki/Groswater_culture", "https://www.heritage.nf.ca/articles/indigenous/palaeo-eskimo.php"]
+  },
+  {
+    "id": "malta-1945-uk",
+    "year": 1945,
+    "op": "copy",
+    "shape_from": { "year": 1914, "name": "Malta" },
+    "set": { "NAME": "Malta (UK)", "SUBJECTO": "United Kingdom", "PARTOF": "United Kingdom" },
+    "note": "Malta is missing from the upstream 1945 snapshot. It was a British Crown colony from 1813 to 1964.",
+    "sources": ["https://en.wikipedia.org/wiki/Crown_Colony_of_Malta"]
+  }
+]

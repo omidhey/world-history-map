@@ -3,10 +3,11 @@
 Steps, repeatable at any time:
   1. Download each snapshot in YEARS into raw/borders/ (skipped if already there).
   2. Simplify it with mapshaper (10%, keep-shapes) into data/borders/world_<year>.geojson.
-  3. Write data/borders/manifest.json and print before/after sizes.
+  3. Apply the sourced corrections in data/borders/overrides.json (see pipeline/overrides.py).
+  4. Write data/borders/manifest.json and print before/after sizes.
 
-Run from the repository root:  python pipeline/download_borders.py
-Needs Node.js and `npm install` (installs mapshaper locally).
+Run from the repository root:  .venv/Scripts/python pipeline/download_borders.py  (Windows)
+Needs Node.js and `npm install` (mapshaper), and `pip install -r pipeline/requirements.txt` (shapely).
 """
 
 import json
@@ -15,6 +16,8 @@ import subprocess
 import sys
 import urllib.request
 from pathlib import Path
+
+import overrides
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "raw" / "borders"
@@ -62,10 +65,49 @@ def find_mapshaper() -> list[str]:
 
 
 def simplify(mapshaper: list[str], source: Path, target: Path) -> None:
+    # keep-shapes only protects whole features, so islands inside a multi-part realm (Cyprus in the
+    # Ottoman Empire, Sicily in the Roman Empire) vanished. Exploding first makes every island its own
+    # feature; the parts are regrouped by original feature id afterwards. The regrouping is done here
+    # rather than with mapshaper -dissolve, because the source has overlapping polygons (an unnamed
+    # island drawn over "Taiwan" in 1500) and -dissolve hands each overlap to only one of them.
+    # Do not add -o precision=…: rounding coordinates collapsed whole features (149 in 1 BCE).
+    original = json.loads(source.read_text(encoding="utf-8"))
+    exploded_path = target.with_suffix(".exploded.tmp")
     subprocess.run(
-        mapshaper + [str(source), "-simplify", SIMPLIFY, "keep-shapes", "-o", "precision=0.0001", str(target)],
+        mapshaper + [
+            str(source),
+            "-each", "fid=this.id",
+            "-explode",
+            "-simplify", SIMPLIFY, "keep-shapes",
+            "-o", "format=geojson", str(exploded_path),
+        ],
         check=True,
         capture_output=True,
+    )
+    exploded = json.loads(exploded_path.read_text(encoding="utf-8"))
+    exploded_path.unlink()
+
+    parts = {}  # original feature id -> list of polygon coordinate arrays
+    for feature in exploded["features"]:
+        geometry = feature["geometry"]
+        if geometry is None:
+            continue  # zero-area slivers in the source
+        polygons = [geometry["coordinates"]] if geometry["type"] == "Polygon" else geometry["coordinates"]
+        parts.setdefault(feature["properties"]["fid"], []).extend(polygons)
+
+    features = []
+    for fid, feature in enumerate(original["features"]):
+        polygons = parts.get(fid)
+        if not polygons:
+            geometry = None
+        elif len(polygons) == 1:
+            geometry = {"type": "Polygon", "coordinates": polygons[0]}
+        else:
+            geometry = {"type": "MultiPolygon", "coordinates": polygons}
+        features.append({"type": "Feature", "properties": feature["properties"], "geometry": geometry})
+    target.write_text(
+        json.dumps({"type": "FeatureCollection", "features": features}, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
     )
 
 
@@ -77,6 +119,7 @@ def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     mapshaper = find_mapshaper()
+    corrections = json.loads((OUT_DIR / "overrides.json").read_text(encoding="utf-8"))
 
     snapshots = []
     print(f"{'year':>6} {'raw KB':>8} {'out KB':>8} {'features':>8}")
@@ -84,6 +127,10 @@ def main() -> None:
         raw = download(year)
         out = OUT_DIR / our_name(year)
         simplify(mapshaper, raw, out)
+        if any(entry["year"] == year for entry in corrections):
+            geojson = json.loads(out.read_text(encoding="utf-8"))
+            overrides.apply(corrections, year, geojson, lambda y: OUT_DIR / our_name(y))
+            out.write_text(json.dumps(geojson, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         raw_kb = raw.stat().st_size // 1024
         out_kb = out.stat().st_size // 1024
         count = feature_count(out)
@@ -94,6 +141,7 @@ def main() -> None:
         "source": "https://github.com/aourednik/historical-basemaps",
         "license": "GPL-3.0",
         "simplify": SIMPLIFY,
+        "overrides": len(corrections),
         "snapshots": snapshots,
     }
     (OUT_DIR / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

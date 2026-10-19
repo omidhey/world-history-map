@@ -2,104 +2,105 @@
   "source": "https://github.com/aourednik/historical-basemaps",
   "license": "GPL-3.0",
   "simplify": "10%",
+  "overrides": 8,
   "snapshots": [
     {
       "year": -3000,
       "file": "world_-3000.geojson",
       "features": 138,
       "raw_kb": 770,
-      "kb": 74
+      "kb": 133
     },
     {
       "year": -2000,
       "file": "world_-2000.geojson",
       "features": 145,
       "raw_kb": 838,
-      "kb": 85
+      "kb": 160
     },
     {
       "year": -1000,
       "file": "world_-1000.geojson",
       "features": 163,
       "raw_kb": 854,
-      "kb": 94
+      "kb": 174
     },
     {
       "year": -500,
       "file": "world_-500.geojson",
       "features": 189,
       "raw_kb": 894,
-      "kb": 99
+      "kb": 180
     },
     {
       "year": -323,
       "file": "world_-323.geojson",
-      "features": 149,
+      "features": 150,
       "raw_kb": 868,
-      "kb": 93
+      "kb": 183
     },
     {
       "year": -1,
       "file": "world_-1.geojson",
       "features": 442,
       "raw_kb": 1157,
-      "kb": 166
+      "kb": 359
     },
     {
       "year": 400,
       "file": "world_400.geojson",
-      "features": 367,
+      "features": 368,
       "raw_kb": 1096,
-      "kb": 150
+      "kb": 317
     },
     {
       "year": 800,
       "file": "world_800.geojson",
-      "features": 225,
+      "features": 226,
       "raw_kb": 954,
-      "kb": 120
+      "kb": 222
     },
     {
       "year": 1200,
       "file": "world_1200.geojson",
-      "features": 286,
+      "features": 287,
       "raw_kb": 1026,
-      "kb": 136
+      "kb": 261
     },
     {
       "year": 1500,
       "file": "world_1500.geojson",
-      "features": 291,
+      "features": 292,
       "raw_kb": 1142,
-      "kb": 143
+      "kb": 318
     },
     {
       "year": 1800,
       "file": "world_1800.geojson",
       "features": 627,
       "raw_kb": 1600,
-      "kb": 342
+      "kb": 529
     },
     {
       "year": 1914,
       "file": "world_1914.geojson",
       "features": 177,
       "raw_kb": 1259,
-      "kb": 117
+      "kb": 242
     },
     {
       "year": 1945,
       "file": "world_1945.geojson",
-      "features": 227,
+      "features": 228,
       "raw_kb": 1527,
-      "kb": 131
+      "kb": 263
     },
     {
       "year": 2010,
       "file": "world_2010.geojson",
       "features": 240,
       "raw_kb": 1849,
-      "kb": 177
+      "kb": 330
     }
   ]
 }

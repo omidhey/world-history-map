@@ -25,11 +25,15 @@ Live site (after the first deploy): https://omidhey.github.io/world-history-map/
 
 ```
 npm install
-python pipeline/download_borders.py
+python -m venv .venv
+.venv/Scripts/pip install -r pipeline/requirements.txt
+.venv/Scripts/python pipeline/download_borders.py
 ```
 
 This downloads 14 snapshots into `raw/`, simplifies them with mapshaper into
-`data/borders/` and rewrites `data/borders/manifest.json`. Sizes are in
+`data/borders/`, applies the sourced corrections in `data/borders/overrides.json`
+and rewrites `data/borders/manifest.json`. Why realms sometimes vanish between
+snapshots, and what was corrected: [docs/vanished-realms.md](docs/vanished-realms.md). Sizes are in
 [docs/data-notes.md](docs/data-notes.md).
 
 ## Folder layout

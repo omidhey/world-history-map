@@ -33,6 +33,10 @@
     footer a { color: #335; }
     .leaflet-tooltip.polity { font-size: 13px; }
     .leaflet-tooltip.polity small { color: #666; }
+    .leaflet-tooltip.polity .note {
+      max-width: 280px; white-space: normal; margin-top: 4px; padding-top: 4px;
+      border-top: 1px solid #ddd; font-size: 12px; color: #6a2c91;
+    }
     @media (max-width: 600px) {
       #title { left: 50px; right: 10px; font-size: 14px; }
       #ticks { display: none; } /* 14 labels do not fit on a phone; the title shows the year */
@@ -50,7 +54,8 @@
   <div id="ticks"></div>
   <footer>
     Borders: <a href="https://github.com/aourednik/historical-basemaps">historical-basemaps</a>
-    by A. Ourednik (GPL-3.0). Borders are approximate; dashed outlines are the least certain.
+    by A. Ourednik (GPL-3.0). Borders are approximate; dashed outlines are the least certain;
+    purple outlines are <a href="https://github.com/omidhey/world-history-map/blob/main/docs/vanished-realms.md">sourced corrections</a>.
     · Map: <a href="https://leafletjs.com">Leaflet</a>
     · <a href="https://github.com/omidhey/world-history-map">Source on GitHub</a>
   </footer>
@@ -91,6 +96,11 @@
       const p = feature.properties;
       const owner = p.SUBJECTO || p.NAME;
       const uncertain = p.BORDERPRECISION === 1;
+      if (p.OVERRIDE) {
+        // Corrected by this project (data/borders/overrides.json): outlined so it is not mistaken for upstream data.
+        return { color: "#6a2c91", weight: 1.6, opacity: 1, dashArray: "4 3",
+                 fillColor: colourFor(owner), fillOpacity: 0.7 };
+      }
       return {
         color: "#444",
         weight: owner ? 0.8 : 0.4,
@@ -109,6 +119,9 @@
       let html = "<b>" + escapeHtml(p.NAME) + "</b>";
       if (p.SUBJECTO && p.SUBJECTO !== p.NAME) html += "<br><small>under " + escapeHtml(p.SUBJECTO) + "</small>";
       if (p.BORDERPRECISION === 1) html += "<br><small>border approximate</small>";
+      if (p.OVERRIDE) {
+        html += '<div class="note"><b>Corrected by this project.</b> ' + escapeHtml(p.NOTE) + "</div>";
+      }
       return html;
     }
 

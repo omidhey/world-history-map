@@ -4,31 +4,38 @@
 
 Source: [historical-basemaps](https://github.com/aourednik/historical-basemaps), GPL-3.0,
 pinned to commit `da7a4b7` in `pipeline/download_borders.py`.
-Simplified with mapshaper 0.7.90: `-simplify 10% keep-shapes`, coordinates rounded to 0.0001°.
+Simplified with mapshaper 0.7.90: every realm is split into its parts, simplified with
+`-simplify 10% keep-shapes`, then put back together, so no island larger than ~600 km² is lost.
+Sourced corrections from `data/borders/overrides.json` are applied afterwards (see
+[vanished-realms.md](vanished-realms.md)).
 
-Re-create with `npm install` then `python pipeline/download_borders.py`.
-`python pipeline/build_site.py` copies the result into `site/data/` for the page.
+Re-create with `npm install`, `pip install -r pipeline/requirements.txt`, then
+`python pipeline/download_borders.py`. `python pipeline/build_site.py` copies the result into
+`site/data/` for the page.
 
 | Year | Raw KB | Simplified KB | Features |
 |---:|---:|---:|---:|
-| -3000 | 770 | 74 | 138 |
-| -2000 | 838 | 85 | 145 |
-| -1000 | 854 | 94 | 163 |
-| -500 | 894 | 99 | 189 |
-| -323 | 868 | 93 | 149 |
-| -1 | 1157 | 166 | 442 |
-| 400 | 1096 | 150 | 367 |
-| 800 | 954 | 120 | 225 |
-| 1200 | 1026 | 136 | 286 |
-| 1500 | 1142 | 143 | 291 |
-| 1800 | 1600 | 342 | 627 |
-| 1914 | 1259 | 117 | 177 |
-| 1945 | 1527 | 131 | 227 |
-| 2010 | 1849 | 177 | 240 |
-| **Total** | **15834** | **1927** | |
+| -3000 | 770 | 133 | 138 |
+| -2000 | 838 | 160 | 145 |
+| -1000 | 854 | 174 | 163 |
+| -500 | 894 | 180 | 189 |
+| -323 | 868 | 183 | 150 |
+| -1 | 1157 | 359 | 442 |
+| 400 | 1096 | 317 | 368 |
+| 800 | 954 | 222 | 226 |
+| 1200 | 1026 | 261 | 287 |
+| 1500 | 1142 | 318 | 292 |
+| 1800 | 1600 | 529 | 627 |
+| 1914 | 1259 | 242 | 177 |
+| 1945 | 1527 | 263 | 228 |
+| 2010 | 1849 | 330 | 240 |
+| **Total** | **15834** | **3671** | |
 
-The roadmap estimated "a few hundred KB per file"; the measured size is 74–342 KB,
-about 8–21 % of the original. 1800 is the largest (627 features).
+The roadmap estimated "a few hundred KB per file"; the measured size is 133–529 KB, about
+17–33 % of the original. 1800 is the largest (627 features).
+
+History: the first version (also 2026-10-19) rounded coordinates and simplified realms whole. It
+came to 1.9 MB in total but lost 149 features in 1 BCE and dozens of islands per snapshot.
 
 ## Observations
 

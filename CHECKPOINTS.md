@@ -1,0 +1,77 @@
+# Checkpoints
+
+One line per roadmap session ([docs/roadmap.md](docs/roadmap.md)). A session is ticked only
+when its **Result** exists and has been checked. Rule from the roadmap: don't start a new
+session with the previous one half-done.
+
+Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
+
+## Phase 0: Setup
+
+- [~] **Session 0: Workspace and repository**
+  - [x] Folder structure (`data/entries`, `data/polities`, `data/borders`, `pipeline`, `site`, `docs`, `.github`, `raw`) — 2026-10-19
+  - [x] `.gitignore` ignores `raw/` and `site/data/` — 2026-10-19
+  - [x] `README.md`, roadmap copied to `docs/roadmap.md` — 2026-10-19
+  - [x] Install Git, VS Code, Node.js LTS — already installed (Git 2.55, Node 24.12, Python 3.14, gh 2.101) — 2026-10-19
+  - [x] `git init` (branch `main`), `.gitattributes` for LF line endings, first commit — 2026-10-19
+  - [ ] Create **public** GitHub repo `world-history-map` and push
+
+## Phase 1: MVP map with a time slider → v0.1
+
+- [x] **Session 1: One map on screen** — 2026-10-19
+  - Result: `site/index.html` draws `world_1500.geojson` (291 polygons) with Leaflet 1.9.4 (bundled locally, no CDN). Run with `run_site.bat`.
+- [ ] **Session 2: Download and shrink the snapshots** — `pipeline/download_borders.py`, mapshaper 10%, `data/borders/manifest.json`, sizes in `docs/data-notes.md`
+- [ ] **Session 3: The time slider** — range input from manifest, cached loads, "Borders as of …"
+- [ ] **Session 4: Make it readable** — colour by `SUBJECTO` (stable hash), hover `NAME`, faded `BORDERPRECISION` 1
+- [ ] **Session 5: Publish v0.1** — GitHub Pages, credits footer → **MVP live**
+
+## Phase 2: Open-source and contribution foundation → v0.2
+
+- [ ] **Session 6: Project rules** — `LICENSE` (GPL-3.0 code/borders, CC BY-SA 4.0 text), `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `docs/content-policy.md`
+- [ ] **Session 7: Schema, validator and automatic checks** — `docs/schema.md`, `pipeline/validate.py`, ~30 hand-written records, PR check in GitHub Actions
+- [ ] **Session 8: Contribution path for non-programmers** — issue forms, "Suggest an edit" links, review labels, PR template → **contributions with admin approval**
+
+## Phase 3: Content layers → v0.3
+
+- [ ] **Session 9: Show content on the map** — `pipeline/build.py`, markers by period, category toggles
+- [ ] **Session 10: Side panel and info cards**
+- [ ] **Session 11: Wikidata import (philosophers)** — check BCE years against known dates
+- [ ] **Session 12: More categories** — scientists, writers, works
+- [ ] **Session 13: Data-quality report** — `docs/data-quality.md`, flags not deletions
+- [ ] **Session 14: Automatic build and deploy** — on merge: validate → build → Pages
+
+## Phase 4: Polities, rulers and dynasties → v0.4
+
+- [ ] **Session 15: Click a state, learn what it is** — `data/polities/`
+- [ ] **Session 16: Rulers and dynasties**
+- [ ] **Session 17: Timeline strip**
+
+## Phase 5: Follow a country through time → v0.5
+
+- [ ] **Session 18: Spatial lineage** — geopandas, equal-area (EPSG:6933), one snapshot at a time
+- [ ] **Session 19: "Follow a country" mode**
+- [ ] **Session 20: Curated lineages** — ~10 countries, sourced
+- [ ] **Session 21: Measuring border change** — area-over-time chart
+
+## Phase 6: Environment (could have) → v0.6
+
+- [ ] **Session 22: Research and decide** — `docs/environment-decision.md`
+- [ ] **Session 23: One overlay** — one HYDE variable as PNG overlays
+- [ ] **Session 24: Environmental events**
+
+## Phase 7: Engineering quality → v1.0
+
+- [ ] **Session 25: Code and tests** — JS modules, pytest
+- [ ] **Session 26: Performance** — TopoJSON, `docs/performance.md`
+- [ ] **Session 27: Search and shareable links** — Fuse.js, URL state
+- [ ] **Session 28: Release v1.0 and open data** — About page, contributors, tag, Zenodo DOI
+
+## Phase 8: Own contribution platform (only when needed) → v2.0
+
+- [ ] **Session 29: Design document** — `docs/platform-design.md`
+- [ ] **Session 30: FastAPI read-only API + import**
+- [ ] **Session 31: Login and roles**
+- [ ] **Session 32: Edit form → pending submission**
+- [ ] **Session 33: Moderation queue**
+- [ ] **Session 34: History page and revert**
+- [ ] **Session 35: Export to repo, deploy, switch "Suggest an edit"**

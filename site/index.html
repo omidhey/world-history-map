@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World History Map</title>
+  <!-- Leaflet is stored locally in vendor/ so the page works offline and has no CDN dependency. -->
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <style>
+    html, body { margin: 0; height: 100%; font-family: system-ui, sans-serif; }
+    #map { height: 100%; background: #bfd9e8; } /* plain "ocean" colour; no tile server needed */
+    #title {
+      position: absolute; top: 10px; left: 50px; z-index: 1000;
+      background: rgba(255, 255, 255, 0.9); padding: 6px 12px; border-radius: 4px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div id="title">Borders as of 1500 CE</div>
+  <div id="map"></div>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script>
+    const map = L.map("map", { worldCopyJump: true }).setView([25, 20], 2);
+
+    // Session 1: one snapshot, one colour. Colour by SUBJECTO comes in Session 4.
+    fetch("data/world_1500.geojson")
+      .then((response) => {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then((geojson) => {
+        L.geoJSON(geojson, {
+          style: { color: "#555", weight: 1, fillColor: "#e8dcb5", fillOpacity: 0.8 },
+          onEachFeature: (feature, layer) => {
+            // Some polygons have no NAME in historical-basemaps.
+            layer.bindTooltip(feature.properties.NAME || "(unnamed)");
+          },
+        }).addTo(map);
+        console.log("Loaded", geojson.features.length, "polygons for 1500");
+      })
+      .catch((error) => {
+        document.getElementById("title").textContent =
+          "Could not load borders (" + error.message + "). Start the page with run_site.bat, not by double-clicking.";
+      });
+
+    map.attributionControl.addAttribution(
+      'Borders: <a href="https://github.com/aourednik/historical-basemaps">historical-basemaps</a> (GPL-3.0), approximate'
+    );
+  </script>
+</body>
+</html>

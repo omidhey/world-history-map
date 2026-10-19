@@ -1,0 +1,5 @@
+# Store text files with LF in the repository so diffs stay clean across Windows, macOS and Linux
+* text=auto eol=lf
+*.bat text eol=crlf
+
+*.png binary

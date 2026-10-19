@@ -8,46 +8,201 @@
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
   <style>
     html, body { margin: 0; height: 100%; font-family: system-ui, sans-serif; }
-    #map { height: 100%; background: #bfd9e8; } /* plain "ocean" colour; no tile server needed */
+    body { display: flex; flex-direction: column; }
+    #map { flex: 1; background: #bfd9e8; } /* plain "ocean" colour; no tile server needed */
     #title {
       position: absolute; top: 10px; left: 50px; z-index: 1000;
-      background: rgba(255, 255, 255, 0.9); padding: 6px 12px; border-radius: 4px;
-      font-size: 16px;
+      background: rgba(255, 255, 255, 0.92); padding: 6px 12px; border-radius: 4px;
+      font-size: 16px; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    }
+    #controls {
+      display: flex; align-items: center; gap: 12px;
+      padding: 8px 16px; background: #fafafa; border-top: 1px solid #ccc;
+    }
+    #slider { flex: 1; min-width: 0; }
+    #controls button { font-size: 18px; width: 36px; height: 32px; cursor: pointer; }
+    #ticks {
+      display: flex; justify-content: space-between;
+      padding: 0 64px 4px; background: #fafafa; font-size: 11px; color: #666;
+    }
+    #ticks span { cursor: pointer; }
+    #ticks span.current { color: #000; font-weight: bold; }
+    footer {
+      padding: 4px 16px 6px; background: #fafafa; font-size: 12px; color: #555;
+    }
+    footer a { color: #335; }
+    .leaflet-tooltip.polity { font-size: 13px; }
+    .leaflet-tooltip.polity small { color: #666; }
+    @media (max-width: 600px) {
+      #title { left: 50px; right: 10px; font-size: 14px; }
+      #ticks { display: none; } /* 14 labels do not fit on a phone; the title shows the year */
     }
   </style>
 </head>
 <body>
-  <div id="title">Borders as of 1500 CE</div>
+  <div id="title">Loading borders…</div>
   <div id="map"></div>
+  <div id="controls">
+    <button id="prev" title="Previous snapshot" aria-label="Previous snapshot">‹</button>
+    <input id="slider" type="range" min="0" max="0" value="0" step="1" aria-label="Year">
+    <button id="next" title="Next snapshot" aria-label="Next snapshot">›</button>
+  </div>
+  <div id="ticks"></div>
+  <footer>
+    Borders: <a href="https://github.com/aourednik/historical-basemaps">historical-basemaps</a>
+    by A. Ourednik (GPL-3.0). Borders are approximate; dashed outlines are the least certain.
+    · Map: <a href="https://leafletjs.com">Leaflet</a>
+    · <a href="https://github.com/omidhey/world-history-map">Source on GitHub</a>
+  </footer>
 
   <script src="vendor/leaflet/leaflet.js"></script>
   <script>
-    const map = L.map("map", { worldCopyJump: true }).setView([25, 20], 2);
+    const DATA = "data/borders/";
+    const titleEl = document.getElementById("title");
+    const slider = document.getElementById("slider");
+    const ticksEl = document.getElementById("ticks");
 
-    // Session 1: one snapshot, one colour. Colour by SUBJECTO comes in Session 4.
-    fetch("data/world_1500.geojson")
+    const map = L.map("map", { worldCopyJump: true, preferCanvas: true }).setView([30, 20], 2);
+    map.attributionControl.setPrefix(false); // credits live in the footer
+
+    // Years are integers, negative = BCE, no year 0.
+    function formatYear(year) {
+      return year < 0 ? -year + " BCE" : year + " CE";
+    }
+
+    // Stable colour per ruling power: the same SUBJECTO hashes to the same hue in every snapshot.
+    function hashString(text) {
+      let hash = 2166136261; // FNV-1a
+      for (let i = 0; i < text.length; i++) {
+        hash ^= text.charCodeAt(i);
+        hash = Math.imul(hash, 16777619);
+      }
+      return hash >>> 0;
+    }
+    function colourFor(subjecto) {
+      const hash = hashString(subjecto);
+      const hue = hash % 360;
+      const saturation = 45 + ((hash >>> 9) % 25); // 45–69 %
+      const lightness = 55 + ((hash >>> 17) % 15); // 55–69 %
+      return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+    }
+
+    function style(feature) {
+      const p = feature.properties;
+      const owner = p.SUBJECTO || p.NAME;
+      const uncertain = p.BORDERPRECISION === 1;
+      return {
+        color: "#444",
+        weight: owner ? 0.8 : 0.4,
+        opacity: uncertain ? 0.6 : 0.9,
+        dashArray: uncertain ? "3 3" : null,
+        fillColor: owner ? colourFor(owner) : "#e9e4d4", // unnamed land: neutral
+        fillOpacity: owner ? (uncertain ? 0.55 : 0.8) : 0.6,
+      };
+    }
+
+    function escapeHtml(text) {
+      return String(text).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    }
+
+    function tooltipHtml(p) {
+      let html = "<b>" + escapeHtml(p.NAME) + "</b>";
+      if (p.SUBJECTO && p.SUBJECTO !== p.NAME) html += "<br><small>under " + escapeHtml(p.SUBJECTO) + "</small>";
+      if (p.BORDERPRECISION === 1) html += "<br><small>border approximate</small>";
+      return html;
+    }
+
+    function highlight(event) {
+      event.target.setStyle({ weight: 2.5, color: "#000", opacity: 1 });
+      event.target.bringToFront();
+    }
+
+    let snapshots = [];
+    let currentLayer = null;
+    let requested = -1;
+    const cache = new Map(); // year -> Promise<GeoJSON>
+
+    function loadYear(year, file) {
+      if (!cache.has(year)) {
+        const request = fetch(DATA + file).then((response) => {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.json();
+        });
+        request.catch(() => cache.delete(year)); // allow a retry after a failed load
+        cache.set(year, request);
+      }
+      return cache.get(year);
+    }
+
+    async function show(index) {
+      requested = index;
+      const { year, file } = snapshots[index];
+      slider.value = index;
+      titleEl.textContent = "Borders as of " + formatYear(year) + " …";
+      ticksEl.querySelectorAll("span").forEach((s, i) => s.classList.toggle("current", i === index));
+
+      let geojson;
+      try {
+        geojson = await loadYear(year, file);
+      } catch (error) {
+        titleEl.textContent = "Could not load " + formatYear(year) + " (" + error.message + ")";
+        return;
+      }
+      if (requested !== index) return; // the slider moved on while this file was loading
+
+      const layer = L.geoJSON(geojson, {
+        style,
+        onEachFeature: (feature, layer) => {
+          if (!feature.properties.NAME) return; // unnamed land: no tooltip
+          layer.bindTooltip(tooltipHtml(feature.properties), { sticky: true, className: "polity" });
+          layer.on({ mouseover: highlight, mouseout: (e) => layer.setStyle(style(feature)) });
+        },
+      }).addTo(map);
+      if (currentLayer) map.removeLayer(currentLayer);
+      currentLayer = layer;
+      titleEl.textContent = "Borders as of " + formatYear(year);
+
+      // Warm the cache for the neighbours so sliding feels instant.
+      for (const n of [index - 1, index + 1]) {
+        if (snapshots[n]) loadYear(snapshots[n].year, snapshots[n].file).catch(() => {});
+      }
+    }
+
+    function step(delta) {
+      const index = Math.min(snapshots.length - 1, Math.max(0, Number(slider.value) + delta));
+      if (index !== requested) show(index);
+    }
+
+    slider.addEventListener("input", () => show(Number(slider.value)));
+    document.getElementById("prev").addEventListener("click", () => step(-1));
+    document.getElementById("next").addEventListener("click", () => step(1));
+    document.addEventListener("keydown", (e) => {
+      if (e.target === slider) return; // the range input handles its own arrow keys
+      if (e.key === "ArrowLeft") step(-1);
+      if (e.key === "ArrowRight") step(1);
+    });
+
+    fetch(DATA + "manifest.json")
       .then((response) => {
         if (!response.ok) throw new Error("HTTP " + response.status);
         return response.json();
       })
-      .then((geojson) => {
-        L.geoJSON(geojson, {
-          style: { color: "#555", weight: 1, fillColor: "#e8dcb5", fillOpacity: 0.8 },
-          onEachFeature: (feature, layer) => {
-            // Some polygons have no NAME in historical-basemaps.
-            layer.bindTooltip(feature.properties.NAME || "(unnamed)");
-          },
-        }).addTo(map);
-        console.log("Loaded", geojson.features.length, "polygons for 1500");
+      .then((manifest) => {
+        snapshots = manifest.snapshots;
+        slider.max = snapshots.length - 1;
+        snapshots.forEach(({ year }, i) => {
+          const tick = document.createElement("span");
+          tick.textContent = year < 0 ? -year + " BCE" : year;
+          tick.addEventListener("click", () => show(i));
+          ticksEl.appendChild(tick);
+        });
+        const start = snapshots.findIndex((s) => s.year === 1500);
+        show(start >= 0 ? start : 0);
       })
       .catch((error) => {
-        document.getElementById("title").textContent =
-          "Could not load borders (" + error.message + "). Start the page with run_site.bat, not by double-clicking.";
+        titleEl.textContent =
+          "Could not load borders (" + error.message + "). Run pipeline/build_site.py, then start the page with run_site.bat.";
       });
-
-    map.attributionControl.addAttribution(
-      'Borders: <a href="https://github.com/aourednik/historical-basemaps">historical-basemaps</a> (GPL-3.0), approximate'
-    );
   </script>
 </body>
 </html>

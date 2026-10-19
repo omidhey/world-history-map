@@ -11,12 +11,26 @@ Status: early development. See [CHECKPOINTS.md](CHECKPOINTS.md) for progress and
 Double-click `run_site.bat`, or:
 
 ```
+python pipeline/build_site.py
 cd site
 python -m http.server 8000
 ```
 
 then open http://localhost:8000. Opening `index.html` directly does not work,
 because browsers block loading local data files from `file://`.
+
+Live site (after the first deploy): https://omidhey.github.io/world-history-map/
+
+## Updating the border data
+
+```
+npm install
+python pipeline/download_borders.py
+```
+
+This downloads 14 snapshots into `raw/`, simplifies them with mapshaper into
+`data/borders/` and rewrites `data/borders/manifest.json`. Sizes are in
+[docs/data-notes.md](docs/data-notes.md).
 
 ## Folder layout
 

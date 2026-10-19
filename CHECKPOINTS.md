@@ -20,10 +20,15 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 - [x] **Session 1: One map on screen** — 2026-10-19
   - Result: `site/index.html` draws `world_1500.geojson` (291 polygons) with Leaflet 1.9.4 (bundled locally, no CDN). Run with `run_site.bat`.
-- [ ] **Session 2: Download and shrink the snapshots** — `pipeline/download_borders.py`, mapshaper 10%, `data/borders/manifest.json`, sizes in `docs/data-notes.md`
-- [ ] **Session 3: The time slider** — range input from manifest, cached loads, "Borders as of …"
-- [ ] **Session 4: Make it readable** — colour by `SUBJECTO` (stable hash), hover `NAME`, faded `BORDERPRECISION` 1
-- [ ] **Session 5: Publish v0.1** — GitHub Pages, credits footer → **MVP live**
+- [x] **Session 2: Download and shrink the snapshots** — 2026-10-19
+  - Result: `pipeline/download_borders.py` (upstream pinned to `da7a4b7`, mapshaper 0.7.90 via `npm install`) writes 14 files to `data/borders/` (74–342 KB each, 1.9 MB total, ~12 % of raw) plus `manifest.json`. Sizes in `docs/data-notes.md`.
+- [x] **Session 3: The time slider** — 2026-10-19
+  - Result: slider + ‹ › buttons + arrow keys + clickable year ticks, driven by the manifest. Loaded files are cached, neighbours prefetched, stale loads ignored. `pipeline/build_site.py` copies `data/borders/` into `site/data/`.
+- [x] **Session 4: Make it readable** — 2026-10-19
+  - Result: FNV-1a hash of `SUBJECTO` → stable colour; hover shows `NAME` (+ "under …"), highlighted outline; `BORDERPRECISION` 1 dashed and faded; unnamed land neutral. Checked in browser at desktop and phone width.
+- [~] **Session 5: Publish v0.1** — GitHub Pages, credits footer → **MVP live**
+  - [x] Credits footer (historical-basemaps, GPL-3.0, "borders are approximate"), `.github/workflows/pages.yml` — 2026-10-19
+  - [ ] Push, enable Pages (source: GitHub Actions), confirm the public URL
 
 ## Phase 2: Open-source and contribution foundation → v0.2
 

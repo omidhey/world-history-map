@@ -24,7 +24,10 @@ def _geometry(feature):
 
 def _territory(path: Path, name: str):
     features = json.loads(path.read_text(encoding="utf-8"))["features"]
-    found = [_geometry(f) for f in features if f["properties"].get("NAME") == name and f["geometry"]]
+    found = [
+        _geometry(f) for f in features
+        if f["properties"].get("NAME") == name and f["geometry"] and "CARRIED" not in f["properties"]
+    ]
     if not found:
         raise ValueError(f"{path.name}: no feature named {name!r}")
     return unary_union(found)
@@ -80,7 +83,10 @@ def apply(entries, year, geojson, file_for_year):
 
         elif op == "copy":
             source = json.loads(file_for_year(entry["shape_from"]["year"]).read_text(encoding="utf-8"))["features"]
-            matches = [f for f in source if f["properties"].get("NAME") == entry["shape_from"]["name"]]
+            matches = [
+                f for f in source
+                if f["properties"].get("NAME") == entry["shape_from"]["name"] and "CARRIED" not in f["properties"]
+            ]
             if len(matches) != 1:
                 raise ValueError(f"{entry['id']}: expected 1 source feature, found {len(matches)}")
             properties = dict(matches[0]["properties"])

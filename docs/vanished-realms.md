@@ -10,34 +10,34 @@ cover that land in the gap year. Re-run it with:
 .venv/Scripts/python pipeline/gap_report.py
 ```
 
-Each gap has one of five causes.
+Each gap has one of five causes. Section 6 describes the project rule that keeps land coloured.
 
 ## 1. The land really belonged to another state (correct)
 
 These match the historical record. The realm was absorbed, partitioned or ruled by an empire, then restored.
 
-| Realm | Gap year | Who holds the land in the data |
-|---|---|---|
-| Egypt | 500 BCE | Achaemenid Empire |
-| Egypt | 323 BCE | Empire of Alexander |
-| Egypt | 1 BCE / 400 | Roman / Eastern Roman Empire |
-| Egypt | 800 / 1200 / 1500 | Abbasid / Fatimid Caliphate / Mamluk Sultanate |
-| Egypt | 1800 | Ottoman Empire |
-| Armenia | 400 / 800 | Persia / Abbasid Caliphate and Khazars |
-| Armenia | 1500 / 1800 / 1945 | White Sheep Turks / Ottomans and Persia / USSR |
-| Georgia, Azerbaijan | 1800, 1945 | Russian Empire, USSR |
-| Hungary, Croatia | 1500–1914 | Kingdom of Hungary, Austrian Empire, Austria-Hungary; Croatia in Yugoslavia in 1945 |
-| Poland | 1800 / 1914 | Prussia, Austria, Russia (the partitions, 1772–1795); restored 1918 |
-| Persia | 800 / 1200 / 1500 | Abbasid Caliphate / Buyid and Ghaznavid emirates / White Sheep Turks and Timurids |
-| Tibet | 1800 | Qing Empire |
-| Cyprus | 1800 / 1914 / 1945 | Ottoman Empire / United Kingdom |
-| Burma, Cambodia, Laos, Cochin China | 1914 | British Raj, French Indochina |
-| Mali, Senegal, Ghana (ancient) | 1914 | French West Africa |
-| Benin | 1914 | Nigeria (British) |
-| Madagascar, Martinique, Mozambique, Angola, Malawi, Libya | 1914 or 1945 | French, Portuguese, British and Italian colonial names |
-| Japan | 1945 | "Japan (USA)", the US occupation |
-| Serbia, Montenegro | 1945 | Yugoslavia |
-| Hadramaut | 800 | Abbasid Caliphate |
+| Realm                                                     | Gap year           | Who holds the land in the data                                                      |
+| --------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------- |
+| Egypt                                                     | 500 BCE            | Achaemenid Empire                                                                   |
+| Egypt                                                     | 323 BCE            | Empire of Alexander                                                                 |
+| Egypt                                                     | 1 BCE / 400        | Roman / Eastern Roman Empire                                                        |
+| Egypt                                                     | 800 / 1200 / 1500  | Abbasid / Fatimid Caliphate / Mamluk Sultanate                                      |
+| Egypt                                                     | 1800               | Ottoman Empire                                                                      |
+| Armenia                                                   | 400 / 800          | Persia / Abbasid Caliphate and Khazars                                              |
+| Armenia                                                   | 1500 / 1800 / 1945 | White Sheep Turks / Ottomans and Persia / USSR                                      |
+| Georgia, Azerbaijan                                       | 1800, 1945         | Russian Empire, USSR                                                                |
+| Hungary, Croatia                                          | 1500–1914          | Kingdom of Hungary, Austrian Empire, Austria-Hungary; Croatia in Yugoslavia in 1945 |
+| Poland                                                    | 1800 / 1914        | Prussia, Austria, Russia (the partitions, 1772–1795); restored 1918                 |
+| Persia                                                    | 800 / 1200 / 1500  | Abbasid Caliphate / Buyid and Ghaznavid emirates / White Sheep Turks and Timurids   |
+| Tibet                                                     | 1800               | Qing Empire                                                                         |
+| Cyprus                                                    | 1800 / 1914 / 1945 | Ottoman Empire / United Kingdom                                                     |
+| Burma, Cambodia, Laos, Cochin China                       | 1914               | British Raj, French Indochina                                                       |
+| Mali, Senegal, Ghana (ancient)                            | 1914               | French West Africa                                                                  |
+| Benin                                                     | 1914               | Nigeria (British)                                                                   |
+| Madagascar, Martinique, Mozambique, Angola, Malawi, Libya | 1914 or 1945       | French, Portuguese, British and Italian colonial names                              |
+| Japan                                                     | 1945               | "Japan (USA)", the US occupation                                                    |
+| Serbia, Montenegro                                        | 1945               | Yugoslavia                                                                          |
+| Hadramaut                                                 | 800                | Abbasid Caliphate                                                                   |
 
 ## 2. Same state, different name (correct, but looks like a change)
 
@@ -105,3 +105,22 @@ approximate (`BORDERPRECISION` 1).
 Add an entry to `data/borders/overrides.json` with `id`, `year`, `op` (`rename`, `carve` or `copy`),
 the new properties in `set`, a one-sentence `note` and at least one entry in `sources`. Then re-run
 `pipeline/download_borders.py`. The script stops if an entry matches nothing, so a typo cannot fail silently.
+
+## 6. Project rule: coloured land never goes back to uncoloured
+
+Inhabited land that a realm held in one snapshot is never shown as uncoloured in a later one.
+Where the source leaves land unnamed, `pipeline/carry_forward.py` gives it the realm recorded there
+in the previous snapshot. This repeats from snapshot to snapshot, so it can reach back several snapshots.
+
+Before the rule, 2,000–4,000 square degrees of once-coloured land (roughly the size of Europe to
+twice that) lost its colour in each snapshot from 500 BCE to 1800. Now only slivers smaller than
+~600 km² remain. Antarctica is left out because it has no permanent population.
+
+Carried areas are shown **pale with a dotted outline**. Their tooltip reads "Last recorded here (year):
+name", plus a note that the source records no realm there in the current year. They are not
+presented as fact. A carried name can outlive the real realm, e.g. "N. European Bronze Age
+cultures" in 400 CE or Dorset in 1800. The tooltip states the year it was last recorded, so the
+reader can judge.
+
+`gap_report.py` ignores carried areas, so it still measures what the source records.
+

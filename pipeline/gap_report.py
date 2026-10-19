@@ -27,8 +27,8 @@ def load_snapshots():
         geojson = json.loads((BORDERS / entry["file"]).read_text(encoding="utf-8"))
         features = []
         for index, feature in enumerate(geojson["features"]):
-            if not feature["geometry"]:
-                continue  # a few features lose all geometry in simplification
+            if not feature["geometry"] or "CARRIED" in feature["properties"]:
+                continue  # empty slivers, and land filled by carry_forward.py rather than recorded upstream
             geometry = shape(feature["geometry"]).buffer(0)  # repair self-intersections from simplification
             if not geometry.is_empty:
                 features.append((index, feature["properties"], geometry))

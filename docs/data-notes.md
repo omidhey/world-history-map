@@ -13,26 +13,26 @@ Re-create with `npm install`, `pip install -r pipeline/requirements.txt`, then
 `python pipeline/download_borders.py`. `python pipeline/build_site.py` copies the result into
 `site/data/` for the page.
 
-| Year | Raw KB | Simplified KB | Features |
-|---:|---:|---:|---:|
-| -3000 | 770 | 133 | 138 |
-| -2000 | 838 | 160 | 145 |
-| -1000 | 854 | 174 | 163 |
-| -500 | 894 | 180 | 189 |
-| -323 | 868 | 183 | 150 |
-| -1 | 1157 | 359 | 442 |
-| 400 | 1096 | 317 | 368 |
-| 800 | 954 | 222 | 226 |
-| 1200 | 1026 | 261 | 287 |
-| 1500 | 1142 | 318 | 292 |
-| 1800 | 1600 | 529 | 627 |
-| 1914 | 1259 | 242 | 177 |
-| 1945 | 1527 | 263 | 228 |
-| 2010 | 1849 | 330 | 240 |
-| **Total** | **15834** | **3671** | |
+| Year | Raw KB | Output KB | Features | Carried forward (sq. degrees) |
+|---:|---:|---:|---:|---:|
+| -3000 | 770 | 133 | 138 | 0 |
+| -2000 | 838 | 163 | 148 | 136 |
+| -1000 | 854 | 186 | 170 | 29 |
+| -500 | 894 | 215 | 218 | 2369 |
+| -323 | 868 | 234 | 194 | 3129 |
+| -1 | 1157 | 485 | 503 | 3890 |
+| 400 | 1096 | 461 | 450 | 3979 |
+| 800 | 954 | 278 | 265 | 2197 |
+| 1200 | 1026 | 299 | 323 | 1169 |
+| 1500 | 1142 | 396 | 339 | 2413 |
+| 1800 | 1600 | 601 | 675 | 2289 |
+| 1914 | 1259 | 249 | 180 | 0 |
+| 1945 | 1527 | 268 | 231 | 1 |
+| 2010 | 1849 | 341 | 245 | 5 |
+| **Total** | **15834** | **4309** | | |
 
-The roadmap estimated "a few hundred KB per file"; the measured size is 133–529 KB, about
-17–33 % of the original. 1800 is the largest (627 features).
+Output sizes include the carried-forward areas (see [vanished-realms.md](vanished-realms.md),
+section 6). The largest file is 1 BCE at 601 KB.
 
 History: the first version (also 2026-10-19) rounded coordinates and simplified realms whole. It
 came to 1.9 MB in total but lost 149 features in 1 BCE and dozens of islands per snapshot.

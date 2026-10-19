@@ -4,7 +4,8 @@ Steps, repeatable at any time:
   1. Download each snapshot in YEARS into raw/borders/ (skipped if already there).
   2. Simplify it with mapshaper (10%, keep-shapes) into data/borders/world_<year>.geojson.
   3. Apply the sourced corrections in data/borders/overrides.json (see pipeline/overrides.py).
-  4. Write data/borders/manifest.json and print before/after sizes.
+  4. Carry the last recorded realm into land the source leaves unnamed (see pipeline/carry_forward.py).
+  5. Write data/borders/manifest.json and print before/after sizes.
 
 Run from the repository root:  .venv/Scripts/python pipeline/download_borders.py  (Windows)
 Needs Node.js and `npm install` (mapshaper), and `pip install -r pipeline/requirements.txt` (shapely).
@@ -17,6 +18,7 @@ import sys
 import urllib.request
 from pathlib import Path
 
+import carry_forward
 import overrides
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -122,20 +124,24 @@ def main() -> None:
     corrections = json.loads((OUT_DIR / "overrides.json").read_text(encoding="utf-8"))
 
     snapshots = []
-    print(f"{'year':>6} {'raw KB':>8} {'out KB':>8} {'features':>8}")
+    previous = None  # (year, geojson) of the last snapshot, after its own carry-forward
+    print(f"{'year':>6} {'raw KB':>8} {'out KB':>8} {'features':>8} {'carried':>8}")
     for year in YEARS:
         raw = download(year)
         out = OUT_DIR / our_name(year)
         simplify(mapshaper, raw, out)
-        if any(entry["year"] == year for entry in corrections):
-            geojson = json.loads(out.read_text(encoding="utf-8"))
-            overrides.apply(corrections, year, geojson, lambda y: OUT_DIR / our_name(y))
-            out.write_text(json.dumps(geojson, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        geojson = json.loads(out.read_text(encoding="utf-8"))
+        overrides.apply(corrections, year, geojson, lambda y: OUT_DIR / our_name(y))
+        carried = carry_forward.apply(previous[1], previous[0], geojson) if previous else 0.0
+        out.write_text(json.dumps(geojson, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        previous = (year, geojson)
+
         raw_kb = raw.stat().st_size // 1024
         out_kb = out.stat().st_size // 1024
         count = feature_count(out)
-        print(f"{year:>6} {raw_kb:>8} {out_kb:>8} {count:>8}")
-        snapshots.append({"year": year, "file": our_name(year), "features": count, "raw_kb": raw_kb, "kb": out_kb})
+        print(f"{year:>6} {raw_kb:>8} {out_kb:>8} {count:>8} {round(carried):>8}")
+        snapshots.append({"year": year, "file": our_name(year), "features": count, "raw_kb": raw_kb, "kb": out_kb,
+                          "carried_sq_deg": round(carried)})
 
     manifest = {
         "source": "https://github.com/aourednik/historical-basemaps",

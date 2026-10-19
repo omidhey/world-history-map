@@ -21,8 +21,9 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 - [x] **Session 1: One map on screen** — 2026-10-19
   - Result: `site/index.html` draws `world_1500.geojson` (291 polygons) with Leaflet 1.9.4 (bundled locally, no CDN). Run with `run_site.bat`.
 - [x] **Session 2: Download and shrink the snapshots** — 2026-10-19
-  - Result: `pipeline/download_borders.py` (upstream pinned to `da7a4b7`, mapshaper 0.7.90 via `npm install`) writes 14 files to `data/borders/` (133–529 KB each, 3.6 MB total) plus `manifest.json`. Sizes in `docs/data-notes.md`.
+  - Result: `pipeline/download_borders.py` (upstream pinned to `da7a4b7`, mapshaper 0.7.90 via `npm install`) writes 14 files to `data/borders/` (133–601 KB each, 4.2 MB total) plus `manifest.json`. Sizes in `docs/data-notes.md`.
   - Fix (2026-10-19): realms vanishing between snapshots investigated with `pipeline/gap_report.py`. The pipeline no longer loses features or islands (explode before simplifying, no coordinate rounding), and 8 sourced corrections are in `data/borders/overrides.json` (purple outline on the map). See `docs/vanished-realms.md`.
+  - Rule (2026-10-19): coloured land never goes back to uncoloured; `pipeline/carry_forward.py` keeps the last recorded realm, shown pale with a "last recorded" tooltip.
 - [x] **Session 3: The time slider** — 2026-10-19
   - Result: slider + ‹ › buttons + arrow keys + clickable year ticks, driven by the manifest. Loaded files are cached, neighbours prefetched, stale loads ignored. `pipeline/build_site.py` copies `data/borders/` into `site/data/`.
 - [x] **Session 4: Make it readable** — 2026-10-19

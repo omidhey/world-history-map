@@ -8,13 +8,13 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 ## Phase 0: Setup
 
-- [~] **Session 0: Workspace and repository**
+- [x] **Session 0: Workspace and repository** — 2026-10-19
   - [x] Folder structure (`data/entries`, `data/polities`, `data/borders`, `pipeline`, `site`, `docs`, `.github`, `raw`) — 2026-10-19
   - [x] `.gitignore` ignores `raw/` and `site/data/` — 2026-10-19
   - [x] `README.md`, roadmap copied to `docs/roadmap.md` — 2026-10-19
   - [x] Install Git, VS Code, Node.js LTS — already installed (Git 2.55, Node 24.12, Python 3.14, gh 2.101) — 2026-10-19
   - [x] `git init` (branch `main`), `.gitattributes` for LF line endings, first commit — 2026-10-19
-  - [ ] Create **public** GitHub repo `world-history-map` and push
+  - [x] Public GitHub repo created and `main` pushed: https://github.com/omidhey/world-history-map — 2026-10-19
 
 ## Phase 1: MVP map with a time slider → v0.1
 

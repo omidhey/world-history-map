@@ -28,9 +28,9 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
   - Result: slider + ‹ › buttons + arrow keys + clickable year ticks, driven by the manifest. Loaded files are cached, neighbours prefetched, stale loads ignored. `pipeline/build_site.py` copies `data/borders/` into `site/data/`.
 - [x] **Session 4: Make it readable** — 2026-10-19
   - Result: FNV-1a hash of `SUBJECTO` → stable colour; hover shows `NAME` (+ "under …"), highlighted outline; `BORDERPRECISION` 1 dashed and faded; unnamed land neutral. Checked in browser at desktop and phone width.
-- [~] **Session 5: Publish v0.1** — GitHub Pages, credits footer → **MVP live**
+- [x] **Session 5: Publish v0.1** — 2026-10-19 → **MVP live**: https://omidhey.github.io/world-history-map/
   - [x] Credits footer (historical-basemaps, GPL-3.0, "borders are approximate"), `.github/workflows/pages.yml` — 2026-10-19
-  - [ ] Push, enable Pages (source: GitHub Actions), confirm the public URL
+  - [x] Pushed, Pages enabled (source: GitHub Actions), deploy run succeeded, live page checked (slider 3000 BCE–2010, no console errors) — 2026-10-19
 
 ## Phase 2: Open-source and contribution foundation → v0.2
 

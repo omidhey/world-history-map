@@ -41,11 +41,12 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 - [~] **Session 8: Contribution path for non-programmers** — issue forms, "Suggest an edit" links, review labels, PR template → **contributions with admin approval**
   - [x] Issue forms (add / correct / border error, source required, auto-label `needs-review`), `config.yml`, PR template, labels `needs-review` `accepted` `needs-source` `rejected`, review flow in `CONTRIBUTING.md` — 2026-10-22
   - [x] Site: `suggestEditUrl()` helper; clicking a realm opens a popup with a pre-filled "Report a border error" link; footer "Suggest an addition" — 2026-10-22
-  - [ ] Full loop with a second account: suggestion → review → merged PR → live (needs Phase 2 PR merged first)
+  - [~] Loop run from the owner account on 2026-10-22: issues #3–#7 → labels (#6 `needs-source`) → PR #8 merged. Still to do: repeat from a second account (deferred by the owner).
 
 ## Phase 3: Content layers → v0.3
 
-- [ ] **Session 9: Show content on the map** — `pipeline/build.py`, markers by period, category toggles
+- [x] **Session 9: Show content on the map** — 2026-10-22 (started with Session 8's second-account test deferred, by the owner's choice)
+  - Result: `pipeline/build.py` merges `data/entries/` into `site/data/entries.json` (called by `build_site.py`). Each snapshot stands for a period up to the next snapshot; people, dynasties and cultures show while they lived or lasted, works and inventions without an end year in the period they appeared. One marker per place (Athens groups Socrates + Aristotle), colour by category (validated 8-slot palette), legend in the top-right is also the category toggle with per-period counts. Popup: dates, place, summary, Wikipedia, Sources, "Suggest an edit" (pre-filled correction form). At 500 BCE: Laozi, the Buddha, Confucius, Socrates, Aristotle, Olmecs, Maya. Checked at desktop and phone width.
 - [ ] **Session 10: Side panel and info cards**
 - [ ] **Session 11: Wikidata import (philosophers)** — check BCE years against known dates
 - [ ] **Session 12: More categories** — scientists, writers, works

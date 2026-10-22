@@ -1,0 +1,23 @@
+{
+  "id": "omar-khayyam",
+  "wikidata": "Q35900",
+  "name": "Omar Khayyam",
+  "category": "scientist",
+  "start": 1048,
+  "end": 1131,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.21,
+    "lon": 58.8,
+    "place": "Nishapur"
+  },
+  "summary": "Persian mathematician and astronomer who solved cubic equations geometrically and helped reform the Persian calendar; he is also remembered for the quatrains attributed to him.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Omar_Khayyam"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q35900",
+    "https://en.wikipedia.org/wiki/Omar_Khayyam"
+  ],
+  "disputed": false
+}

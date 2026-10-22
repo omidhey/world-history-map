@@ -1,0 +1,23 @@
+{
+  "id": "hafez",
+  "wikidata": "Q6240",
+  "name": "Hafez",
+  "category": "writer",
+  "start": 1325,
+  "end": 1390,
+  "date_precision": "circa",
+  "location": {
+    "lat": 29.61,
+    "lon": 52.54,
+    "place": "Shiraz"
+  },
+  "summary": "Persian lyric poet from Shiraz whose collected ghazals, the Divan, are still widely read and recited in Iran.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hafez"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6240",
+    "https://en.wikipedia.org/wiki/Hafez"
+  ],
+  "disputed": false
+}

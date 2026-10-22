@@ -1,0 +1,23 @@
+{
+  "id": "ibn-khaldun",
+  "wikidata": "Q9294",
+  "name": "Ibn Khaldun",
+  "category": "philosopher",
+  "start": 1332,
+  "end": 1406,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.81,
+    "lon": 10.18,
+    "place": "Tunis"
+  },
+  "summary": "North African historian and scholar whose Muqaddimah explained the rise and fall of dynasties through social cohesion, economics and geography.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Khaldun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9294",
+    "https://en.wikipedia.org/wiki/Ibn_Khaldun"
+  ],
+  "disputed": false
+}

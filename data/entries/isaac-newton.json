@@ -19,5 +19,24 @@
     "https://www.wikidata.org/wiki/Q935",
     "https://en.wikipedia.org/wiki/Isaac_Newton"
   ],
-  "disputed": false
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1642,
+      "note": "25 December 1642 in the Julian (Old Style) calendar, then in use in England.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Isaac_Newton"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1643,
+      "note": "4 January 1643 in the Gregorian (New Style) calendar.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Isaac_Newton",
+        "https://www.wikidata.org/wiki/Q935"
+      ]
+    }
+  ]
 }

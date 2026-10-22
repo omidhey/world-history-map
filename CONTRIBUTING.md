@@ -10,9 +10,9 @@ short version: **no source, no merge**, write in your own words, stay neutral.
 
 | You want to… | Do this | Coding needed? |
 |---|---|---|
-| Add a person, work, invention, ruler… | Open an issue and describe it, with a source | No |
-| Correct an entry | Open an issue saying what is wrong, with a source | No |
-| Report a border error | Open an issue with the year, the place and a source | No |
+| Add a person, work, invention, ruler… | Fill in the [Add form](https://github.com/omidhey/world-history-map/issues/new?template=add-entry.yml) | No |
+| Correct an entry | Fill in the [Correction form](https://github.com/omidhey/world-history-map/issues/new?template=correct-entry.yml) | No |
+| Report a border error | Fill in the [Border form](https://github.com/omidhey/world-history-map/issues/new?template=border-error.yml), or click the realm on the map and choose "Report a border error" | No |
 | Add or fix records yourself | Edit or add a JSON file in `data/entries/` and open a pull request | A little |
 | Improve the site or the pipeline | Open an issue first for anything larger than a small fix | Yes |
 
@@ -43,7 +43,17 @@ See [README.md](README.md#run-it-locally-windows).
 ## How review works
 
 Every issue and pull request is reviewed by the admin. You may be asked for a better source
-or a rewording; that is normal and not a rejection.
+or a rewording; that is normal and not a rejection. Labels show where a suggestion stands:
+
+| Label | Meaning |
+|---|---|
+| `needs-review` | New; waiting for the admin (added automatically by the forms) |
+| `needs-source` | Can't be accepted yet: please add a source a reviewer can check |
+| `accepted` | Approved. The admin (or you) turns it into a pull request; once merged it is on the site |
+| `rejected` | Doesn't meet the [content policy](docs/content-policy.md); the reason is in a comment |
+
+Pull requests must pass the automatic check (`validate`) before they can be merged, and are
+merged only by the admin.
 
 ## License of your contribution
 

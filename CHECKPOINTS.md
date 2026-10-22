@@ -36,8 +36,12 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 - [x] **Session 6: Project rules** — 2026-10-22
   - Result: `LICENSE` (GPL-3.0, code + borders), `LICENSE-TEXT.md` (CC BY-SA 4.0 for contributed text, CC0 Wikidata facts), `CONTRIBUTING.md` (incl. licensing grant), `CODE_OF_CONDUCT.md` (Contributor Covenant 2.1, contact semifact@gmail.com), one-page `docs/content-policy.md`; README Licensing + Contributing sections; licence link in the site footer.
-- [ ] **Session 7: Schema, validator and automatic checks** — `docs/schema.md`, `pipeline/validate.py`, ~30 hand-written records, PR check in GitHub Actions
-- [ ] **Session 8: Contribution path for non-programmers** — issue forms, "Suggest an edit" links, review labels, PR template → **contributions with admin approval**
+- [x] **Session 7: Schema, validator and automatic checks** — 2026-10-22
+  - Result: `pipeline/entry.schema.json` + `pipeline/validate.py` (jsonschema 4.25.1; no year 0, start ≤ end, id = file name, no duplicate ids / Wikidata ids, disputed ⇒ claims, overrides sourced), `docs/schema.md`, 33 records in `data/entries/` (all 8 categories, 3200 BCE–1934 CE, QIDs and dates checked against Wikidata, 5 disputed). `.github/workflows/validate.yml`; `main` protected with required check `validate` (admins may bypass). Test PR #2 with year 0: red and merge blocked, fixed → green, closed.
+- [~] **Session 8: Contribution path for non-programmers** — issue forms, "Suggest an edit" links, review labels, PR template → **contributions with admin approval**
+  - [x] Issue forms (add / correct / border error, source required, auto-label `needs-review`), `config.yml`, PR template, labels `needs-review` `accepted` `needs-source` `rejected`, review flow in `CONTRIBUTING.md` — 2026-10-22
+  - [x] Site: `suggestEditUrl()` helper; clicking a realm opens a popup with a pre-filled "Report a border error" link; footer "Suggest an addition" — 2026-10-22
+  - [ ] Full loop with a second account: suggestion → review → merged PR → live (needs Phase 2 PR merged first)
 
 ## Phase 3: Content layers → v0.3
 

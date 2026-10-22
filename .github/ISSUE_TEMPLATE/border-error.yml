@@ -1,0 +1,39 @@
+name: Report a border error
+description: A realm is missing, misnamed or drawn in the wrong place for a given year.
+title: "[Border] "
+labels: ["needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Borders come from [historical-basemaps](https://github.com/aourednik/historical-basemaps) and are approximate snapshots. Corrections are added as sourced overrides (purple outlines on the map) and, where possible, sent upstream.
+  - type: input
+    id: year
+    attributes:
+      label: Snapshot year
+      description: As shown at the top of the map ("Borders as of …").
+      placeholder: 1500 CE
+    validations:
+      required: true
+  - type: input
+    id: realm
+    attributes:
+      label: Realm shown on the map
+      description: The name in the tooltip, or "unnamed" if there is none.
+      placeholder: Kingdom of Benin
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong, and what should it be?
+      description: Name the place (a city or region) so we can find it.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: A historical atlas, encyclopedia article or paper that shows the correct situation.
+    validations:
+      required: true

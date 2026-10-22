@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How to contribute
+    url: https://github.com/omidhey/world-history-map/blob/main/CONTRIBUTING.md
+    about: Ways to help, the review flow, and how to add records yourself.
+  - name: Content policy
+    url: https://github.com/omidhey/world-history-map/blob/main/docs/content-policy.md
+    about: What is accepted and what is rejected.

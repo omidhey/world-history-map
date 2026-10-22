@@ -34,7 +34,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 ## Phase 2: Open-source and contribution foundation → v0.2
 
-- [ ] **Session 6: Project rules** — `LICENSE` (GPL-3.0 code/borders, CC BY-SA 4.0 text), `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `docs/content-policy.md`
+- [x] **Session 6: Project rules** — 2026-10-22
+  - Result: `LICENSE` (GPL-3.0, code + borders), `LICENSE-TEXT.md` (CC BY-SA 4.0 for contributed text, CC0 Wikidata facts), `CONTRIBUTING.md` (incl. licensing grant), `CODE_OF_CONDUCT.md` (Contributor Covenant 2.1, contact semifact@gmail.com), one-page `docs/content-policy.md`; README Licensing + Contributing sections; licence link in the site footer.
 - [ ] **Session 7: Schema, validator and automatic checks** — `docs/schema.md`, `pipeline/validate.py`, ~30 hand-written records, PR check in GitHub Actions
 - [ ] **Session 8: Contribution path for non-programmers** — issue forms, "Suggest an edit" links, review labels, PR template → **contributions with admin approval**
 

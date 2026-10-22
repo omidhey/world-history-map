@@ -1,0 +1,22 @@
+{
+  "id": "cuneiform",
+  "wikidata": "Q401",
+  "name": "Cuneiform",
+  "category": "invention",
+  "start": -3200,
+  "date_precision": "century",
+  "location": {
+    "lat": 31.32,
+    "lon": 45.64,
+    "place": "Uruk"
+  },
+  "summary": "Writing system pressed into clay with a reed, developed in Sumer to keep accounts and later used for many languages of the Near East for three thousand years.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuneiform"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q401",
+    "https://en.wikipedia.org/wiki/Cuneiform"
+  ],
+  "disputed": false
+}

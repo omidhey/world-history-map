@@ -1,0 +1,22 @@
+{
+  "id": "tale-of-genji",
+  "wikidata": "Q8269",
+  "name": "The Tale of Genji",
+  "category": "work",
+  "start": 1008,
+  "date_precision": "circa",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Heian-kyō (Kyoto)"
+  },
+  "summary": "Long Japanese prose narrative by Murasaki Shikibu following the loves and career of the courtier Hikaru Genji; it is often called one of the first novels.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Tale_of_Genji"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8269",
+    "https://en.wikipedia.org/wiki/The_Tale_of_Genji"
+  ],
+  "disputed": false
+}

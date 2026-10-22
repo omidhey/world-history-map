@@ -1,0 +1,23 @@
+{
+  "id": "hypatia",
+  "wikidata": "Q11903",
+  "name": "Hypatia",
+  "category": "scientist",
+  "start": 360,
+  "end": 415,
+  "date_precision": "circa",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.92,
+    "place": "Alexandria"
+  },
+  "summary": "Mathematician, astronomer and teacher of philosophy in Alexandria, killed by a Christian mob in 415 during a political conflict in the city.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hypatia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11903",
+    "https://en.wikipedia.org/wiki/Hypatia"
+  ],
+  "disputed": false
+}

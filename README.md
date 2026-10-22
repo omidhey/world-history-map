@@ -19,7 +19,7 @@ python -m http.server 8000
 then open http://localhost:8000. Opening `index.html` directly does not work,
 because browsers block loading local data files from `file://`.
 
-Live site (after the first deploy): https://omidhey.github.io/world-history-map/
+Live site: https://omidhey.github.io/world-history-map/
 
 ## Updating the border data
 
@@ -45,6 +45,25 @@ snapshots, and what was corrected: [docs/vanished-realms.md](docs/vanished-realm
 | `site/` | The web page. `site/data/` is generated, not edited |
 | `docs/` | Decisions, schema, data notes, roadmap |
 | `raw/` | Downloads (git-ignored) |
+
+## Contributing
+
+Anyone can propose additions and corrections; an admin reviews every change before it goes
+live. Start with [CONTRIBUTING.md](CONTRIBUTING.md) and the one-page
+[content policy](docs/content-policy.md). Everyone taking part follows the
+[Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Licensing
+
+| What | License |
+|---|---|
+| Code (`pipeline/`, `site/`) | [GPL-3.0-or-later](LICENSE) |
+| Border data (`data/borders/`), derived from historical-basemaps | [GPL-3.0-or-later](LICENSE) |
+| Text written by contributors (summaries, descriptions, `docs/`) | [CC BY-SA 4.0](LICENSE-TEXT.md) |
+| Facts imported from Wikidata | CC0 at the source |
+
+By contributing you agree to license your contribution under these terms. Not legal advice;
+the reasoning is in [docs/roadmap.md](docs/roadmap.md) section 1.4.
 
 ## Credits
 

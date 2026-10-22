@@ -1,0 +1,23 @@
+{
+  "id": "al-khwarizmi",
+  "wikidata": "Q9038",
+  "name": "Al-Khwarizmi",
+  "category": "scientist",
+  "start": 780,
+  "end": 850,
+  "date_precision": "circa",
+  "location": {
+    "lat": 33.32,
+    "lon": 44.37,
+    "place": "Baghdad"
+  },
+  "summary": "Scholar at the House of Wisdom in Baghdad whose book on solving equations gave us the word algebra; the word algorithm comes from his name.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Khwarizmi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9038",
+    "https://en.wikipedia.org/wiki/Al-Khwarizmi"
+  ],
+  "disputed": false
+}

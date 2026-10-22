@@ -1,0 +1,23 @@
+{
+  "id": "ferdowsi",
+  "wikidata": "Q43459",
+  "name": "Ferdowsi",
+  "category": "writer",
+  "start": 940,
+  "end": 1020,
+  "date_precision": "circa",
+  "location": {
+    "lat": 36.47,
+    "lon": 59.52,
+    "place": "Tus"
+  },
+  "summary": "Persian poet from Tus who spent some thirty years writing the Shahnameh, keeping the old Iranian legends and Persian language alive after the Arab conquest.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdowsi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43459",
+    "https://en.wikipedia.org/wiki/Ferdowsi"
+  ],
+  "disputed": false
+}

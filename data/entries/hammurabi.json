@@ -1,0 +1,23 @@
+{
+  "id": "hammurabi",
+  "wikidata": "Q36359",
+  "name": "Hammurabi",
+  "category": "ruler",
+  "start": -1810,
+  "end": -1750,
+  "date_precision": "circa",
+  "location": {
+    "lat": 32.54,
+    "lon": 44.42,
+    "place": "Babylon"
+  },
+  "summary": "King of Babylon (reigned about 1792–1750 BCE) who united most of Mesopotamia under Babylonian rule and issued the law code named after him.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hammurabi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36359",
+    "https://en.wikipedia.org/wiki/Hammurabi"
+  ],
+  "disputed": false
+}

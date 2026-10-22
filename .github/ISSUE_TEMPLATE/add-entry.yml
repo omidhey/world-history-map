@@ -1,0 +1,67 @@
+name: Add a person, work or invention
+description: Suggest something new for the map. No coding needed.
+title: "[Add] "
+labels: ["needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you! Please read the one-page [content policy](https://github.com/omidhey/world-history-map/blob/main/docs/content-policy.md) first. **No source, no merge.**
+        Years: write BCE dates as BCE (e.g. "470 BCE"), or as negative numbers (-470). There is no year 0.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Socrates
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [philosopher, scientist, writer, work, invention, ruler, dynasty, culture]
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Dates
+      description: Birth–death, start–end, or the year it was made. Say if a date is approximate.
+      placeholder: c. 470 BCE – 399 BCE
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: Place
+      description: The place most associated with it (where they worked, a capital, where it was made).
+      placeholder: Athens
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary in your own words
+      description: One or two sentences. Please don't copy from Wikipedia or other sites.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: At least one link (Wikidata, an encyclopedia, a book with page number…).
+      placeholder: https://www.wikidata.org/wiki/Q913
+    validations:
+      required: true
+  - type: input
+    id: wikidata
+    attributes:
+      label: Wikidata ID (optional)
+      placeholder: Q913
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      options:
+        - label: I wrote the summary myself and agree it is published under CC BY-SA 4.0.
+          required: true

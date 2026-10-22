@@ -1,0 +1,23 @@
+{
+  "id": "zhang-heng",
+  "wikidata": "Q197206",
+  "name": "Zhang Heng",
+  "category": "scientist",
+  "start": 78,
+  "end": 139,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.62,
+    "lon": 112.45,
+    "place": "Luoyang"
+  },
+  "summary": "Han-dynasty astronomer and official who built a water-powered armillary sphere and, in 132 CE, a seismoscope that signalled the direction of distant earthquakes.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhang_Heng"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q197206",
+    "https://en.wikipedia.org/wiki/Zhang_Heng"
+  ],
+  "disputed": false
+}

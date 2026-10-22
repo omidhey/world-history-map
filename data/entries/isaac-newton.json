@@ -1,0 +1,23 @@
+{
+  "id": "isaac-newton",
+  "wikidata": "Q935",
+  "name": "Isaac Newton",
+  "category": "scientist",
+  "start": 1642,
+  "end": 1727,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.21,
+    "lon": 0.12,
+    "place": "Cambridge"
+  },
+  "summary": "English mathematician and physicist whose laws of motion and universal gravitation, published in the Principia in 1687, explained the movement of planets and falling bodies alike.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q935",
+    "https://en.wikipedia.org/wiki/Isaac_Newton"
+  ],
+  "disputed": false
+}

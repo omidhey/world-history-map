@@ -1,0 +1,23 @@
+{
+  "id": "cyrus-the-great",
+  "wikidata": "Q8423",
+  "name": "Cyrus the Great",
+  "category": "ruler",
+  "start": -600,
+  "end": -530,
+  "date_precision": "circa",
+  "location": {
+    "lat": 30.2,
+    "lon": 53.18,
+    "place": "Pasargadae"
+  },
+  "summary": "Founder of the Achaemenid Persian Empire, who conquered Media, Lydia and Babylon and was remembered for letting deported peoples return home.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8423",
+    "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+  ],
+  "disputed": false
+}

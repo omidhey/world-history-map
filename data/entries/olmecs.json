@@ -1,0 +1,23 @@
+{
+  "id": "olmecs",
+  "wikidata": "Q135364",
+  "name": "Olmec civilization",
+  "category": "culture",
+  "start": -1200,
+  "end": -400,
+  "date_precision": "circa",
+  "location": {
+    "lat": 17.75,
+    "lon": -94.76,
+    "place": "San Lorenzo"
+  },
+  "summary": "Early Mesoamerican civilization of the Gulf Coast of Mexico, known for its colossal stone heads and often seen as a forerunner of later Mesoamerican cultures.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Olmecs"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q135364",
+    "https://en.wikipedia.org/wiki/Olmecs"
+  ],
+  "disputed": false
+}

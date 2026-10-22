@@ -1,0 +1,22 @@
+{
+  "id": "code-of-hammurabi",
+  "wikidata": "Q93304",
+  "name": "Code of Hammurabi",
+  "category": "work",
+  "start": -1754,
+  "date_precision": "circa",
+  "location": {
+    "lat": 32.54,
+    "lon": 44.42,
+    "place": "Babylon"
+  },
+  "summary": "Babylonian law collection of about 280 rulings, carved on a basalt stele under King Hammurabi; it sets penalties that depend on the social rank of those involved.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Code_of_Hammurabi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q93304",
+    "https://en.wikipedia.org/wiki/Code_of_Hammurabi"
+  ],
+  "disputed": false
+}

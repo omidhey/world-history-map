@@ -1,0 +1,38 @@
+name: Correct an entry
+description: Something on the map is wrong or missing a detail.
+title: "[Correction] "
+labels: ["needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections need a source, just like additions. If good sources disagree, say so: we mark the fact as **disputed** rather than picking one ([content policy](https://github.com/omidhey/world-history-map/blob/main/docs/content-policy.md)).
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry?
+      description: Its name, or its id (the file name in data/entries/).
+      placeholder: socrates
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      placeholder: The death year says 389 BCE.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it say?
+      placeholder: 399 BCE
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: At least one link or book reference that supports the correction.
+    validations:
+      required: true

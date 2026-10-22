@@ -1,0 +1,23 @@
+{
+  "id": "marie-curie",
+  "wikidata": "Q7186",
+  "name": "Marie Curie",
+  "category": "scientist",
+  "start": 1867,
+  "end": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.85,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Polish-born physicist and chemist in Paris who studied radioactivity, discovered polonium and radium, and was the first person to win Nobel Prizes in two sciences.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Curie"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7186",
+    "https://en.wikipedia.org/wiki/Marie_Curie"
+  ],
+  "disputed": false
+}

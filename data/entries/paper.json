@@ -1,0 +1,40 @@
+{
+  "id": "paper",
+  "wikidata": "Q11472",
+  "name": "Paper",
+  "category": "invention",
+  "start": -200,
+  "date_precision": "century",
+  "location": {
+    "lat": 34.62,
+    "lon": 112.45,
+    "place": "Luoyang"
+  },
+  "summary": "Writing material made from plant fibres, invented in China. Its spread west through Samarkand and Baghdad changed how books were made.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paper"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11472",
+    "https://en.wikipedia.org/wiki/Paper"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 105,
+      "note": "Traditional date: the court official Cai Lun presented his papermaking method in 105 CE.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cai_Lun"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -200,
+      "note": "Archaeological finds show paper in China by the 2nd century BCE.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/History_of_paper"
+      ]
+    }
+  ]
+}

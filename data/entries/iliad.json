@@ -1,0 +1,22 @@
+{
+  "id": "iliad",
+  "wikidata": "Q8275",
+  "name": "Iliad",
+  "category": "work",
+  "start": -750,
+  "date_precision": "century",
+  "location": {
+    "lat": 38.42,
+    "lon": 27.14,
+    "place": "Ionia (Asia Minor)"
+  },
+  "summary": "Greek epic poem set in the tenth year of the Trojan War, centred on the anger of Achilles. It was composed for oral performance and later written down.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Iliad"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8275",
+    "https://en.wikipedia.org/wiki/Iliad"
+  ],
+  "disputed": false
+}

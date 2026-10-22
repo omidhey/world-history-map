@@ -1,0 +1,22 @@
+{
+  "id": "printing-press",
+  "wikidata": "Q144334",
+  "name": "Printing press (Gutenberg)",
+  "category": "invention",
+  "start": 1440,
+  "date_precision": "circa",
+  "location": {
+    "lat": 50.0,
+    "lon": 8.27,
+    "place": "Mainz"
+  },
+  "summary": "Johannes Gutenberg's press with movable metal type, developed in Mainz around 1440, made books far cheaper and faster to produce in Europe.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Printing_press"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q144334",
+    "https://en.wikipedia.org/wiki/Printing_press"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "confucius",
+  "wikidata": "Q4604",
+  "name": "Confucius",
+  "category": "philosopher",
+  "start": -551,
+  "end": -479,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.6,
+    "lon": 116.99,
+    "place": "Qufu, Lu"
+  },
+  "summary": "Teacher and official in the state of Lu whose sayings on ethics, family duty and good government, collected by his students in the Analects, shaped Chinese thought for two thousand years.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Confucius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4604",
+    "https://en.wikipedia.org/wiki/Confucius"
+  ],
+  "disputed": false
+}

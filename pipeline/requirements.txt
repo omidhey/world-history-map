@@ -1,1 +1,2 @@
+jsonschema==4.25.1
 shapely==2.2.0

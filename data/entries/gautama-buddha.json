@@ -1,0 +1,57 @@
+{
+  "id": "gautama-buddha",
+  "wikidata": "Q9441",
+  "name": "Gautama Buddha",
+  "category": "philosopher",
+  "start": -563,
+  "end": -483,
+  "date_precision": "circa",
+  "location": {
+    "lat": 27.47,
+    "lon": 83.28,
+    "place": "Lumbini"
+  },
+  "summary": "Founder of Buddhism, born a prince in the foothills of the Himalayas, who taught a middle way between indulgence and self-denial as the path out of suffering.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Buddha"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9441",
+    "https://en.wikipedia.org/wiki/The_Buddha"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": -563,
+      "note": "Traditional chronology (563–483 BCE).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Buddha"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -480,
+      "note": "Many historians now prefer a later chronology (about 480–400 BCE).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Buddha"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -483,
+      "note": "Traditional chronology.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Buddha"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -400,
+      "note": "Later chronology.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Buddha"
+      ]
+    }
+  ]
+}

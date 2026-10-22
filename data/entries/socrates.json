@@ -1,0 +1,23 @@
+{
+  "id": "socrates",
+  "wikidata": "Q913",
+  "name": "Socrates",
+  "category": "philosopher",
+  "start": -470,
+  "end": -399,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 23.72,
+    "place": "Athens"
+  },
+  "summary": "Athenian thinker who wrote nothing himself and questioned his fellow citizens about justice and virtue; he was tried and sentenced to death by the city in 399 BCE.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Socrates"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q913",
+    "https://en.wikipedia.org/wiki/Socrates"
+  ],
+  "disputed": false
+}

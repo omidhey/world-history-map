@@ -1,0 +1,23 @@
+{
+  "id": "archimedes",
+  "wikidata": "Q8739",
+  "name": "Archimedes",
+  "category": "scientist",
+  "start": -287,
+  "end": -212,
+  "date_precision": "circa",
+  "location": {
+    "lat": 37.07,
+    "lon": 15.29,
+    "place": "Syracuse"
+  },
+  "summary": "Mathematician and engineer of Syracuse who worked out the principle of buoyancy and the law of the lever, and was killed when the Romans took the city.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Archimedes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8739",
+    "https://en.wikipedia.org/wiki/Archimedes"
+  ],
+  "disputed": false
+}

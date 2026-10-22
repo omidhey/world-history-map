@@ -1,0 +1,41 @@
+{
+  "id": "homer",
+  "wikidata": "Q6691",
+  "name": "Homer",
+  "category": "writer",
+  "start": -800,
+  "end": -701,
+  "date_precision": "century",
+  "location": {
+    "lat": 38.42,
+    "lon": 27.14,
+    "place": "Ionia (Asia Minor)"
+  },
+  "summary": "The poet to whom the Greeks attributed the Iliad and the Odyssey. Nothing certain is known of his life, and whether a single author composed both poems is debated.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Homer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6691",
+    "https://en.wikipedia.org/wiki/Homer"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": -850,
+      "note": "Herodotus placed Homer about 400 years before his own time.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Homer"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -750,
+      "note": "Most modern scholars place the poems in the 8th or 7th century BCE.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Homer"
+      ]
+    }
+  ]
+}

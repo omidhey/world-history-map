@@ -1,0 +1,23 @@
+{
+  "id": "mansa-musa",
+  "wikidata": "Q309333",
+  "name": "Mansa Musa",
+  "category": "ruler",
+  "start": 1280,
+  "end": 1337,
+  "date_precision": "circa",
+  "location": {
+    "lat": 16.77,
+    "lon": -3.0,
+    "place": "Timbuktu"
+  },
+  "summary": "Ruler of the Mali Empire whose pilgrimage to Mecca in 1324, with great quantities of gold, made Mali famous across the Mediterranean world.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mansa_Musa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q309333",
+    "https://en.wikipedia.org/wiki/Mansa_Musa"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aristotle",
+  "wikidata": "Q868",
+  "name": "Aristotle",
+  "category": "philosopher",
+  "start": -384,
+  "end": -322,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 23.72,
+    "place": "Athens (Lyceum)"
+  },
+  "summary": "Student of Plato and tutor of Alexander the Great, who founded the Lyceum in Athens and wrote on logic, biology, ethics, politics and poetry.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristotle"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q868",
+    "https://en.wikipedia.org/wiki/Aristotle"
+  ],
+  "disputed": false
+}

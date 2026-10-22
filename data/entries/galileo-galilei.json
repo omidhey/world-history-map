@@ -1,0 +1,23 @@
+{
+  "id": "galileo-galilei",
+  "wikidata": "Q307",
+  "name": "Galileo Galilei",
+  "category": "scientist",
+  "start": 1564,
+  "end": 1642,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.72,
+    "lon": 10.4,
+    "place": "Pisa"
+  },
+  "summary": "Italian astronomer and physicist who turned the telescope on the sky, found the moons of Jupiter, and was tried by the Inquisition for defending a Sun-centred cosmos.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q307",
+    "https://en.wikipedia.org/wiki/Galileo_Galilei"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tang-dynasty",
+  "wikidata": "Q9683",
+  "name": "Tang dynasty",
+  "category": "dynasty",
+  "start": 618,
+  "end": 907,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.27,
+    "lon": 108.94,
+    "place": "Chang'an"
+  },
+  "summary": "Chinese dynasty ruling from Chang'an, then one of the largest cities in the world; its era is remembered for poetry, trade and the spread of woodblock printing.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tang_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9683",
+    "https://en.wikipedia.org/wiki/Tang_dynasty"
+  ],
+  "disputed": false
+}

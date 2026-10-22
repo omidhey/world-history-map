@@ -1,0 +1,23 @@
+{
+  "id": "ashoka",
+  "wikidata": "Q8589",
+  "name": "Ashoka",
+  "category": "ruler",
+  "start": -304,
+  "end": -232,
+  "date_precision": "circa",
+  "location": {
+    "lat": 25.61,
+    "lon": 85.14,
+    "place": "Pataliputra"
+  },
+  "summary": "Maurya emperor who ruled most of the Indian subcontinent; after the bloody Kalinga war he promoted Buddhism and had his edicts carved on rocks and pillars.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashoka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8589",
+    "https://en.wikipedia.org/wiki/Ashoka"
+  ],
+  "disputed": false
+}

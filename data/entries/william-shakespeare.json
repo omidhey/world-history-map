@@ -1,0 +1,23 @@
+{
+  "id": "william-shakespeare",
+  "wikidata": "Q692",
+  "name": "William Shakespeare",
+  "category": "writer",
+  "start": 1564,
+  "end": 1616,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "English playwright and poet from Stratford-upon-Avon whose plays for the London stage, from Hamlet to The Tempest, are still performed in many languages.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Shakespeare"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q692",
+    "https://en.wikipedia.org/wiki/William_Shakespeare"
+  ],
+  "disputed": false
+}

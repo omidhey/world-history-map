@@ -1,0 +1,23 @@
+{
+  "id": "avicenna",
+  "wikidata": "Q8011",
+  "name": "Avicenna (Ibn Sina)",
+  "category": "philosopher",
+  "start": 980,
+  "end": 1037,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.77,
+    "lon": 64.42,
+    "place": "Bukhara"
+  },
+  "summary": "Persian philosopher and physician from near Bukhara; his Canon of Medicine was a standard medical textbook in the Islamic world and Europe for centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Avicenna"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8011",
+    "https://en.wikipedia.org/wiki/Avicenna"
+  ],
+  "disputed": false
+}

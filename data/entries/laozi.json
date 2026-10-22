@@ -1,0 +1,41 @@
+{
+  "id": "laozi",
+  "wikidata": "Q9333",
+  "name": "Laozi",
+  "category": "philosopher",
+  "start": -571,
+  "end": -471,
+  "date_precision": "century",
+  "location": {
+    "lat": 33.86,
+    "lon": 115.48,
+    "place": "Luyi, Chu (Henan)"
+  },
+  "summary": "Semi-legendary Chinese sage credited with the Tao Te Ching, the founding text of Taoism. Whether he was one person, and when he lived, is uncertain.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Laozi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9333",
+    "https://en.wikipedia.org/wiki/Laozi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": -571,
+      "note": "Traditional birth year, from accounts that make him an older contemporary of Confucius.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Laozi"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -400,
+      "note": "Many modern scholars date the Tao Te Ching to the 4th century BCE.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tao_Te_Ching"
+      ]
+    }
+  ]
+}

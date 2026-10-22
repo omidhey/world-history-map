@@ -1,0 +1,22 @@
+{
+  "id": "epic-of-gilgamesh",
+  "wikidata": "Q8272",
+  "name": "Epic of Gilgamesh",
+  "category": "work",
+  "start": -2100,
+  "date_precision": "century",
+  "location": {
+    "lat": 31.32,
+    "lon": 45.64,
+    "place": "Uruk, Sumer"
+  },
+  "summary": "Mesopotamian poem about Gilgamesh, king of Uruk, and his search for immortality. The earliest Sumerian poems about him date to around 2100 BCE; the best-known version is later.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8272",
+    "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+  ],
+  "disputed": false
+}

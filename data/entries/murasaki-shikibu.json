@@ -1,0 +1,41 @@
+{
+  "id": "murasaki-shikibu",
+  "wikidata": "Q81731",
+  "name": "Murasaki Shikibu",
+  "category": "writer",
+  "start": 973,
+  "end": 1014,
+  "date_precision": "circa",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Heian-kyō (Kyoto)"
+  },
+  "summary": "Lady-in-waiting at the Japanese imperial court in Heian-kyō who wrote The Tale of Genji and a diary of court life.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Murasaki_Shikibu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81731",
+    "https://en.wikipedia.org/wiki/Murasaki_Shikibu"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1014,
+      "note": "Older estimate of her death.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Murasaki_Shikibu"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1031,
+      "note": "Some scholars argue she lived until about 1031.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Murasaki_Shikibu"
+      ]
+    }
+  ]
+}

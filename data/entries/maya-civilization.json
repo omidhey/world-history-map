@@ -1,0 +1,23 @@
+{
+  "id": "maya-civilization",
+  "wikidata": "Q28567",
+  "name": "Maya civilization",
+  "category": "culture",
+  "start": -2000,
+  "end": 1697,
+  "date_precision": "century",
+  "location": {
+    "lat": 17.22,
+    "lon": -89.62,
+    "place": "Tikal"
+  },
+  "summary": "Mesoamerican civilization of city-states in southern Mexico and Central America, with a full writing system, a precise calendar and monumental cities such as Tikal.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_civilization"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28567",
+    "https://en.wikipedia.org/wiki/Maya_civilization"
+  ],
+  "disputed": false
+}

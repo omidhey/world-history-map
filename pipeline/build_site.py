@@ -1,4 +1,5 @@
-"""Copy the data the web page needs into site/data/ (generated, git-ignored).
+"""Copy the data the web page needs into site/data/ (generated, git-ignored):
+border snapshots, and data/entries/ merged into entries.json by pipeline/build.py.
 
 Run from the repository root:  python pipeline/build_site.py
 The GitHub Pages workflow runs the same script before publishing site/.
@@ -7,6 +8,8 @@ The GitHub Pages workflow runs the same script before publishing site/.
 import json
 import shutil
 from pathlib import Path
+
+from build import build_entries
 
 ROOT = Path(__file__).resolve().parent.parent
 BORDERS_IN = ROOT / "data" / "borders"
@@ -23,6 +26,7 @@ def main() -> None:
         shutil.copy2(BORDERS_IN / snapshot["file"], BORDERS_OUT / snapshot["file"])
     shutil.copy2(BORDERS_IN / "manifest.json", BORDERS_OUT / "manifest.json")
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
+    print(f"Wrote {build_entries()} entries to site/data/entries.json")
 
 
 if __name__ == "__main__":

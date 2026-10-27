@@ -39,8 +39,29 @@
       max-width: 280px; white-space: normal; margin-top: 4px; padding-top: 4px;
       border-top: 1px solid #ddd; font-size: 12px; color: #6a2c91;
     }
+    /* Entries legend: also the category toggle */
+    .entries-control {
+      background: rgba(255, 255, 255, 0.95); padding: 6px 10px; border-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); font-size: 13px; color: #222; max-width: 220px;
+    }
+    .entries-control summary { cursor: pointer; font-weight: 600; }
+    .entries-control .period { font-size: 12px; color: #555; margin: 2px 0 4px; }
+    .entries-control label { display: flex; align-items: center; gap: 6px; padding: 2px 0; cursor: pointer; }
+    .entries-control .dot {
+      width: 10px; height: 10px; border-radius: 50%; flex: none;
+      border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333;
+    }
+    .entries-control .count { margin-left: auto; padding-left: 8px; color: #555; font-variant-numeric: tabular-nums; }
+    .entries-control label.empty { color: #888; }
+    .leaflet-tooltip.entry { font-size: 13px; }
+    .leaflet-tooltip.entry small { color: #555; }
+    .leaflet-popup.entry .leaflet-popup-content { font-size: 13px; margin: 10px 14px; max-height: 50vh; overflow-y: auto; }
+    .leaflet-popup.entry .item + .item { margin-top: 10px; padding-top: 8px; border-top: 1px solid #ddd; }
+    .leaflet-popup.entry small { color: #555; }
+    .leaflet-popup.entry p { margin: 4px 0; }
     @media (max-width: 600px) {
       #title { left: 50px; right: 10px; font-size: 14px; }
+      .leaflet-top.leaflet-right { top: 40px; } /* legend below the full-width title */
       #ticks { display: none; } /* 14 labels do not fit on a phone; the title shows the year */
     }
   </style>
@@ -68,6 +89,7 @@
   <script src="vendor/leaflet/leaflet.js"></script>
   <script>
     const DATA = "data/borders/";
+    const REPO = "https://github.com/omidhey/world-history-map";
     const titleEl = document.getElementById("title");
     const slider = document.getElementById("slider");
     const ticksEl = document.getElementById("ticks");
@@ -142,7 +164,7 @@
 
     // "Suggest an edit" without a backend: a GitHub issue form pre-filled through URL parameters.
     // Keys are the field ids in .github/ISSUE_TEMPLATE/<template>.
-    const ISSUES = "https://github.com/omidhey/world-history-map/issues/new";
+    const ISSUES = REPO + "/issues/new";
     function suggestEditUrl(template, title, fields) {
       const params = new URLSearchParams({ template, title, ...fields });
       return ISSUES + "?" + params.toString();
@@ -164,6 +186,138 @@
     }
 
     let snapshots = [];
+
+    // ---- Entries (data/entries/ merged into data/entries.json by pipeline/build.py) ----
+    // Fixed category order and colours (validated categorical palette; filtering never repaints).
+    const CATEGORIES = [
+      ["philosopher", "Philosophers", "#2a78d6"],
+      ["scientist", "Scientists", "#eb6834"],
+      ["writer", "Writers", "#1baf7a"],
+      ["work", "Works", "#eda100"],
+      ["invention", "Inventions", "#e87ba4"],
+      ["ruler", "Rulers", "#008300"],
+      ["dynasty", "Dynasties", "#6250d6"],
+      ["culture", "Cultures", "#e34948"],
+    ];
+    const SINGULAR = { philosopher: "Philosopher", scientist: "Scientist", writer: "Writer", work: "Work",
+                       invention: "Invention", ruler: "Ruler", dynasty: "Dynasty", culture: "Culture" };
+    const categoryColour = Object.fromEntries(CATEGORIES.map(([key, , colour]) => [key, colour]));
+    const enabled = new Set(CATEGORIES.map(([key]) => key));
+    let entries = [];
+
+    map.createPane("entries").style.zIndex = 450; // above the border polygons, below tooltips and popups
+    const entriesLayer = L.layerGroup().addTo(map);
+
+    // The period a snapshot stands for: from its year up to the year before the next snapshot.
+    function periodOf(index) {
+      const from = snapshots[index].year;
+      const next = snapshots[index + 1];
+      let to = next ? next.year - 1 : new Date().getFullYear();
+      if (to === 0) to = -1; // there is no year 0
+      return { from, to };
+    }
+
+    // People, dynasties and cultures show while they lived or lasted; works and inventions
+    // without an end year show in the period they appeared. Disputed records use the
+    // widest range of their competing claims (span, from pipeline/build.py).
+    function inPeriod(entry, { from, to }) {
+      const [start, end] = entry.span || [entry.start, entry.end !== undefined ? entry.end : entry.start];
+      return start <= to && end >= from;
+    }
+
+    function formatDates(entry) {
+      const approx = entry.date_precision === "day" || entry.date_precision === "year" ? "" : "c. ";
+      let text = approx + formatYear(entry.start);
+      if (entry.end !== undefined && entry.end !== entry.start) text += " – " + approx + formatYear(entry.end);
+      return text + (entry.disputed ? " (disputed)" : "");
+    }
+
+    function link(url, text) {
+      return '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + text + "</a>";
+    }
+
+    function entryHtml(entry) {
+      const edit = suggestEditUrl("correct-entry.yml", "[Correction] " + entry.id, { entry: entry.id });
+      let html = '<div class="item"><b>' + escapeHtml(entry.name) + "</b><br><small>" +
+        SINGULAR[entry.category] + " · " + escapeHtml(formatDates(entry)) + " · " +
+        escapeHtml(entry.location.place) + "</small><p>" + escapeHtml(entry.summary) + "</p><small>";
+      if (entry.links && entry.links.wikipedia) html += link(entry.links.wikipedia, "Wikipedia") + " · ";
+      html += link(REPO + "/blob/main/data/entries/" + encodeURIComponent(entry.id) + ".json", "Sources") +
+        " · " + link(edit, "Suggest an edit") + "</small></div>";
+      return html;
+    }
+
+    // Legend that is also the category toggle; counts are for the current period.
+    const legend = L.control({ position: "topright" });
+    legend.onAdd = () => {
+      const div = L.DomUtil.create("div", "entries-control");
+      div.innerHTML = "<details" + (window.innerWidth > 600 ? " open" : "") + "><summary>People &amp; works</summary>" +
+        '<div class="period"></div>' +
+        CATEGORIES.map(([key, label, colour]) =>
+          '<label data-category="' + key + '"><input type="checkbox" checked value="' + key + '">' +
+          '<span class="dot" style="background:' + colour + '"></span>' + label + '<span class="count"></span></label>'
+        ).join("") + "</details>";
+      L.DomEvent.disableClickPropagation(div);
+      L.DomEvent.disableScrollPropagation(div);
+      div.addEventListener("change", (e) => {
+        if (e.target.checked) enabled.add(e.target.value);
+        else enabled.delete(e.target.value);
+        renderEntries();
+      });
+      return div;
+    };
+    legend.addTo(map);
+
+    function renderEntries() {
+      entriesLayer.clearLayers();
+      if (requested < 0 || !snapshots.length) return;
+      const period = periodOf(requested);
+      const current = entries.filter((e) => inPeriod(e, period));
+
+      const box = legend.getContainer();
+      box.querySelector(".period").textContent = formatYear(period.from) + " – " + formatYear(period.to);
+      for (const [key] of CATEGORIES) {
+        const n = current.filter((e) => e.category === key).length;
+        const label = box.querySelector('label[data-category="' + key + '"]');
+        label.querySelector(".count").textContent = n;
+        label.classList.toggle("empty", n === 0);
+      }
+
+      // One marker per place, so records at the same spot (e.g. Athens) stay clickable.
+      const byPlace = new Map();
+      for (const entry of current) {
+        if (!enabled.has(entry.category)) continue;
+        const key = entry.location.lat + "," + entry.location.lon;
+        if (!byPlace.has(key)) byPlace.set(key, []);
+        byPlace.get(key).push(entry);
+      }
+      for (const group of byPlace.values()) {
+        const first = group[0];
+        const marker = L.circleMarker([first.location.lat, first.location.lon], {
+          pane: "entries", radius: group.length > 1 ? 8 : 6,
+          color: "#fff", weight: 2, opacity: 1, fillColor: categoryColour[first.category], fillOpacity: 1,
+        });
+        marker.bindTooltip(
+          group.map((e) => "<b>" + escapeHtml(e.name) + "</b> <small>" + escapeHtml(formatDates(e)) + "</small>").join("<br>"),
+          { className: "entry", direction: "top", offset: [0, -6] }
+        );
+        marker.bindPopup(group.map(entryHtml).join(""), { className: "entry", maxWidth: 300 });
+        entriesLayer.addLayer(marker);
+      }
+    }
+
+    fetch("data/entries.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then((data) => {
+        entries = data;
+        renderEntries();
+      })
+      .catch((error) => {
+        legend.getContainer().querySelector(".period").textContent = "Could not load entries (" + error.message + ")";
+      });
     let currentLayer = null;
     let requested = -1;
     const cache = new Map(); // year -> Promise<GeoJSON>
@@ -185,6 +339,7 @@
       const { year, file } = snapshots[index];
       slider.value = index;
       titleEl.textContent = "Borders as of " + formatYear(year) + " …";
+      renderEntries();
       ticksEl.querySelectorAll("span").forEach((s, i) => s.classList.toggle("current", i === index));
 
       let geojson;

@@ -20,7 +20,13 @@ def build_entries() -> int:
     entries = []
     for path in sorted(ENTRIES.glob("*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
-        entries.append({key: record[key] for key in FIELDS if key in record})
+        entry = {key: record[key] for key in FIELDS if key in record}
+        if record.get("claims"):
+            # Disputed dates: the page shows the record in every period any claim reaches.
+            years = [record["start"], record.get("end", record["start"])]
+            years += [claim["value"] for claim in record["claims"]]
+            entry["span"] = [min(years), max(years)]
+        entries.append(entry)
     entries.sort(key=lambda e: (e["start"], e["id"]))
 
     OUT.parent.mkdir(parents=True, exist_ok=True)

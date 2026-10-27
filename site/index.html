@@ -218,10 +218,11 @@
     }
 
     // People, dynasties and cultures show while they lived or lasted; works and inventions
-    // without an end year show in the period they appeared.
+    // without an end year show in the period they appeared. Disputed records use the
+    // widest range of their competing claims (span, from pipeline/build.py).
     function inPeriod(entry, { from, to }) {
-      const end = entry.end !== undefined ? entry.end : entry.start;
-      return entry.start <= to && end >= from;
+      const [start, end] = entry.span || [entry.start, entry.end !== undefined ? entry.end : entry.start];
+      return start <= to && end >= from;
     }
 
     function formatDates(entry) {

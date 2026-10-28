@@ -13,7 +13,7 @@ ENTRIES = ROOT / "data" / "entries"
 OUT = ROOT / "site" / "data" / "entries.json"
 
 # Only what the map needs; the page links back to the full record on GitHub.
-FIELDS = ["id", "name", "category", "start", "end", "date_precision", "location", "summary", "links", "disputed"]
+FIELDS = ["id", "name", "category", "start", "end", "date_precision", "location", "summary", "links", "sources", "disputed", "claims"]
 
 
 def build_entries() -> int:

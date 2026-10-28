@@ -39,36 +39,65 @@
       max-width: 280px; white-space: normal; margin-top: 4px; padding-top: 4px;
       border-top: 1px solid #ddd; font-size: 12px; color: #6a2c91;
     }
-    /* Entries legend: also the category toggle */
-    .entries-control {
-      background: rgba(255, 255, 255, 0.95); padding: 6px 10px; border-radius: 4px;
-      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); font-size: 13px; color: #222; max-width: 220px;
+    /* Side panel: category toggles + list, or one record's card */
+    #main { flex: 1; display: flex; min-height: 0; }
+    #map-wrap { flex: 1; position: relative; min-width: 0; }
+    #map-wrap #map { position: absolute; inset: 0; }
+    #panel {
+      width: 320px; flex: none; overflow-y: auto; background: #fff; border-left: 1px solid #ccc;
+      font-size: 13px; color: #222;
     }
-    .entries-control summary { cursor: pointer; font-weight: 600; }
-    .entries-control .period { font-size: 12px; color: #555; margin: 2px 0 4px; }
-    .entries-control label { display: flex; align-items: center; gap: 6px; padding: 2px 0; cursor: pointer; }
-    .entries-control .dot {
-      width: 10px; height: 10px; border-radius: 50%; flex: none;
-      border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333;
+    #panel.collapsed { display: none; }
+    #panel header { position: sticky; top: 0; background: #fafafa; border-bottom: 1px solid #ddd; padding: 8px 12px; z-index: 1; }
+    #panel header b { font-size: 14px; }
+    #panel .period { font-size: 12px; color: #555; }
+    #panel-toggle {
+      position: absolute; top: 10px; right: 10px; z-index: 1000; font-size: 13px; padding: 4px 8px; cursor: pointer;
     }
-    .entries-control .count { margin-left: auto; padding-left: 8px; color: #555; font-variant-numeric: tabular-nums; }
-    .entries-control label.empty { color: #888; }
+    #panel .cat { display: flex; align-items: center; gap: 6px; padding: 6px 12px 2px; font-weight: 600; cursor: pointer; }
+    #panel .cat.empty { color: #888; }
+    #panel .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333; }
+    #panel .count { margin-left: auto; color: #555; font-variant-numeric: tabular-nums; }
+    #panel .item-btn {
+      display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit;
+      padding: 4px 12px 4px 30px; cursor: pointer;
+    }
+    #panel .item-btn:hover, #panel .item-btn:focus-visible { background: #eef3fa; }
+    #panel .item-btn small { color: #555; display: block; }
+    #panel .back { margin: 8px 12px; cursor: pointer; }
+    #panel .card { padding: 0 12px 12px; }
+    #panel .card + .card { border-top: 1px solid #ddd; padding-top: 10px; }
+    #panel .card h2 { font-size: 16px; margin: 4px 0; }
+    #panel .card small { color: #555; }
+    #panel .card p { margin: 6px 0; }
+    #panel .card ul { margin: 4px 0; padding-left: 18px; }
+    #panel .card .disputed { background: #fff6e0; border-left: 3px solid #eda100; padding: 4px 8px; margin: 6px 0; }
+    #panel .card .edit {
+      display: inline-block; margin-top: 8px; padding: 5px 10px; background: #335; color: #fff;
+      border-radius: 4px; text-decoration: none;
+    }
+    #panel .card a { word-break: break-word; }
     .leaflet-tooltip.entry { font-size: 13px; }
     .leaflet-tooltip.entry small { color: #555; }
-    .leaflet-popup.entry .leaflet-popup-content { font-size: 13px; margin: 10px 14px; max-height: 50vh; overflow-y: auto; }
-    .leaflet-popup.entry .item + .item { margin-top: 10px; padding-top: 8px; border-top: 1px solid #ddd; }
-    .leaflet-popup.entry small { color: #555; }
-    .leaflet-popup.entry p { margin: 4px 0; }
     @media (max-width: 600px) {
       #title { left: 50px; right: 10px; font-size: 14px; }
-      .leaflet-top.leaflet-right { top: 40px; } /* legend below the full-width title */
+      #main { flex-direction: column; }
+      #panel { width: auto; max-height: 45vh; border-left: 0; border-top: 1px solid #ccc; }
+      #panel.sheet-closed { max-height: 40px; overflow: hidden; }
+      #panel-toggle { display: none; }
       #ticks { display: none; } /* 14 labels do not fit on a phone; the title shows the year */
     }
   </style>
 </head>
 <body>
   <div id="title">Loading borders…</div>
-  <div id="map"></div>
+  <div id="main">
+    <div id="map-wrap">
+      <div id="map"></div>
+      <button id="panel-toggle" aria-label="Show or hide the side panel">Panel</button>
+    </div>
+    <aside id="panel" aria-label="Entries in this period"></aside>
+  </div>
   <div id="controls">
     <button id="prev" title="Previous snapshot" aria-label="Previous snapshot">‹</button>
     <input id="slider" type="range" min="0" max="0" value="0" step="1" aria-label="Year">
@@ -236,56 +265,115 @@
       return '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + text + "</a>";
     }
 
-    function entryHtml(entry) {
+    function sourceItem(src) {
+      return "<li>" + (/^https?:\/\//.test(src) ? link(src, escapeHtml(src.replace(/^https?:\/\/(www\.)?/, ""))) : escapeHtml(src)) + "</li>";
+    }
+
+    function cardHtml(entry) {
       const edit = suggestEditUrl("correct-entry.yml", "[Correction] " + entry.id, { entry: entry.id });
-      let html = '<div class="item"><b>' + escapeHtml(entry.name) + "</b><br><small>" +
+      let html = '<div class="card"><h2>' + escapeHtml(entry.name) + "</h2><small>" +
         SINGULAR[entry.category] + " · " + escapeHtml(formatDates(entry)) + " · " +
-        escapeHtml(entry.location.place) + "</small><p>" + escapeHtml(entry.summary) + "</p><small>";
-      if (entry.links && entry.links.wikipedia) html += link(entry.links.wikipedia, "Wikipedia") + " · ";
-      html += link(REPO + "/blob/main/data/entries/" + encodeURIComponent(entry.id) + ".json", "Sources") +
-        " · " + link(edit, "Suggest an edit") + "</small></div>";
+        escapeHtml(entry.location.place) + "</small><p>" + escapeHtml(entry.summary) + "</p>";
+      if (entry.claims) {
+        html += '<div class="disputed"><b>Disputed.</b> Sources disagree:<ul>' + entry.claims.map((c) =>
+          "<li>" + c.field + ": " + formatYear(c.value) + (c.note ? " — " + escapeHtml(c.note) : "") + "</li>").join("") + "</ul></div>";
+      }
+      if (entry.links && entry.links.wikipedia) html += "<p>" + link(entry.links.wikipedia, "Wikipedia") + "</p>";
+      html += "<b>Sources</b><ul>" + (entry.sources || []).map(sourceItem).join("") + "</ul><small>" +
+        link(REPO + "/blob/main/data/entries/" + encodeURIComponent(entry.id) + ".json", "View record on GitHub") +
+        '</small><br><a class="edit" href="' + escapeHtml(edit) + '" target="_blank" rel="noopener">Suggest an edit</a></div>';
       return html;
     }
 
-    // Legend that is also the category toggle; counts are for the current period.
-    const legend = L.control({ position: "topright" });
-    legend.onAdd = () => {
-      const div = L.DomUtil.create("div", "entries-control");
-      div.innerHTML = "<details" + (window.innerWidth > 600 ? " open" : "") + "><summary>People &amp; works</summary>" +
-        '<div class="period"></div>' +
-        CATEGORIES.map(([key, label, colour]) =>
-          '<label data-category="' + key + '"><input type="checkbox" checked value="' + key + '">' +
-          '<span class="dot" style="background:' + colour + '"></span>' + label + '<span class="count"></span></label>'
-        ).join("") + "</details>";
-      L.DomEvent.disableClickPropagation(div);
-      L.DomEvent.disableScrollPropagation(div);
-      div.addEventListener("change", (e) => {
-        if (e.target.checked) enabled.add(e.target.value);
-        else enabled.delete(e.target.value);
-        renderEntries();
-      });
-      return div;
-    };
-    legend.addTo(map);
+    // ---- Side panel: category toggles with the period's entries, or the open card(s) ----
+    const panel = document.getElementById("panel");
+    let openIds = null;      // ids of the card(s) shown, or null for the list
+    let currentList = [];
+    const markerById = new Map();
+    let highlighted = [];
+
+    function setHighlight(ids) {
+      for (const marker of highlighted) marker.setStyle({ color: "#fff", weight: 2 });
+      highlighted = [];
+      for (const id of ids || []) {
+        const marker = markerById.get(id);
+        if (!marker) continue;
+        marker.setStyle({ color: "#000", weight: 4 });
+        marker.bringToFront();
+        highlighted.push(marker);
+      }
+    }
+
+    function openCards(ids, centre) {
+      openIds = ids;
+      const first = entries.find((e) => e.id === ids[0]);
+      if (centre && first) map.setView([first.location.lat, first.location.lon], Math.max(map.getZoom(), 4));
+      panel.classList.remove("sheet-closed");
+      renderPanel();
+    }
+
+    function renderPanel() {
+      if (!snapshots.length || requested < 0) return;
+      const period = periodOf(requested);
+      if (openIds) {
+        const shown = openIds.map((id) => entries.find((e) => e.id === id)).filter(Boolean);
+        panel.innerHTML = '<header><button class="back">← All entries</button></header>' + shown.map(cardHtml).join("");
+        panel.querySelector(".back").addEventListener("click", closeCards);
+        setHighlight(openIds);
+        return;
+      }
+      panel.innerHTML = '<header><b>In this period</b> <span class="count">' + currentList.length + '</span><div class="period">' +
+        formatYear(period.from) + " – " + formatYear(period.to) + "</div></header>" +
+        CATEGORIES.map(([key, label, colour]) => {
+          const items = currentList.filter((e) => e.category === key);
+          return '<label class="cat' + (items.length ? "" : " empty") + '"><input type="checkbox" value="' + key + '"' +
+            (enabled.has(key) ? " checked" : "") + '><span class="dot" style="background:' + colour + '"></span>' + label +
+            '<span class="count">' + items.length + "</span></label>" +
+            (enabled.has(key) ? items.map((e) =>
+              '<button class="item-btn" data-id="' + escapeHtml(e.id) + '"><b>' + escapeHtml(e.name) + "</b><small>" +
+              escapeHtml(formatDates(e)) + "</small></button>").join("") : "");
+        }).join("");
+      setHighlight([]);
+    }
+
+    function closeCards() {
+      openIds = null;
+      renderPanel();
+      renderEntries();
+    }
+
+    panel.addEventListener("change", (e) => {
+      if (e.target.checked) enabled.add(e.target.value);
+      else enabled.delete(e.target.value);
+      renderEntries();
+    });
+    panel.addEventListener("click", (e) => {
+      const btn = e.target.closest(".item-btn");
+      if (btn) openCards([btn.dataset.id], true);
+      else if (window.innerWidth <= 600 && e.target.closest("header") && !e.target.closest(".back")) {
+        panel.classList.toggle("sheet-closed");
+      }
+    });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && openIds) closeCards(); });
+    document.getElementById("panel-toggle").addEventListener("click", () => {
+      panel.classList.toggle("collapsed");
+      map.invalidateSize();
+    });
+    if (window.innerWidth <= 600) panel.classList.add("sheet-closed");
 
     function renderEntries() {
       entriesLayer.clearLayers();
+      markerById.clear();
+      highlighted = [];
       if (requested < 0 || !snapshots.length) return;
-      const period = periodOf(requested);
-      const current = entries.filter((e) => inPeriod(e, period));
-
-      const box = legend.getContainer();
-      box.querySelector(".period").textContent = formatYear(period.from) + " – " + formatYear(period.to);
-      for (const [key] of CATEGORIES) {
-        const n = current.filter((e) => e.category === key).length;
-        const label = box.querySelector('label[data-category="' + key + '"]');
-        label.querySelector(".count").textContent = n;
-        label.classList.toggle("empty", n === 0);
-      }
+      currentList = entries.filter((e) => inPeriod(e, periodOf(requested)))
+        .sort((a, b) => a.start - b.start || a.id.localeCompare(b.id));
+      if (openIds) openIds = openIds.filter((id) => currentList.some((e) => e.id === id));
+      if (openIds && !openIds.length) openIds = null;
 
       // One marker per place, so records at the same spot (e.g. Athens) stay clickable.
       const byPlace = new Map();
-      for (const entry of current) {
+      for (const entry of currentList) {
         if (!enabled.has(entry.category)) continue;
         const key = entry.location.lat + "," + entry.location.lon;
         if (!byPlace.has(key)) byPlace.set(key, []);
@@ -301,9 +389,12 @@
           group.map((e) => "<b>" + escapeHtml(e.name) + "</b> <small>" + escapeHtml(formatDates(e)) + "</small>").join("<br>"),
           { className: "entry", direction: "top", offset: [0, -6] }
         );
-        marker.bindPopup(group.map(entryHtml).join(""), { className: "entry", maxWidth: 300 });
+        const ids = group.map((e) => e.id);
+        marker.on("click", () => openCards(ids, false));
+        group.forEach((e) => markerById.set(e.id, marker));
         entriesLayer.addLayer(marker);
       }
+      renderPanel();
     }
 
     fetch("data/entries.json")
@@ -316,7 +407,7 @@
         renderEntries();
       })
       .catch((error) => {
-        legend.getContainer().querySelector(".period").textContent = "Could not load entries (" + error.message + ")";
+        panel.textContent = "Could not load entries (" + error.message + ")";
       });
     let currentLayer = null;
     let requested = -1;

@@ -73,6 +73,48 @@ When sources disagree, keep the most commonly cited value in `start`/`end`, set
 ]
 ```
 
+## Polities
+
+A state, empire or kingdom is one JSON file in `data/polities/`
+([pipeline/polity.schema.json](../pipeline/polity.schema.json)). It links the names the border
+snapshots use to a description, so clicking a realm on the map opens its card.
+
+```json
+{
+  "id": "achaemenid-empire",
+  "wikidata": "Q389688",
+  "name": "Achaemenid Empire",
+  "border_names": ["Achaemenid Empire"],
+  "type": "empire",
+  "start": -550,
+  "end": -330,
+  "date_precision": "year",
+  "capital": { "lat": 29.93, "lon": 52.89, "place": "Persepolis" },
+  "summary": "First Persian empire, founded by Cyrus the Great …",
+  "links": { "wikipedia": "https://en.wikipedia.org/wiki/Achaemenid_Empire" },
+  "sources": ["https://www.wikidata.org/wiki/Q389688", "https://en.wikipedia.org/wiki/Achaemenid_Empire"],
+  "disputed": false
+}
+```
+
+Same rules as entries for `id`, `wikidata`, `start`, `end`, `date_precision`, `summary`, `links`,
+`sources`, `disputed` and `claims`. Different fields:
+
+| Field | Required | Meaning |
+|---|---|---|
+| `border_names` | yes | Exact `NAME` values from `data/borders/*.geojson` that this state covers. The validator fails on a name that is in no snapshot. |
+| `type` | yes | `empire`, `kingdom`, `republic`, `city-state`, `caliphate`, `sultanate`, `khanate`, `confederation`, `state` or `other`. |
+| `capital` | no | `lat`, `lon`, `place`. |
+
+The same border name may belong to different states in different eras (`Egypt`, `Persia`). Give each
+state its own file with its own dates; the validator fails if two states claim a name at overlapping
+dates. On the map a snapshot gets the card whose dates are nearest the snapshot's year, and none if
+that is more than 30 years away. The ruling power (`SUBJECTO`) is tried when the realm itself has no card.
+
+`pipeline/make_polities.py` writes the first batch from `pipeline/polities_seed.json` (it looks up
+the Wikidata item from the Wikipedia title and never overwrites an existing file). After that,
+edit the JSON files directly.
+
 ## Checking your file
 
 ```

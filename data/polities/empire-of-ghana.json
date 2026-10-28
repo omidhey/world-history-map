@@ -1,0 +1,26 @@
+{
+  "id": "empire-of-ghana",
+  "wikidata": "Q206789",
+  "name": "Ghana Empire",
+  "border_names": [
+    "Empire of Ghana"
+  ],
+  "type": "empire",
+  "start": 300,
+  "end": 1100,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 15.77,
+    "lon": -7.99,
+    "place": "Koumbi Saleh"
+  },
+  "summary": "West African empire that grew rich on the gold and salt trade across the Sahara. It is unrelated to the modern country except by name.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghana_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q206789",
+    "https://en.wikipedia.org/wiki/Ghana_Empire"
+  ],
+  "disputed": false
+}

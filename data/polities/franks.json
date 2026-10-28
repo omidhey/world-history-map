@@ -1,0 +1,26 @@
+{
+  "id": "franks",
+  "wikidata": "Q43482",
+  "name": "Franks",
+  "border_names": [
+    "Franks"
+  ],
+  "type": "confederation",
+  "start": 250,
+  "end": 843,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Germanic people who settled in northern Gaul and under the Merovingians and Carolingians created the most lasting successor state of Rome in the west.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Franks"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43482",
+    "https://en.wikipedia.org/wiki/Franks"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hittite-empire",
+  "wikidata": "Q5406",
+  "name": "Hittite Empire",
+  "border_names": [
+    "Hittites"
+  ],
+  "type": "empire",
+  "start": -1650,
+  "end": -1178,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 40.02,
+    "lon": 34.61,
+    "place": "Hattusa"
+  },
+  "summary": "Anatolian power that rivalled Egypt in the Late Bronze Age. It collapsed around 1180 BCE during the wider upheavals of the eastern Mediterranean.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hittites"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5406",
+    "https://en.wikipedia.org/wiki/Hittites"
+  ],
+  "disputed": false
+}

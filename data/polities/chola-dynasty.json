@@ -1,0 +1,26 @@
+{
+  "id": "chola-dynasty",
+  "wikidata": "Q151148",
+  "name": "Chola dynasty",
+  "border_names": [
+    "Chola Empire"
+  ],
+  "type": "empire",
+  "start": 848,
+  "end": 1279,
+  "date_precision": "year",
+  "capital": {
+    "lat": 10.79,
+    "lon": 79.14,
+    "place": "Thanjavur"
+  },
+  "summary": "South Indian dynasty whose medieval emperors, notably Rajaraja I and Rajendra I, built a navy that reached Sri Lanka and Southeast Asia.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chola_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q151148",
+    "https://en.wikipedia.org/wiki/Chola_dynasty"
+  ],
+  "disputed": false
+}

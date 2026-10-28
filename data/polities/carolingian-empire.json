@@ -1,0 +1,26 @@
+{
+  "id": "carolingian-empire",
+  "wikidata": "Q31929",
+  "name": "Carolingian Empire",
+  "border_names": [
+    "Carolingian Empire"
+  ],
+  "type": "empire",
+  "start": 800,
+  "end": 888,
+  "date_precision": "year",
+  "capital": {
+    "lat": 50.78,
+    "lon": 6.08,
+    "place": "Aachen"
+  },
+  "summary": "Frankish empire revived under Charlemagne, crowned emperor in 800, which covered much of western and central Europe and split by the Treaty of Verdun in 843.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carolingian_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q31929",
+    "https://en.wikipedia.org/wiki/Carolingian_Empire"
+  ],
+  "disputed": false
+}

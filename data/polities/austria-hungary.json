@@ -1,0 +1,26 @@
+{
+  "id": "austria-hungary",
+  "wikidata": "Q28513",
+  "name": "Austro-Hungarian Empire",
+  "border_names": [
+    "Austro-Hungarian Empire"
+  ],
+  "type": "empire",
+  "start": 1867,
+  "end": 1918,
+  "date_precision": "year",
+  "capital": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Dual monarchy of Austria and Hungary under the Habsburgs, home to many nationalities, which broke up after losing the First World War.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Austria-Hungary"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28513",
+    "https://en.wikipedia.org/wiki/Austria-Hungary"
+  ],
+  "disputed": false
+}

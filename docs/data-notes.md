@@ -116,6 +116,18 @@ Laozi (Wikidata has century-precision dates).
 - Existing records that differ from Wikidata (reported, not changed): Homer (ours −800/−701, Wikidata −900/−800), Murasaki Shikibu (death 1014 vs 1100), Hafez (end), Tale of Genji (1008 vs 1010), Iliad (−750 vs −800), Shahnameh, Code of Hammurabi.
 - Inventions are not imported: Wikidata structures them too poorly.
 
+## Polities (Session 15, 2026-10-28)
+
+`data/polities/` has 86 records for the most visible states, written from `pipeline/polities_seed.json`
+by `pipeline/make_polities.py`. Choice: names in the border snapshots ranked by drawn area and number of
+snapshots, then states, empires, kingdoms and caliphates picked by hand. Hunter-gatherer and culture
+zones (about half of the 1,200 names) and most modern countries are left out; contributors can add them.
+Every name was checked to exist in the snapshots. Summaries are written in our own words; dates are
+round figures from Wikipedia, not yet checked against a second source.
+
+Known gaps: only 86 of about 1,200 names have a card; modern countries (Egypt, Ghana, Mali)
+have none yet.
+
 ## Observations
 
 - **Unnamed polygons are common**, especially early on (113 of 138 at 3000 BCE, 148 of 291 in 1500).

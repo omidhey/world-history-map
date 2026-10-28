@@ -188,6 +188,7 @@
       if (p.OVERRIDE) {
         html += '<div class="note"><b>Corrected by this project.</b> ' + escapeHtml(p.NOTE) + "</div>";
       }
+      if (polityFor(p, year)) html += "<br><small>click for details</small>";
       return html;
     }
 
@@ -207,6 +208,51 @@
       });
       return "<b>" + escapeHtml(name) + "</b><br><small>Borders as of " + formatYear(year) + "</small><br>" +
         '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">Report a border error</a>';
+    }
+
+    // ---- Polities (data/polities/ merged into data/polities.json by pipeline/build.py) ----
+    // A border NAME can belong to different states in different eras (Egypt, Persia), so pick the
+    // polity whose dates are nearest the snapshot; further than POLITY_SLACK years away it is not that state.
+    const POLITY_SLACK = 30;
+    let polities = { polities: [], names: {} };
+    const polityById = new Map();
+
+    function polityFor(p, year) {
+      let best = null, bestGap = Infinity;
+      for (const name of [p.NAME, p.SUBJECTO]) {
+        for (const id of (name && polities.names[name]) || []) {
+          const polity = polityById.get(id);
+          const end = polity.end !== undefined ? polity.end : Infinity;
+          const gap = year < polity.start ? polity.start - year : year > end ? year - end : 0;
+          if (gap < bestGap) { best = polity; bestGap = gap; }
+        }
+        if (best && bestGap <= POLITY_SLACK) break; // the realm itself wins over its ruling power
+      }
+      return best && bestGap <= POLITY_SLACK ? best : null;
+    }
+
+    function polityCardHtml(polity, p, year) {
+      const edit = suggestEditUrl("correct-entry.yml", "[Correction] polity " + polity.id, { entry: polity.id });
+      const border = suggestEditUrl("border-error.yml", "[Border] " + polity.name + ", " + formatYear(year), {
+        year: formatYear(year), realm: polity.name });
+      let html = '<div class="card"><h2>' + escapeHtml(polity.name) + "</h2><small>" +
+        polity.type.charAt(0).toUpperCase() + polity.type.slice(1) + " · " + escapeHtml(formatDates(polity)) +
+        (polity.capital ? " · capital " + escapeHtml(polity.capital.place) : "") + "</small>";
+      if (p.NAME !== polity.name) {
+        html += "<br><small>Shown on the map as “" + escapeHtml(p.NAME || p.SUBJECTO) + "”</small>";
+      }
+      html += "<p>" + escapeHtml(polity.summary) + "</p>";
+      if (polity.claims) {
+        html += '<div class="disputed"><b>Disputed.</b> Sources disagree:<ul>' + polity.claims.map((c) =>
+          "<li>" + c.field + ": " + formatYear(c.value) + (c.note ? " — " + escapeHtml(c.note) : "") + "</li>").join("") + "</ul></div>";
+      }
+      if (polity.links && polity.links.wikipedia) html += "<p>" + link(polity.links.wikipedia, "Wikipedia") + "</p>";
+      html += "<b>Sources</b><ul>" + (polity.sources || []).map(sourceItem).join("") + "</ul><small>" +
+        link(REPO + "/blob/main/data/polities/" + encodeURIComponent(polity.id) + ".json", "View record on GitHub") +
+        '</small><br><a class="edit" href="' + escapeHtml(edit) + '" target="_blank" rel="noopener">Suggest an edit</a>' +
+        ' · <a class="edit" href="' + escapeHtml(border) + '" target="_blank" rel="noopener">Report a border error</a>' +
+        "<br><small>Borders as of " + formatYear(year) + " are approximate.</small></div>";
+      return html;
     }
 
     function highlight(event) {
@@ -288,6 +334,7 @@
     // ---- Side panel: category toggles with the period's entries, or the open card(s) ----
     const panel = document.getElementById("panel");
     let openIds = null;      // ids of the card(s) shown, or null for the list
+    let openPolity = null;   // {id, props, year} when a state's card is shown instead
     let currentList = [];
     const markerById = new Map();
     let highlighted = [];
@@ -304,7 +351,16 @@
       }
     }
 
+    function openPolityCard(polity, props, year) {
+      openPolity = { id: polity.id, props: { NAME: props.NAME, SUBJECTO: props.SUBJECTO }, year };
+      openIds = null;
+      panel.classList.remove("sheet-closed");
+      renderPanel();
+      renderEntries();
+    }
+
     function openCards(ids, centre) {
+      openPolity = null;
       openIds = ids;
       const first = entries.find((e) => e.id === ids[0]);
       if (centre && first) map.setView([first.location.lat, first.location.lon], Math.max(map.getZoom(), 4));
@@ -315,6 +371,13 @@
     function renderPanel() {
       if (!snapshots.length || requested < 0) return;
       const period = periodOf(requested);
+      if (openPolity) {
+        panel.innerHTML = '<header><button class="back">← All entries</button></header>' +
+          polityCardHtml(polityById.get(openPolity.id), openPolity.props, openPolity.year);
+        panel.querySelector(".back").addEventListener("click", closeCards);
+        setHighlight([]);
+        return;
+      }
       if (openIds) {
         const shown = openIds.map((id) => entries.find((e) => e.id === id)).filter(Boolean);
         panel.innerHTML = '<header><button class="back">← All entries</button></header>' + shown.map(cardHtml).join("");
@@ -338,6 +401,7 @@
 
     function closeCards() {
       openIds = null;
+      openPolity = null;
       renderPanel();
       renderEntries();
     }
@@ -354,7 +418,7 @@
         panel.classList.toggle("sheet-closed");
       }
     });
-    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && openIds) closeCards(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && (openIds || openPolity)) closeCards(); });
     document.getElementById("panel-toggle").addEventListener("click", () => {
       panel.classList.toggle("collapsed");
       map.invalidateSize();
@@ -409,6 +473,16 @@
       .catch((error) => {
         panel.textContent = "Could not load entries (" + error.message + ")";
       });
+    const politiesReady = fetch("data/polities.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then((data) => {
+        polities = data;
+        for (const polity of data.polities) polityById.set(polity.id, polity);
+      })
+      .catch((error) => console.warn("Could not load polities (" + error.message + ")"));
     let currentLayer = null;
     let requested = -1;
     const cache = new Map(); // year -> Promise<GeoJSON>
@@ -440,12 +514,15 @@
         titleEl.textContent = "Could not load " + formatYear(year) + " (" + error.message + ")";
         return;
       }
+      await politiesReady; // never rejects; polity cards just stay off if the file is missing
       if (requested !== index) return; // the slider moved on while this file was loading
 
       const layer = L.geoJSON(geojson, {
         style,
         onEachFeature: (feature, layer) => {
-          layer.bindPopup(popupHtml(feature.properties, year), { className: "polity" });
+          const polity = polityFor(feature.properties, year);
+          if (polity) layer.on("click", () => openPolityCard(polity, feature.properties, year));
+          else layer.bindPopup(popupHtml(feature.properties, year), { className: "polity" });
           if (!feature.properties.NAME) return; // unnamed land: no tooltip
           layer.bindTooltip(tooltipHtml(feature.properties, year), { sticky: true, className: "polity" });
           layer.on({ mouseover: highlight, mouseout: (e) => layer.setStyle(style(feature)) });

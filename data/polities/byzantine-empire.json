@@ -1,0 +1,27 @@
+{
+  "id": "byzantine-empire",
+  "wikidata": "Q12544",
+  "name": "Byzantine Empire",
+  "border_names": [
+    "Byzantine Empire",
+    "Eastern Roman Empire"
+  ],
+  "type": "empire",
+  "start": 330,
+  "end": 1453,
+  "date_precision": "year",
+  "capital": {
+    "lat": 41.01,
+    "lon": 28.98,
+    "place": "Constantinople"
+  },
+  "summary": "The continuing eastern Roman Empire, Greek-speaking and Orthodox Christian, ruled from Constantinople until the Ottoman conquest in 1453.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12544",
+    "https://en.wikipedia.org/wiki/Byzantine_Empire"
+  ],
+  "disputed": false
+}

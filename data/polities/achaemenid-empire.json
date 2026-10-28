@@ -1,0 +1,26 @@
+{
+  "id": "achaemenid-empire",
+  "wikidata": "Q389688",
+  "name": "Achaemenid Empire",
+  "border_names": [
+    "Achaemenid Empire"
+  ],
+  "type": "empire",
+  "start": -550,
+  "end": -330,
+  "date_precision": "year",
+  "capital": {
+    "lat": 29.93,
+    "lon": 52.89,
+    "place": "Persepolis"
+  },
+  "summary": "First Persian empire, founded by Cyrus the Great, which stretched from Egypt and Anatolia to the Indus and fell to Alexander the Great.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q389688",
+    "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kingdom-of-portugal",
+  "wikidata": "Q45670",
+  "name": "Kingdom of Portugal",
+  "border_names": [
+    "Portugal"
+  ],
+  "type": "kingdom",
+  "start": 1139,
+  "end": 1910,
+  "date_precision": "year",
+  "capital": {
+    "lat": 38.72,
+    "lon": -9.14,
+    "place": "Lisbon"
+  },
+  "summary": "Atlantic monarchy that led European exploration in the 15th century and built a trading empire from Brazil to Asia.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Portugal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45670",
+    "https://en.wikipedia.org/wiki/Kingdom_of_Portugal"
+  ],
+  "disputed": false
+}

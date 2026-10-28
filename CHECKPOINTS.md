@@ -60,7 +60,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 ## Phase 4: Polities, rulers and dynasties → v0.4
 
-- [ ] **Session 15: Click a state, learn what it is** — `data/polities/`
+- [x] **Session 15: Click a state, learn what it is** — `data/polities/` — 2026-10-28
+  - Result: 86 polity records (`data/polities/`, schema `pipeline/polity.schema.json`, seeded by `pipeline/make_polities.py` from `polities_seed.json`; Wikidata ids looked up from Wikipedia titles). `validate.py` checks them (border names must exist in a snapshot, no two states claim a name at overlapping dates; broken record tested: fails). `build.py` writes `site/data/polities.json`. Clicking a realm opens its card in the side panel (dates, capital, summary, sources, suggest-an-edit and border-error links); unmatched land keeps the old popup. Checked in the browser at desktop and phone width: Achaemenid Empire at 500 BCE, Egypt/Persia picked by era, no console errors.
 - [ ] **Session 16: Rulers and dynasties**
 - [ ] **Session 17: Timeline strip**
 

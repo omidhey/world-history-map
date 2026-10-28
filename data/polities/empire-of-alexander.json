@@ -1,0 +1,26 @@
+{
+  "id": "empire-of-alexander",
+  "wikidata": "Q8409",
+  "name": "Empire of Alexander the Great",
+  "border_names": [
+    "Empire of Alexander"
+  ],
+  "type": "empire",
+  "start": -336,
+  "end": -323,
+  "date_precision": "year",
+  "capital": {
+    "lat": 40.76,
+    "lon": 22.52,
+    "place": "Pella"
+  },
+  "summary": "Short-lived empire from Greece to the Indus built by Alexander III of Macedon in about thirteen years and divided among his generals after his death.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8409",
+    "https://en.wikipedia.org/wiki/Alexander_the_Great"
+  ],
+  "disputed": false
+}

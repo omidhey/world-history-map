@@ -1,0 +1,26 @@
+{
+  "id": "great-zimbabwe",
+  "wikidata": "Q209217",
+  "name": "Great Zimbabwe",
+  "border_names": [
+    "Great Zimbabwe"
+  ],
+  "type": "state",
+  "start": 1100,
+  "end": 1450,
+  "date_precision": "circa",
+  "capital": {
+    "lat": -20.27,
+    "lon": 30.93,
+    "place": "Great Zimbabwe"
+  },
+  "summary": "Shona trading state of southern Africa, known for its large dry-stone enclosures and for its gold and cattle wealth.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Zimbabwe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q209217",
+    "https://en.wikipedia.org/wiki/Great_Zimbabwe"
+  ],
+  "disputed": false
+}

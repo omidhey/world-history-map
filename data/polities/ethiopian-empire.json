@@ -1,0 +1,21 @@
+{
+  "id": "ethiopian-empire",
+  "wikidata": "Q207521",
+  "name": "Ethiopian Empire",
+  "border_names": [
+    "Ethiopia"
+  ],
+  "type": "empire",
+  "start": 1270,
+  "end": 1974,
+  "date_precision": "year",
+  "summary": "Christian monarchy of the Ethiopian highlands, claiming descent from Solomon, which kept its independence through the colonial era apart from a brief Italian occupation.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207521",
+    "https://en.wikipedia.org/wiki/Ethiopian_Empire"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ayutthaya-kingdom",
+  "wikidata": "Q841364",
+  "name": "Ayutthaya Kingdom",
+  "border_names": [
+    "Ayutthaya"
+  ],
+  "type": "kingdom",
+  "start": 1351,
+  "end": 1767,
+  "date_precision": "year",
+  "capital": {
+    "lat": 14.35,
+    "lon": 100.56,
+    "place": "Ayutthaya"
+  },
+  "summary": "Thai kingdom that became a major trading power of Southeast Asia until it was sacked by Burmese armies in 1767.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayutthaya_Kingdom"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q841364",
+    "https://en.wikipedia.org/wiki/Ayutthaya_Kingdom"
+  ],
+  "disputed": false
+}

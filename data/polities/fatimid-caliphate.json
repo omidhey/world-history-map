@@ -1,0 +1,26 @@
+{
+  "id": "fatimid-caliphate",
+  "wikidata": "Q160307",
+  "name": "Fatimid Caliphate",
+  "border_names": [
+    "Fatimid Caliphate"
+  ],
+  "type": "caliphate",
+  "start": 909,
+  "end": 1171,
+  "date_precision": "year",
+  "capital": {
+    "lat": 30.04,
+    "lon": 31.24,
+    "place": "Cairo"
+  },
+  "summary": "Ismaili Shia caliphate that conquered Egypt in 969, founded Cairo and rivalled the Abbasids for leadership of the Muslim world.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fatimid_Caliphate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160307",
+    "https://en.wikipedia.org/wiki/Fatimid_Caliphate"
+  ],
+  "disputed": false
+}

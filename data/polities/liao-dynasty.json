@@ -1,0 +1,21 @@
+{
+  "id": "liao-dynasty",
+  "wikidata": "Q4958",
+  "name": "Liao dynasty",
+  "border_names": [
+    "Liao"
+  ],
+  "type": "empire",
+  "start": 916,
+  "end": 1125,
+  "date_precision": "year",
+  "summary": "Khitan-led empire of Manchuria, Mongolia and northern China that ruled both nomads and farmers through two separate systems of government.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liao_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4958",
+    "https://en.wikipedia.org/wiki/Liao_dynasty"
+  ],
+  "disputed": false
+}

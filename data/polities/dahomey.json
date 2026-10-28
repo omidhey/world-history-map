@@ -1,0 +1,26 @@
+{
+  "id": "dahomey",
+  "wikidata": "Q468814",
+  "name": "Kingdom of Dahomey",
+  "border_names": [
+    "Dahomey"
+  ],
+  "type": "kingdom",
+  "start": 1600,
+  "end": 1904,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 7.18,
+    "lon": 1.99,
+    "place": "Abomey"
+  },
+  "summary": "West African kingdom with a strong standing army, which took part in the Atlantic slave trade before French conquest.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dahomey"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q468814",
+    "https://en.wikipedia.org/wiki/Dahomey"
+  ],
+  "disputed": false
+}

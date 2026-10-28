@@ -1,0 +1,26 @@
+{
+  "id": "ottoman-empire",
+  "wikidata": "Q12560",
+  "name": "Ottoman Empire",
+  "border_names": [
+    "Ottoman Empire"
+  ],
+  "type": "empire",
+  "start": 1299,
+  "end": 1922,
+  "date_precision": "year",
+  "capital": {
+    "lat": 41.01,
+    "lon": 28.98,
+    "place": "Constantinople"
+  },
+  "summary": "Turkish-led empire that took Constantinople in 1453 and ruled much of south-eastern Europe, western Asia and North Africa for six centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12560",
+    "https://en.wikipedia.org/wiki/Ottoman_Empire"
+  ],
+  "disputed": false
+}

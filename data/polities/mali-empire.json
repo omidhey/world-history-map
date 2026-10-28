@@ -1,0 +1,26 @@
+{
+  "id": "mali-empire",
+  "wikidata": "Q184536",
+  "name": "Mali Empire",
+  "border_names": [
+    "Mali"
+  ],
+  "type": "empire",
+  "start": 1230,
+  "end": 1670,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 11.43,
+    "lon": -9.15,
+    "place": "Niani"
+  },
+  "summary": "West African empire founded by Sundiata Keita, which under Mansa Musa became famous for its gold and for Timbuktu as a centre of learning.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mali_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184536",
+    "https://en.wikipedia.org/wiki/Mali_Empire"
+  ],
+  "disputed": false
+}

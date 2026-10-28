@@ -1,0 +1,26 @@
+{
+  "id": "song-empire",
+  "wikidata": "Q7462",
+  "name": "Song dynasty",
+  "border_names": [
+    "Song Empire"
+  ],
+  "type": "empire",
+  "start": 960,
+  "end": 1279,
+  "date_precision": "year",
+  "capital": {
+    "lat": 34.8,
+    "lon": 114.31,
+    "place": "Kaifeng"
+  },
+  "summary": "Chinese empire of great commercial and technical growth, with printing, gunpowder weapons and paper money, but under constant military pressure from northern neighbours.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7462",
+    "https://en.wikipedia.org/wiki/Song_dynasty"
+  ],
+  "disputed": false
+}

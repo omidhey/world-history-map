@@ -1,0 +1,27 @@
+{
+  "id": "qing-empire",
+  "wikidata": "Q8733",
+  "name": "Qing dynasty",
+  "border_names": [
+    "Qing Empire",
+    "Manchu Empire"
+  ],
+  "type": "empire",
+  "start": 1644,
+  "end": 1912,
+  "date_precision": "year",
+  "capital": {
+    "lat": 39.9,
+    "lon": 116.4,
+    "place": "Beijing"
+  },
+  "summary": "Last imperial dynasty of China, founded by the Manchus. It roughly doubled China's territory and fell in 1912 after the 1911 revolution.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qing_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8733",
+    "https://en.wikipedia.org/wiki/Qing_dynasty"
+  ],
+  "disputed": false
+}

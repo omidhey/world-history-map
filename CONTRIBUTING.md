@@ -13,7 +13,7 @@ short version: **no source, no merge**, write in your own words, stay neutral.
 | Add a person, work, invention, ruler… | Fill in the [Add form](https://github.com/omidhey/world-history-map/issues/new?template=add-entry.yml) | No |
 | Correct an entry | Fill in the [Correction form](https://github.com/omidhey/world-history-map/issues/new?template=correct-entry.yml) | No |
 | Report a border error | Fill in the [Border form](https://github.com/omidhey/world-history-map/issues/new?template=border-error.yml), or click the realm on the map and choose "Report a border error" | No |
-| Add or fix records yourself | Edit or add a JSON file in `data/entries/` and open a pull request | A little |
+| Add or fix records yourself | Edit or add a JSON file in `data/entries/` (people, works…) or `data/polities/` (states) and open a pull request | A little |
 | Improve the site or the pipeline | Open an issue first for anything larger than a small fix | Yes |
 
 ## Adding a record with a pull request

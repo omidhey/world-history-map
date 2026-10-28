@@ -1,0 +1,26 @@
+{
+  "id": "roman-republic",
+  "wikidata": "Q17167",
+  "name": "Roman Republic",
+  "border_names": [
+    "Rome"
+  ],
+  "type": "republic",
+  "start": -509,
+  "end": -27,
+  "date_precision": "year",
+  "capital": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Rome"
+  },
+  "summary": "Rome as a state governed by elected magistrates and a senate, which conquered Italy and then the Mediterranean before civil wars ended it.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_Republic"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q17167",
+    "https://en.wikipedia.org/wiki/Roman_Republic"
+  ],
+  "disputed": false
+}

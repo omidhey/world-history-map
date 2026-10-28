@@ -1,0 +1,26 @@
+{
+  "id": "srivijaya",
+  "wikidata": "Q234197",
+  "name": "Srivijaya",
+  "border_names": [
+    "Srivijaya Empire"
+  ],
+  "type": "empire",
+  "start": 650,
+  "end": 1377,
+  "date_precision": "circa",
+  "capital": {
+    "lat": -2.99,
+    "lon": 104.76,
+    "place": "Palembang"
+  },
+  "summary": "Buddhist maritime empire based on Sumatra that controlled the Strait of Malacca and so the sea trade between India and China.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Srivijaya"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q234197",
+    "https://en.wikipedia.org/wiki/Srivijaya"
+  ],
+  "disputed": false
+}

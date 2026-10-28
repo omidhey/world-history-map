@@ -1,0 +1,26 @@
+{
+  "id": "qin-state",
+  "wikidata": "Q34756",
+  "name": "State of Qin",
+  "border_names": [
+    "Qin"
+  ],
+  "type": "state",
+  "start": -770,
+  "end": -221,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 34.33,
+    "lon": 108.71,
+    "place": "Xianyang"
+  },
+  "summary": "Western state of the Zhou world that conquered its rivals in the 3rd century BCE and became the base of the first unified Chinese empire.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qin_(state)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34756",
+    "https://en.wikipedia.org/wiki/Qin_(state)"
+  ],
+  "disputed": false
+}

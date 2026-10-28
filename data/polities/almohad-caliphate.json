@@ -1,0 +1,26 @@
+{
+  "id": "almohad-caliphate",
+  "wikidata": "Q199688",
+  "name": "Almohad Caliphate",
+  "border_names": [
+    "Almohad Caliphate"
+  ],
+  "type": "caliphate",
+  "start": 1121,
+  "end": 1269,
+  "date_precision": "year",
+  "capital": {
+    "lat": 31.63,
+    "lon": -7.99,
+    "place": "Marrakesh"
+  },
+  "summary": "Berber reform movement turned empire that ruled Morocco, the Maghreb and Muslim Spain until Christian and local rivals broke it up.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Almohad_Caliphate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q199688",
+    "https://en.wikipedia.org/wiki/Almohad_Caliphate"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "papal-states",
+  "wikidata": "Q170174",
+  "name": "Papal States",
+  "border_names": [
+    "Papal States"
+  ],
+  "type": "state",
+  "start": 756,
+  "end": 1870,
+  "date_precision": "year",
+  "capital": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Rome"
+  },
+  "summary": "Territories in central Italy ruled directly by the popes until they were absorbed into the Kingdom of Italy.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Papal_States"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170174",
+    "https://en.wikipedia.org/wiki/Papal_States"
+  ],
+  "disputed": false
+}

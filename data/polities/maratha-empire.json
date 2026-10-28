@@ -1,0 +1,26 @@
+{
+  "id": "maratha-empire",
+  "wikidata": "Q83618",
+  "name": "Maratha Empire",
+  "border_names": [
+    "Maratha Confederacy"
+  ],
+  "type": "confederation",
+  "start": 1674,
+  "end": 1818,
+  "date_precision": "year",
+  "capital": {
+    "lat": 18.23,
+    "lon": 73.44,
+    "place": "Raigad"
+  },
+  "summary": "Indian power founded by Shivaji that overtook much of the weakening Mughal territory before the British defeated it.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maratha_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83618",
+    "https://en.wikipedia.org/wiki/Maratha_Empire"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "inca-empire",
+  "wikidata": "Q28573",
+  "name": "Inca Empire",
+  "border_names": [
+    "Inca Empire"
+  ],
+  "type": "empire",
+  "start": 1438,
+  "end": 1533,
+  "date_precision": "year",
+  "capital": {
+    "lat": -13.52,
+    "lon": -71.97,
+    "place": "Cusco"
+  },
+  "summary": "Largest empire of the pre-Columbian Americas, linked by roads across the Andes, which fell to Spanish conquistadors in the 1530s.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Inca_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28573",
+    "https://en.wikipedia.org/wiki/Inca_Empire"
+  ],
+  "disputed": false
+}

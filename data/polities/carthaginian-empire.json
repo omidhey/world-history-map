@@ -1,0 +1,26 @@
+{
+  "id": "carthaginian-empire",
+  "wikidata": "Q6343",
+  "name": "Carthaginian Empire",
+  "border_names": [
+    "Carthaginian Empire"
+  ],
+  "type": "empire",
+  "start": -650,
+  "end": -146,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 36.85,
+    "lon": 10.32,
+    "place": "Carthage"
+  },
+  "summary": "Phoenician-founded maritime power in North Africa that dominated the western Mediterranean until Rome destroyed the city in 146 BCE.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carthage"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6343",
+    "https://en.wikipedia.org/wiki/Carthage"
+  ],
+  "disputed": false
+}

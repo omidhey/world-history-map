@@ -1,0 +1,26 @@
+{
+  "id": "vijayanagara-empire",
+  "wikidata": "Q167639",
+  "name": "Vijayanagara Empire",
+  "border_names": [
+    "Vijayanagara"
+  ],
+  "type": "empire",
+  "start": 1336,
+  "end": 1646,
+  "date_precision": "year",
+  "capital": {
+    "lat": 15.34,
+    "lon": 76.46,
+    "place": "Hampi"
+  },
+  "summary": "South Indian Hindu empire with a rich capital at Hampi, which stood against the northern sultanates until its defeat at Talikota in 1565.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vijayanagara_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q167639",
+    "https://en.wikipedia.org/wiki/Vijayanagara_Empire"
+  ],
+  "disputed": false
+}

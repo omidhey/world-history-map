@@ -1,0 +1,26 @@
+{
+  "id": "zhou-states",
+  "wikidata": "Q35216",
+  "name": "Zhou dynasty",
+  "border_names": [
+    "Zhou states"
+  ],
+  "type": "state",
+  "start": -1046,
+  "end": -256,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 34.62,
+    "lon": 112.45,
+    "place": "Luoyang"
+  },
+  "summary": "Chinese dynasty whose kings gradually lost real power to the regional states of the Spring and Autumn and Warring States periods, when Confucius and other thinkers lived.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhou_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q35216",
+    "https://en.wikipedia.org/wiki/Zhou_dynasty"
+  ],
+  "disputed": false
+}

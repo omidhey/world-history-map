@@ -1,0 +1,26 @@
+{
+  "id": "qajar-iran",
+  "wikidata": "Q63158027",
+  "name": "Qajar Iran",
+  "border_names": [
+    "Persia"
+  ],
+  "type": "kingdom",
+  "start": 1789,
+  "end": 1925,
+  "date_precision": "year",
+  "capital": {
+    "lat": 35.69,
+    "lon": 51.39,
+    "place": "Tehran"
+  },
+  "summary": "Turkic-origin dynasty that ruled Persia through the 19th century, losing land to Russia and Britain and facing the 1906 constitutional revolution.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qajar_Iran"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q63158027",
+    "https://en.wikipedia.org/wiki/Qajar_Iran"
+  ],
+  "disputed": false
+}

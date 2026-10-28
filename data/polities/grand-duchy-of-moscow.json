@@ -1,0 +1,26 @@
+{
+  "id": "grand-duchy-of-moscow",
+  "wikidata": "Q170770",
+  "name": "Grand Duchy of Moscow",
+  "border_names": [
+    "Grand Duchy of Moscow"
+  ],
+  "type": "state",
+  "start": 1283,
+  "end": 1547,
+  "date_precision": "year",
+  "capital": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Russian principality that gathered the surrounding lands, threw off Mongol overlordship and became the core of the Russian state.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Moscow"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170770",
+    "https://en.wikipedia.org/wiki/Grand_Duchy_of_Moscow"
+  ],
+  "disputed": false
+}

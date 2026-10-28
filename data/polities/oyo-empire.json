@@ -1,0 +1,21 @@
+{
+  "id": "oyo-empire",
+  "wikidata": "Q849623",
+  "name": "Oyo Empire",
+  "border_names": [
+    "Oyo"
+  ],
+  "type": "empire",
+  "start": 1400,
+  "end": 1835,
+  "date_precision": "circa",
+  "summary": "Yoruba empire of the savanna north of the forest, which used cavalry and trade to dominate its neighbours until civil war and Fulani attacks.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Oyo_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q849623",
+    "https://en.wikipedia.org/wiki/Oyo_Empire"
+  ],
+  "disputed": false
+}

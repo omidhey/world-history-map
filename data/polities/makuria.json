@@ -1,0 +1,26 @@
+{
+  "id": "makuria",
+  "wikidata": "Q829356",
+  "name": "Makuria",
+  "border_names": [
+    "Makkura"
+  ],
+  "type": "kingdom",
+  "start": 340,
+  "end": 1312,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 19.17,
+    "lon": 30.48,
+    "place": "Dongola"
+  },
+  "summary": "Christian Nubian kingdom on the Nile that signed a long-lasting treaty with Muslim Egypt and survived into the 14th century.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Makuria"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q829356",
+    "https://en.wikipedia.org/wiki/Makuria"
+  ],
+  "disputed": false
+}

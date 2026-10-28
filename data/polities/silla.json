@@ -1,0 +1,26 @@
+{
+  "id": "silla",
+  "wikidata": "Q28456",
+  "name": "Silla",
+  "border_names": [
+    "Silla"
+  ],
+  "type": "kingdom",
+  "start": -57,
+  "end": 935,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 35.83,
+    "lon": 129.22,
+    "place": "Gyeongju"
+  },
+  "summary": "Korean kingdom that, allied with Tang China, unified most of the peninsula in the 7th century and was a centre of Buddhist art.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Silla"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28456",
+    "https://en.wikipedia.org/wiki/Silla"
+  ],
+  "disputed": false
+}

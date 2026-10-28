@@ -1,0 +1,26 @@
+{
+  "id": "sikh-empire",
+  "wikidata": "Q83572",
+  "name": "Sikh Empire",
+  "border_names": [
+    "Sikhs"
+  ],
+  "type": "empire",
+  "start": 1799,
+  "end": 1849,
+  "date_precision": "year",
+  "capital": {
+    "lat": 31.55,
+    "lon": 74.34,
+    "place": "Lahore"
+  },
+  "summary": "Punjabi state built by Ranjit Singh, with a modernised army, which fell to the British after two wars.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sikh_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83572",
+    "https://en.wikipedia.org/wiki/Sikh_Empire"
+  ],
+  "disputed": false
+}

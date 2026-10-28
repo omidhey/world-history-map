@@ -1,0 +1,26 @@
+{
+  "id": "roman-empire",
+  "wikidata": "Q2277",
+  "name": "Roman Empire",
+  "border_names": [
+    "Roman Empire"
+  ],
+  "type": "empire",
+  "start": -27,
+  "end": 476,
+  "date_precision": "year",
+  "capital": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Rome"
+  },
+  "summary": "Mediterranean empire ruled by emperors from Augustus onward. Its western half ended in 476 CE; the eastern half lasted as the Byzantine Empire.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2277",
+    "https://en.wikipedia.org/wiki/Roman_Empire"
+  ],
+  "disputed": false
+}

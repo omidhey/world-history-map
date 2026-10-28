@@ -21,6 +21,9 @@ because browsers block loading local data files from `file://`.
 
 Live site: https://omidhey.github.io/world-history-map/
 
+When a pull request is merged into `main`, GitHub Actions validates the records,
+builds the site data and republishes the site. If validation fails, nothing is published.
+
 ## Updating the border data
 
 ```

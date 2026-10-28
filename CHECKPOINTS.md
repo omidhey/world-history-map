@@ -47,7 +47,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 - [x] **Session 9: Show content on the map** — 2026-10-22 (started with Session 8's second-account test deferred, by the owner's choice)
   - Result: `pipeline/build.py` merges `data/entries/` into `site/data/entries.json` (called by `build_site.py`). Each snapshot stands for a period up to the next snapshot; people, dynasties and cultures show while they lived or lasted, works and inventions without an end year in the period they appeared; disputed records in every period any of their claims reaches. One marker per place (Athens groups Socrates + Aristotle), colour by category (validated 8-slot palette), legend in the top-right is also the category toggle with per-period counts. Popup: dates, place, summary, Wikipedia, Sources, "Suggest an edit" (pre-filled correction form). At 500 BCE: Laozi, the Buddha, Confucius, Socrates, Aristotle, Olmecs, Maya. Checked at desktop and phone width.
-- [ ] **Session 10: Side panel and info cards**
+- [x] **Session 10: Side panel and info cards** — 2026-10-28
+  - Result: right-hand panel (replaces the legend) lists the period's entries by category, with the category toggles and counts. Clicking a list item or a marker centres the map and opens a card: dates, place, summary, disputed claims, Wikipedia, sources, GitHub record link, "Suggest an edit". Back button or Escape returns to the list; the marker gets a dark ring. On phones the panel is a bottom sheet. Checked in the browser at desktop and phone width; `validate.py` not run locally (jsonschema missing), left to the PR check.
 - [ ] **Session 11: Wikidata import (philosophers)** — check BCE years against known dates
 - [ ] **Session 12: More categories** — scientists, writers, works
 - [ ] **Session 13: Data-quality report** — `docs/data-quality.md`, flags not deletions

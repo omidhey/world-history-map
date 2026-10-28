@@ -1,0 +1,24 @@
+{
+  "id": "bernard-bolzano",
+  "wikidata": "Q184735",
+  "name": "Bernard Bolzano",
+  "category": "philosopher",
+  "start": 1781,
+  "end": 1848,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.09,
+    "lon": 14.42,
+    "place": "Prague"
+  },
+  "summary": "Bohemian mathematician and priest (1781–1848), born in Prague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Bolzano"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184735",
+    "https://en.wikipedia.org/wiki/Bernard_Bolzano",
+    "https://plato.stanford.edu/entries/bolzano/"
+  ],
+  "disputed": false
+}

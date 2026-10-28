@@ -1,0 +1,24 @@
+{
+  "id": "dai-zhen",
+  "wikidata": "Q714369",
+  "name": "Dai Zhen",
+  "category": "philosopher",
+  "start": 1724,
+  "end": 1777,
+  "date_precision": "day",
+  "location": {
+    "lat": 29.79,
+    "lon": 118.18,
+    "place": "Xiuning County"
+  },
+  "summary": "Chinese scholar, born in Xiuning County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dai_Zhen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q714369",
+    "https://en.wikipedia.org/wiki/Dai_Zhen",
+    "https://iep.utm.edu/dai-zhen/"
+  ],
+  "disputed": false
+}

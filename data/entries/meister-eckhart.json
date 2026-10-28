@@ -1,0 +1,25 @@
+{
+  "id": "meister-eckhart",
+  "wikidata": "Q76548",
+  "name": "Meister Eckhart",
+  "category": "philosopher",
+  "start": 1260,
+  "end": 1328,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.01,
+    "lon": 10.67,
+    "place": "Nessetal"
+  },
+  "summary": "German philosopher and theologian, born in Nessetal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Meister_Eckhart"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76548",
+    "https://en.wikipedia.org/wiki/Meister_Eckhart",
+    "https://plato.stanford.edu/entries/meister-eckhart/",
+    "https://iep.utm.edu/eckhart/"
+  ],
+  "disputed": false
+}

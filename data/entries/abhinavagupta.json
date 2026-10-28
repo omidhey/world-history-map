@@ -1,0 +1,23 @@
+{
+  "id": "abhinavagupta",
+  "wikidata": "Q320619",
+  "name": "Abhinavagupta",
+  "category": "philosopher",
+  "start": 950,
+  "end": 1020,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.5,
+    "lon": 76,
+    "place": "Kashmir"
+  },
+  "summary": "Indian philosopher and writer (c.950–1016), born in Kashmir. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abhinavagupta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q320619",
+    "https://en.wikipedia.org/wiki/Abhinavagupta"
+  ],
+  "disputed": false
+}

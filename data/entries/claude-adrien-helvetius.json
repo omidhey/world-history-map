@@ -1,0 +1,24 @@
+{
+  "id": "claude-adrien-helvetius",
+  "wikidata": "Q190302",
+  "name": "Claude Adrien Helvétius",
+  "category": "philosopher",
+  "start": 1715,
+  "end": 1771,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.87,
+    "lon": 2.34,
+    "place": "rue Sainte-Anne"
+  },
+  "summary": "French philosopher; (1715-1771), born in rue Sainte-Anne. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Adrien_Helvétius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q190302",
+    "https://en.wikipedia.org/wiki/Claude_Adrien_Helvétius",
+    "https://iep.utm.edu/helvetiu/"
+  ],
+  "disputed": false
+}

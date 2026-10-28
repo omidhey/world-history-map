@@ -1,0 +1,23 @@
+{
+  "id": "aurobindo-ghosh",
+  "wikidata": "Q192207",
+  "name": "Aurobindo Ghosh",
+  "category": "philosopher",
+  "start": 1872,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.55,
+    "lon": 88.35,
+    "place": "Sri Aurobindo Bhawan"
+  },
+  "summary": "Indian Bengali philosopher, yogi, maharishi, poet and nationalist (1872–1950), born in Sri Aurobindo Bhawan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sri_Aurobindo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192207",
+    "https://en.wikipedia.org/wiki/Sri_Aurobindo"
+  ],
+  "disputed": false
+}

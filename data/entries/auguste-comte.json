@@ -1,0 +1,24 @@
+{
+  "id": "auguste-comte",
+  "wikidata": "Q12718",
+  "name": "Auguste Comte",
+  "category": "philosopher",
+  "start": 1798,
+  "end": 1857,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.61,
+    "lon": 3.88,
+    "place": "Montpellier"
+  },
+  "summary": "French philosopher, mathematician and sociologist (1798–1857), born in Montpellier. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Auguste_Comte"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12718",
+    "https://en.wikipedia.org/wiki/Auguste_Comte",
+    "https://plato.stanford.edu/entries/comte/"
+  ],
+  "disputed": false
+}

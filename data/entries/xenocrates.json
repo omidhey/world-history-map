@@ -1,0 +1,24 @@
+{
+  "id": "xenocrates",
+  "wikidata": "Q214121",
+  "name": "Xenocrates",
+  "category": "philosopher",
+  "start": -396,
+  "end": -314,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.98,
+    "lon": 29.03,
+    "place": "Chalcedon"
+  },
+  "summary": "4th-century BC Greek philosopher, mathematician and scholarch, born in Chalcedon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xenocrates"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q214121",
+    "https://en.wikipedia.org/wiki/Xenocrates",
+    "https://plato.stanford.edu/entries/xenocrates/"
+  ],
+  "disputed": false
+}

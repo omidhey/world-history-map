@@ -1,0 +1,24 @@
+{
+  "id": "iamblichus",
+  "wikidata": "Q310916",
+  "name": "Iamblichus",
+  "category": "philosopher",
+  "start": 245,
+  "end": 325,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.0,
+    "lon": 37.0,
+    "place": "Qinnasrin"
+  },
+  "summary": "Syrian Neoplatonist philosopher (c. 245 – c. 325), born in Qinnasrin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Iamblichus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q310916",
+    "https://en.wikipedia.org/wiki/Iamblichus",
+    "https://plato.stanford.edu/entries/iamblichus/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "max-scheler",
+  "wikidata": "Q76521",
+  "name": "Max Scheler",
+  "category": "philosopher",
+  "start": 1874,
+  "end": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.14,
+    "lon": 11.57,
+    "place": "Munich"
+  },
+  "summary": "German philosopher (1874-1928), born in Munich. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Scheler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76521",
+    "https://en.wikipedia.org/wiki/Max_Scheler",
+    "https://plato.stanford.edu/entries/scheler/"
+  ],
+  "disputed": false
+}

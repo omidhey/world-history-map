@@ -1,0 +1,23 @@
+{
+  "id": "keiji-nishitani",
+  "wikidata": "Q1993564",
+  "name": "Keiji Nishitani",
+  "category": "philosopher",
+  "start": 1900,
+  "end": 1990,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.59,
+    "lon": 136.62,
+    "place": "Ishikawa Prefecture"
+  },
+  "summary": "Japanese philosopher (1900–1990), born in Ishikawa Prefecture. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Keiji_Nishitani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1993564",
+    "https://en.wikipedia.org/wiki/Keiji_Nishitani"
+  ],
+  "disputed": false
+}

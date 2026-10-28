@@ -1,0 +1,23 @@
+{
+  "id": "mahatma-gandhi",
+  "wikidata": "Q1001",
+  "name": "Mahatma Gandhi",
+  "category": "philosopher",
+  "start": 1869,
+  "end": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": 21.64,
+    "lon": 69.6,
+    "place": "Porbandar"
+  },
+  "summary": "Indian independence activist (1869–1948), born in Porbandar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1001",
+    "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+  ],
+  "disputed": false
+}

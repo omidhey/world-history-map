@@ -1,0 +1,23 @@
+{
+  "id": "prince-shotoku",
+  "wikidata": "Q263972",
+  "name": "Prince Shōtoku",
+  "category": "philosopher",
+  "start": 574,
+  "end": 622,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.47,
+    "lon": 135.82,
+    "place": "Tachibana-dera Temple"
+  },
+  "summary": "Semi-legendary Japanese prince (574–622), born in Tachibana-dera Temple. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_Shōtoku"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q263972",
+    "https://en.wikipedia.org/wiki/Prince_Shōtoku"
+  ],
+  "disputed": false
+}

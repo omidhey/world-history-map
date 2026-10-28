@@ -1,0 +1,22 @@
+{
+  "id": "achille-mbembe",
+  "wikidata": "Q340234",
+  "name": "Achille Mbembe",
+  "category": "philosopher",
+  "start": 1957,
+  "date_precision": "day",
+  "location": {
+    "lat": 5.13,
+    "lon": 12.65,
+    "place": "Cameroon"
+  },
+  "summary": "Cameroonian philosopher and political scientist (born 1957), born in Cameroon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Achille_Mbembe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q340234",
+    "https://en.wikipedia.org/wiki/Achille_Mbembe"
+  ],
+  "disputed": false
+}

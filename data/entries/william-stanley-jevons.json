@@ -1,0 +1,24 @@
+{
+  "id": "william-stanley-jevons",
+  "wikidata": "Q312546",
+  "name": "William Stanley Jevons",
+  "category": "philosopher",
+  "start": 1835,
+  "end": 1882,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.41,
+    "lon": -2.99,
+    "place": "Liverpool"
+  },
+  "summary": "English economist and logician, born in Liverpool. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Stanley_Jevons"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312546",
+    "https://en.wikipedia.org/wiki/William_Stanley_Jevons",
+    "https://plato.stanford.edu/entries/william-jevons/"
+  ],
+  "disputed": false
+}

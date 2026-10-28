@@ -1,0 +1,24 @@
+{
+  "id": "dietrich-bonhoeffer",
+  "wikidata": "Q76326",
+  "name": "Dietrich Bonhoeffer",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.11,
+    "lon": 17.03,
+    "place": "Wrocław"
+  },
+  "summary": "German Lutheran pastor, theologian, anti-Nazi dissident (1906–1945), born in Wrocław. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76326",
+    "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+    "https://iep.utm.edu/bonhoeff/"
+  ],
+  "disputed": false
+}

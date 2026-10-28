@@ -1,0 +1,24 @@
+{
+  "id": "paulo-freire",
+  "wikidata": "Q164797",
+  "name": "Paulo Freire",
+  "category": "philosopher",
+  "start": 1921,
+  "end": 1997,
+  "date_precision": "day",
+  "location": {
+    "lat": -8.05,
+    "lon": -34.88,
+    "place": "Recife"
+  },
+  "summary": "Lawyer, college teacher, author, born in Recife. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Freire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q164797",
+    "https://en.wikipedia.org/wiki/Paulo_Freire",
+    "https://iep.utm.edu/freire/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "archytas",
+  "wikidata": "Q202001",
+  "name": "Archytas",
+  "category": "philosopher",
+  "start": -430,
+  "end": -345,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.48,
+    "lon": 17.23,
+    "place": "Taras"
+  },
+  "summary": "4th-century BC Greek philosopher, mathematician, astronomer and statesman, born in Taras. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Archytas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q202001",
+    "https://en.wikipedia.org/wiki/Archytas",
+    "https://plato.stanford.edu/entries/archytas/"
+  ],
+  "disputed": false
+}

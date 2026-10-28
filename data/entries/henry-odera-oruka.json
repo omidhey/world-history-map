@@ -1,0 +1,23 @@
+{
+  "id": "henry-odera-oruka",
+  "wikidata": "Q1607102",
+  "name": "Henry Odera Oruka",
+  "category": "philosopher",
+  "start": 1944,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": -0.5,
+    "lon": 34.67,
+    "place": "Nyanza Province"
+  },
+  "summary": "Kenyan philosopher (1944-1995), born in Nyanza Province. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Odera_Oruka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1607102",
+    "https://en.wikipedia.org/wiki/Henry_Odera_Oruka"
+  ],
+  "disputed": false
+}

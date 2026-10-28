@@ -1,0 +1,23 @@
+{
+  "id": "hayashi-razan",
+  "wikidata": "Q558279",
+  "name": "Hayashi Razan",
+  "category": "philosopher",
+  "start": 1583,
+  "end": 1657,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Kyoto"
+  },
+  "summary": "Japanese philosopher (1583–1657), born in Kyoto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayashi_Razan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q558279",
+    "https://en.wikipedia.org/wiki/Hayashi_Razan"
+  ],
+  "disputed": false
+}

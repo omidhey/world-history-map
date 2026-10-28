@@ -1,0 +1,24 @@
+{
+  "id": "lie-yukou",
+  "wikidata": "Q2984064",
+  "name": "Lie Yukou",
+  "category": "philosopher",
+  "start": -450,
+  "end": -375,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.75,
+    "lon": 113.66,
+    "place": "Zhengzhou"
+  },
+  "summary": "4th-century BCE Chinese philosopher and author, born in Zhengzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lie_Yukou"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2984064",
+    "https://en.wikipedia.org/wiki/Lie_Yukou",
+    "https://iep.utm.edu/liezi/"
+  ],
+  "disputed": false
+}

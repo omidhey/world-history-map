@@ -1,0 +1,24 @@
+{
+  "id": "philolaus",
+  "wikidata": "Q212338",
+  "name": "Philolaus",
+  "category": "philosopher",
+  "start": -470,
+  "end": -390,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.08,
+    "lon": 17.12,
+    "place": "Crotone"
+  },
+  "summary": "Greek philosopher, astronomer and Pythagorean (c.470–c.385 BCE), born in Crotone. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philolaus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q212338",
+    "https://en.wikipedia.org/wiki/Philolaus",
+    "https://plato.stanford.edu/entries/philolaus/"
+  ],
+  "disputed": false
+}

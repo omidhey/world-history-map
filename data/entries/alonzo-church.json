@@ -1,0 +1,24 @@
+{
+  "id": "alonzo-church",
+  "wikidata": "Q92741",
+  "name": "Alonzo Church",
+  "category": "philosopher",
+  "start": 1903,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.9,
+    "lon": -77.04,
+    "place": "Washington, D.C."
+  },
+  "summary": "American mathematician and logician (1903–1995), born in Washington, D.C.. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alonzo_Church"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q92741",
+    "https://en.wikipedia.org/wiki/Alonzo_Church",
+    "https://plato.stanford.edu/entries/church/"
+  ],
+  "disputed": false
+}

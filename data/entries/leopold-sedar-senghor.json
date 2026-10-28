@@ -1,0 +1,23 @@
+{
+  "id": "leopold-sedar-senghor",
+  "wikidata": "Q154545",
+  "name": "Léopold Sédar Senghor",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 2001,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.15,
+    "lon": -16.83,
+    "place": "Joal-Fadiouth"
+  },
+  "summary": "First president of Senegal, poet, and cultural theorist (1906–2001), born in Joal-Fadiouth. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Léopold_Sédar_Senghor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q154545",
+    "https://en.wikipedia.org/wiki/Léopold_Sédar_Senghor"
+  ],
+  "disputed": false
+}

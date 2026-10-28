@@ -1,0 +1,24 @@
+{
+  "id": "emmanuel-levinas",
+  "wikidata": "Q153034",
+  "name": "Emmanuel Levinas",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.9,
+    "lon": 23.93,
+    "place": "Kaunas"
+  },
+  "summary": "Jewish-French-Lithuanian philosopher (1906-1995), born in Kaunas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Levinas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q153034",
+    "https://en.wikipedia.org/wiki/Emmanuel_Levinas",
+    "https://plato.stanford.edu/entries/levinas/"
+  ],
+  "disputed": false
+}

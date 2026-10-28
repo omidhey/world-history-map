@@ -1,0 +1,23 @@
+{
+  "id": "ando-shoeki",
+  "wikidata": "Q2846168",
+  "name": "Andō Shōeki",
+  "category": "philosopher",
+  "start": 1703,
+  "end": 1762,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.24,
+    "lon": 140.55,
+    "place": "Niida"
+  },
+  "summary": "Japanese philosopher, born in Niida. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andō_Shōeki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2846168",
+    "https://en.wikipedia.org/wiki/Andō_Shōeki"
+  ],
+  "disputed": false
+}

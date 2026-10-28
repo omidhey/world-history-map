@@ -1,0 +1,25 @@
+{
+  "id": "vasubandhu",
+  "wikidata": "Q316343",
+  "name": "Vasubandhu",
+  "category": "philosopher",
+  "start": 300,
+  "end": 399,
+  "date_precision": "century",
+  "location": {
+    "lat": 34.01,
+    "lon": 71.57,
+    "place": "Peshawar"
+  },
+  "summary": "4th/5th century Indian Buddhist monk, born in Peshawar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasubandhu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316343",
+    "https://en.wikipedia.org/wiki/Vasubandhu",
+    "https://plato.stanford.edu/entries/vasubandhu/",
+    "https://iep.utm.edu/vasubandhu/"
+  ],
+  "disputed": false
+}

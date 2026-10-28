@@ -1,0 +1,25 @@
+{
+  "id": "nicholas-of-cusa",
+  "wikidata": "Q154751",
+  "name": "Nicholas of Cusa",
+  "category": "philosopher",
+  "start": 1401,
+  "end": 1464,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.92,
+    "lon": 7.07,
+    "place": "Bernkastel-Kues"
+  },
+  "summary": "German philosopher (1401 – 1464), born in Bernkastel-Kues. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Cusa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q154751",
+    "https://en.wikipedia.org/wiki/Nicholas_of_Cusa",
+    "https://plato.stanford.edu/entries/cusanus/",
+    "https://iep.utm.edu/nicholas/"
+  ],
+  "disputed": false
+}

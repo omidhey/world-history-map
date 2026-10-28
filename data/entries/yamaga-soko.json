@@ -1,0 +1,23 @@
+{
+  "id": "yamaga-soko",
+  "wikidata": "Q1095270",
+  "name": "Yamaga Sokō",
+  "category": "philosopher",
+  "start": 1622,
+  "end": 1685,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.49,
+    "lon": 139.93,
+    "place": "Aizuwakamatsu"
+  },
+  "summary": "Japanese philosopher (1622-1685), born in Aizuwakamatsu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yamaga_Sokō"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1095270",
+    "https://en.wikipedia.org/wiki/Yamaga_Sokō"
+  ],
+  "disputed": false
+}

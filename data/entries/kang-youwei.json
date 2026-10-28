@@ -1,0 +1,23 @@
+{
+  "id": "kang-youwei",
+  "wikidata": "Q360135",
+  "name": "Kang Youwei",
+  "category": "philosopher",
+  "start": 1858,
+  "end": 1927,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.03,
+    "lon": 113.14,
+    "place": "Nanhai District"
+  },
+  "summary": "Chinese politician and scholar (1858-1927), born in Nanhai District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kang_Youwei"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q360135",
+    "https://en.wikipedia.org/wiki/Kang_Youwei"
+  ],
+  "disputed": false
+}

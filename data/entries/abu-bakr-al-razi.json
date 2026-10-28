@@ -1,0 +1,24 @@
+{
+  "id": "abu-bakr-al-razi",
+  "wikidata": "Q169234",
+  "name": "Abu Bakr al-Razi",
+  "category": "philosopher",
+  "start": 866,
+  "end": 925,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.6,
+    "lon": 51.43,
+    "place": "Ray"
+  },
+  "summary": "Persian polymath, physician, chemist and philosopher (854-925), born in Ray. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q169234",
+    "https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi",
+    "https://plato.stanford.edu/entries/abu-bakr-al-razi/"
+  ],
+  "disputed": false
+}

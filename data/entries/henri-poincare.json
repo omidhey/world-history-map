@@ -1,0 +1,25 @@
+{
+  "id": "henri-poincare",
+  "wikidata": "Q81082",
+  "name": "Henri Poincaré",
+  "category": "philosopher",
+  "start": 1854,
+  "end": 1912,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.69,
+    "lon": 6.18,
+    "place": "Nancy"
+  },
+  "summary": "French mathematician, physicist and engineer (1854–1912), born in Nancy. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Poincaré"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81082",
+    "https://en.wikipedia.org/wiki/Henri_Poincaré",
+    "https://plato.stanford.edu/entries/poincare/",
+    "https://iep.utm.edu/poincare/"
+  ],
+  "disputed": false
+}

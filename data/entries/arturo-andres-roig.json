@@ -1,0 +1,23 @@
+{
+  "id": "arturo-andres-roig",
+  "wikidata": "Q2865932",
+  "name": "Arturo Andrés Roig",
+  "category": "philosopher",
+  "start": 1922,
+  "end": 2012,
+  "date_precision": "day",
+  "location": {
+    "lat": -32.89,
+    "lon": -68.84,
+    "place": "Mendoza"
+  },
+  "summary": "Argentine philosopher (1922-2012), born in Mendoza. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arturo_Andrés_Roig"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2865932",
+    "https://en.wikipedia.org/wiki/Arturo_Andrés_Roig"
+  ],
+  "disputed": false
+}

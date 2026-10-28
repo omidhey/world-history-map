@@ -1,0 +1,24 @@
+{
+  "id": "willard-van-orman-quine",
+  "wikidata": "Q214969",
+  "name": "Willard Van Orman Quine",
+  "category": "philosopher",
+  "start": 1908,
+  "end": 2000,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.07,
+    "lon": -81.52,
+    "place": "Akron"
+  },
+  "summary": "American philosopher and logician (1900–2000), born in Akron. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q214969",
+    "https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine",
+    "https://plato.stanford.edu/entries/quine/"
+  ],
+  "disputed": false
+}

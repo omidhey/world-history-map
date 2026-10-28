@@ -1,0 +1,22 @@
+{
+  "id": "kwame-anthony-appiah",
+  "wikidata": "Q572741",
+  "name": "Kwame Anthony Appiah",
+  "category": "philosopher",
+  "start": 1954,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "Ghanian-British-American philosopher and writer, born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q572741",
+    "https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah"
+  ],
+  "disputed": false
+}

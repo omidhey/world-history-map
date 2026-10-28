@@ -1,0 +1,23 @@
+{
+  "id": "ibn-masarra",
+  "wikidata": "Q3147455",
+  "name": "Ibn Masarra",
+  "category": "philosopher",
+  "start": 883,
+  "end": 931,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "Andalusian scholar, born in Córdoba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Masarra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3147455",
+    "https://en.wikipedia.org/wiki/Ibn_Masarra"
+  ],
+  "disputed": false
+}

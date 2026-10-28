@@ -1,0 +1,24 @@
+{
+  "id": "judah-halevi",
+  "wikidata": "Q299200",
+  "name": "Judah Halevi",
+  "category": "philosopher",
+  "start": 1075,
+  "end": 1141,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.07,
+    "lon": -1.61,
+    "place": "Tudela"
+  },
+  "summary": "Spanish-Jewish philosopher, poet and physician (c.1075–1141), born in Tudela. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Judah_Halevi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q299200",
+    "https://en.wikipedia.org/wiki/Judah_Halevi",
+    "https://plato.stanford.edu/entries/halevi/"
+  ],
+  "disputed": false
+}

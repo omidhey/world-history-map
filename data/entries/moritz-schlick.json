@@ -1,0 +1,24 @@
+{
+  "id": "moritz-schlick",
+  "wikidata": "Q57193",
+  "name": "Moritz Schlick",
+  "category": "philosopher",
+  "start": 1882,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.52,
+    "lon": 13.38,
+    "place": "Berlin"
+  },
+  "summary": "German philosopher (1882-1936), born in Berlin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Moritz_Schlick"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57193",
+    "https://en.wikipedia.org/wiki/Moritz_Schlick",
+    "https://plato.stanford.edu/entries/schlick/"
+  ],
+  "disputed": false
+}

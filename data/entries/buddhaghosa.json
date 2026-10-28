@@ -1,0 +1,23 @@
+{
+  "id": "buddhaghosa",
+  "wikidata": "Q335247",
+  "name": "Buddhaghosa",
+  "category": "philosopher",
+  "start": 401,
+  "end": 500,
+  "date_precision": "century",
+  "location": {
+    "lat": 24.7,
+    "lon": 84.99,
+    "place": "Bodh Gaya"
+  },
+  "summary": "5th-century Indian Theravada Buddhist commentator, translator and philosopher, born in Bodh Gaya. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Buddhaghosa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q335247",
+    "https://en.wikipedia.org/wiki/Buddhaghosa"
+  ],
+  "disputed": false
+}

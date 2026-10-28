@@ -1,0 +1,24 @@
+{
+  "id": "madame-de-sevigne",
+  "wikidata": "Q237103",
+  "name": "Madame de Sévigné",
+  "category": "philosopher",
+  "start": 1626,
+  "end": 1696,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French noble and epistolarian writer (1626–1696), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie_de_Rabutin-Chantal,_marquise_de_Sévigné"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q237103",
+    "https://en.wikipedia.org/wiki/Marie_de_Rabutin-Chantal,_marquise_de_Sévigné",
+    "https://iep.utm.edu/sevigne/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "muhammad-abduh",
+  "wikidata": "Q311826",
+  "name": "Muhammad Abduh",
+  "category": "philosopher",
+  "start": 1849,
+  "end": 1905,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.03,
+    "lon": 30.71,
+    "place": "Shubra Khit"
+  },
+  "summary": "Egyptian Islamic jurist, religious scholar and liberal reformer (1849-1905), born in Shubra Khit. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Abduh"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311826",
+    "https://en.wikipedia.org/wiki/Muhammad_Abduh"
+  ],
+  "disputed": false
+}

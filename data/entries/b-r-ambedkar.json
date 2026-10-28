@@ -1,0 +1,23 @@
+{
+  "id": "b-r-ambedkar",
+  "wikidata": "Q231690",
+  "name": "B. R. Ambedkar",
+  "category": "philosopher",
+  "start": 1891,
+  "end": 1956,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.55,
+    "lon": 75.76,
+    "place": "Dr. Ambedkar Nagar"
+  },
+  "summary": "Indian jurist, economist, and social reformer (1891–1956), born in Dr. Ambedkar Nagar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/B._R._Ambedkar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q231690",
+    "https://en.wikipedia.org/wiki/B._R._Ambedkar"
+  ],
+  "disputed": false
+}

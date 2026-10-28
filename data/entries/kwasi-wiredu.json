@@ -1,0 +1,24 @@
+{
+  "id": "kwasi-wiredu",
+  "wikidata": "Q570103",
+  "name": "Kwasi Wiredu",
+  "category": "philosopher",
+  "start": 1931,
+  "end": 2022,
+  "date_precision": "day",
+  "location": {
+    "lat": 6.7,
+    "lon": -1.62,
+    "place": "Kumasi"
+  },
+  "summary": "Ghanaian philosopher and author, born in Kumasi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kwasi_Wiredu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q570103",
+    "https://en.wikipedia.org/wiki/Kwasi_Wiredu",
+    "https://iep.utm.edu/wiredu/"
+  ],
+  "disputed": false
+}

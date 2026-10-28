@@ -1,0 +1,23 @@
+{
+  "id": "julius-nyerere",
+  "wikidata": "Q186525",
+  "name": "Julius Nyerere",
+  "category": "philosopher",
+  "start": 1922,
+  "end": 1999,
+  "date_precision": "day",
+  "location": {
+    "lat": -1.77,
+    "lon": 33.97,
+    "place": "Butiama"
+  },
+  "summary": "Tanzanian politician and writer, first Prime Minister and President of Tanzania (1922–1999), born in Butiama. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Nyerere"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q186525",
+    "https://en.wikipedia.org/wiki/Julius_Nyerere"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "wang-yangming",
+  "wikidata": "Q378462",
+  "name": "Wang Yangming",
+  "category": "philosopher",
+  "start": 1472,
+  "end": 1529,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.04,
+    "lon": 121.15,
+    "place": "Yuyao City"
+  },
+  "summary": "Chinese philosopher and general (1472–1529), born in Yuyao City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Yangming"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q378462",
+    "https://en.wikipedia.org/wiki/Wang_Yangming",
+    "https://plato.stanford.edu/entries/wang-yangming/",
+    "https://iep.utm.edu/wangyang/"
+  ],
+  "disputed": false
+}

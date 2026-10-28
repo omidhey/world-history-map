@@ -51,6 +51,9 @@ No other fields are allowed; propose new ones in an issue.
 - Socrates was born in 470 BCE and died in 399 BCE: `"start": -470, "end": -399`.
 - Some tools and datasets use a year 0 (astronomical numbering), which shifts every BCE
   date by one. Check a known date before importing.
+- The Wikidata query service is one of them: it returns Socrates' birth as `-0469`, and it
+  also converts Julian dates to Gregorian. `pipeline/import_wikidata.py` therefore reads dates
+  from the entity data itself, which keeps the year as entered (`-0470`).
 - `start` may not be after `end`, and no year may be in the future.
 
 ## Disputed dates

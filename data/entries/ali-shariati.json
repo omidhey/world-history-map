@@ -1,0 +1,23 @@
+{
+  "id": "ali-shariati",
+  "wikidata": "Q317475",
+  "name": "Ali Shariati",
+  "category": "philosopher",
+  "start": 1933,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.31,
+    "lon": 56.82,
+    "place": "Mazinan"
+  },
+  "summary": "Iranian writer, scholar of Islam, and political activist(1933-1977), born in Mazinan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ali_Shariati"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q317475",
+    "https://en.wikipedia.org/wiki/Ali_Shariati"
+  ],
+  "disputed": false
+}

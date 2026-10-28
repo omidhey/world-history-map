@@ -1,0 +1,23 @@
+{
+  "id": "nichiren",
+  "wikidata": "Q311478",
+  "name": "Nichiren",
+  "category": "philosopher",
+  "start": 1222,
+  "end": 1282,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.12,
+    "lon": 140.2,
+    "place": "Tanjō-ji Temple"
+  },
+  "summary": "Founder of Nichiren Buddhism in Japan, born in Tanjō-ji Temple. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nichiren"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311478",
+    "https://en.wikipedia.org/wiki/Nichiren"
+  ],
+  "disputed": false
+}

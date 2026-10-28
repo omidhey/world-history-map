@@ -1,0 +1,23 @@
+{
+  "id": "shinran",
+  "wikidata": "Q512934",
+  "name": "Shinran",
+  "category": "philosopher",
+  "start": 1173,
+  "end": 1263,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.93,
+    "lon": 135.82,
+    "place": "Hino Tanjō-in Temple"
+  },
+  "summary": "Japanese Buddhist monk and founder of the Jōdo Shinshū sect (1173–1263), born in Hino Tanjō-in Temple. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinran"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q512934",
+    "https://en.wikipedia.org/wiki/Shinran"
+  ],
+  "disputed": false
+}

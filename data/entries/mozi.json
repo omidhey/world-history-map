@@ -1,0 +1,24 @@
+{
+  "id": "mozi",
+  "wikidata": "Q272411",
+  "name": "Mozi",
+  "category": "philosopher",
+  "start": -470,
+  "end": -391,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.08,
+    "lon": 117.16,
+    "place": "Lu (now Tengzhou)"
+  },
+  "summary": "5th-century BC Chinese philosopher and founder of Mohism, born in Lu (now Tengzhou). Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mozi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q272411",
+    "https://en.wikipedia.org/wiki/Mozi",
+    "https://iep.utm.edu/mozi/"
+  ],
+  "disputed": false
+}

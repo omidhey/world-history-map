@@ -1,0 +1,24 @@
+{
+  "id": "margaret-fuller",
+  "wikidata": "Q257953",
+  "name": "Margaret Fuller",
+  "category": "philosopher",
+  "start": 1810,
+  "end": 1850,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.38,
+    "lon": -71.11,
+    "place": "Cambridge"
+  },
+  "summary": "American writer and women's activist (1810–1850), born in Cambridge. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Fuller"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q257953",
+    "https://en.wikipedia.org/wiki/Margaret_Fuller",
+    "https://plato.stanford.edu/entries/fuller-margaret/"
+  ],
+  "disputed": false
+}

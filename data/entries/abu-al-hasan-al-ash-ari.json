@@ -1,0 +1,23 @@
+{
+  "id": "abu-al-hasan-al-ash-ari",
+  "wikidata": "Q316349",
+  "name": "Abu al-Hasan al-Ash'ari",
+  "category": "philosopher",
+  "start": 873,
+  "end": 935,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.52,
+    "lon": 47.81,
+    "place": "Basra"
+  },
+  "summary": "Muslim theologian (874–936), born in Basra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abu_al-Hasan_al-Ash'ari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316349",
+    "https://en.wikipedia.org/wiki/Abu_al-Hasan_al-Ash'ari"
+  ],
+  "disputed": false
+}

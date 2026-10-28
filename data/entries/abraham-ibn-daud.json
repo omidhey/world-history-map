@@ -1,0 +1,24 @@
+{
+  "id": "abraham-ibn-daud",
+  "wikidata": "Q330821",
+  "name": "Abraham ibn Daud",
+  "category": "philosopher",
+  "start": 1110,
+  "end": 1180,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "12th century Spanish astronomer, historian and philosopher, born in Córdoba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_ibn_Daud"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q330821",
+    "https://en.wikipedia.org/wiki/Abraham_ibn_Daud",
+    "https://plato.stanford.edu/entries/abraham-daud/"
+  ],
+  "disputed": false
+}

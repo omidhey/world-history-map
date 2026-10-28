@@ -1,0 +1,24 @@
+{
+  "id": "fakhr-al-din-al-razi",
+  "wikidata": "Q333703",
+  "name": "Fakhr al-Din al-Razi",
+  "category": "philosopher",
+  "start": 1150,
+  "end": 1210,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.6,
+    "lon": 51.43,
+    "place": "Ray"
+  },
+  "summary": "12th-century Sunni Muslim theologian and philosopher, born in Ray. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fakhr_al-Din_al-Razi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q333703",
+    "https://en.wikipedia.org/wiki/Fakhr_al-Din_al-Razi",
+    "https://plato.stanford.edu/entries/al-din-al-razi/"
+  ],
+  "disputed": false
+}

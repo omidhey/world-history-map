@@ -1,0 +1,23 @@
+{
+  "id": "hajime-tanabe",
+  "wikidata": "Q1394797",
+  "name": "Hajime Tanabe",
+  "category": "philosopher",
+  "start": 1885,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Tokyo"
+  },
+  "summary": "Japanese philosopher (1885–1962), born in Tokyo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hajime_Tanabe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1394797",
+    "https://en.wikipedia.org/wiki/Hajime_Tanabe"
+  ],
+  "disputed": false
+}

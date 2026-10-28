@@ -1,0 +1,23 @@
+{
+  "id": "risieri-frondizi",
+  "wikidata": "Q9069435",
+  "name": "Risieri Frondizi",
+  "category": "philosopher",
+  "start": 1910,
+  "end": 1983,
+  "date_precision": "day",
+  "location": {
+    "lat": -27.37,
+    "lon": -55.9,
+    "place": "Posadas"
+  },
+  "summary": "Argentine philosopher and anthropologist (1910–1983), born in Posadas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Risieri_Frondizi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9069435",
+    "https://en.wikipedia.org/wiki/Risieri_Frondizi"
+  ],
+  "disputed": false
+}

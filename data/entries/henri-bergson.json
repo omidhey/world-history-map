@@ -1,0 +1,24 @@
+{
+  "id": "henri-bergson",
+  "wikidata": "Q42156",
+  "name": "Henri Bergson",
+  "category": "philosopher",
+  "start": 1859,
+  "end": 1941,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French philosopher (1859–1941), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Bergson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42156",
+    "https://en.wikipedia.org/wiki/Henri_Bergson",
+    "https://plato.stanford.edu/entries/bergson/"
+  ],
+  "disputed": false
+}

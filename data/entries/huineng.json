@@ -1,0 +1,24 @@
+{
+  "id": "huineng",
+  "wikidata": "Q345012",
+  "name": "Huineng",
+  "category": "philosopher",
+  "start": 638,
+  "end": 713,
+  "date_precision": "year",
+  "location": {
+    "lat": 22.7,
+    "lon": 112.23,
+    "place": "Xinxing County"
+  },
+  "summary": "Semi-legendary Chinese Chan (Zen) patriarch, born in Xinxing County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Huineng"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q345012",
+    "https://en.wikipedia.org/wiki/Huineng",
+    "https://iep.utm.edu/huineng/"
+  ],
+  "disputed": false
+}

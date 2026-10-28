@@ -1,0 +1,25 @@
+{
+  "id": "johann-gottlieb-fichte",
+  "wikidata": "Q102585",
+  "name": "Johann Gottlieb Fichte",
+  "category": "philosopher",
+  "start": 1762,
+  "end": 1814,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.15,
+    "lon": 14.13,
+    "place": "Rammenau"
+  },
+  "summary": "German philosopher (1762–1814), born in Rammenau. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q102585",
+    "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
+    "https://plato.stanford.edu/entries/johann-fichte/",
+    "https://iep.utm.edu/fichtejg/"
+  ],
+  "disputed": false
+}

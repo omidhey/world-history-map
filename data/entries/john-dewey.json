@@ -1,0 +1,25 @@
+{
+  "id": "john-dewey",
+  "wikidata": "Q131805",
+  "name": "John Dewey",
+  "category": "philosopher",
+  "start": 1859,
+  "end": 1952,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.48,
+    "lon": -73.21,
+    "place": "Burlington"
+  },
+  "summary": "American philosopher, psychologist, and educational reformer (1859–1952), born in Burlington. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dewey"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131805",
+    "https://en.wikipedia.org/wiki/John_Dewey",
+    "https://plato.stanford.edu/entries/dewey/",
+    "https://iep.utm.edu/dewey/"
+  ],
+  "disputed": false
+}

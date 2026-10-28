@@ -1,0 +1,23 @@
+{
+  "id": "amilcar-cabral",
+  "wikidata": "Q213416",
+  "name": "Amílcar Cabral",
+  "category": "philosopher",
+  "start": 1924,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": 12.17,
+    "lon": -14.66,
+    "place": "Bafatá"
+  },
+  "summary": "Guinea-Bissauan and Cape Verdean politician (1924-1973), born in Bafatá. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amílcar_Cabral"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q213416",
+    "https://en.wikipedia.org/wiki/Amílcar_Cabral"
+  ],
+  "disputed": false
+}

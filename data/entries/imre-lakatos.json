@@ -1,0 +1,24 @@
+{
+  "id": "imre-lakatos",
+  "wikidata": "Q296249",
+  "name": "Imre Lakatos",
+  "category": "philosopher",
+  "start": 1922,
+  "end": 1974,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.53,
+    "lon": 21.64,
+    "place": "Debrecen"
+  },
+  "summary": "Hungarian philosopher of mathematics and science (1922-1974), born in Debrecen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Imre_Lakatos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q296249",
+    "https://en.wikipedia.org/wiki/Imre_Lakatos",
+    "https://plato.stanford.edu/entries/lakatos/"
+  ],
+  "disputed": false
+}

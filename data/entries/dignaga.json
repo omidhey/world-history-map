@@ -1,0 +1,23 @@
+{
+  "id": "dignaga",
+  "wikidata": "Q558272",
+  "name": "Dignāga",
+  "category": "philosopher",
+  "start": 480,
+  "end": 540,
+  "date_precision": "year",
+  "location": {
+    "lat": 12.83,
+    "lon": 79.71,
+    "place": "Kanchipuram"
+  },
+  "summary": "Indian Buddhist philosopher and logician (c.480–c.540), born in Kanchipuram. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dignāga"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q558272",
+    "https://en.wikipedia.org/wiki/Dignāga"
+  ],
+  "disputed": false
+}

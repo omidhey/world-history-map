@@ -1,0 +1,24 @@
+{
+  "id": "georg-lukacs",
+  "wikidata": "Q151523",
+  "name": "Georg Lukács",
+  "category": "philosopher",
+  "start": 1885,
+  "end": 1971,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.5,
+    "lon": 19.04,
+    "place": "Budapest"
+  },
+  "summary": "Hungarian marxist philosopher and literary critic (1885–1971), born in Budapest. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/György_Lukács"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q151523",
+    "https://en.wikipedia.org/wiki/György_Lukács",
+    "https://plato.stanford.edu/entries/lukacs/"
+  ],
+  "disputed": false
+}

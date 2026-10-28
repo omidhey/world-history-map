@@ -1,0 +1,24 @@
+{
+  "id": "marin-mersenne",
+  "wikidata": "Q188663",
+  "name": "Marin Mersenne",
+  "category": "philosopher",
+  "start": 1588,
+  "end": 1648,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.81,
+    "lon": 0.1,
+    "place": "Oizé"
+  },
+  "summary": "French theologian, philosopher, mathematician and music theorist, often referred to as the \"father of acoustics\" (1588-1648), born in Oizé. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marin_Mersenne"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188663",
+    "https://en.wikipedia.org/wiki/Marin_Mersenne",
+    "https://plato.stanford.edu/entries/mersenne/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hu-shih",
+  "wikidata": "Q47667",
+  "name": "Hu Shih",
+  "category": "philosopher",
+  "start": 1891,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.23,
+    "lon": 121.47,
+    "place": "Shanghai"
+  },
+  "summary": "Chinese scholar, writer and philosopher (1891–1962), born in Shanghai. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hu_Shih"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47667",
+    "https://en.wikipedia.org/wiki/Hu_Shih"
+  ],
+  "disputed": false
+}

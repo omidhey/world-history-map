@@ -1,0 +1,25 @@
+{
+  "id": "jean-francois-lyotard",
+  "wikidata": "Q193257",
+  "name": "Jean-François Lyotard",
+  "category": "philosopher",
+  "start": 1924,
+  "end": 1998,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.8,
+    "lon": 2.13,
+    "place": "Versailles"
+  },
+  "summary": "French philosopher, sociologist, and literary theorist (1924-1998), born in Versailles. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_Lyotard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193257",
+    "https://en.wikipedia.org/wiki/Jean-François_Lyotard",
+    "https://plato.stanford.edu/entries/lyotard/",
+    "https://iep.utm.edu/lyotard/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "liang-chi-chao",
+  "wikidata": "Q379836",
+  "name": "Liang Chi-chao",
+  "category": "philosopher",
+  "start": 1873,
+  "end": 1929,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.52,
+    "lon": 113.03,
+    "place": "Huicheng Subdistrict"
+  },
+  "summary": "Chinese politician, activist and journalist (1873–1929), born in Huicheng Subdistrict. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liang_Qichao"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379836",
+    "https://en.wikipedia.org/wiki/Liang_Qichao"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "shantideva",
+  "wikidata": "Q445460",
+  "name": "Shantideva",
+  "category": "philosopher",
+  "start": 685,
+  "end": 763,
+  "date_precision": "year",
+  "location": {
+    "lat": 22.8,
+    "lon": 83,
+    "place": "India"
+  },
+  "summary": "8th-century Indian Buddhist monk and scholar, died in India. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shantideva"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q445460",
+    "https://en.wikipedia.org/wiki/Shantideva",
+    "https://plato.stanford.edu/entries/shantideva/",
+    "https://iep.utm.edu/santideva/"
+  ],
+  "disputed": false
+}

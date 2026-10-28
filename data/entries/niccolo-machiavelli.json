@@ -1,0 +1,25 @@
+{
+  "id": "niccolo-machiavelli",
+  "wikidata": "Q1399",
+  "name": "Niccolò Machiavelli",
+  "category": "philosopher",
+  "start": 1469,
+  "end": 1527,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.77,
+    "lon": 11.25,
+    "place": "Florence"
+  },
+  "summary": "Florentine statesman, diplomat, and political theorist (1469–1527), born in Florence. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Niccolò_Machiavelli"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1399",
+    "https://en.wikipedia.org/wiki/Niccolò_Machiavelli",
+    "https://plato.stanford.edu/entries/machiavelli/",
+    "https://iep.utm.edu/machiave/"
+  ],
+  "disputed": false
+}

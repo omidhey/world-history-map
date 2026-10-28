@@ -1,0 +1,24 @@
+{
+  "id": "giovanni-pico-della-mirandola",
+  "wikidata": "Q182128",
+  "name": "Giovanni Pico della Mirandola",
+  "category": "philosopher",
+  "start": 1463,
+  "end": 1494,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.89,
+    "lon": 11.07,
+    "place": "Mirandola"
+  },
+  "summary": "Italian Renaissance philosopher (1463–1494), born in Mirandola. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q182128",
+    "https://en.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola",
+    "https://plato.stanford.edu/entries/pico-della-mirandola/"
+  ],
+  "disputed": false
+}

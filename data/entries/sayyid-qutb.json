@@ -1,0 +1,42 @@
+{
+  "id": "sayyid-qutb",
+  "wikidata": "Q211379",
+  "name": "Sayyid Qutb",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.12,
+    "lon": 31.23,
+    "place": "Musha"
+  },
+  "summary": "Egyptian political theorist and revolutionary (1906–1966), born in Musha. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sayyid_Qutb"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q211379",
+    "https://en.wikipedia.org/wiki/Sayyid_Qutb",
+    "https://iep.utm.edu/qutb/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1966,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q211379"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1967,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q211379"
+      ]
+    }
+  ]
+}

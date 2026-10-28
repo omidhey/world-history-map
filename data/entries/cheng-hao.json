@@ -1,0 +1,24 @@
+{
+  "id": "cheng-hao",
+  "wikidata": "Q558192",
+  "name": "Cheng Hao",
+  "category": "philosopher",
+  "start": 1032,
+  "end": 1085,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.88,
+    "lon": 114.37,
+    "place": "Huangpi District"
+  },
+  "summary": "Chinese philosopher (1032–1085), born in Huangpi District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheng_Hao"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q558192",
+    "https://en.wikipedia.org/wiki/Cheng_Hao",
+    "https://iep.utm.edu/chenghao/"
+  ],
+  "disputed": false
+}

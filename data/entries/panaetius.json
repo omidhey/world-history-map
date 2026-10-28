@@ -1,0 +1,23 @@
+{
+  "id": "panaetius",
+  "wikidata": "Q297420",
+  "name": "Panaetius",
+  "category": "philosopher",
+  "start": -185,
+  "end": -110,
+  "date_precision": "century",
+  "location": {
+    "lat": 36.17,
+    "lon": 27.92,
+    "place": "Rhodes"
+  },
+  "summary": "2nd-century BC Greek philosopher, born in Rhodes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Panaetius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q297420",
+    "https://en.wikipedia.org/wiki/Panaetius"
+  ],
+  "disputed": false
+}

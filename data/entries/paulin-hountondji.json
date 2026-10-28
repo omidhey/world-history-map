@@ -1,0 +1,23 @@
+{
+  "id": "paulin-hountondji",
+  "wikidata": "Q712288",
+  "name": "Paulin Hountondji",
+  "category": "philosopher",
+  "start": 1942,
+  "end": 2024,
+  "date_precision": "day",
+  "location": {
+    "lat": 5.34,
+    "lon": -4.03,
+    "place": "Abidjan"
+  },
+  "summary": "Beninese philosopher (1942–2024), born in Abidjan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulin_J._Hountondji"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q712288",
+    "https://en.wikipedia.org/wiki/Paulin_J._Hountondji"
+  ],
+  "disputed": false
+}

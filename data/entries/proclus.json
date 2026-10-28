@@ -1,0 +1,24 @@
+{
+  "id": "proclus",
+  "wikidata": "Q271809",
+  "name": "Proclus",
+  "category": "philosopher",
+  "start": 412,
+  "end": 485,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.98,
+    "place": "Constantinople"
+  },
+  "summary": "5th-century Greek Neoplatonist philosopher, born in Constantinople. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Proclus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q271809",
+    "https://en.wikipedia.org/wiki/Proclus",
+    "https://plato.stanford.edu/entries/proclus/"
+  ],
+  "disputed": false
+}

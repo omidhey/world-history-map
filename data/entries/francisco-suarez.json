@@ -1,0 +1,25 @@
+{
+  "id": "francisco-suarez",
+  "wikidata": "Q316339",
+  "name": "Francisco Suárez",
+  "category": "philosopher",
+  "start": 1548,
+  "end": 1617,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.17,
+    "lon": -3.6,
+    "place": "Granada"
+  },
+  "summary": "Spanish Jesuit priest, philosopher and theologian (1548-1617), born in Granada. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Suárez"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316339",
+    "https://en.wikipedia.org/wiki/Francisco_Suárez",
+    "https://plato.stanford.edu/entries/suarez/",
+    "https://iep.utm.edu/suarez/"
+  ],
+  "disputed": false
+}

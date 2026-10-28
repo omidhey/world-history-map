@@ -1,0 +1,41 @@
+{
+  "id": "jose-carlos-mariategui",
+  "wikidata": "Q335544",
+  "name": "José Carlos Mariátegui",
+  "category": "philosopher",
+  "start": 1894,
+  "end": 1930,
+  "date_precision": "day",
+  "location": {
+    "lat": -17.2,
+    "lon": -70.93,
+    "place": "Moquegua"
+  },
+  "summary": "Peruvian writer and academic (1894–1930), born in Moquegua. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/José_Carlos_Mariátegui"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q335544",
+    "https://en.wikipedia.org/wiki/José_Carlos_Mariátegui"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1894,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q335544"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1895,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q335544"
+      ]
+    }
+  ]
+}

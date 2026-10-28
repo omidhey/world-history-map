@@ -1,0 +1,24 @@
+{
+  "id": "tommaso-campanella",
+  "wikidata": "Q191850",
+  "name": "Tommaso Campanella",
+  "category": "philosopher",
+  "start": 1568,
+  "end": 1639,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.48,
+    "lon": 16.47,
+    "place": "Stilo"
+  },
+  "summary": "Italian philosopher, theologian, astrologer, and poet (1568-1639), born in Stilo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommaso_Campanella"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q191850",
+    "https://en.wikipedia.org/wiki/Tommaso_Campanella",
+    "https://plato.stanford.edu/entries/campanella/"
+  ],
+  "disputed": false
+}

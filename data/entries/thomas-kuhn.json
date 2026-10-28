@@ -1,0 +1,25 @@
+{
+  "id": "thomas-kuhn",
+  "wikidata": "Q184980",
+  "name": "Thomas Kuhn",
+  "category": "philosopher",
+  "start": 1922,
+  "end": 1996,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.1,
+    "lon": -84.51,
+    "place": "Cincinnati"
+  },
+  "summary": "American historian, physicist and philosopher (1922 – 1996), born in Cincinnati. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kuhn"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184980",
+    "https://en.wikipedia.org/wiki/Thomas_Kuhn",
+    "https://plato.stanford.edu/entries/thomas-kuhn/",
+    "https://iep.utm.edu/kuhn-ts/"
+  ],
+  "disputed": false
+}

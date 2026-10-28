@@ -1,0 +1,24 @@
+{
+  "id": "wang-chong",
+  "wikidata": "Q319329",
+  "name": "Wang Chong",
+  "category": "philosopher",
+  "start": 27,
+  "end": 97,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.02,
+    "lon": 120.87,
+    "place": "Shangyu District"
+  },
+  "summary": "1st century Chinese meteorologist, astronomer, and philosopher, born in Shangyu District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Chong"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q319329",
+    "https://en.wikipedia.org/wiki/Wang_Chong",
+    "https://iep.utm.edu/wangchon/"
+  ],
+  "disputed": false
+}

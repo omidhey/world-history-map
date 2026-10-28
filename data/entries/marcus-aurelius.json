@@ -1,0 +1,25 @@
+{
+  "id": "marcus-aurelius",
+  "wikidata": "Q1430",
+  "name": "Marcus Aurelius",
+  "category": "philosopher",
+  "start": 121,
+  "end": 180,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "16th Roman Emperor from 161 to 180 and Stoic philosopher, born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1430",
+    "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "https://plato.stanford.edu/entries/marcus-aurelius/",
+    "https://iep.utm.edu/marcus/"
+  ],
+  "disputed": false
+}

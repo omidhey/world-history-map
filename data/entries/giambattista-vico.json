@@ -1,0 +1,25 @@
+{
+  "id": "giambattista-vico",
+  "wikidata": "Q178709",
+  "name": "Giambattista Vico",
+  "category": "philosopher",
+  "start": 1668,
+  "end": 1744,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.84,
+    "lon": 14.25,
+    "place": "Naples"
+  },
+  "summary": "Italian philosopher, rhetorician, historian and jurist, born in Naples. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giambattista_Vico"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q178709",
+    "https://en.wikipedia.org/wiki/Giambattista_Vico",
+    "https://plato.stanford.edu/entries/vico/",
+    "https://iep.utm.edu/vico/"
+  ],
+  "disputed": false
+}

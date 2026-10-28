@@ -1,0 +1,23 @@
+{
+  "id": "oswald-spengler",
+  "wikidata": "Q57112",
+  "name": "Oswald Spengler",
+  "category": "philosopher",
+  "start": 1880,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.8,
+    "lon": 10.96,
+    "place": "Blankenburg"
+  },
+  "summary": "German historian and philosopher (1880-1936), born in Blankenburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Oswald_Spengler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57112",
+    "https://en.wikipedia.org/wiki/Oswald_Spengler"
+  ],
+  "disputed": false
+}

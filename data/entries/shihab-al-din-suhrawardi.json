@@ -1,0 +1,24 @@
+{
+  "id": "shihab-al-din-suhrawardi",
+  "wikidata": "Q282883",
+  "name": "Shihab al-Din Suhrawardi",
+  "category": "philosopher",
+  "start": 1155,
+  "end": 1191,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.07,
+    "lon": 48.44,
+    "place": "Sohrevard"
+  },
+  "summary": "Persian philosopher and founder of the school of Illuminationism, born in Sohrevard. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shihab_al-Din_Yahya_ibn_Habash_Suhrawardi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q282883",
+    "https://en.wikipedia.org/wiki/Shihab_al-Din_Yahya_ibn_Habash_Suhrawardi",
+    "https://plato.stanford.edu/entries/suhrawardi/"
+  ],
+  "disputed": false
+}

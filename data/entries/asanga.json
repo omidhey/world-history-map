@@ -1,0 +1,41 @@
+{
+  "id": "asanga",
+  "wikidata": "Q379905",
+  "name": "Asanga",
+  "category": "philosopher",
+  "start": 300,
+  "end": 301,
+  "date_precision": "century",
+  "location": {
+    "lat": 34.01,
+    "lon": 71.57,
+    "place": "Peshawar"
+  },
+  "summary": "4th century Indian Mahayana Buddhist scholar, born in Peshawar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asanga"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379905",
+    "https://en.wikipedia.org/wiki/Asanga"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 300,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q379905"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 310,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q379905"
+      ]
+    }
+  ]
+}

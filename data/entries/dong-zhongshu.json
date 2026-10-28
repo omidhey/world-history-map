@@ -1,0 +1,23 @@
+{
+  "id": "dong-zhongshu",
+  "wikidata": "Q445626",
+  "name": "Dong Zhongshu",
+  "category": "philosopher",
+  "start": -179,
+  "end": -104,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.69,
+    "lon": 116.26,
+    "place": "Jing County"
+  },
+  "summary": "Premier Confucian scholar, philosopher, and official during the Western Han, born in Jing County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dong_Zhongshu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q445626",
+    "https://en.wikipedia.org/wiki/Dong_Zhongshu"
+  ],
+  "disputed": false
+}

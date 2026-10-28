@@ -1,0 +1,23 @@
+{
+  "id": "vallabha",
+  "wikidata": "Q2343604",
+  "name": "Vallabha",
+  "category": "philosopher",
+  "start": 1479,
+  "end": 1531,
+  "date_precision": "year",
+  "location": {
+    "lat": 21.04,
+    "lon": 81.92,
+    "place": "Champaran, Chhattisgarh"
+  },
+  "summary": "Hindu philosopher and founder of Pushtimarg, a Vaishnav Hindu sect, born in Champaran, Chhattisgarh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vallabha"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2343604",
+    "https://en.wikipedia.org/wiki/Vallabha"
+  ],
+  "disputed": false
+}

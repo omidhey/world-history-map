@@ -1,0 +1,25 @@
+{
+  "id": "augustine-of-hippo",
+  "wikidata": "Q8018",
+  "name": "Augustine of Hippo",
+  "category": "philosopher",
+  "start": 354,
+  "end": 430,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.29,
+    "lon": 7.95,
+    "place": "Thagaste"
+  },
+  "summary": "Christian theologian, philosopher, and saint (354–430), born in Thagaste. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8018",
+    "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "https://plato.stanford.edu/entries/augustine/",
+    "https://iep.utm.edu/augustin/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ito-jinsai",
+  "wikidata": "Q640808",
+  "name": "Itō Jinsai",
+  "category": "philosopher",
+  "start": 1627,
+  "end": 1705,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Kyoto"
+  },
+  "summary": "Japanese philosopher (1627–1705), born in Kyoto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Itō_Jinsai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q640808",
+    "https://en.wikipedia.org/wiki/Itō_Jinsai"
+  ],
+  "disputed": false
+}

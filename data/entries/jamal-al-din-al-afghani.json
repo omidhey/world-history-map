@@ -1,0 +1,41 @@
+{
+  "id": "jamal-al-din-al-afghani",
+  "wikidata": "Q298434",
+  "name": "Jamal al-Din al-Afghani",
+  "category": "philosopher",
+  "start": 1838,
+  "end": 1897,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.87,
+    "lon": 71.15,
+    "place": "Asadabad"
+  },
+  "summary": "Political activist and Islamic ideologist (1838–1897), born in Asadabad. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamal_al-Din_al-Afghani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q298434",
+    "https://en.wikipedia.org/wiki/Jamal_al-Din_al-Afghani"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1838,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q298434"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1839,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q298434"
+      ]
+    }
+  ]
+}

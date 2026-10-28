@@ -1,0 +1,23 @@
+{
+  "id": "muhammad-iqbal",
+  "wikidata": "Q484141",
+  "name": "Muhammad Iqbal",
+  "category": "philosopher",
+  "start": 1877,
+  "end": 1938,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.5,
+    "lon": 74.53,
+    "place": "Sialkot"
+  },
+  "summary": "British-Indian Islamic philosopher, poet and politician (1877-1938), born in Sialkot. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Iqbal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q484141",
+    "https://en.wikipedia.org/wiki/Muhammad_Iqbal"
+  ],
+  "disputed": false
+}

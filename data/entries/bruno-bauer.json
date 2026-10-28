@@ -1,0 +1,24 @@
+{
+  "id": "bruno-bauer",
+  "wikidata": "Q76878",
+  "name": "Bruno Bauer",
+  "category": "philosopher",
+  "start": 1809,
+  "end": 1882,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.97,
+    "lon": 11.9,
+    "place": "Eisenberg"
+  },
+  "summary": "German philosopher and theologian (1809–1882), born in Eisenberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Bauer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76878",
+    "https://en.wikipedia.org/wiki/Bruno_Bauer",
+    "https://plato.stanford.edu/entries/bauer/"
+  ],
+  "disputed": false
+}

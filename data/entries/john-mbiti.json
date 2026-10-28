@@ -1,0 +1,23 @@
+{
+  "id": "john-mbiti",
+  "wikidata": "Q459687",
+  "name": "John Mbiti",
+  "category": "philosopher",
+  "start": 1931,
+  "end": 2019,
+  "date_precision": "day",
+  "location": {
+    "lat": -4.04,
+    "lon": 39.67,
+    "place": "Kenya Colony"
+  },
+  "summary": "Kenyan philosopher (1931–2019), born in Kenya Colony. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mbiti"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q459687",
+    "https://en.wikipedia.org/wiki/John_Mbiti"
+  ],
+  "disputed": false
+}

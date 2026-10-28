@@ -1,0 +1,25 @@
+{
+  "id": "mencius",
+  "wikidata": "Q188903",
+  "name": "Mencius",
+  "category": "philosopher",
+  "start": -372,
+  "end": -289,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.4,
+    "lon": 116.97,
+    "place": "Zou (now Zoucheng)"
+  },
+  "summary": "Chinese Confucian philosopher (372–289 BC), born in Zou (now Zoucheng). Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mencius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188903",
+    "https://en.wikipedia.org/wiki/Mencius",
+    "https://plato.stanford.edu/entries/mencius/",
+    "https://iep.utm.edu/mencius/"
+  ],
+  "disputed": false
+}

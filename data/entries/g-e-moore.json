@@ -1,0 +1,25 @@
+{
+  "id": "g-e-moore",
+  "wikidata": "Q295386",
+  "name": "G. E. Moore",
+  "category": "philosopher",
+  "start": 1873,
+  "end": 1958,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.42,
+    "lon": -0.09,
+    "place": "Upper Norwood"
+  },
+  "summary": "English philosopher (1873–1958), born in Upper Norwood. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/G._E._Moore"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q295386",
+    "https://en.wikipedia.org/wiki/G._E._Moore",
+    "https://plato.stanford.edu/entries/moore/",
+    "https://iep.utm.edu/moore/"
+  ],
+  "disputed": false
+}

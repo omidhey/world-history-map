@@ -1,0 +1,23 @@
+{
+  "id": "ibn-taymiyyah",
+  "wikidata": "Q491558",
+  "name": "Ibn Taymiyyah",
+  "category": "philosopher",
+  "start": 1263,
+  "end": 1328,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.87,
+    "lon": 39.02,
+    "place": "Harran"
+  },
+  "summary": "Islamic scholar, jurist and philosopher (1263–1328), born in Harran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Taymiyya"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q491558",
+    "https://en.wikipedia.org/wiki/Ibn_Taymiyya"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "philo-of-alexandria",
+  "wikidata": "Q189597",
+  "name": "Philo of Alexandria",
+  "category": "philosopher",
+  "start": -15,
+  "end": 50,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "Hellenistic Jewish philosopher who lived in Alexandria (c. 20 BCE-c. 50 CE), born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189597",
+    "https://en.wikipedia.org/wiki/Philo",
+    "https://plato.stanford.edu/entries/philo/",
+    "https://iep.utm.edu/philo/"
+  ],
+  "disputed": false
+}

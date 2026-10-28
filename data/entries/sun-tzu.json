@@ -1,0 +1,41 @@
+{
+  "id": "sun-tzu",
+  "wikidata": "Q37151",
+  "name": "Sun Tzu",
+  "category": "philosopher",
+  "start": -544,
+  "end": -496,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.87,
+    "lon": 118.34,
+    "place": "Qi"
+  },
+  "summary": "6th century BCE Chinese general and military strategist, born in Qi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sun_Tzu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37151",
+    "https://en.wikipedia.org/wiki/Sun_Tzu"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": -496,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q37151"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -470,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q37151"
+      ]
+    }
+  ]
+}

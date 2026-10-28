@@ -1,0 +1,23 @@
+{
+  "id": "ninomiya-sontoku",
+  "wikidata": "Q968964",
+  "name": "Ninomiya Sontoku",
+  "category": "philosopher",
+  "start": 1787,
+  "end": 1856,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.4,
+    "lon": 139.07,
+    "place": "Ashigarakami district"
+  },
+  "summary": "Japanese philosopher, born in Ashigarakami district. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ninomiya_Sontoku"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q968964",
+    "https://en.wikipedia.org/wiki/Ninomiya_Sontoku"
+  ],
+  "disputed": false
+}

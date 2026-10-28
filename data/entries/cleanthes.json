@@ -1,0 +1,24 @@
+{
+  "id": "cleanthes",
+  "wikidata": "Q310149",
+  "name": "Cleanthes",
+  "category": "philosopher",
+  "start": -331,
+  "end": -232,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.49,
+    "lon": 26.34,
+    "place": "Assos"
+  },
+  "summary": "Greek Stoic philosopher and boxer (3rd-century BC), born in Assos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cleanthes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q310149",
+    "https://en.wikipedia.org/wiki/Cleanthes",
+    "https://iep.utm.edu/cleanthe/"
+  ],
+  "disputed": false
+}

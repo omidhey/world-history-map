@@ -1,0 +1,24 @@
+{
+  "id": "lorenzo-valla",
+  "wikidata": "Q214115",
+  "name": "Lorenzo Valla",
+  "category": "philosopher",
+  "start": 1407,
+  "end": 1457,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Italian Renaissance humanist (c. 1407–1457), born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_Valla"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q214115",
+    "https://en.wikipedia.org/wiki/Lorenzo_Valla",
+    "https://plato.stanford.edu/entries/lorenzo-valla/"
+  ],
+  "disputed": false
+}

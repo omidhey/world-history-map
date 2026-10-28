@@ -1,0 +1,66 @@
+{
+  "id": "solomon-ibn-gabirol",
+  "wikidata": "Q239355",
+  "name": "Solomon ibn Gabirol",
+  "category": "philosopher",
+  "start": 1021,
+  "end": 1057,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.72,
+    "lon": -4.42,
+    "place": "Málaga"
+  },
+  "summary": "11th-century Andalusian poet and Jewish philosopher, born in Málaga. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Solomon_ibn_Gabirol"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q239355",
+    "https://en.wikipedia.org/wiki/Solomon_ibn_Gabirol",
+    "https://plato.stanford.edu/entries/ibn-gabirol/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1020,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q239355"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1021,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q239355"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1057,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q239355"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1058,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q239355"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1070,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q239355"
+      ]
+    }
+  ]
+}

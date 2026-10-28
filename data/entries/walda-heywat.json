@@ -1,0 +1,23 @@
+{
+  "id": "walda-heywat",
+  "wikidata": "Q7961364",
+  "name": "Walda Heywat",
+  "category": "philosopher",
+  "start": 1599,
+  "end": 1692,
+  "date_precision": "year",
+  "location": {
+    "lat": 12.6,
+    "lon": 37.47,
+    "place": "Ethiopian Empire"
+  },
+  "summary": "Ethiopian philosopher, born in Ethiopian Empire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Walda_Heywat"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7961364",
+    "https://en.wikipedia.org/wiki/Walda_Heywat"
+  ],
+  "disputed": false
+}

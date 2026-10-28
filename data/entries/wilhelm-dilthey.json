@@ -1,0 +1,24 @@
+{
+  "id": "wilhelm-dilthey",
+  "wikidata": "Q60080",
+  "name": "Wilhelm Dilthey",
+  "category": "philosopher",
+  "start": 1833,
+  "end": 1911,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.05,
+    "lon": 8.24,
+    "place": "Biebrich"
+  },
+  "summary": "German historian, psychologist, sociologist, student of hermeneutics, and philosopher (1833–1911), born in Biebrich. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Dilthey"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60080",
+    "https://en.wikipedia.org/wiki/Wilhelm_Dilthey",
+    "https://plato.stanford.edu/entries/dilthey/"
+  ],
+  "disputed": false
+}

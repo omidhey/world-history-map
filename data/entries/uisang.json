@@ -1,0 +1,23 @@
+{
+  "id": "uisang",
+  "wikidata": "Q483049",
+  "name": "Uisang",
+  "category": "philosopher",
+  "start": 625,
+  "end": 702,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.85,
+    "lon": 129.22,
+    "place": "Gyeongju"
+  },
+  "summary": "Korean Buddhist monk and philosopher (625 - 702), born in Gyeongju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Uisang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q483049",
+    "https://en.wikipedia.org/wiki/Uisang"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "marsilio-ficino",
+  "wikidata": "Q192374",
+  "name": "Marsilio Ficino",
+  "category": "philosopher",
+  "start": 1433,
+  "end": 1499,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.62,
+    "lon": 11.47,
+    "place": "Figline Valdarno"
+  },
+  "summary": "Italian philosopher and Catholic priest (1433–1499), born in Figline Valdarno. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marsilio_Ficino"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192374",
+    "https://en.wikipedia.org/wiki/Marsilio_Ficino",
+    "https://plato.stanford.edu/entries/ficino/",
+    "https://iep.utm.edu/ficino/"
+  ],
+  "disputed": false
+}

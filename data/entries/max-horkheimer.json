@@ -1,0 +1,24 @@
+{
+  "id": "max-horkheimer",
+  "wikidata": "Q76826",
+  "name": "Max Horkheimer",
+  "category": "philosopher",
+  "start": 1895,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.83,
+    "lon": 9.17,
+    "place": "Zuffenhausen"
+  },
+  "summary": "German philosopher and sociologist (1895–1973), born in Zuffenhausen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Horkheimer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76826",
+    "https://en.wikipedia.org/wiki/Max_Horkheimer",
+    "https://plato.stanford.edu/entries/horkheimer/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "friedrich-schlegel",
+  "wikidata": "Q157271",
+  "name": "Friedrich Schlegel",
+  "category": "philosopher",
+  "start": 1772,
+  "end": 1829,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 9.74,
+    "place": "Hanover"
+  },
+  "summary": "German poet, critic and scholar, editor, born in Hanover. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schlegel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157271",
+    "https://en.wikipedia.org/wiki/Friedrich_Schlegel",
+    "https://plato.stanford.edu/entries/schlegel/"
+  ],
+  "disputed": false
+}

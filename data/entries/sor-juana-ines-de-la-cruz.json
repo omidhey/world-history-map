@@ -1,0 +1,23 @@
+{
+  "id": "sor-juana-ines-de-la-cruz",
+  "wikidata": "Q183074",
+  "name": "Sor Juana Inés de la Cruz",
+  "category": "philosopher",
+  "start": 1651,
+  "end": 1695,
+  "date_precision": "day",
+  "location": {
+    "lat": 18.98,
+    "lon": -98.84,
+    "place": "Nepantla de Sor Juana Inés de la Cruz"
+  },
+  "summary": "Mexican writer, philosopher, playwright and poet, born in Nepantla de Sor Juana Inés de la Cruz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Juana_Inés_de_la_Cruz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q183074",
+    "https://en.wikipedia.org/wiki/Juana_Inés_de_la_Cruz"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "antonio-caso",
+  "wikidata": "Q601364",
+  "name": "Antonio Caso",
+  "category": "philosopher",
+  "start": 1883,
+  "end": 1946,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.35,
+    "lon": -99.14,
+    "place": "Mexico City"
+  },
+  "summary": "Mexican philosopher (1883–1946), born in Mexico City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Caso_Andrade"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q601364",
+    "https://en.wikipedia.org/wiki/Antonio_Caso_Andrade"
+  ],
+  "disputed": false
+}

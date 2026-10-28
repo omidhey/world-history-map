@@ -1,0 +1,24 @@
+{
+  "id": "vladimir-solovyov",
+  "wikidata": "Q282280",
+  "name": "Vladimir Solovyov",
+  "category": "philosopher",
+  "start": 1853,
+  "end": 1900,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Russian philosopher (1853-1900), born in Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Solovyov_(philosopher)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q282280",
+    "https://en.wikipedia.org/wiki/Vladimir_Solovyov_(philosopher)",
+    "https://iep.utm.edu/solovyov/"
+  ],
+  "disputed": false
+}

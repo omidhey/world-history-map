@@ -1,0 +1,25 @@
+{
+  "id": "henry-david-thoreau",
+  "wikidata": "Q131149",
+  "name": "Henry David Thoreau",
+  "category": "philosopher",
+  "start": 1817,
+  "end": 1862,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.47,
+    "lon": -71.31,
+    "place": "Wheeler-Minot Farmhouse"
+  },
+  "summary": "American essayist, poet, and philosopher (1817–1862), born in Wheeler-Minot Farmhouse. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131149",
+    "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+    "https://plato.stanford.edu/entries/thoreau/",
+    "https://iep.utm.edu/thoreau/"
+  ],
+  "disputed": false
+}

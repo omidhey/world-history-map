@@ -1,0 +1,23 @@
+{
+  "id": "huang-zongxi",
+  "wikidata": "Q31754",
+  "name": "Huang Zongxi",
+  "category": "philosopher",
+  "start": 1610,
+  "end": 1695,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.04,
+    "lon": 121.15,
+    "place": "Yuyao City"
+  },
+  "summary": "Chinese naturalist, political theorist and philosopher (1610-1695), born in Yuyao City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Huang_Zongxi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q31754",
+    "https://en.wikipedia.org/wiki/Huang_Zongxi"
+  ],
+  "disputed": false
+}

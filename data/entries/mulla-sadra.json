@@ -1,0 +1,25 @@
+{
+  "id": "mulla-sadra",
+  "wikidata": "Q2010955",
+  "name": "Mulla Sadra",
+  "category": "philosopher",
+  "start": 1571,
+  "end": 1641,
+  "date_precision": "year",
+  "location": {
+    "lat": 29.61,
+    "lon": 52.53,
+    "place": "Shiraz"
+  },
+  "summary": "17th-century Iranian Shia philosopher and theologian, born in Shiraz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mulla_Sadra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2010955",
+    "https://en.wikipedia.org/wiki/Mulla_Sadra",
+    "https://plato.stanford.edu/entries/mulla-sadra/",
+    "https://iep.utm.edu/sadra/"
+  ],
+  "disputed": false
+}

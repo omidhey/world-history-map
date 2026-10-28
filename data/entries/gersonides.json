@@ -1,0 +1,24 @@
+{
+  "id": "gersonides",
+  "wikidata": "Q353633",
+  "name": "Gersonides",
+  "category": "philosopher",
+  "start": 1288,
+  "end": 1344,
+  "date_precision": "year",
+  "location": {
+    "lat": 44.16,
+    "lon": 4.62,
+    "place": "Bagnols-sur-Cèze"
+  },
+  "summary": "Medieval Jewish philosopher, born in Bagnols-sur-Cèze. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gersonides"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q353633",
+    "https://en.wikipedia.org/wiki/Gersonides",
+    "https://plato.stanford.edu/entries/gersonides/"
+  ],
+  "disputed": false
+}

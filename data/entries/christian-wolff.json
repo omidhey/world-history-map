@@ -1,0 +1,24 @@
+{
+  "id": "christian-wolff",
+  "wikidata": "Q76510",
+  "name": "Christian Wolff",
+  "category": "philosopher",
+  "start": 1679,
+  "end": 1754,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.11,
+    "lon": 17.03,
+    "place": "Wrocław"
+  },
+  "summary": "German philosopher (1679–1754), born in Wrocław. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Wolff_(philosopher)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76510",
+    "https://en.wikipedia.org/wiki/Christian_Wolff_(philosopher)",
+    "https://plato.stanford.edu/entries/wolff-christian/"
+  ],
+  "disputed": false
+}

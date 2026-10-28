@@ -1,0 +1,25 @@
+{
+  "id": "heraclitus",
+  "wikidata": "Q41155",
+  "name": "Heraclitus",
+  "category": "philosopher",
+  "start": -535,
+  "end": -470,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.94,
+    "lon": 27.34,
+    "place": "Ephesus"
+  },
+  "summary": "Greek philosopher (late 6th/early 5th-century BC), born in Ephesus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heraclitus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41155",
+    "https://en.wikipedia.org/wiki/Heraclitus",
+    "https://plato.stanford.edu/entries/heraclitus/",
+    "https://iep.utm.edu/heraclit/"
+  ],
+  "disputed": false
+}

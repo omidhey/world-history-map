@@ -1,0 +1,25 @@
+{
+  "id": "robert-nozick",
+  "wikidata": "Q205927",
+  "name": "Robert Nozick",
+  "category": "philosopher",
+  "start": 1938,
+  "end": 2002,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.65,
+    "lon": -73.95,
+    "place": "Brooklyn"
+  },
+  "summary": "American political philosopher (1938–2002), born in Brooklyn. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Nozick"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q205927",
+    "https://en.wikipedia.org/wiki/Robert_Nozick",
+    "https://plato.stanford.edu/entries/nozick-political/",
+    "https://iep.utm.edu/nozick/"
+  ],
+  "disputed": false
+}

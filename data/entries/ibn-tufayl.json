@@ -1,0 +1,23 @@
+{
+  "id": "ibn-tufayl",
+  "wikidata": "Q251259",
+  "name": "Ibn Tufayl",
+  "category": "philosopher",
+  "start": 1110,
+  "end": 1185,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.35,
+    "lon": -2.44,
+    "place": "Tíjola"
+  },
+  "summary": "Arab Muslim polymath (c. 1105–1185), born in Tíjola. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Tufayl"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q251259",
+    "https://en.wikipedia.org/wiki/Ibn_Tufayl"
+  ],
+  "disputed": false
+}

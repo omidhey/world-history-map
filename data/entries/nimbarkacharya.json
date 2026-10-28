@@ -1,0 +1,23 @@
+{
+  "id": "nimbarkacharya",
+  "wikidata": "Q2392401",
+  "name": "Nimbarkacharya",
+  "category": "philosopher",
+  "start": 1162,
+  "end": 1300,
+  "date_precision": "century",
+  "location": {
+    "lat": 27.49,
+    "lon": 77.67,
+    "place": "Mathura"
+  },
+  "summary": "Indian guru, lived in Mathura. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nimbarka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2392401",
+    "https://en.wikipedia.org/wiki/Nimbarka"
+  ],
+  "disputed": false
+}

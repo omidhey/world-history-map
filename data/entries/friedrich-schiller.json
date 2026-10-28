@@ -1,0 +1,24 @@
+{
+  "id": "friedrich-schiller",
+  "wikidata": "Q22670",
+  "name": "Friedrich Schiller",
+  "category": "philosopher",
+  "start": 1759,
+  "end": 1805,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.94,
+    "lon": 9.26,
+    "place": "Marbach am Neckar"
+  },
+  "summary": "German playwright, poet, philosopher and historian (1759–1805), born in Marbach am Neckar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q22670",
+    "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+    "https://plato.stanford.edu/entries/schiller/"
+  ],
+  "disputed": false
+}

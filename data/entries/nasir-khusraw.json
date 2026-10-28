@@ -1,0 +1,24 @@
+{
+  "id": "nasir-khusraw",
+  "wikidata": "Q328796",
+  "name": "Nasir Khusraw",
+  "category": "philosopher",
+  "start": 1004,
+  "end": 1088,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.41,
+    "lon": 68.19,
+    "place": "Qabodiyon"
+  },
+  "summary": "11th-century Persian Isma'ili poet, scholar, philosopher, and missionary, born in Qabodiyon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nasir_Khusraw"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q328796",
+    "https://en.wikipedia.org/wiki/Nasir_Khusraw",
+    "https://iep.utm.edu/khusraw/"
+  ],
+  "disputed": false
+}

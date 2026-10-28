@@ -1,0 +1,24 @@
+{
+  "id": "pierre-gassendi",
+  "wikidata": "Q192315",
+  "name": "Pierre Gassendi",
+  "category": "philosopher",
+  "start": 1592,
+  "end": 1655,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.1,
+    "lon": 6.16,
+    "place": "Champtercier"
+  },
+  "summary": "French philosopher, astronomer, mathematician, priest, and scientist (*1592 – †1655), born in Champtercier. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Gassendi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192315",
+    "https://en.wikipedia.org/wiki/Pierre_Gassendi",
+    "https://plato.stanford.edu/entries/gassendi/"
+  ],
+  "disputed": false
+}

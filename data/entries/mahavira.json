@@ -1,0 +1,23 @@
+{
+  "id": "mahavira",
+  "wikidata": "Q9422",
+  "name": "Mahavira",
+  "category": "philosopher",
+  "start": -599,
+  "end": -527,
+  "date_precision": "year",
+  "location": {
+    "lat": 25.99,
+    "lon": 85.13,
+    "place": "Vaishali"
+  },
+  "summary": "Indian religious leader, born in Vaishali. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahavira"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9422",
+    "https://en.wikipedia.org/wiki/Mahavira"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "zhou-dunyi",
+  "wikidata": "Q197962",
+  "name": "Zhou Dunyi",
+  "category": "philosopher",
+  "start": 1017,
+  "end": 1073,
+  "date_precision": "year",
+  "location": {
+    "lat": 29.57,
+    "lon": 115.97,
+    "place": "Mount Lu"
+  },
+  "summary": "Chinese cosmologist, philosopher and writer (1017–1073), died in Mount Lu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhou_Dunyi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q197962",
+    "https://en.wikipedia.org/wiki/Zhou_Dunyi",
+    "https://iep.utm.edu/zhou-dun/"
+  ],
+  "disputed": false
+}

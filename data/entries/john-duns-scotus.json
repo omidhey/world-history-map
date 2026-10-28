@@ -1,0 +1,25 @@
+{
+  "id": "john-duns-scotus",
+  "wikidata": "Q190089",
+  "name": "John Duns Scotus",
+  "category": "philosopher",
+  "start": 1266,
+  "end": 1308,
+  "date_precision": "year",
+  "location": {
+    "lat": 55.78,
+    "lon": -2.34,
+    "place": "Duns"
+  },
+  "summary": "Priest, friar, philosopher, theologian, college teacher, born in Duns. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Duns_Scotus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q190089",
+    "https://en.wikipedia.org/wiki/Duns_Scotus",
+    "https://plato.stanford.edu/entries/duns-scotus/",
+    "https://iep.utm.edu/scotus/"
+  ],
+  "disputed": false
+}

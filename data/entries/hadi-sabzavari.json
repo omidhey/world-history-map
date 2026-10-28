@@ -1,0 +1,41 @@
+{
+  "id": "hadi-sabzavari",
+  "wikidata": "Q3660738",
+  "name": "Hadi Sabzavari",
+  "category": "philosopher",
+  "start": 1797,
+  "end": 1872,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.21,
+    "lon": 57.68,
+    "place": "Sabzevar"
+  },
+  "summary": "Islamic philosopher (1797–1873), born in Sabzevar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hadi_Sabzavari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3660738",
+    "https://en.wikipedia.org/wiki/Hadi_Sabzavari"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1872,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3660738"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1873,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3660738"
+      ]
+    }
+  ]
+}

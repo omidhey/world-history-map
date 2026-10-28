@@ -1,0 +1,25 @@
+{
+  "id": "erasmus",
+  "wikidata": "Q43499",
+  "name": "Erasmus",
+  "category": "philosopher",
+  "start": 1466,
+  "end": 1536,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.92,
+    "lon": 4.48,
+    "place": "Rotterdam"
+  },
+  "summary": "Dutch Renaissance humanist, Catholic priest, and theologian (1466-1536), born in Rotterdam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43499",
+    "https://en.wikipedia.org/wiki/Erasmus",
+    "https://plato.stanford.edu/entries/erasmus/",
+    "https://iep.utm.edu/erasmus/"
+  ],
+  "disputed": false
+}

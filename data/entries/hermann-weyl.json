@@ -1,0 +1,24 @@
+{
+  "id": "hermann-weyl",
+  "wikidata": "Q71029",
+  "name": "Hermann Weyl",
+  "category": "philosopher",
+  "start": 1885,
+  "end": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.75,
+    "lon": 9.65,
+    "place": "Elmshorn"
+  },
+  "summary": "German mathematician (1885–1955), born in Elmshorn. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Weyl"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q71029",
+    "https://en.wikipedia.org/wiki/Hermann_Weyl",
+    "https://plato.stanford.edu/entries/weyl/"
+  ],
+  "disputed": false
+}

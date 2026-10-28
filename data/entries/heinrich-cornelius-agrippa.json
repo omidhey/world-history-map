@@ -1,0 +1,24 @@
+{
+  "id": "heinrich-cornelius-agrippa",
+  "wikidata": "Q76568",
+  "name": "Heinrich Cornelius Agrippa",
+  "category": "philosopher",
+  "start": 1486,
+  "end": 1535,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.94,
+    "lon": 6.96,
+    "place": "Cologne"
+  },
+  "summary": "German polymath, physician, legal scholar and soldier (1486–1535), born in Cologne. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76568",
+    "https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa",
+    "https://plato.stanford.edu/entries/agrippa-nettesheim/"
+  ],
+  "disputed": false
+}

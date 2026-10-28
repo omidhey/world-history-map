@@ -1,0 +1,25 @@
+{
+  "id": "nicolas-malebranche",
+  "wikidata": "Q309818",
+  "name": "Nicolas Malebranche",
+  "category": "philosopher",
+  "start": 1638,
+  "end": 1715,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French philosopher, born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Malebranche"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q309818",
+    "https://en.wikipedia.org/wiki/Nicolas_Malebranche",
+    "https://plato.stanford.edu/entries/malebranche/",
+    "https://iep.utm.edu/malebr-r/"
+  ],
+  "disputed": false
+}

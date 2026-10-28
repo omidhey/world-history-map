@@ -1,0 +1,23 @@
+{
+  "id": "wasil-ibn-ata",
+  "wikidata": "Q3478100",
+  "name": "Wasil ibn Ata",
+  "category": "philosopher",
+  "start": 700,
+  "end": 748,
+  "date_precision": "year",
+  "location": {
+    "lat": 24.47,
+    "lon": 39.61,
+    "place": "Medina"
+  },
+  "summary": "Muslim theologian, born in Medina. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wasil_ibn_Ata"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3478100",
+    "https://en.wikipedia.org/wiki/Wasil_ibn_Ata"
+  ],
+  "disputed": false
+}

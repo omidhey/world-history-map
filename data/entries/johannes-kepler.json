@@ -1,0 +1,24 @@
+{
+  "id": "johannes-kepler",
+  "wikidata": "Q8963",
+  "name": "Johannes Kepler",
+  "category": "philosopher",
+  "start": 1571,
+  "end": 1630,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.75,
+    "lon": 8.87,
+    "place": "Weil der Stadt"
+  },
+  "summary": "German mathematician and astronomer (1571–1630), born in Weil der Stadt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Kepler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8963",
+    "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "https://plato.stanford.edu/entries/kepler/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "franz-rosenzweig",
+  "wikidata": "Q76710",
+  "name": "Franz Rosenzweig",
+  "category": "philosopher",
+  "start": 1886,
+  "end": 1929,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.32,
+    "lon": 9.5,
+    "place": "Kassel"
+  },
+  "summary": "German Jewish theologian and philosopher (1886–1929), born in Kassel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Rosenzweig"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76710",
+    "https://en.wikipedia.org/wiki/Franz_Rosenzweig",
+    "https://plato.stanford.edu/entries/rosenzweig/"
+  ],
+  "disputed": false
+}

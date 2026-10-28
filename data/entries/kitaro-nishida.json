@@ -1,0 +1,24 @@
+{
+  "id": "kitaro-nishida",
+  "wikidata": "Q45125",
+  "name": "Kitarō Nishida",
+  "category": "philosopher",
+  "start": 1870,
+  "end": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.72,
+    "lon": 136.71,
+    "place": "Kahoku"
+  },
+  "summary": "Japanese philosopher (1870–1945), born in Kahoku. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kitarō_Nishida"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45125",
+    "https://en.wikipedia.org/wiki/Kitarō_Nishida",
+    "https://plato.stanford.edu/entries/nishida-kitaro/"
+  ],
+  "disputed": false
+}

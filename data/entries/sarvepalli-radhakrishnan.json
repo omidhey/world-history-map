@@ -1,0 +1,24 @@
+{
+  "id": "sarvepalli-radhakrishnan",
+  "wikidata": "Q156349",
+  "name": "Sarvepalli Radhakrishnan",
+  "category": "philosopher",
+  "start": 1888,
+  "end": 1975,
+  "date_precision": "day",
+  "location": {
+    "lat": 13.18,
+    "lon": 79.63,
+    "place": "Tiruttani"
+  },
+  "summary": "2nd President and 1st Vice President of India, Indian philosopher and politician (1888–1975), born in Tiruttani. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q156349",
+    "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan",
+    "https://iep.utm.edu/radhakri/"
+  ],
+  "disputed": false
+}

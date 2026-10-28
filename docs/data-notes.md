@@ -37,6 +37,35 @@ section 6). The largest file is 1800 at 601 KB.
 History: the first version (also 2026-10-19) rounded coordinates and simplified realms whole. It
 came to 1.9 MB in total but lost 149 features in 1 BCE and dozens of islands per snapshot.
 
+## Philosophers from Wikidata (Session 11, 2026-10-28)
+
+`python pipeline/import_wikidata.py` (add `--dry-run` to see the report only, `--refresh` to ask
+Wikidata again instead of using `raw/wikidata/`). It selects humans with occupation philosopher
+(Q4964182), a birth date, a birthplace with coordinates and **at least 80 sitelinks**: 350 items
+on 2026-10-28. 13 already had a hand-written record and were left alone; 2 have only "unknown
+value" as birth date (Patanjali, Adrian IV) and were skipped; **335 new records** were written.
+
+- **Dates come from the entity data, not the query service.** The query service gives
+  astronomical years (Socrates born `-0469`) and turns Julian dates into Gregorian ones (Cicero,
+  born 3 January 106 BCE, lands in 107 BCE). A check of the first import against the entity data
+  found 7 of 35 BCE records off by a year that way. The entity data keeps the year as entered,
+  with no year 0. The script checks Socrates (470–399 BCE) and Confucius (551–479 BCE) before
+  writing anything.
+- Only the best-ranked statements count (preferred, else normal; never deprecated). When they
+  give different years the record is `disputed` with one claim per year (12 records); the main
+  value is the year most statements give.
+- `date_precision` follows Wikidata's: day, year (also for month), decade, century. Plato's
+  preferred dates are decade-precision, so his record says "decade".
+- Location is the birthplace, labelled in English, else Wikidata's language-neutral `mul` label.
+- Summaries are a template built from the CC0 Wikidata description ("4th-century BCE Greek
+  philosopher, born in Athens. Imported from Wikidata; a summary in our own words is still to be
+  written."). Rewriting them is open to contributors.
+- Existing records whose dates differ from Wikidata (reported, not changed): Gautama Buddha and
+  Laozi (Wikidata has century-precision dates), Murasaki Shikibu (Wikidata 970–1100).
+- **Bias:** by birthplace, 260 Europe, 29 Asia, 25 Americas, 17 Middle East / North Africa,
+  4 Africa; 212 of the 335 were born after 1700. A sitelink threshold favours well-documented
+  European figures (roadmap, section 13). Lower regional thresholds are a later option.
+
 ## Observations
 
 - **Unnamed polygons are common**, especially early on (113 of 138 at 3000 BCE, 148 of 291 in 1500).

@@ -1,0 +1,23 @@
+{
+  "id": "ibn-zaydun",
+  "wikidata": "Q555348",
+  "name": "Ibn Zaydun",
+  "category": "writer",
+  "start": 1003,
+  "end": 1071,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "Poet of al-Andalus (1003-1071), born in Córdoba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Zaydun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q555348",
+    "https://en.wikipedia.org/wiki/Ibn_Zaydun"
+  ],
+  "disputed": false
+}

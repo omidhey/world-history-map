@@ -1,0 +1,23 @@
+{
+  "id": "srinivasa-ramanujan",
+  "wikidata": "Q83163",
+  "name": "Srinivasa Ramanujan",
+  "category": "scientist",
+  "start": 1887,
+  "end": 1920,
+  "date_precision": "day",
+  "location": {
+    "lat": 11.34,
+    "lon": 77.72,
+    "place": "Erode"
+  },
+  "summary": "Indian mathematician (1887–1920), born in Erode. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83163",
+    "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
+  ],
+  "disputed": false
+}

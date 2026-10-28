@@ -1,0 +1,23 @@
+{
+  "id": "yasunari-kawabata",
+  "wikidata": "Q43736",
+  "name": "Yasunari Kawabata",
+  "category": "writer",
+  "start": 1899,
+  "end": 1972,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.5,
+    "place": "Osaka"
+  },
+  "summary": "Japanese novelist (1899–1972), born in Osaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasunari_Kawabata"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43736",
+    "https://en.wikipedia.org/wiki/Yasunari_Kawabata"
+  ],
+  "disputed": false
+}

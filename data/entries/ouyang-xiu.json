@@ -1,0 +1,23 @@
+{
+  "id": "ouyang-xiu",
+  "wikidata": "Q334323",
+  "name": "Ouyang Xiu",
+  "category": "writer",
+  "start": 1007,
+  "end": 1072,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.47,
+    "lon": 104.74,
+    "place": "Mianyang"
+  },
+  "summary": "Chinese poet, historian and statesman (1007–1072), born in Mianyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ouyang_Xiu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q334323",
+    "https://en.wikipedia.org/wiki/Ouyang_Xiu"
+  ],
+  "disputed": false
+}

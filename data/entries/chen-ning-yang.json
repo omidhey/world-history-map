@@ -1,0 +1,23 @@
+{
+  "id": "chen-ning-yang",
+  "wikidata": "Q181369",
+  "name": "Chen-ning Yang",
+  "category": "scientist",
+  "start": 1922,
+  "end": 2025,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.86,
+    "lon": 117.28,
+    "place": "Hefei"
+  },
+  "summary": "Chinese physicist (1922–2025), born in Hefei. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yang_Chen-Ning"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q181369",
+    "https://en.wikipedia.org/wiki/Yang_Chen-Ning"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ambroise-pare",
+  "wikidata": "Q276480",
+  "name": "Ambroise Paré",
+  "category": "scientist",
+  "start": 1510,
+  "end": 1590,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.07,
+    "lon": -0.77,
+    "place": "Laval"
+  },
+  "summary": "French surgeon, born in Laval. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ambroise_Paré"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q276480",
+    "https://en.wikipedia.org/wiki/Ambroise_Paré"
+  ],
+  "disputed": false
+}

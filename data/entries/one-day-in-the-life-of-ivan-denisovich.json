@@ -1,0 +1,22 @@
+{
+  "id": "one-day-in-the-life-of-ivan-denisovich",
+  "wikidata": "Q27321",
+  "name": "One Day in the Life of Ivan Denisovich",
+  "category": "work",
+  "start": 1962,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.91,
+    "lon": 42.72,
+    "place": "Kislovodsk"
+  },
+  "summary": "1962 novel by Alexander Solzhenitsyn by Aleksandr Solzhenitsyn, associated with Kislovodsk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q27321",
+    "https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich"
+  ],
+  "disputed": false
+}

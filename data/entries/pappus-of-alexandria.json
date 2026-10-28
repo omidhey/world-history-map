@@ -1,0 +1,23 @@
+{
+  "id": "pappus-of-alexandria",
+  "wikidata": "Q211783",
+  "name": "Pappus of Alexandria",
+  "category": "scientist",
+  "start": 290,
+  "end": 350,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "4th century Greek mathematician, born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pappus_of_Alexandria"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q211783",
+    "https://en.wikipedia.org/wiki/Pappus_of_Alexandria"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "camara-laye",
+  "wikidata": "Q1371169",
+  "name": "Camara Laye",
+  "category": "writer",
+  "start": 1924,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 10.65,
+    "lon": -9.88,
+    "place": "Kouroussa"
+  },
+  "summary": "Guinean writer (1928–1980), born in Kouroussa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Camara_Laye"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1371169",
+    "https://en.wikipedia.org/wiki/Camara_Laye"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1924,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1371169"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1928,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1371169"
+      ]
+    }
+  ]
+}

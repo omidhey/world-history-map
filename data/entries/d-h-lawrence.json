@@ -1,0 +1,23 @@
+{
+  "id": "d-h-lawrence",
+  "wikidata": "Q34970",
+  "name": "D. H. Lawrence",
+  "category": "writer",
+  "start": 1885,
+  "end": 1930,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.02,
+    "lon": -1.31,
+    "place": "Eastwood"
+  },
+  "summary": "English writer and poet (1885–1930), born in Eastwood. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/D._H._Lawrence"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34970",
+    "https://en.wikipedia.org/wiki/D._H._Lawrence"
+  ],
+  "disputed": false
+}

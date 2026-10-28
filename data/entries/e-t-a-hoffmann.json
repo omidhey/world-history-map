@@ -1,0 +1,23 @@
+{
+  "id": "e-t-a-hoffmann",
+  "wikidata": "Q150471",
+  "name": "E. T. A. Hoffmann",
+  "category": "writer",
+  "start": 1776,
+  "end": 1822,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.71,
+    "lon": 20.51,
+    "place": "Königsberg"
+  },
+  "summary": "German writer (1776-1822), born in Königsberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/E._T._A._Hoffmann"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q150471",
+    "https://en.wikipedia.org/wiki/E._T._A._Hoffmann"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sun-simiao",
+  "wikidata": "Q981193",
+  "name": "Sun Simiao",
+  "category": "scientist",
+  "start": 581,
+  "end": 682,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.91,
+    "lon": 108.97,
+    "place": "Yaozhou District"
+  },
+  "summary": "Chinese physician and writer (Tang dynasty), born in Yaozhou District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sun_Simiao"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q981193",
+    "https://en.wikipedia.org/wiki/Sun_Simiao"
+  ],
+  "disputed": false
+}

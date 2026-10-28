@@ -1,0 +1,23 @@
+{
+  "id": "claude-bernard",
+  "wikidata": "Q208230",
+  "name": "Claude Bernard",
+  "category": "scientist",
+  "start": 1813,
+  "end": 1878,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.03,
+    "lon": 4.65,
+    "place": "Saint-Julien"
+  },
+  "summary": "French physiologist (1813-1878), born in Saint-Julien. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Bernard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q208230",
+    "https://en.wikipedia.org/wiki/Claude_Bernard"
+  ],
+  "disputed": false
+}

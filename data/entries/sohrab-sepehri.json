@@ -1,0 +1,23 @@
+{
+  "id": "sohrab-sepehri",
+  "wikidata": "Q469991",
+  "name": "Sohrab Sepehri",
+  "category": "writer",
+  "start": 1928,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.99,
+    "lon": 51.44,
+    "place": "Kashan"
+  },
+  "summary": "Iranian poet and painter (1928-1980), born in Kashan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sohrab_Sepehri"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q469991",
+    "https://en.wikipedia.org/wiki/Sohrab_Sepehri"
+  ],
+  "disputed": false
+}

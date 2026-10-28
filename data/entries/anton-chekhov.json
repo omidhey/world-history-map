@@ -1,0 +1,23 @@
+{
+  "id": "anton-chekhov",
+  "wikidata": "Q5685",
+  "name": "Anton Chekhov",
+  "category": "writer",
+  "start": 1860,
+  "end": 1904,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.23,
+    "lon": 38.9,
+    "place": "Taganrog"
+  },
+  "summary": "Russian dramatist and author (1860–1904), born in Taganrog. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5685",
+    "https://en.wikipedia.org/wiki/Anton_Chekhov"
+  ],
+  "disputed": false
+}

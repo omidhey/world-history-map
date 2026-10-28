@@ -1,0 +1,22 @@
+{
+  "id": "the-consolation-of-philosophy",
+  "wikidata": "Q861927",
+  "name": "The Consolation of Philosophy",
+  "category": "work",
+  "start": 524,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Philosophical work by Boethius, associated with Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/On_the_Consolation_of_Philosophy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q861927",
+    "https://en.wikipedia.org/wiki/On_the_Consolation_of_Philosophy"
+  ],
+  "disputed": false
+}

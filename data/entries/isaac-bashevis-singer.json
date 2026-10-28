@@ -1,0 +1,23 @@
+{
+  "id": "isaac-bashevis-singer",
+  "wikidata": "Q75612",
+  "name": "Isaac Bashevis Singer",
+  "category": "writer",
+  "start": 1904,
+  "end": 1991,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.4,
+    "lon": 20.55,
+    "place": "Leoncin"
+  },
+  "summary": "Polish-American writer (1904–1991), born in Leoncin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q75612",
+    "https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer"
+  ],
+  "disputed": false
+}

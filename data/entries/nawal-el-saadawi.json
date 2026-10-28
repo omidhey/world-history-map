@@ -1,0 +1,23 @@
+{
+  "id": "nawal-el-saadawi",
+  "wikidata": "Q238514",
+  "name": "Nawal El Saadawi",
+  "category": "writer",
+  "start": 1931,
+  "end": 2021,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.4,
+    "lon": 31.13,
+    "place": "Kafr Tahla"
+  },
+  "summary": "Egyptian feminist writer (1931–2021), born in Kafr Tahla. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nawal_El_Saadawi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q238514",
+    "https://en.wikipedia.org/wiki/Nawal_El_Saadawi"
+  ],
+  "disputed": false
+}

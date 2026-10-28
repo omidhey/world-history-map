@@ -1,0 +1,23 @@
+{
+  "id": "geoffrey-of-monmouth",
+  "wikidata": "Q188344",
+  "name": "Geoffrey of Monmouth",
+  "category": "writer",
+  "start": 1100,
+  "end": 1155,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.81,
+    "lon": -2.72,
+    "place": "Monmouth"
+  },
+  "summary": "Historian and Bishop of St Asaph, Wales (c.1095–1155), born in Monmouth. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_of_Monmouth"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188344",
+    "https://en.wikipedia.org/wiki/Geoffrey_of_Monmouth"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "caroline-herschel",
+  "wikidata": "Q76948",
+  "name": "Caroline Herschel",
+  "category": "scientist",
+  "start": 1750,
+  "end": 1848,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 9.74,
+    "place": "Hanover"
+  },
+  "summary": "German-British astronomer (1750-1848), born in Hanover. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_Herschel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76948",
+    "https://en.wikipedia.org/wiki/Caroline_Herschel"
+  ],
+  "disputed": false
+}

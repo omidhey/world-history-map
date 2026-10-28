@@ -1,0 +1,23 @@
+{
+  "id": "georges-louis-leclerc-comte-de-buffon",
+  "wikidata": "Q229264",
+  "name": "Georges-Louis Leclerc, Comte de Buffon",
+  "category": "scientist",
+  "start": 1707,
+  "end": 1788,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.62,
+    "lon": 4.34,
+    "place": "Montbard"
+  },
+  "summary": "French natural historian (1707-1788), born in Montbard. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q229264",
+    "https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon"
+  ],
+  "disputed": false
+}

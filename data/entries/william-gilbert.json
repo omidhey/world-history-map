@@ -1,0 +1,23 @@
+{
+  "id": "william-gilbert",
+  "wikidata": "Q192706",
+  "name": "William Gilbert",
+  "category": "scientist",
+  "start": 1544,
+  "end": 1603,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.89,
+    "lon": 0.9,
+    "place": "Colchester"
+  },
+  "summary": "English physician, physicist and natural philosopher (1544-1603), born in Colchester. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Gilbert_(physicist)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192706",
+    "https://en.wikipedia.org/wiki/William_Gilbert_(physicist)"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "heinrich-heine",
+  "wikidata": "Q44403",
+  "name": "Heinrich Heine",
+  "category": "writer",
+  "start": 1797,
+  "end": 1856,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.23,
+    "lon": 6.78,
+    "place": "Düsseldorf"
+  },
+  "summary": "German poet, writer and literary critic (1797–1856), born in Düsseldorf. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44403",
+    "https://en.wikipedia.org/wiki/Heinrich_Heine"
+  ],
+  "disputed": false
+}

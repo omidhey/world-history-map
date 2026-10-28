@@ -1,0 +1,23 @@
+{
+  "id": "mongo-beti",
+  "wikidata": "Q248047",
+  "name": "Mongo Beti",
+  "category": "writer",
+  "start": 1932,
+  "end": 2001,
+  "date_precision": "day",
+  "location": {
+    "lat": 3.52,
+    "lon": 11.51,
+    "place": "Mbalmayo"
+  },
+  "summary": "Cameroonian writer, born in Mbalmayo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongo_Beti"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q248047",
+    "https://en.wikipedia.org/wiki/Mongo_Beti"
+  ],
+  "disputed": false
+}

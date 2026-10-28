@@ -1,0 +1,23 @@
+{
+  "id": "maryam-mirzakhani",
+  "wikidata": "Q1771279",
+  "name": "Maryam Mirzakhani",
+  "category": "scientist",
+  "start": 1977,
+  "end": 2017,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.69,
+    "lon": 51.39,
+    "place": "Tehran"
+  },
+  "summary": "Iranian mathematician (1977–2017), born in Tehran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1771279",
+    "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
+  ],
+  "disputed": false
+}

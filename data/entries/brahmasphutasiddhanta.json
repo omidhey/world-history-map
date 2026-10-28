@@ -1,0 +1,22 @@
+{
+  "id": "brahmasphutasiddhanta",
+  "wikidata": "Q1290001",
+  "name": "Brāhmasphuṭasiddhānta",
+  "category": "work",
+  "start": 628,
+  "date_precision": "year",
+  "location": {
+    "lat": 25,
+    "lon": 72.25,
+    "place": "Bhinmal"
+  },
+  "summary": "Indian mathematics treatise by Brahmagupta, associated with Bhinmal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brāhmasphuṭasiddhānta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1290001",
+    "https://en.wikipedia.org/wiki/Brāhmasphuṭasiddhānta"
+  ],
+  "disputed": false
+}

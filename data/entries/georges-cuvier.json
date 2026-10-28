@@ -1,0 +1,23 @@
+{
+  "id": "georges-cuvier",
+  "wikidata": "Q171969",
+  "name": "Georges Cuvier",
+  "category": "scientist",
+  "start": 1769,
+  "end": 1832,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.51,
+    "lon": 6.8,
+    "place": "Montbéliard"
+  },
+  "summary": "French naturalist, zoologist and paleontologist (1769–1832), born in Montbéliard. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Cuvier"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q171969",
+    "https://en.wikipedia.org/wiki/Georges_Cuvier"
+  ],
+  "disputed": false
+}

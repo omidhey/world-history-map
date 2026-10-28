@@ -1,0 +1,22 @@
+{
+  "id": "kojiki",
+  "wikidata": "Q813031",
+  "name": "Kojiki",
+  "category": "work",
+  "start": 712,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.8,
+    "place": "Nara"
+  },
+  "summary": "8th-century Japanese chronicle by Hieda no Are, Ō no Yasumaro, associated with Nara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kojiki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q813031",
+    "https://en.wikipedia.org/wiki/Kojiki"
+  ],
+  "disputed": false
+}

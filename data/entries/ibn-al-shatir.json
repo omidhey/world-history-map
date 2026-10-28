@@ -1,0 +1,23 @@
+{
+  "id": "ibn-al-shatir",
+  "wikidata": "Q718169",
+  "name": "Ibn al-Shatir",
+  "category": "scientist",
+  "start": 1304,
+  "end": 1375,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.51,
+    "lon": 36.29,
+    "place": "Damascus"
+  },
+  "summary": "Arab astronomer and clockmaker (1304–1375), born in Damascus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_al-Shatir"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q718169",
+    "https://en.wikipedia.org/wiki/Ibn_al-Shatir"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "charles-lyell",
+  "wikidata": "Q5333",
+  "name": "Charles Lyell",
+  "category": "scientist",
+  "start": 1797,
+  "end": 1875,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.67,
+    "lon": -2.92,
+    "place": "Angus"
+  },
+  "summary": "British geologist (1797–1875), born in Angus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lyell"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5333",
+    "https://en.wikipedia.org/wiki/Charles_Lyell"
+  ],
+  "disputed": false
+}

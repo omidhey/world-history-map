@@ -1,0 +1,22 @@
+{
+  "id": "tim-berners-lee",
+  "wikidata": "Q80",
+  "name": "Tim Berners-Lee",
+  "category": "scientist",
+  "start": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English computer scientist (born 1955), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80",
+    "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+  ],
+  "disputed": false
+}

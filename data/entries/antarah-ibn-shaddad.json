@@ -1,0 +1,23 @@
+{
+  "id": "antarah-ibn-shaddad",
+  "wikidata": "Q771877",
+  "name": "Antarah ibn Shaddad",
+  "category": "writer",
+  "start": 525,
+  "end": 608,
+  "date_precision": "year",
+  "location": {
+    "lat": 24.29,
+    "lon": 43.59,
+    "place": "Najd"
+  },
+  "summary": "Arabian warrior and poet, born in Najd. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antarah_ibn_Shaddad"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q771877",
+    "https://en.wikipedia.org/wiki/Antarah_ibn_Shaddad"
+  ],
+  "disputed": false
+}

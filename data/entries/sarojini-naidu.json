@@ -1,0 +1,23 @@
+{
+  "id": "sarojini-naidu",
+  "wikidata": "Q250165",
+  "name": "Sarojini Naidu",
+  "category": "writer",
+  "start": 1879,
+  "end": 1949,
+  "date_precision": "day",
+  "location": {
+    "lat": 17.36,
+    "lon": 78.47,
+    "place": "Hyderabad"
+  },
+  "summary": "Indian poet, politician, governor of the United Provinces of Agra and Oudh from1947 to 1949, born in Hyderabad. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarojini_Naidu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q250165",
+    "https://en.wikipedia.org/wiki/Sarojini_Naidu"
+  ],
+  "disputed": false
+}

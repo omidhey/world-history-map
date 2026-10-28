@@ -1,0 +1,23 @@
+{
+  "id": "thabit-ibn-qurra",
+  "wikidata": "Q250568",
+  "name": "Thābit ibn Qurra",
+  "category": "scientist",
+  "start": 836,
+  "end": 901,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.87,
+    "lon": 39.02,
+    "place": "Harran"
+  },
+  "summary": "Mesopotamian astronomer and mathematician, born in Harran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thābit_ibn_Qurra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q250568",
+    "https://en.wikipedia.org/wiki/Thābit_ibn_Qurra"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "alfred-russel-wallace",
+  "wikidata": "Q160627",
+  "name": "Alfred Russel Wallace",
+  "category": "scientist",
+  "start": 1823,
+  "end": 1913,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.7,
+    "lon": -2.9,
+    "place": "Usk"
+  },
+  "summary": "British naturalist, explorer, geographer, anthropologist and biologist (1823–1913), born in Usk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160627",
+    "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ivan-turgenev",
+  "wikidata": "Q42831",
+  "name": "Ivan Turgenev",
+  "category": "writer",
+  "start": 1818,
+  "end": 1883,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.97,
+    "lon": 36.07,
+    "place": "Oryol"
+  },
+  "summary": "Russian writer (1818–1883), born in Oryol. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Turgenev"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42831",
+    "https://en.wikipedia.org/wiki/Ivan_Turgenev"
+  ],
+  "disputed": false
+}

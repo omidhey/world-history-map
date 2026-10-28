@@ -1,0 +1,23 @@
+{
+  "id": "langston-hughes",
+  "wikidata": "Q188093",
+  "name": "Langston Hughes",
+  "category": "writer",
+  "start": 1901,
+  "end": 1967,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.08,
+    "lon": -94.51,
+    "place": "Joplin"
+  },
+  "summary": "American writer and social activist (1901–1967), born in Joplin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Langston_Hughes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188093",
+    "https://en.wikipedia.org/wiki/Langston_Hughes"
+  ],
+  "disputed": false
+}

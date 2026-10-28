@@ -1,0 +1,23 @@
+{
+  "id": "su-shi",
+  "wikidata": "Q36020",
+  "name": "Su Shi",
+  "category": "writer",
+  "start": 1037,
+  "end": 1101,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.06,
+    "lon": 103.84,
+    "place": "Meishan"
+  },
+  "summary": "Chinese writer and politician (1037–1101), born in Meishan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Su_Shi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36020",
+    "https://en.wikipedia.org/wiki/Su_Shi"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "august-kekule",
+  "wikidata": "Q76784",
+  "name": "August Kekulé",
+  "category": "scientist",
+  "start": 1829,
+  "end": 1896,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.87,
+    "lon": 8.65,
+    "place": "Darmstadt"
+  },
+  "summary": "German organic chemist (1829–1896), born in Darmstadt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Kekulé"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76784",
+    "https://en.wikipedia.org/wiki/August_Kekulé"
+  ],
+  "disputed": false
+}

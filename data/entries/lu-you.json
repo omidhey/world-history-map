@@ -1,0 +1,23 @@
+{
+  "id": "lu-you",
+  "wikidata": "Q1069914",
+  "name": "Lu You",
+  "category": "writer",
+  "start": 1125,
+  "end": 1210,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.8,
+    "lon": 114.34,
+    "place": "Kaifeng"
+  },
+  "summary": "Chinese historian and poet (1125–1210), born in Kaifeng. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lu_You"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1069914",
+    "https://en.wikipedia.org/wiki/Lu_You"
+  ],
+  "disputed": false
+}

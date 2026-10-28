@@ -1,0 +1,22 @@
+{
+  "id": "lolita",
+  "wikidata": "Q127149",
+  "name": "Lolita",
+  "category": "work",
+  "start": 1955,
+  "date_precision": "year",
+  "location": {
+    "lat": 59.95,
+    "lon": 30.32,
+    "place": "Saint Petersburg"
+  },
+  "summary": "1955 novel by Vladimir Nabokov, associated with Saint Petersburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lolita"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q127149",
+    "https://en.wikipedia.org/wiki/Lolita"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bhagavad-gita",
+  "wikidata": "Q46802",
+  "name": "Bhagavad Gita",
+  "category": "work",
+  "start": -1500,
+  "date_precision": "century",
+  "location": {
+    "lat": 26.12,
+    "lon": 79.73,
+    "place": "Kalpi"
+  },
+  "summary": "Primary holy scripture for Hinduism by Vyasa, associated with Kalpi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q46802",
+    "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+  ],
+  "disputed": false
+}

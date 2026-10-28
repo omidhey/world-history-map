@@ -1,0 +1,23 @@
+{
+  "id": "gabriela-mistral",
+  "wikidata": "Q80871",
+  "name": "Gabriela Mistral",
+  "category": "writer",
+  "start": 1889,
+  "end": 1957,
+  "date_precision": "day",
+  "location": {
+    "lat": -30.02,
+    "lon": -70.7,
+    "place": "Vicuña"
+  },
+  "summary": "Chilean poet, diplomat and educator (1889–1957), born in Vicuña. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriela_Mistral"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80871",
+    "https://en.wikipedia.org/wiki/Gabriela_Mistral"
+  ],
+  "disputed": false
+}

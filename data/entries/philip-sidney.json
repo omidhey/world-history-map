@@ -1,0 +1,23 @@
+{
+  "id": "philip-sidney",
+  "wikidata": "Q315509",
+  "name": "Philip Sidney",
+  "category": "writer",
+  "start": 1554,
+  "end": 1586,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.17,
+    "lon": 0.18,
+    "place": "Penshurst"
+  },
+  "summary": "English poet, courtier, diplomat (1554-1586), born in Penshurst. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Sidney"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315509",
+    "https://en.wikipedia.org/wiki/Philip_Sidney"
+  ],
+  "disputed": false
+}

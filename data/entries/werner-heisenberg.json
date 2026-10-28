@@ -1,0 +1,23 @@
+{
+  "id": "werner-heisenberg",
+  "wikidata": "Q40904",
+  "name": "Werner Heisenberg",
+  "category": "scientist",
+  "start": 1901,
+  "end": 1976,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.79,
+    "lon": 9.93,
+    "place": "Würzburg"
+  },
+  "summary": "German theoretical physicist and nobel prize winner (1901–1976), born in Würzburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Werner_Heisenberg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40904",
+    "https://en.wikipedia.org/wiki/Werner_Heisenberg"
+  ],
+  "disputed": false
+}

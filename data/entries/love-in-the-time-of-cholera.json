@@ -1,0 +1,22 @@
+{
+  "id": "love-in-the-time-of-cholera",
+  "wikidata": "Q499396",
+  "name": "Love in the Time of Cholera",
+  "category": "work",
+  "start": 1985,
+  "date_precision": "year",
+  "location": {
+    "lat": 10.59,
+    "lon": -74.19,
+    "place": "Aracataca"
+  },
+  "summary": "Novel by Colombian Nobel Prize-winning author Gabriel García Márquez, associated with Aracataca. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q499396",
+    "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera"
+  ],
+  "disputed": false
+}

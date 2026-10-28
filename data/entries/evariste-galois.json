@@ -1,0 +1,23 @@
+{
+  "id": "evariste-galois",
+  "wikidata": "Q7091",
+  "name": "Évariste Galois",
+  "category": "scientist",
+  "start": 1811,
+  "end": 1832,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.78,
+    "lon": 2.32,
+    "place": "Bourg-la-Reine"
+  },
+  "summary": "French mathematician (1811-1832), born in Bourg-la-Reine. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Évariste_Galois"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7091",
+    "https://en.wikipedia.org/wiki/Évariste_Galois"
+  ],
+  "disputed": false
+}

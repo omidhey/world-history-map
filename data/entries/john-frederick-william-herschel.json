@@ -1,0 +1,23 @@
+{
+  "id": "john-frederick-william-herschel",
+  "wikidata": "Q14278",
+  "name": "John Frederick William Herschel",
+  "category": "scientist",
+  "start": 1792,
+  "end": 1871,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.59,
+    "place": "Slough"
+  },
+  "summary": "English polymath, mathematician, astronomer, chemist, inventor and photographer (1792–1871), born in Slough. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Herschel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q14278",
+    "https://en.wikipedia.org/wiki/John_Herschel"
+  ],
+  "disputed": false
+}

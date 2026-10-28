@@ -1,0 +1,23 @@
+{
+  "id": "otto-hahn",
+  "wikidata": "Q57065",
+  "name": "Otto Hahn",
+  "category": "scientist",
+  "start": 1879,
+  "end": 1968,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.11,
+    "lon": 8.68,
+    "place": "Frankfurt"
+  },
+  "summary": "German chemist and physicist (1879-1968), born in Frankfurt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Hahn"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57065",
+    "https://en.wikipedia.org/wiki/Otto_Hahn"
+  ],
+  "disputed": false
+}

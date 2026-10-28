@@ -1,0 +1,22 @@
+{
+  "id": "the-interesting-narrative-of-the-life-of-olaudah-equiano",
+  "wikidata": "Q7742270",
+  "name": "The Interesting Narrative of the Life of Olaudah Equiano",
+  "category": "work",
+  "start": 1789,
+  "date_precision": "year",
+  "location": {
+    "lat": 8.83,
+    "lon": 2.18,
+    "place": "Benin"
+  },
+  "summary": "Autobiographical work by Olaudah Equiano, associated with Benin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7742270",
+    "https://en.wikipedia.org/wiki/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano"
+  ],
+  "disputed": false
+}

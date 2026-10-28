@@ -1,0 +1,23 @@
+{
+  "id": "jean-froissart",
+  "wikidata": "Q315000",
+  "name": "Jean Froissart",
+  "category": "writer",
+  "start": 1337,
+  "end": 1410,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.36,
+    "lon": 3.52,
+    "place": "Valenciennes"
+  },
+  "summary": "French writer, born in Valenciennes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Froissart"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315000",
+    "https://en.wikipedia.org/wiki/Jean_Froissart"
+  ],
+  "disputed": false
+}

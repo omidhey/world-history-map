@@ -1,0 +1,57 @@
+{
+  "id": "erasistratus",
+  "wikidata": "Q377781",
+  "name": "Erasistratus",
+  "category": "scientist",
+  "start": -330,
+  "end": -250,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.64,
+    "lon": 24.34,
+    "place": "Iulis"
+  },
+  "summary": "Ancient Greek physician, born in Iulis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Erasistratus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q377781",
+    "https://en.wikipedia.org/wiki/Erasistratus"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": -330,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q377781"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -305,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q377781"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -250,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q377781"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -249,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q377781"
+      ]
+    }
+  ]
+}

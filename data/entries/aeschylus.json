@@ -1,0 +1,23 @@
+{
+  "id": "aeschylus",
+  "wikidata": "Q40939",
+  "name": "Aeschylus",
+  "category": "writer",
+  "start": -525,
+  "end": -456,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.04,
+    "lon": 23.55,
+    "place": "Elefsina"
+  },
+  "summary": "Ancient Athenian playwright, born in Elefsina. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aeschylus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40939",
+    "https://en.wikipedia.org/wiki/Aeschylus"
+  ],
+  "disputed": false
+}

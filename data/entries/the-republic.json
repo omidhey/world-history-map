@@ -1,0 +1,24 @@
+{
+  "id": "the-republic",
+  "wikidata": "Q123397",
+  "name": "The Republic",
+  "category": "work",
+  "start": 1963,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.98,
+    "lon": 23.73,
+    "place": "Athens"
+  },
+  "summary": "Philosophical work written by Plato, associated with Athens. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Republic_(Plato)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q123397",
+    "https://en.wikipedia.org/wiki/Republic_(Plato)",
+    "https://plato.stanford.edu/entries/plato-ethics-politics/",
+    "https://iep.utm.edu/republic/"
+  ],
+  "disputed": false
+}

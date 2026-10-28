@@ -1,0 +1,23 @@
+{
+  "id": "vitruvius",
+  "wikidata": "Q47163",
+  "name": "Vitruvius",
+  "category": "scientist",
+  "start": -80,
+  "end": -15,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Roman Republic"
+  },
+  "summary": "Roman architect and engineer, born in Roman Republic. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vitruvius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47163",
+    "https://en.wikipedia.org/wiki/Vitruvius"
+  ],
+  "disputed": false
+}

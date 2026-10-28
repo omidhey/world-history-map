@@ -1,0 +1,23 @@
+{
+  "id": "strabo",
+  "wikidata": "Q45936",
+  "name": "Strabo",
+  "category": "scientist",
+  "start": -63,
+  "end": 23,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.65,
+    "lon": 35.83,
+    "place": "Amaseia (now Amasya)"
+  },
+  "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD), born in Amaseia (now Amasya). Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Strabo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45936",
+    "https://en.wikipedia.org/wiki/Strabo"
+  ],
+  "disputed": false
+}

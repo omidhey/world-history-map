@@ -1,0 +1,23 @@
+{
+  "id": "kim-manjung",
+  "wikidata": "Q496510",
+  "name": "Kim Manjung",
+  "category": "writer",
+  "start": 1637,
+  "end": 1692,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.32,
+    "lon": 127.23,
+    "place": "Korea"
+  },
+  "summary": "Korean novelist and politician (1637–1692), worked in Korea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Man-jung"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q496510",
+    "https://en.wikipedia.org/wiki/Kim_Man-jung"
+  ],
+  "disputed": false
+}

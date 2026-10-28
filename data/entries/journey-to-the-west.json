@@ -1,0 +1,22 @@
+{
+  "id": "journey-to-the-west",
+  "wikidata": "Q70784",
+  "name": "Journey to the West",
+  "category": "work",
+  "start": 1592,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.59,
+    "lon": 119.02,
+    "place": "Huai'an"
+  },
+  "summary": "One of China's Four Great Classical Novels by Wu Cheng'en, associated with Huai'an. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Journey_to_the_West"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q70784",
+    "https://en.wikipedia.org/wiki/Journey_to_the_West"
+  ],
+  "disputed": false
+}

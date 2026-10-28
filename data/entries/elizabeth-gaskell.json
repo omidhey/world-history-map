@@ -1,0 +1,23 @@
+{
+  "id": "elizabeth-gaskell",
+  "wikidata": "Q229226",
+  "name": "Elizabeth Gaskell",
+  "category": "writer",
+  "start": 1810,
+  "end": 1865,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.48,
+    "lon": -0.17,
+    "place": "Cheyne Walk"
+  },
+  "summary": "British author (1810-1865), born in Cheyne Walk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Gaskell"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q229226",
+    "https://en.wikipedia.org/wiki/Elizabeth_Gaskell"
+  ],
+  "disputed": false
+}

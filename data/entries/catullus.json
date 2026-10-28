@@ -1,0 +1,23 @@
+{
+  "id": "catullus",
+  "wikidata": "Q163079",
+  "name": "Catullus",
+  "category": "writer",
+  "start": -84,
+  "end": -54,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.44,
+    "lon": 10.99,
+    "place": "Verona"
+  },
+  "summary": "Lyric Latin poet of the Roman Republic, born in Verona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Catullus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q163079",
+    "https://en.wikipedia.org/wiki/Catullus"
+  ],
+  "disputed": false
+}

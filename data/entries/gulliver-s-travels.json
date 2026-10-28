@@ -1,0 +1,22 @@
+{
+  "id": "gulliver-s-travels",
+  "wikidata": "Q181488",
+  "name": "Gulliver's Travels",
+  "category": "work",
+  "start": 1726,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.35,
+    "lon": -6.26,
+    "place": "Dublin"
+  },
+  "summary": "1726 novel by Jonathan Swift, associated with Dublin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gulliver's_Travels"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q181488",
+    "https://en.wikipedia.org/wiki/Gulliver's_Travels"
+  ],
+  "disputed": false
+}

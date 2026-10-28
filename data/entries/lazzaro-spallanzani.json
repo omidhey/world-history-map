@@ -1,0 +1,23 @@
+{
+  "id": "lazzaro-spallanzani",
+  "wikidata": "Q213351",
+  "name": "Lazzaro Spallanzani",
+  "category": "scientist",
+  "start": 1729,
+  "end": 1799,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.59,
+    "lon": 10.69,
+    "place": "Scandiano"
+  },
+  "summary": "Italian priest, biologist and physiologist (1729-1799), born in Scandiano. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lazzaro_Spallanzani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q213351",
+    "https://en.wikipedia.org/wiki/Lazzaro_Spallanzani"
+  ],
+  "disputed": false
+}

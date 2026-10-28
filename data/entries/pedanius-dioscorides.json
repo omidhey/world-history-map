@@ -1,0 +1,23 @@
+{
+  "id": "pedanius-dioscorides",
+  "wikidata": "Q297776",
+  "name": "Pedanius Dioscorides",
+  "category": "scientist",
+  "start": 40,
+  "end": 90,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.26,
+    "lon": 35.9,
+    "place": "Anazarbus"
+  },
+  "summary": "Greco-Roman physician and pharmacologist (AD c.40-90), born in Anazarbus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dioscorides"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q297776",
+    "https://en.wikipedia.org/wiki/Dioscorides"
+  ],
+  "disputed": false
+}

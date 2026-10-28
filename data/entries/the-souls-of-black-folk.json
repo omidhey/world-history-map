@@ -1,0 +1,22 @@
+{
+  "id": "the-souls-of-black-folk",
+  "wikidata": "Q1253660",
+  "name": "The Souls of Black Folk",
+  "category": "work",
+  "start": 1903,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.2,
+    "lon": -73.36,
+    "place": "Great Barrington"
+  },
+  "summary": "Collection of essays by W.E.B. Du Bois by W. E. B. Du Bois, associated with Great Barrington. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1253660",
+    "https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk"
+  ],
+  "disputed": false
+}

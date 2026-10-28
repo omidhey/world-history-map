@@ -1,0 +1,23 @@
+{
+  "id": "paul-celan",
+  "wikidata": "Q153905",
+  "name": "Paul Celan",
+  "category": "writer",
+  "start": 1920,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.29,
+    "lon": 25.93,
+    "place": "Chernivtsi"
+  },
+  "summary": "French-Romanian poet and translator (1920–1970), born in Chernivtsi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Celan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q153905",
+    "https://en.wikipedia.org/wiki/Paul_Celan"
+  ],
+  "disputed": false
+}

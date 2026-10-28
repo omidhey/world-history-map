@@ -1,0 +1,23 @@
+{
+  "id": "jean-de-meun",
+  "wikidata": "Q544925",
+  "name": "Jean de Meun",
+  "category": "writer",
+  "start": 1240,
+  "end": 1304,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.83,
+    "lon": 1.7,
+    "place": "Meung-sur-Loire"
+  },
+  "summary": "French author (1240–1305), born in Meung-sur-Loire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_de_Meun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q544925",
+    "https://en.wikipedia.org/wiki/Jean_de_Meun"
+  ],
+  "disputed": false
+}

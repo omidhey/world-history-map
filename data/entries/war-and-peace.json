@@ -1,0 +1,22 @@
+{
+  "id": "war-and-peace",
+  "wikidata": "Q161531",
+  "name": "War and Peace",
+  "category": "work",
+  "start": 1869,
+  "date_precision": "year",
+  "location": {
+    "lat": 54.08,
+    "lon": 37.53,
+    "place": "Yasnaya Polyana"
+  },
+  "summary": "1869 novel by Leo Tolstoy, associated with Yasnaya Polyana. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/War_and_Peace"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q161531",
+    "https://en.wikipedia.org/wiki/War_and_Peace"
+  ],
+  "disputed": false
+}

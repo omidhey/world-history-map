@@ -1,0 +1,23 @@
+{
+  "id": "mikhail-bulgakov",
+  "wikidata": "Q835",
+  "name": "Mikhail Bulgakov",
+  "category": "writer",
+  "start": 1891,
+  "end": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.45,
+    "lon": 30.52,
+    "place": "Kyiv"
+  },
+  "summary": "Russian author (1891–1940), born in Kyiv. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q835",
+    "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+  ],
+  "disputed": false
+}

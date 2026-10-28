@@ -1,0 +1,23 @@
+{
+  "id": "rita-levi-montalcini",
+  "wikidata": "Q185007",
+  "name": "Rita Levi-Montalcini",
+  "category": "scientist",
+  "start": 1909,
+  "end": 2012,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.08,
+    "lon": 7.68,
+    "place": "Turin"
+  },
+  "summary": "Italian neurologist (1909–2012), born in Turin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185007",
+    "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini"
+  ],
+  "disputed": false
+}

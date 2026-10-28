@@ -1,0 +1,23 @@
+{
+  "id": "george-washington-carver",
+  "wikidata": "Q296898",
+  "name": "George Washington Carver",
+  "category": "scientist",
+  "start": 1864,
+  "end": 1943,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.99,
+    "lon": -94.31,
+    "place": "Diamond"
+  },
+  "summary": "African American botanist and inventor (1864-1943), born in Diamond. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington_Carver"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q296898",
+    "https://en.wikipedia.org/wiki/George_Washington_Carver"
+  ],
+  "disputed": false
+}

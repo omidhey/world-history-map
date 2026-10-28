@@ -1,0 +1,23 @@
+{
+  "id": "meng-haoran",
+  "wikidata": "Q455589",
+  "name": "Meng Haoran",
+  "category": "writer",
+  "start": 690,
+  "end": 740,
+  "date_precision": "century",
+  "location": {
+    "lat": 32.07,
+    "lon": 112.15,
+    "place": "Xiangyang"
+  },
+  "summary": "Poet from the Tang Dynasty, born in Xiangyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Meng_Haoran"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q455589",
+    "https://en.wikipedia.org/wiki/Meng_Haoran"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "david-grossman",
+  "wikidata": "Q160263",
+  "name": "David Grossman",
+  "category": "writer",
+  "start": 1954,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.78,
+    "lon": 35.23,
+    "place": "Jerusalem"
+  },
+  "summary": "Israeli author (born 1954), born in Jerusalem. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Grossman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160263",
+    "https://en.wikipedia.org/wiki/David_Grossman"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sallust",
+  "wikidata": "Q7170",
+  "name": "Sallust",
+  "category": "writer",
+  "start": -86,
+  "end": -35,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.4,
+    "lon": 13.31,
+    "place": "Amiternum"
+  },
+  "summary": "Roman historian and politician (86 BC - c. 35 BC), born in Amiternum. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sallust"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7170",
+    "https://en.wikipedia.org/wiki/Sallust"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "joseph-fourier",
+  "wikidata": "Q8772",
+  "name": "Joseph Fourier",
+  "category": "scientist",
+  "start": 1768,
+  "end": 1830,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.8,
+    "lon": 3.57,
+    "place": "Auxerre"
+  },
+  "summary": "French mathematician and physicist (1768 – 1830), born in Auxerre. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Fourier"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8772",
+    "https://en.wikipedia.org/wiki/Joseph_Fourier"
+  ],
+  "disputed": false
+}

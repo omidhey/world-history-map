@@ -1,0 +1,22 @@
+{
+  "id": "ficciones",
+  "wikidata": "Q2483432",
+  "name": "Ficciones",
+  "category": "work",
+  "start": 1944,
+  "date_precision": "year",
+  "location": {
+    "lat": -34.6,
+    "lon": -58.38,
+    "place": "Buenos Aires"
+  },
+  "summary": "Short story collection by Jorge Luis Borges, associated with Buenos Aires. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ficciones"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2483432",
+    "https://en.wikipedia.org/wiki/Ficciones"
+  ],
+  "disputed": false
+}

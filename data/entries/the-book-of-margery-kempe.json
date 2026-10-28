@@ -1,0 +1,22 @@
+{
+  "id": "the-book-of-margery-kempe",
+  "wikidata": "Q16210817",
+  "name": "The Book of Margery Kempe",
+  "category": "work",
+  "start": 1430,
+  "date_precision": "decade",
+  "location": {
+    "lat": 52.75,
+    "lon": 0.4,
+    "place": "King's Lynn"
+  },
+  "summary": "Medieval text attributed to Margery Kempe, associated with King's Lynn. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Book_of_Margery_Kempe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16210817",
+    "https://en.wikipedia.org/wiki/The_Book_of_Margery_Kempe"
+  ],
+  "disputed": false
+}

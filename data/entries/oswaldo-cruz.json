@@ -1,0 +1,23 @@
+{
+  "id": "oswaldo-cruz",
+  "wikidata": "Q979554",
+  "name": "Oswaldo Cruz",
+  "category": "scientist",
+  "start": 1872,
+  "end": 1917,
+  "date_precision": "day",
+  "location": {
+    "lat": -23.22,
+    "lon": -45.31,
+    "place": "São Luiz do Paraitinga"
+  },
+  "summary": "Brazilian physician and bacteriologist (1872-1917), born in São Luiz do Paraitinga. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Oswaldo_Cruz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q979554",
+    "https://en.wikipedia.org/wiki/Oswaldo_Cruz"
+  ],
+  "disputed": false
+}

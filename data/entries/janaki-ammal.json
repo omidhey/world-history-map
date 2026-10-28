@@ -1,0 +1,23 @@
+{
+  "id": "janaki-ammal",
+  "wikidata": "Q4794782",
+  "name": "Janaki Ammal",
+  "category": "scientist",
+  "start": 1897,
+  "end": 1984,
+  "date_precision": "day",
+  "location": {
+    "lat": 11.75,
+    "lon": 75.49,
+    "place": "Thalassery"
+  },
+  "summary": "Indian botanist (1897–1984), born in Thalassery. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Janaki_Ammal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4794782",
+    "https://en.wikipedia.org/wiki/Janaki_Ammal"
+  ],
+  "disputed": false
+}

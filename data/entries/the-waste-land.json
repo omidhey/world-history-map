@@ -1,0 +1,22 @@
+{
+  "id": "the-waste-land",
+  "wikidata": "Q581458",
+  "name": "The Waste Land",
+  "category": "work",
+  "start": 1922,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.63,
+    "lon": -90.2,
+    "place": "St. Louis"
+  },
+  "summary": "Poem by T.S. Eliot by T. S. Eliot, associated with St. Louis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Waste_Land"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q581458",
+    "https://en.wikipedia.org/wiki/The_Waste_Land"
+  ],
+  "disputed": false
+}

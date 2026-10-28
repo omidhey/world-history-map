@@ -1,0 +1,23 @@
+{
+  "id": "pu-songling",
+  "wikidata": "Q318406",
+  "name": "Pu Songling",
+  "category": "writer",
+  "start": 1640,
+  "end": 1715,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.64,
+    "lon": 117.97,
+    "place": "Zichuan District"
+  },
+  "summary": "Chinese writer (1640–1715), born in Zichuan District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pu_Songling"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q318406",
+    "https://en.wikipedia.org/wiki/Pu_Songling"
+  ],
+  "disputed": false
+}

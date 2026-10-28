@@ -1,0 +1,23 @@
+{
+  "id": "simon-stevin",
+  "wikidata": "Q23696",
+  "name": "Simon Stevin",
+  "category": "scientist",
+  "start": 1548,
+  "end": 1620,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.21,
+    "lon": 3.22,
+    "place": "Bruges"
+  },
+  "summary": "Flemish mathematician, physicist and engineer (1548–1620), born in Bruges. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Stevin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q23696",
+    "https://en.wikipedia.org/wiki/Simon_Stevin"
+  ],
+  "disputed": false
+}

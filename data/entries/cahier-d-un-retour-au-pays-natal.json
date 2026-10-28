@@ -1,0 +1,22 @@
+{
+  "id": "cahier-d-un-retour-au-pays-natal",
+  "wikidata": "Q2933078",
+  "name": "Cahier d'un retour au pays natal",
+  "category": "work",
+  "start": 1939,
+  "date_precision": "year",
+  "location": {
+    "lat": 14.87,
+    "lon": -61.12,
+    "place": "Basse-Pointe"
+  },
+  "summary": "Book-length poem by Aimé Césaire, associated with Basse-Pointe. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cahier_d'un_retour_au_pays_natal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2933078",
+    "https://en.wikipedia.org/wiki/Cahier_d'un_retour_au_pays_natal"
+  ],
+  "disputed": false
+}

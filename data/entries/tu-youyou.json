@@ -1,0 +1,22 @@
+{
+  "id": "tu-youyou",
+  "wikidata": "Q462843",
+  "name": "Tu Youyou",
+  "category": "scientist",
+  "start": 1930,
+  "date_precision": "day",
+  "location": {
+    "lat": 29.88,
+    "lon": 121.55,
+    "place": "Ningbo"
+  },
+  "summary": "Chinese medical scientist, born in Ningbo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tu_Youyou"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q462843",
+    "https://en.wikipedia.org/wiki/Tu_Youyou"
+  ],
+  "disputed": false
+}

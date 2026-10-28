@@ -1,0 +1,23 @@
+{
+  "id": "nikolai-gogol",
+  "wikidata": "Q43718",
+  "name": "Nikolai Gogol",
+  "category": "writer",
+  "start": 1809,
+  "end": 1852,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.03,
+    "lon": 33.95,
+    "place": "Velyki Sorochyntsi"
+  },
+  "summary": "Russian writer of Ukrainian origin (1809–1852), born in Velyki Sorochyntsi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Gogol"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43718",
+    "https://en.wikipedia.org/wiki/Nikolai_Gogol"
+  ],
+  "disputed": false
+}

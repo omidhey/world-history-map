@@ -1,0 +1,23 @@
+{
+  "id": "r-k-narayan",
+  "wikidata": "Q334252",
+  "name": "R. K. Narayan",
+  "category": "writer",
+  "start": 1906,
+  "end": 2001,
+  "date_precision": "day",
+  "location": {
+    "lat": 13.08,
+    "lon": 80.28,
+    "place": "Chennai"
+  },
+  "summary": "Indian English-language writer (1906–2001), born in Chennai. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/R._K._Narayan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q334252",
+    "https://en.wikipedia.org/wiki/R._K._Narayan"
+  ],
+  "disputed": false
+}

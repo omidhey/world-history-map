@@ -1,0 +1,22 @@
+{
+  "id": "donald-knuth",
+  "wikidata": "Q17457",
+  "name": "Donald Knuth",
+  "category": "scientist",
+  "start": 1938,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.05,
+    "lon": -87.95,
+    "place": "Milwaukee"
+  },
+  "summary": "American computer scientist and mathematician (born 1938), born in Milwaukee. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Knuth"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q17457",
+    "https://en.wikipedia.org/wiki/Donald_Knuth"
+  ],
+  "disputed": false
+}

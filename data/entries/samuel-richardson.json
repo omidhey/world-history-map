@@ -1,0 +1,41 @@
+{
+  "id": "samuel-richardson",
+  "wikidata": "Q295941",
+  "name": "Samuel Richardson",
+  "category": "writer",
+  "start": 1689,
+  "end": 1761,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.18,
+    "lon": -1.61,
+    "place": "Derbyshire"
+  },
+  "summary": "English writer and printer (1689–1761), born in Derbyshire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Richardson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q295941",
+    "https://en.wikipedia.org/wiki/Samuel_Richardson"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1687,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q295941"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1689,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q295941"
+      ]
+    }
+  ]
+}

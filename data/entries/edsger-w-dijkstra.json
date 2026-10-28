@@ -1,0 +1,23 @@
+{
+  "id": "edsger-w-dijkstra",
+  "wikidata": "Q8556",
+  "name": "Edsger W. Dijkstra",
+  "category": "scientist",
+  "start": 1930,
+  "end": 2002,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.92,
+    "lon": 4.48,
+    "place": "Rotterdam"
+  },
+  "summary": "Dutch computer scientist (1930–2002), born in Rotterdam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8556",
+    "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra"
+  ],
+  "disputed": false
+}

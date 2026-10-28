@@ -1,0 +1,22 @@
+{
+  "id": "snow-country",
+  "wikidata": "Q1376060",
+  "name": "Snow Country",
+  "category": "work",
+  "start": 1935,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.5,
+    "place": "Osaka"
+  },
+  "summary": "Novel by Yasunari Kawabata, associated with Osaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Snow_Country"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1376060",
+    "https://en.wikipedia.org/wiki/Snow_Country"
+  ],
+  "disputed": false
+}

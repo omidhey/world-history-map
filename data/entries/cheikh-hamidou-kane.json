@@ -1,0 +1,23 @@
+{
+  "id": "cheikh-hamidou-kane",
+  "wikidata": "Q782380",
+  "name": "Cheikh Hamidou Kane",
+  "category": "writer",
+  "start": 1928,
+  "end": 2026,
+  "date_precision": "day",
+  "location": {
+    "lat": 15.62,
+    "lon": -13.33,
+    "place": "Matam"
+  },
+  "summary": "Senegalese writer and administrator, born in Matam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheikh_Hamidou_Kane"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q782380",
+    "https://en.wikipedia.org/wiki/Cheikh_Hamidou_Kane"
+  ],
+  "disputed": false
+}

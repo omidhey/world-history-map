@@ -1,0 +1,23 @@
+{
+  "id": "ovid",
+  "wikidata": "Q7198",
+  "name": "Ovid",
+  "category": "writer",
+  "start": -43,
+  "end": 17,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.05,
+    "lon": 13.93,
+    "place": "Sulmona"
+  },
+  "summary": "Roman poet (43 BC – 17/18 AD), born in Sulmona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ovid"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7198",
+    "https://en.wikipedia.org/wiki/Ovid"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "umetaro-suzuki",
+  "wikidata": "Q3369717",
+  "name": "Umetarō Suzuki",
+  "category": "scientist",
+  "start": 1874,
+  "end": 1943,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.74,
+    "lon": 138.22,
+    "place": "Makinohara"
+  },
+  "summary": "Japanese agricultural chemist (1874-1943), born in Makinohara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Umetaro_Suzuki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3369717",
+    "https://en.wikipedia.org/wiki/Umetaro_Suzuki"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sushruta-samhita",
+  "wikidata": "Q1995239",
+  "name": "Sushruta Samhita",
+  "category": "work",
+  "start": -600,
+  "date_precision": "century",
+  "location": {
+    "lat": 25.32,
+    "lon": 83.01,
+    "place": "Varanasi"
+  },
+  "summary": "Sushruta samhita is an ancient sanskrit text on medicine by Suśruta, associated with Varanasi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1995239",
+    "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+  ],
+  "disputed": false
+}

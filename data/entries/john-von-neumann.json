@@ -1,0 +1,23 @@
+{
+  "id": "john-von-neumann",
+  "wikidata": "Q17455",
+  "name": "John von Neumann",
+  "category": "scientist",
+  "start": 1903,
+  "end": 1957,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.5,
+    "lon": 19.04,
+    "place": "Budapest"
+  },
+  "summary": "Hungarian and American mathematician and physicist (1903–1957), born in Budapest. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_von_Neumann"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q17455",
+    "https://en.wikipedia.org/wiki/John_von_Neumann"
+  ],
+  "disputed": false
+}

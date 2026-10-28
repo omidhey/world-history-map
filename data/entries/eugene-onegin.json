@@ -1,0 +1,22 @@
+{
+  "id": "eugene-onegin",
+  "wikidata": "Q50948",
+  "name": "Eugene Onegin",
+  "category": "work",
+  "start": 1825,
+  "date_precision": "year",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Novel in verse by Alexander Pushkin, associated with Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Onegin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q50948",
+    "https://en.wikipedia.org/wiki/Eugene_Onegin"
+  ],
+  "disputed": false
+}

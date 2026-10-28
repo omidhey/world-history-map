@@ -1,0 +1,22 @@
+{
+  "id": "de-rerum-natura",
+  "wikidata": "Q861986",
+  "name": "De rerum natura",
+  "category": "work",
+  "start": -100,
+  "date_precision": "century",
+  "location": {
+    "lat": 40.75,
+    "lon": 14.49,
+    "place": "Pompeii"
+  },
+  "summary": "Didactic poem by Lucretius, associated with Pompeii. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/De_rerum_natura"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q861986",
+    "https://en.wikipedia.org/wiki/De_rerum_natura"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sadegh-hedayat",
+  "wikidata": "Q315017",
+  "name": "Sadegh Hedayat",
+  "category": "writer",
+  "start": 1903,
+  "end": 1951,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.69,
+    "lon": 51.39,
+    "place": "Tehran"
+  },
+  "summary": "Iranian writer, born in Tehran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sadegh_Hedayat"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315017",
+    "https://en.wikipedia.org/wiki/Sadegh_Hedayat"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1902,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q315017"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1903,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q315017"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rashomon",
+  "wikidata": "Q1076912",
+  "name": "Rashōmon",
+  "category": "work",
+  "start": 1915,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Tokyo"
+  },
+  "summary": "Short story by Ryūnosuke Akutagawa, associated with Tokyo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rashōmon_(short_story)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1076912",
+    "https://en.wikipedia.org/wiki/Rashōmon_(short_story)"
+  ],
+  "disputed": false
+}

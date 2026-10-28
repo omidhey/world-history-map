@@ -1,0 +1,23 @@
+{
+  "id": "joseph-henry",
+  "wikidata": "Q157043",
+  "name": "Joseph Henry",
+  "category": "scientist",
+  "start": 1797,
+  "end": 1878,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.65,
+    "lon": -73.77,
+    "place": "Albany"
+  },
+  "summary": "American scientist and the 1st Secretary of the Smithsonian (1797-1878), born in Albany. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Henry"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157043",
+    "https://en.wikipedia.org/wiki/Joseph_Henry"
+  ],
+  "disputed": false
+}

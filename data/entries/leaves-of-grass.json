@@ -1,0 +1,22 @@
+{
+  "id": "leaves-of-grass",
+  "wikidata": "Q132042",
+  "name": "Leaves of Grass",
+  "category": "work",
+  "start": 1855,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.82,
+    "lon": -73.43,
+    "place": "West Hills"
+  },
+  "summary": "Expansive Walt Whitman poetry collection, associated with West Hills. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leaves_of_Grass"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q132042",
+    "https://en.wikipedia.org/wiki/Leaves_of_Grass"
+  ],
+  "disputed": false
+}

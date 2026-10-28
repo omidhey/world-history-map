@@ -1,0 +1,23 @@
+{
+  "id": "anders-celsius",
+  "wikidata": "Q81130",
+  "name": "Anders Celsius",
+  "category": "scientist",
+  "start": 1701,
+  "end": 1744,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.85,
+    "lon": 17.64,
+    "place": "Uppsala"
+  },
+  "summary": "Swedish astronomer, physicist, and naturalist (1701-1744), born in Uppsala. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anders_Celsius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81130",
+    "https://en.wikipedia.org/wiki/Anders_Celsius"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "du-fu",
+  "wikidata": "Q33772",
+  "name": "Du Fu",
+  "category": "writer",
+  "start": 712,
+  "end": 770,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.75,
+    "lon": 112.99,
+    "place": "Gongyi"
+  },
+  "summary": "Tang dynasty Chinese poet (712–770), born in Gongyi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Du_Fu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q33772",
+    "https://en.wikipedia.org/wiki/Du_Fu"
+  ],
+  "disputed": false
+}

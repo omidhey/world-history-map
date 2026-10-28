@@ -1,0 +1,22 @@
+{
+  "id": "nervous-conditions",
+  "wikidata": "Q6996918",
+  "name": "Nervous Conditions",
+  "category": "work",
+  "start": 1988,
+  "date_precision": "year",
+  "location": {
+    "lat": -17.38,
+    "lon": 32.22,
+    "place": "Mutoko"
+  },
+  "summary": "Novel by Zimbabwean author Tsitsi Dangarembga, associated with Mutoko. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nervous_Conditions"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6996918",
+    "https://en.wikipedia.org/wiki/Nervous_Conditions"
+  ],
+  "disputed": false
+}

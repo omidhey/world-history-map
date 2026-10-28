@@ -1,0 +1,23 @@
+{
+  "id": "justus-von-liebig",
+  "wikidata": "Q16571",
+  "name": "Justus von Liebig",
+  "category": "scientist",
+  "start": 1803,
+  "end": 1873,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.87,
+    "lon": 8.65,
+    "place": "Darmstadt"
+  },
+  "summary": "German chemist (1803-1873), born in Darmstadt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Justus_von_Liebig"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16571",
+    "https://en.wikipedia.org/wiki/Justus_von_Liebig"
+  ],
+  "disputed": false
+}

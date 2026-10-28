@@ -1,0 +1,23 @@
+{
+  "id": "bertolt-brecht",
+  "wikidata": "Q38757",
+  "name": "Bertolt Brecht",
+  "category": "writer",
+  "start": 1898,
+  "end": 1956,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.37,
+    "lon": 10.9,
+    "place": "Augsburg"
+  },
+  "summary": "German poet, playwright, and theatre director (1898–1956), born in Augsburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertolt_Brecht"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q38757",
+    "https://en.wikipedia.org/wiki/Bertolt_Brecht"
+  ],
+  "disputed": false
+}

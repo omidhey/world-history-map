@@ -1,0 +1,23 @@
+{
+  "id": "aristarchus-of-samos",
+  "wikidata": "Q140188",
+  "name": "Aristarchus of Samos",
+  "category": "scientist",
+  "start": -310,
+  "end": -230,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.75,
+    "lon": 26.83,
+    "place": "Samos"
+  },
+  "summary": "Greek astronomer and mathematician (c.310–c.230 BC), born in Samos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q140188",
+    "https://en.wikipedia.org/wiki/Aristarchus_of_Samos"
+  ],
+  "disputed": false
+}

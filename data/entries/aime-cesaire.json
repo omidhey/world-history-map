@@ -1,0 +1,23 @@
+{
+  "id": "aime-cesaire",
+  "wikidata": "Q223955",
+  "name": "Aimé Césaire",
+  "category": "writer",
+  "start": 1913,
+  "end": 2008,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.87,
+    "lon": -61.12,
+    "place": "Basse-Pointe"
+  },
+  "summary": "Martinican writer, poet and politician (1913–2008), born in Basse-Pointe. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aimé_Césaire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q223955",
+    "https://en.wikipedia.org/wiki/Aimé_Césaire"
+  ],
+  "disputed": false
+}

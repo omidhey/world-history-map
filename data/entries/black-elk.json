@@ -1,0 +1,23 @@
+{
+  "id": "black-elk",
+  "wikidata": "Q436655",
+  "name": "Black Elk",
+  "category": "writer",
+  "start": 1863,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.47,
+    "lon": -105.34,
+    "place": "Little Powder River"
+  },
+  "summary": "Oglala Lakota leader (1863–1950), born in Little Powder River. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Elk"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q436655",
+    "https://en.wikipedia.org/wiki/Black_Elk"
+  ],
+  "disputed": false
+}

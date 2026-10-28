@@ -1,0 +1,23 @@
+{
+  "id": "li-shizhen",
+  "wikidata": "Q698925",
+  "name": "Li Shizhen",
+  "category": "scientist",
+  "start": 1517,
+  "end": 1593,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.23,
+    "lon": 115.43,
+    "place": "Qizhou (now Qichun)"
+  },
+  "summary": "Chinese polymath and scientist (1517-1593), born in Qizhou (now Qichun). Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Li_Shizhen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q698925",
+    "https://en.wikipedia.org/wiki/Li_Shizhen"
+  ],
+  "disputed": false
+}

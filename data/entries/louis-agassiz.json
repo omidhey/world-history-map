@@ -1,0 +1,23 @@
+{
+  "id": "louis-agassiz",
+  "wikidata": "Q122972",
+  "name": "Louis Agassiz",
+  "category": "scientist",
+  "start": 1807,
+  "end": 1873,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.95,
+    "lon": 7.08,
+    "place": "Môtier"
+  },
+  "summary": "Swiss-American naturalist (1807–1873), born in Môtier. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Agassiz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q122972",
+    "https://en.wikipedia.org/wiki/Louis_Agassiz"
+  ],
+  "disputed": false
+}

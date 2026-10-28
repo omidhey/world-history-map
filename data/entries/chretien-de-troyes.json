@@ -1,0 +1,23 @@
+{
+  "id": "chretien-de-troyes",
+  "wikidata": "Q4302",
+  "name": "Chrétien de Troyes",
+  "category": "writer",
+  "start": 1135,
+  "end": 1181,
+  "date_precision": "decade",
+  "location": {
+    "lat": 48.3,
+    "lon": 4.08,
+    "place": "Troyes"
+  },
+  "summary": "12th century French poet and trouvère, born in Troyes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chrétien_de_Troyes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4302",
+    "https://en.wikipedia.org/wiki/Chrétien_de_Troyes"
+  ],
+  "disputed": false
+}

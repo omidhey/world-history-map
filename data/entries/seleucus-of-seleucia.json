@@ -1,0 +1,23 @@
+{
+  "id": "seleucus-of-seleucia",
+  "wikidata": "Q139798",
+  "name": "Seleucus of Seleucia",
+  "category": "scientist",
+  "start": -190,
+  "end": -150,
+  "date_precision": "century",
+  "location": {
+    "lat": 33.1,
+    "lon": 44.52,
+    "place": "Seleucia"
+  },
+  "summary": "Ancient Greek astronomer, born in Seleucia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Seleucus_of_Seleucia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q139798",
+    "https://en.wikipedia.org/wiki/Seleucus_of_Seleucia"
+  ],
+  "disputed": false
+}

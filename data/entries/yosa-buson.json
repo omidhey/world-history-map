@@ -1,0 +1,23 @@
+{
+  "id": "yosa-buson",
+  "wikidata": "Q31523",
+  "name": "Yosa Buson",
+  "category": "writer",
+  "start": 1716,
+  "end": 1784,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.7,
+    "lon": 135.53,
+    "place": "Kema"
+  },
+  "summary": "Poet and painter from Japan (1716–1784), born in Kema. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yosa_Buson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q31523",
+    "https://en.wikipedia.org/wiki/Yosa_Buson"
+  ],
+  "disputed": false
+}

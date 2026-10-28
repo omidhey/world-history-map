@@ -1,0 +1,23 @@
+{
+  "id": "william-faulkner",
+  "wikidata": "Q38392",
+  "name": "William Faulkner",
+  "category": "writer",
+  "start": 1897,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.49,
+    "lon": -89.01,
+    "place": "New Albany"
+  },
+  "summary": "American writer (1897-1962), born in New Albany. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Faulkner"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q38392",
+    "https://en.wikipedia.org/wiki/William_Faulkner"
+  ],
+  "disputed": false
+}

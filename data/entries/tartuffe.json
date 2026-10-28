@@ -1,0 +1,22 @@
+{
+  "id": "tartuffe",
+  "wikidata": "Q205875",
+  "name": "Tartuffe",
+  "category": "work",
+  "start": 1669,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Comedy play by Molière, associated with Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tartuffe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q205875",
+    "https://en.wikipedia.org/wiki/Tartuffe"
+  ],
+  "disputed": false
+}

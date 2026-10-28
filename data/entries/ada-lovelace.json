@@ -1,0 +1,23 @@
+{
+  "id": "ada-lovelace",
+  "wikidata": "Q7259",
+  "name": "Ada Lovelace",
+  "category": "scientist",
+  "start": 1815,
+  "end": 1852,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English mathematician (1815–1852), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7259",
+    "https://en.wikipedia.org/wiki/Ada_Lovelace"
+  ],
+  "disputed": false
+}

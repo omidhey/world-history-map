@@ -1,0 +1,23 @@
+{
+  "id": "charlotte-bronte",
+  "wikidata": "Q127332",
+  "name": "Charlotte Brontë",
+  "category": "writer",
+  "start": 1816,
+  "end": 1855,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.79,
+    "lon": -1.85,
+    "place": "Thornton"
+  },
+  "summary": "British novelist and poet (1816-1855), born in Thornton. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Brontë"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q127332",
+    "https://en.wikipedia.org/wiki/Charlotte_Brontë"
+  ],
+  "disputed": false
+}

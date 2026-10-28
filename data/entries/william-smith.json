@@ -1,0 +1,23 @@
+{
+  "id": "william-smith",
+  "wikidata": "Q313533",
+  "name": "William Smith",
+  "category": "scientist",
+  "start": 1769,
+  "end": 1839,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.92,
+    "lon": -1.59,
+    "place": "Churchill"
+  },
+  "summary": "English geologist, born in Churchill. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Smith_(geologist)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313533",
+    "https://en.wikipedia.org/wiki/William_Smith_(geologist)"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-posthumous-memoirs-of-bras-cubas",
+  "wikidata": "Q1464493",
+  "name": "The Posthumous Memoirs of Bras Cubas",
+  "category": "work",
+  "start": 1881,
+  "date_precision": "year",
+  "location": {
+    "lat": -22.91,
+    "lon": -43.21,
+    "place": "Rio de Janeiro"
+  },
+  "summary": "1881 novel by Joaquim Maria Machado de Assis, associated with Rio de Janeiro. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Brás_Cubas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1464493",
+    "https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Brás_Cubas"
+  ],
+  "disputed": false
+}

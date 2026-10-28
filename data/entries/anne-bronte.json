@@ -1,0 +1,23 @@
+{
+  "id": "anne-bronte",
+  "wikidata": "Q44520",
+  "name": "Anne Brontë",
+  "category": "writer",
+  "start": 1820,
+  "end": 1849,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.79,
+    "lon": -1.85,
+    "place": "Thornton"
+  },
+  "summary": "British novelist and poet (1820-1849), born in Thornton. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Brontë"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44520",
+    "https://en.wikipedia.org/wiki/Anne_Brontë"
+  ],
+  "disputed": false
+}

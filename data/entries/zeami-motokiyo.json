@@ -1,0 +1,23 @@
+{
+  "id": "zeami-motokiyo",
+  "wikidata": "Q169352",
+  "name": "Zeami Motokiyo",
+  "category": "writer",
+  "start": 1363,
+  "end": 1443,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.72,
+    "lon": 136.16,
+    "place": "Iga Province"
+  },
+  "summary": "Japanese aesthetician and playwright, born in Iga Province. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zeami_Motokiyo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q169352",
+    "https://en.wikipedia.org/wiki/Zeami_Motokiyo"
+  ],
+  "disputed": false
+}

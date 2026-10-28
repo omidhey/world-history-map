@@ -1,0 +1,23 @@
+{
+  "id": "natsume-soseki",
+  "wikidata": "Q180903",
+  "name": "Natsume Sōseki",
+  "category": "writer",
+  "start": 1867,
+  "end": 1916,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.7,
+    "lon": 139.72,
+    "place": "Kikuichō"
+  },
+  "summary": "Japanese novelist, born in Kikuichō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Natsume_Sōseki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q180903",
+    "https://en.wikipedia.org/wiki/Natsume_Sōseki"
+  ],
+  "disputed": false
+}

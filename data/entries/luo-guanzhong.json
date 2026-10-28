@@ -1,0 +1,41 @@
+{
+  "id": "luo-guanzhong",
+  "wikidata": "Q264517",
+  "name": "Luo Guanzhong",
+  "category": "writer",
+  "start": 1334,
+  "end": 1400,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.87,
+    "lon": 112.54,
+    "place": "Taiyuan"
+  },
+  "summary": "14th-century Chinese writer, born in Taiyuan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luo_Guanzhong"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q264517",
+    "https://en.wikipedia.org/wiki/Luo_Guanzhong"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1330,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q264517"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1334,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q264517"
+      ]
+    }
+  ]
+}

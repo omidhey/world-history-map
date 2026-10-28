@@ -1,0 +1,22 @@
+{
+  "id": "mo-yan",
+  "wikidata": "Q8998",
+  "name": "Mo Yan",
+  "category": "writer",
+  "start": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.38,
+    "lon": 119.75,
+    "place": "Gaomi"
+  },
+  "summary": "Chinese novelist and screenwriter, born in Gaomi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mo_Yan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8998",
+    "https://en.wikipedia.org/wiki/Mo_Yan"
+  ],
+  "disputed": false
+}

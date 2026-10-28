@@ -1,0 +1,22 @@
+{
+  "id": "robinson-crusoe",
+  "wikidata": "Q483034",
+  "name": "Robinson Crusoe",
+  "category": "work",
+  "start": 1719,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "1719 novel by Daniel Defoe, associated with London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q483034",
+    "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+  ],
+  "disputed": false
+}

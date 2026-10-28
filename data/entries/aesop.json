@@ -1,0 +1,23 @@
+{
+  "id": "aesop",
+  "wikidata": "Q43423",
+  "name": "Aesop",
+  "category": "writer",
+  "start": -620,
+  "end": -564,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.66,
+    "lon": 27.73,
+    "place": "Mesembria"
+  },
+  "summary": "Ancient Greek storyteller (619 BC–563 BC), born in Mesembria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aesop"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43423",
+    "https://en.wikipedia.org/wiki/Aesop"
+  ],
+  "disputed": false
+}

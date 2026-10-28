@@ -1,0 +1,23 @@
+{
+  "id": "alexander-graham-bell",
+  "wikidata": "Q34286",
+  "name": "Alexander Graham Bell",
+  "category": "scientist",
+  "start": 1847,
+  "end": 1922,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -3.19,
+    "place": "Edinburgh"
+  },
+  "summary": "Canadian-American scientist inventor of telephone (1847–1922), born in Edinburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34286",
+    "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+  ],
+  "disputed": false
+}

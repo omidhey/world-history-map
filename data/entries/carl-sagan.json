@@ -1,0 +1,23 @@
+{
+  "id": "carl-sagan",
+  "wikidata": "Q410",
+  "name": "Carl Sagan",
+  "category": "scientist",
+  "start": 1934,
+  "end": 1996,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.65,
+    "lon": -73.95,
+    "place": "Brooklyn"
+  },
+  "summary": "American astrophysicist, cosmologist and author (1934–1996), born in Brooklyn. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Sagan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q410",
+    "https://en.wikipedia.org/wiki/Carl_Sagan"
+  ],
+  "disputed": false
+}

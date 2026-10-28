@@ -1,0 +1,23 @@
+{
+  "id": "emile-zola",
+  "wikidata": "Q504",
+  "name": "Émile Zola",
+  "category": "writer",
+  "start": 1840,
+  "end": 1902,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.87,
+    "lon": 2.34,
+    "place": "rue Saint-Joseph"
+  },
+  "summary": "French novelist, journalist, playwright, and poet (1840–1902), born in rue Saint-Joseph. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Émile_Zola"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q504",
+    "https://en.wikipedia.org/wiki/Émile_Zola"
+  ],
+  "disputed": false
+}

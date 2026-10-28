@@ -1,0 +1,23 @@
+{
+  "id": "georgius-agricola",
+  "wikidata": "Q76579",
+  "name": "Georgius Agricola",
+  "category": "scientist",
+  "start": 1494,
+  "end": 1555,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.82,
+    "lon": 12.54,
+    "place": "Glauchau"
+  },
+  "summary": "German physician and mineralogist (1494-1555), born in Glauchau. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgius_Agricola"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76579",
+    "https://en.wikipedia.org/wiki/Georgius_Agricola"
+  ],
+  "disputed": false
+}

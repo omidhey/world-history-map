@@ -1,0 +1,23 @@
+{
+  "id": "gerard-of-cremona",
+  "wikidata": "Q367240",
+  "name": "Gerard of Cremona",
+  "category": "scientist",
+  "start": 1114,
+  "end": 1187,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.13,
+    "lon": 10.02,
+    "place": "Cremona"
+  },
+  "summary": "Italian translator and astrologer (c. 1114 – 1187), born in Cremona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_of_Cremona"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q367240",
+    "https://en.wikipedia.org/wiki/Gerard_of_Cremona"
+  ],
+  "disputed": false
+}

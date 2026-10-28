@@ -1,0 +1,23 @@
+{
+  "id": "mahmoud-darwish",
+  "wikidata": "Q207720",
+  "name": "Mahmoud Darwish",
+  "category": "writer",
+  "start": 1941,
+  "end": 2008,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.91,
+    "lon": 35.18,
+    "place": "Al-Birwa"
+  },
+  "summary": "The national Palestinian poet, and author (1941–2008), born in Al-Birwa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahmoud_Darwish"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207720",
+    "https://en.wikipedia.org/wiki/Mahmoud_Darwish"
+  ],
+  "disputed": false
+}

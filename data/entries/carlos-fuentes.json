@@ -1,0 +1,23 @@
+{
+  "id": "carlos-fuentes",
+  "wikidata": "Q154691",
+  "name": "Carlos Fuentes",
+  "category": "writer",
+  "start": 1928,
+  "end": 2012,
+  "date_precision": "day",
+  "location": {
+    "lat": 8.97,
+    "lon": -79.53,
+    "place": "Panama City"
+  },
+  "summary": "Mexican writer (1928–2012), born in Panama City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Fuentes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q154691",
+    "https://en.wikipedia.org/wiki/Carlos_Fuentes"
+  ],
+  "disputed": false
+}

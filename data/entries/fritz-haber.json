@@ -1,0 +1,23 @@
+{
+  "id": "fritz-haber",
+  "wikidata": "Q57075",
+  "name": "Fritz Haber",
+  "category": "scientist",
+  "start": 1868,
+  "end": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.11,
+    "lon": 17.03,
+    "place": "Wrocław"
+  },
+  "summary": "German chemist and receiver of the Nobel prize (1868–1934), born in Wrocław. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Haber"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57075",
+    "https://en.wikipedia.org/wiki/Fritz_Haber"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lu-xun",
+  "wikidata": "Q23114",
+  "name": "Lu Xun",
+  "category": "writer",
+  "start": 1881,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 30,
+    "lon": 120.58,
+    "place": "Shaoxing"
+  },
+  "summary": "Chinese novelist and essayist (1881–1936), born in Shaoxing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lu_Xun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q23114",
+    "https://en.wikipedia.org/wiki/Lu_Xun"
+  ],
+  "disputed": false
+}

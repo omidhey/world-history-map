@@ -1,0 +1,22 @@
+{
+  "id": "arundhati-roy",
+  "wikidata": "Q212801",
+  "name": "Arundhati Roy",
+  "category": "writer",
+  "start": 1961,
+  "date_precision": "day",
+  "location": {
+    "lat": 25.57,
+    "lon": 91.88,
+    "place": "Shillong"
+  },
+  "summary": "Indian novelist, essayist, and activist, born in Shillong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arundhati_Roy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q212801",
+    "https://en.wikipedia.org/wiki/Arundhati_Roy"
+  ],
+  "disputed": false
+}

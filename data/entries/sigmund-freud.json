@@ -1,0 +1,24 @@
+{
+  "id": "sigmund-freud",
+  "wikidata": "Q9215",
+  "name": "Sigmund Freud",
+  "category": "scientist",
+  "start": 1856,
+  "end": 1939,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.64,
+    "lon": 18.15,
+    "place": "Příbor"
+  },
+  "summary": "Austrian psychiatrist and founder of psychoanalysis (1856–1939), born in Příbor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Freud"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9215",
+    "https://en.wikipedia.org/wiki/Sigmund_Freud",
+    "https://iep.utm.edu/freud/"
+  ],
+  "disputed": false
+}

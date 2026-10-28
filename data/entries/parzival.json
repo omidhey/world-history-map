@@ -1,0 +1,22 @@
+{
+  "id": "parzival",
+  "wikidata": "Q1247232",
+  "name": "Parzival",
+  "category": "work",
+  "start": 1200,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.23,
+    "lon": 10.73,
+    "place": "Wolframs-Eschenbach"
+  },
+  "summary": "Medieval German romance by Wolfram von Eschenbach, associated with Wolframs-Eschenbach. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parzival"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1247232",
+    "https://en.wikipedia.org/wiki/Parzival"
+  ],
+  "disputed": false
+}

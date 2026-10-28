@@ -1,0 +1,22 @@
+{
+  "id": "the-cloud-dream-of-the-nine",
+  "wikidata": "Q4254265",
+  "name": "The Cloud Dream of the Nine",
+  "category": "work",
+  "start": 1689,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.32,
+    "lon": 127.23,
+    "place": "Korea"
+  },
+  "summary": "Korean novella (17th century) by Kim Manjung, associated with Korea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Cloud_Dream_of_the_Nine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4254265",
+    "https://en.wikipedia.org/wiki/The_Cloud_Dream_of_the_Nine"
+  ],
+  "disputed": false
+}

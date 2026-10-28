@@ -1,0 +1,23 @@
+{
+  "id": "francis-crick",
+  "wikidata": "Q123280",
+  "name": "Francis Crick",
+  "category": "scientist",
+  "start": 1916,
+  "end": 2004,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.23,
+    "lon": -0.9,
+    "place": "Northampton"
+  },
+  "summary": "British molecular biologist, biophysicist, neuroscientist; co-discoverer of the structure of DNA (1916–2004), born in Northampton. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Crick"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q123280",
+    "https://en.wikipedia.org/wiki/Francis_Crick"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "disgrace",
+  "wikidata": "Q958560",
+  "name": "Disgrace",
+  "category": "work",
+  "start": 1999,
+  "date_precision": "day",
+  "location": {
+    "lat": -33.93,
+    "lon": 18.42,
+    "place": "Cape Town"
+  },
+  "summary": "1999 novel by J. M. Coetzee, associated with Cape Town. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Disgrace"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q958560",
+    "https://en.wikipedia.org/wiki/Disgrace"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "zakes-mda",
+  "wikidata": "Q144653",
+  "name": "Zakes Mda",
+  "category": "writer",
+  "start": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": -30.62,
+    "lon": 27.16,
+    "place": "Herschel"
+  },
+  "summary": "South African writer, born in Herschel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zakes_Mda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q144653",
+    "https://en.wikipedia.org/wiki/Zakes_Mda"
+  ],
+  "disputed": false
+}

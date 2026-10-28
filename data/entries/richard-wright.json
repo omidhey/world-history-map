@@ -1,0 +1,23 @@
+{
+  "id": "richard-wright",
+  "wikidata": "Q319820",
+  "name": "Richard Wright",
+  "category": "writer",
+  "start": 1908,
+  "end": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.56,
+    "lon": -91.4,
+    "place": "Natchez"
+  },
+  "summary": "American novelist and poet (1908–1960), born in Natchez. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wright_(author)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q319820",
+    "https://en.wikipedia.org/wiki/Richard_Wright_(author)"
+  ],
+  "disputed": false
+}

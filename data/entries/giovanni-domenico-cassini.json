@@ -1,0 +1,23 @@
+{
+  "id": "giovanni-domenico-cassini",
+  "wikidata": "Q14279",
+  "name": "Giovanni Domenico Cassini",
+  "category": "scientist",
+  "start": 1625,
+  "end": 1712,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.87,
+    "lon": 7.67,
+    "place": "Perinaldo"
+  },
+  "summary": "Italian/French mathematician, astronomer, engineer, and astrologer (*1625 – †1712), born in Perinaldo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Cassini"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q14279",
+    "https://en.wikipedia.org/wiki/Giovanni_Domenico_Cassini"
+  ],
+  "disputed": false
+}

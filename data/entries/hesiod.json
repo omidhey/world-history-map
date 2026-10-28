@@ -1,0 +1,23 @@
+{
+  "id": "hesiod",
+  "wikidata": "Q44233",
+  "name": "Hesiod",
+  "category": "writer",
+  "start": -776,
+  "end": -700,
+  "date_precision": "century",
+  "location": {
+    "lat": 38.76,
+    "lon": 26.94,
+    "place": "Cyme"
+  },
+  "summary": "Ancient Greek poet of the archaic period, born in Cyme. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hesiod"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44233",
+    "https://en.wikipedia.org/wiki/Hesiod"
+  ],
+  "disputed": false
+}

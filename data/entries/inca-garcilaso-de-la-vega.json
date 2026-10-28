@@ -1,0 +1,23 @@
+{
+  "id": "inca-garcilaso-de-la-vega",
+  "wikidata": "Q334711",
+  "name": "Inca Garcilaso de la Vega",
+  "category": "writer",
+  "start": 1539,
+  "end": 1616,
+  "date_precision": "day",
+  "location": {
+    "lat": -13.52,
+    "lon": -71.98,
+    "place": "Cusco"
+  },
+  "summary": "Spanish chronicler (1539-1616), born in Cusco. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Inca_Garcilaso_de_la_Vega"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q334711",
+    "https://en.wikipedia.org/wiki/Inca_Garcilaso_de_la_Vega"
+  ],
+  "disputed": false
+}

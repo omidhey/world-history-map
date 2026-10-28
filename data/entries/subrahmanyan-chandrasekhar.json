@@ -1,0 +1,23 @@
+{
+  "id": "subrahmanyan-chandrasekhar",
+  "wikidata": "Q148109",
+  "name": "Subrahmanyan Chandrasekhar",
+  "category": "scientist",
+  "start": 1910,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.55,
+    "lon": 74.34,
+    "place": "Lahore"
+  },
+  "summary": "Indian-American astrophysicist, born in Lahore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q148109",
+    "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"
+  ],
+  "disputed": false
+}

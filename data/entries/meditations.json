@@ -1,0 +1,22 @@
+{
+  "id": "meditations",
+  "wikidata": "Q1152283",
+  "name": "Meditations",
+  "category": "work",
+  "start": 200,
+  "date_precision": "century",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Essay by Marcus Aurelius, associated with Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Meditations"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1152283",
+    "https://en.wikipedia.org/wiki/Meditations"
+  ],
+  "disputed": false
+}

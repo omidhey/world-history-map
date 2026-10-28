@@ -1,0 +1,23 @@
+{
+  "id": "elias-khoury",
+  "wikidata": "Q712882",
+  "name": "Elias Khoury",
+  "category": "writer",
+  "start": 1948,
+  "end": 2024,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.89,
+    "lon": 35.52,
+    "place": "Ashrafieh"
+  },
+  "summary": "Contemporary Lebanese novelist, critic publisher (1948–2024), born in Ashrafieh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Khoury"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q712882",
+    "https://en.wikipedia.org/wiki/Elias_Khoury"
+  ],
+  "disputed": false
+}

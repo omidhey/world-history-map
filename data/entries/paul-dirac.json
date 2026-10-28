@@ -1,0 +1,23 @@
+{
+  "id": "paul-dirac",
+  "wikidata": "Q47480",
+  "name": "Paul Dirac",
+  "category": "scientist",
+  "start": 1902,
+  "end": 1984,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.45,
+    "lon": -2.6,
+    "place": "Bristol"
+  },
+  "summary": "British theoretical physicist (1902–1984), born in Bristol. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Dirac"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47480",
+    "https://en.wikipedia.org/wiki/Paul_Dirac"
+  ],
+  "disputed": false
+}

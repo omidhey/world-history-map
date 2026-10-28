@@ -1,0 +1,22 @@
+{
+  "id": "their-eyes-were-watching-god",
+  "wikidata": "Q1476619",
+  "name": "Their Eyes Were Watching God",
+  "category": "work",
+  "start": 1937,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.56,
+    "lon": -85.67,
+    "place": "Notasulga"
+  },
+  "summary": "1937 novel by Zora Neale Hurston, associated with Notasulga. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1476619",
+    "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+  ],
+  "disputed": false
+}

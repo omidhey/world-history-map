@@ -1,0 +1,22 @@
+{
+  "id": "works-and-days",
+  "wikidata": "Q667285",
+  "name": "Works and Days",
+  "category": "work",
+  "start": -800,
+  "date_precision": "century",
+  "location": {
+    "lat": 38.76,
+    "lon": 26.94,
+    "place": "Cyme"
+  },
+  "summary": "Didactic poem in 828 lines of dactylic hexameter by Hesiod in which Hesiod instructs his brother Perses in agriculture, associated with Cyme. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Works_and_Days"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q667285",
+    "https://en.wikipedia.org/wiki/Works_and_Days"
+  ],
+  "disputed": false
+}

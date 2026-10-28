@@ -1,0 +1,23 @@
+{
+  "id": "surdas",
+  "wikidata": "Q1325652",
+  "name": "Surdas",
+  "category": "writer",
+  "start": 1479,
+  "end": 1600,
+  "date_precision": "century",
+  "location": {
+    "lat": 28.42,
+    "lon": 76.97,
+    "place": "Sihi"
+  },
+  "summary": "Indian writer, born in Sihi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Surdas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1325652",
+    "https://en.wikipedia.org/wiki/Surdas"
+  ],
+  "disputed": false
+}

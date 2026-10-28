@@ -1,0 +1,23 @@
+{
+  "id": "pierre-corneille",
+  "wikidata": "Q747",
+  "name": "Pierre Corneille",
+  "category": "writer",
+  "start": 1606,
+  "end": 1684,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.44,
+    "lon": 1.1,
+    "place": "Rouen"
+  },
+  "summary": "French tragedian (1606–1684), born in Rouen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Corneille"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q747",
+    "https://en.wikipedia.org/wiki/Pierre_Corneille"
+  ],
+  "disputed": false
+}

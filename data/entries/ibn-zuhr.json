@@ -1,0 +1,49 @@
+{
+  "id": "ibn-zuhr",
+  "wikidata": "Q470914",
+  "name": "Ibn Zuhr",
+  "category": "scientist",
+  "start": 1073,
+  "end": 1162,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.71,
+    "lon": -5.35,
+    "place": "Peñaflor"
+  },
+  "summary": "Arab physician, surgeon and poet (1094–1162), born in Peñaflor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Zuhr"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q470914",
+    "https://en.wikipedia.org/wiki/Ibn_Zuhr"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1073,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q470914"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1091,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q470914"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1092,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q470914"
+      ]
+    }
+  ]
+}

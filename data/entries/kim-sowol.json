@@ -1,0 +1,23 @@
+{
+  "id": "kim-sowol",
+  "wikidata": "Q496828",
+  "name": "Kim Sowol",
+  "category": "writer",
+  "start": 1902,
+  "end": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.98,
+    "lon": 125.25,
+    "place": "Kusong"
+  },
+  "summary": "Korean poet (1902–1934), born in Kusong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Sowol"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q496828",
+    "https://en.wikipedia.org/wiki/Kim_Sowol"
+  ],
+  "disputed": false
+}

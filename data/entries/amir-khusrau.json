@@ -1,0 +1,23 @@
+{
+  "id": "amir-khusrau",
+  "wikidata": "Q207817",
+  "name": "Amir Khusrau",
+  "category": "writer",
+  "start": 1253,
+  "end": 1325,
+  "date_precision": "year",
+  "location": {
+    "lat": 27.69,
+    "lon": 79.0,
+    "place": "Patiyali"
+  },
+  "summary": "Indian poet, writer, singer and scholar (1253–1325), born in Patiyali. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amir_Khusrau"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207817",
+    "https://en.wikipedia.org/wiki/Amir_Khusrau"
+  ],
+  "disputed": false
+}

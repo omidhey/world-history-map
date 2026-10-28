@@ -1,0 +1,22 @@
+{
+  "id": "rodolfo-llinas",
+  "wikidata": "Q2337396",
+  "name": "Rodolfo Llinás",
+  "category": "scientist",
+  "start": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 4.61,
+    "lon": -74.08,
+    "place": "Bogotá"
+  },
+  "summary": "Colombian neuroscientifico, born in Bogotá. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodolfo_Llinás"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2337396",
+    "https://en.wikipedia.org/wiki/Rodolfo_Llinás"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "emma",
+  "wikidata": "Q223880",
+  "name": "Emma",
+  "category": "work",
+  "start": 1815,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.23,
+    "lon": -1.22,
+    "place": "Steventon"
+  },
+  "summary": "1815 novel by Jane Austen, associated with Steventon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q223880",
+    "https://en.wikipedia.org/wiki/Emma_(novel)"
+  ],
+  "disputed": false
+}

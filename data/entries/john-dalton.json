@@ -1,0 +1,23 @@
+{
+  "id": "john-dalton",
+  "wikidata": "Q41284",
+  "name": "John Dalton",
+  "category": "scientist",
+  "start": 1766,
+  "end": 1844,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.75,
+    "lon": -3,
+    "place": "Cumberland"
+  },
+  "summary": "British chemist and mathematician (1766–1844), born in Cumberland. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Dalton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41284",
+    "https://en.wikipedia.org/wiki/John_Dalton"
+  ],
+  "disputed": false
+}

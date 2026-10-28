@@ -1,0 +1,23 @@
+{
+  "id": "lise-meitner",
+  "wikidata": "Q56189",
+  "name": "Lise Meitner",
+  "category": "scientist",
+  "start": 1878,
+  "end": 1968,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian-Swedish physicist, born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lise_Meitner"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q56189",
+    "https://en.wikipedia.org/wiki/Lise_Meitner"
+  ],
+  "disputed": false
+}

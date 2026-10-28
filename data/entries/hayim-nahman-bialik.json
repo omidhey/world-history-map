@@ -1,0 +1,23 @@
+{
+  "id": "hayim-nahman-bialik",
+  "wikidata": "Q359705",
+  "name": "Hayim Nahman Bialik",
+  "category": "writer",
+  "start": 1873,
+  "end": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.15,
+    "lon": 29.04,
+    "place": "Ivnytsia"
+  },
+  "summary": "Hebrew poet, author, and editor (1873–1934), born in Ivnytsia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayim_Nahman_Bialik"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q359705",
+    "https://en.wikipedia.org/wiki/Hayim_Nahman_Bialik"
+  ],
+  "disputed": false
+}

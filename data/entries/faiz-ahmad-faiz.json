@@ -1,0 +1,23 @@
+{
+  "id": "faiz-ahmad-faiz",
+  "wikidata": "Q381296",
+  "name": "Faiz Ahmad Faiz",
+  "category": "writer",
+  "start": 1911,
+  "end": 1984,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.5,
+    "lon": 74.53,
+    "place": "Sialkot"
+  },
+  "summary": "Pakistani Urdu poet and author (1911–1984), born in Sialkot. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Faiz_Ahmad_Faiz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q381296",
+    "https://en.wikipedia.org/wiki/Faiz_Ahmad_Faiz"
+  ],
+  "disputed": false
+}

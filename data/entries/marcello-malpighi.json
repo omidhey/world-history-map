@@ -1,0 +1,23 @@
+{
+  "id": "marcello-malpighi",
+  "wikidata": "Q232583",
+  "name": "Marcello Malpighi",
+  "category": "scientist",
+  "start": 1628,
+  "end": 1694,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.72,
+    "lon": 11.15,
+    "place": "Crevalcore"
+  },
+  "summary": "Italian physician (1628-1694), born in Crevalcore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcello_Malpighi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q232583",
+    "https://en.wikipedia.org/wiki/Marcello_Malpighi"
+  ],
+  "disputed": false
+}

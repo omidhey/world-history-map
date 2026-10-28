@@ -1,0 +1,23 @@
+{
+  "id": "henry-cavendish",
+  "wikidata": "Q131733",
+  "name": "Henry Cavendish",
+  "category": "scientist",
+  "start": 1731,
+  "end": 1810,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.7,
+    "lon": 7.27,
+    "place": "Nice"
+  },
+  "summary": "English natural philosopher, and scientist (1731–1810), born in Nice. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Cavendish"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131733",
+    "https://en.wikipedia.org/wiki/Henry_Cavendish"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gabriel-garcia-marquez",
+  "wikidata": "Q5878",
+  "name": "Gabriel García Márquez",
+  "category": "writer",
+  "start": 1927,
+  "end": 2014,
+  "date_precision": "day",
+  "location": {
+    "lat": 10.59,
+    "lon": -74.19,
+    "place": "Aracataca"
+  },
+  "summary": "Colombian writer and Nobel laureate (1927–2014), born in Aracataca. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_García_Márquez"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5878",
+    "https://en.wikipedia.org/wiki/Gabriel_García_Márquez"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sei-shonagon",
+  "wikidata": "Q231603",
+  "name": "Sei Shōnagon",
+  "category": "writer",
+  "start": 966,
+  "end": 1025,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 135.77,
+    "place": "Heian-kyō"
+  },
+  "summary": "Japanese author and court lady, born in Heian-kyō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sei_Shōnagon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q231603",
+    "https://en.wikipedia.org/wiki/Sei_Shōnagon"
+  ],
+  "disputed": false
+}

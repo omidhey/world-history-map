@@ -1,0 +1,22 @@
+{
+  "id": "the-knight-in-the-panther-s-skin",
+  "wikidata": "Q204208",
+  "name": "The Knight in the Panther's Skin",
+  "category": "work",
+  "start": 1180,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.62,
+    "lon": 43.13,
+    "place": "Rustavi"
+  },
+  "summary": "Georgia's national epic poem by Shota Rustaveli, associated with Rustavi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q204208",
+    "https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin"
+  ],
+  "disputed": false
+}

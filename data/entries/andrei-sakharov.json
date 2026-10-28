@@ -1,0 +1,23 @@
+{
+  "id": "andrei-sakharov",
+  "wikidata": "Q997",
+  "name": "Andrei Sakharov",
+  "category": "scientist",
+  "start": 1921,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Soviet nuclear physicist and human rights activist (1921–1989), born in Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrei_Sakharov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q997",
+    "https://en.wikipedia.org/wiki/Andrei_Sakharov"
+  ],
+  "disputed": false
+}

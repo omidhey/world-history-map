@@ -1,0 +1,23 @@
+{
+  "id": "yoga-sutras-of-patanjali",
+  "wikidata": "Q1068646",
+  "name": "Yoga Sutras of Patanjali",
+  "category": "work",
+  "start": -200,
+  "date_precision": "century",
+  "location": {
+    "lat": 22.8,
+    "lon": 83,
+    "place": "India"
+  },
+  "summary": "Foundational text of Yoga in Sanskrit from ancient India by Patanjali, associated with India. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1068646",
+    "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+    "https://iep.utm.edu/yoga/"
+  ],
+  "disputed": false
+}

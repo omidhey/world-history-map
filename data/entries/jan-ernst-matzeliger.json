@@ -1,0 +1,23 @@
+{
+  "id": "jan-ernst-matzeliger",
+  "wikidata": "Q2983192",
+  "name": "Jan Ernst Matzeliger",
+  "category": "scientist",
+  "start": 1852,
+  "end": 1889,
+  "date_precision": "day",
+  "location": {
+    "lat": 5.87,
+    "lon": -55.17,
+    "place": "Paramaribo"
+  },
+  "summary": "Surinamese inventor, born in Paramaribo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Ernst_Matzeliger"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2983192",
+    "https://en.wikipedia.org/wiki/Jan_Ernst_Matzeliger"
+  ],
+  "disputed": false
+}

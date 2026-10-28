@@ -1,0 +1,40 @@
+{
+  "id": "romeo-and-juliet",
+  "wikidata": "Q83186",
+  "name": "Romeo and Juliet",
+  "category": "work",
+  "start": 1597,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "Tragedy by William Shakespeare, associated with Stratford-upon-Avon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Romeo_and_Juliet"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83186",
+    "https://en.wikipedia.org/wiki/Romeo_and_Juliet"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1590,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83186"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1597,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83186"
+      ]
+    }
+  ]
+}

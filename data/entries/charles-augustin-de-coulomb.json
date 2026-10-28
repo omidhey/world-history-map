@@ -1,0 +1,23 @@
+{
+  "id": "charles-augustin-de-coulomb",
+  "wikidata": "Q81716",
+  "name": "Charles-Augustin de Coulomb",
+  "category": "scientist",
+  "start": 1736,
+  "end": 1806,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.65,
+    "lon": 0.16,
+    "place": "Angoulême"
+  },
+  "summary": "French physicist (1736-1806), born in Angoulême. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81716",
+    "https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb"
+  ],
+  "disputed": false
+}

@@ -29,6 +29,7 @@ summary in our own words is still to be written.
 
 import argparse
 import datetime
+import http.client
 import json
 import re
 import sys
@@ -41,24 +42,38 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ENTRIES = ROOT / "data" / "entries"
-CANON = Path(__file__).resolve().parent / "philosophers_canon.json"
 CACHE = ROOT / "raw" / "wikidata"
 
 ENDPOINT = "https://query.wikidata.org/sparql"
 API = "https://www.wikidata.org/w/api.php"
 USER_AGENT = "world-history-map/0.1 (https://github.com/omidhey/world-history-map; semifact@gmail.com)"
-MIN_SITELINKS = 50
 
 QUERY = """
 SELECT DISTINCT ?item WHERE {
-  { ?item wdt:P3123 [] } UNION { ?item wdt:P5088 [] }
-  ?item wdt:P31 wd:Q5; wikibase:sitelinks ?sitelinks; wdt:P106/wdt:P279* wd:Q4964182.
+  %(signal)s
+  ?item wdt:P31 wd:Q5; wikibase:sitelinks ?sitelinks; wdt:P106/wdt:P279* wd:%(occupation)s.
   FILTER(?sitelinks >= %(min_sitelinks)d)
 }
 """
 
+# What each category imports. "signal" is a SPARQL pattern for being studied (an encyclopedia
+# article), not merely famous; None means the curated list alone decides (writers, works).
+# "cache" is the prefix of the files in raw/wikidata/ ("" keeps the Session 11 names).
+CATEGORIES = {
+    "philosopher": {"occupation": "Q4964182", "min_sitelinks": 50, "canon": "philosophers_canon.json", "cache": "",
+                    "signal": "{ ?item wdt:P3123 [] } UNION { ?item wdt:P5088 [] }", "noun": "philosopher"},
+    # MacTutor biography (mathematicians and the scientists around them); the curated list adds the other sciences.
+    "scientist": {"occupation": "Q901", "min_sitelinks": 80, "canon": "scientists_canon.json", "cache": "scientist_",
+                  "signal": "?item wdt:P1563 [].", "noun": "scientist"},
+    "writer": {"occupation": "Q36180", "min_sitelinks": 0, "canon": "writers_canon.json", "cache": "writer_",
+               "signal": None, "noun": "writer"},
+    "work": {"occupation": None, "min_sitelinks": 0, "canon": "works_canon.json", "cache": "work_",
+             "signal": None, "noun": "work"},
+}
+
 SEP, IEP = "P3123", "P5088"  # Stanford / Internet Encyclopedia of Philosophy article ids
 BIRTH, DEATH, FLORUIT = "P569", "P570", "P1317"
+PUBLISHED, INCEPTION, AUTHOR = "P577", "P571", "P50"  # works
 PLACES = [("P19", "born in"), ("P937", "worked in"), ("P20", "died in")]  # in order of preference
 COORDINATES, LOCATED_IN = "P625", "P131"
 
@@ -78,8 +93,11 @@ KNOWN = {
 def get_json(url: str) -> dict:
     request = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": USER_AGENT})
     for attempt in range(5):
-        with urllib.request.urlopen(request, timeout=120) as response:
-            data = json.load(response)
+        try:
+            with urllib.request.urlopen(request, timeout=120) as response:
+                data = json.load(response)
+        except (OSError, http.client.HTTPException) as problem:  # the query service drops heavy queries now and then
+            data = {"error": str(problem)}
         if "error" not in data:
             return data
         time.sleep(5)  # the API answers rate limits with an error object
@@ -96,14 +114,17 @@ def cached(name: str, refresh: bool, download):
     return data
 
 
-def query(min_sitelinks: int) -> list[str]:
-    url = ENDPOINT + "?" + urllib.parse.urlencode({"query": QUERY % {"min_sitelinks": min_sitelinks}})
+def query(config: dict, min_sitelinks: int) -> list[str]:
+    if not config["signal"]:
+        return []
+    text = QUERY % {"signal": config["signal"], "occupation": config["occupation"], "min_sitelinks": min_sitelinks}
+    url = ENDPOINT + "?" + urllib.parse.urlencode({"query": text})
     return sorted(row["item"]["value"].rsplit("/", 1)[1] for row in get_json(url)["results"]["bindings"])
 
 
 def entities(qids: list[str], props: str) -> dict[str, dict]:
     """wbgetentities, 50 items per request (the API's limit), keeping only what the import uses."""
-    keep = {BIRTH, DEATH, FLORUIT, SEP, IEP, COORDINATES, LOCATED_IN, *(p for p, _ in PLACES)}
+    keep = {BIRTH, DEATH, FLORUIT, SEP, IEP, PUBLISHED, INCEPTION, AUTHOR, COORDINATES, LOCATED_IN, *(p for p, _ in PLACES)}
     found = {}
     for i in range(0, len(qids), 50):
         params = {"action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": props,
@@ -150,21 +171,58 @@ def label(entity: dict) -> str | None:
     return None
 
 
-def load(min_sitelinks: int, refresh: bool) -> tuple[dict[str, dict], dict[str, dict], dict[str, str]]:
-    """People, places (with the regions they lie in) and the tradition of each canon entry."""
-    canon = {person["qid"]: {**person, "tradition": group["tradition"]}
-             for group in json.loads(CANON.read_text(encoding="utf-8")) for person in group["people"]}
-    selected = cached("philosophers.json", refresh, lambda: query(min_sitelinks))
-    qids = sorted(set(selected) | set(canon) | set(KNOWN))
-    people = cached("people.json", refresh, lambda: entities(qids, "labels|descriptions|claims|sitelinks"))
+def titles_to_qids(titles: list[str], name: str, refresh: bool) -> dict[str, str]:
+    """English Wikipedia article title -> Wikidata item, so the curated lists can name articles, not item numbers."""
+    def download():
+        found = {}
+        for i in range(0, len(titles), 50):
+            batch = titles[i:i + 50]
+            params = {"action": "query", "titles": "|".join(batch), "redirects": 1, "prop": "pageprops",
+                      "ppprop": "wikibase_item", "format": "json", "formatversion": 2}
+            data = get_json("https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(params))["query"]
+            moved = {m["from"]: m["to"] for m in data.get("normalized", []) + data.get("redirects", [])}
+            qids = {page["title"]: page.get("pageprops", {}).get("wikibase_item") for page in data["pages"]}
+            for title in batch:
+                target = moved.get(title, title)
+                found[title] = qids.get(moved.get(target, target))
+            time.sleep(0.2)
+        return found
+    return cached(name, refresh, download)
+
+
+def load(category: str, refresh: bool, min_sitelinks: int | None = None):
+    """Subjects (people, or the works), the people their places come from, places (with the regions they
+    lie in) and the curated entry of each canon item."""
+    config, prefix = CATEGORIES[category], CATEGORIES[category]["cache"]
+    min_sitelinks = config["min_sitelinks"] if min_sitelinks is None else min_sitelinks
+    groups = json.loads((Path(__file__).resolve().parent / config["canon"]).read_text(encoding="utf-8"))
+    entries = [{**person, "tradition": group["tradition"]} for group in groups for person in group["people"]]
+    resolved = titles_to_qids([e["title"] for e in entries if "title" in e], prefix + "titles.json", refresh)         if any("title" in e for e in entries) else {}
+    canon = {}
+    for entry in entries:
+        qid = entry.get("qid") or resolved.get(entry["title"])
+        if qid:
+            canon[qid] = entry
+        else:
+            print(f"  no Wikidata item for the Wikipedia article {entry['title']!r} ({entry['tradition']})")
+    selected = cached(prefix + ("philosophers.json" if not prefix else "selected.json"), refresh,
+                      lambda: query(config, min_sitelinks))
+    qids = sorted(set(selected) | set(canon) | (set(KNOWN) if category == "philosopher" else set()))
+    subjects = cached(prefix + "people.json" if prefix else "people.json", refresh,
+                      lambda: entities(qids, "labels|descriptions|claims|sitelinks"))
 
     def place_ids(entities_: dict, props: list[str]) -> list[str]:
         return sorted({v["id"] for e in entities_.values() for p in props for v in best(e, p)})
 
-    places = cached("places.json", refresh, lambda: entities(place_ids(people, [p for p, _ in PLACES]), "labels|claims"))
-    regions = cached("regions.json", refresh, lambda: entities(
+    if category == "work":  # a work takes its place from its author
+        people = cached(prefix + "authors.json", refresh,
+                        lambda: entities(place_ids(subjects, [AUTHOR]), "labels|claims"))
+    else:
+        people = subjects
+    places = cached(prefix + "places.json", refresh, lambda: entities(place_ids(people, [p for p, _ in PLACES]), "labels|claims"))
+    regions = cached(prefix + "regions.json", refresh, lambda: entities(
         place_ids({q: e for q, e in places.items() if not best(e, COORDINATES)}, [LOCATED_IN]), "labels|claims"))
-    return people, {**regions, **places}, canon
+    return subjects, people, {**regions, **places}, canon
 
 
 def location(person: dict, places: dict[str, dict], curated: dict | None) -> tuple[str, float, float, str, str | None] | None:
@@ -184,7 +242,29 @@ def location(person: dict, places: dict[str, dict], curated: dict | None) -> tup
     return None
 
 
-def item(qid: str, person: dict, places: dict[str, dict], curated: dict | None) -> dict:
+def work_item(qid: str, work: dict, authors: dict[str, dict], places: dict[str, dict], curated: dict | None) -> dict:
+    """A literary work: dated by publication, else inception; placed where the curated list says, else with its author."""
+    entry = item(qid, work, places, curated, dated=False)
+    entry["start"] = year_values(work, PUBLISHED) or year_values(work, INCEPTION)
+    entry["end"] = []
+    entry["floruit"] = False
+    writers = [authors[v["id"]] for v in best(work, AUTHOR) if v["id"] in authors]
+    entry["byline"] = ", ".join(label(w) for w in writers if label(w))
+    if not entry["start"]:  # undated work: the year its author flourished, marked circa
+        for writer in writers:
+            entry["start"] = year_values(writer, FLORUIT)
+            if entry["start"]:
+                entry["floruit"] = True
+                break
+    if not entry["location"]:
+        for writer in writers:
+            entry["location"] = location(writer, places, None)
+            if entry["location"]:
+                break
+    return entry
+
+
+def item(qid: str, person: dict, places: dict[str, dict], curated: dict | None, dated: bool = True) -> dict:
     sitelink = person.get("sitelinks", {}).get("enwiki")
     births = year_values(person, BIRTH)
     floruit = [] if births else year_values(person, FLORUIT)
@@ -195,7 +275,7 @@ def item(qid: str, person: dict, places: dict[str, dict], curated: dict | None) 
         "description_source": (curated or {}).get("description_source"),
         "article": "https://en.wikipedia.org/wiki/" + sitelink["title"].replace(" ", "_") if sitelink else None,
         "start": births or floruit, "floruit": bool(floruit), "end": year_values(person, DEATH),
-        "location": location(person, places, curated), "tradition": curated and curated["tradition"],
+        "location": location(person if dated else {}, places, curated), "tradition": curated and curated["tradition"],
         "sep": best(person, SEP), "iep": best(person, IEP),
     }
 
@@ -227,7 +307,7 @@ def year_tag(year: int) -> str:
     return f"{-year}-bce" if year < 0 else str(year)
 
 
-def build_record(entry: dict, record_id: str) -> dict:
+def build_record(entry: dict, record_id: str, category: str = "philosopher") -> dict:
     start, start_precision = entry["start"][0]
     precisions = [start_precision, "circa"] if entry["floruit"] else [start_precision]
     end = None
@@ -236,7 +316,11 @@ def build_record(entry: dict, record_id: str) -> dict:
         precisions.append(end_precision)
     place, lat, lon, relation, place_source = entry["location"]
 
-    description = (entry["description"] or "philosopher").strip()
+    description = (entry["description"] or CATEGORIES[category]["noun"]).strip()
+    if entry.get("byline") and entry["byline"] not in description:
+        description += f" by {entry['byline']}"
+    if entry.get("byline"):
+        relation = "associated with"
     summary = f"{description[0].upper()}{description[1:]}, {relation} {place}. " \
               "Imported from Wikidata; a summary in our own words is still to be written."
     wikidata_url = f"https://www.wikidata.org/wiki/{entry['qid']}"
@@ -245,7 +329,7 @@ def build_record(entry: dict, record_id: str) -> dict:
         "id": record_id,
         "wikidata": entry["qid"],
         "name": entry["label"],
-        "category": "philosopher",
+        "category": category,
         "start": start,
     }
     if end is not None:
@@ -263,7 +347,7 @@ def build_record(entry: dict, record_id: str) -> dict:
             record["sources"].append(extra)
 
     claims = []
-    for field, kind in (("start", "floruit" if entry["floruit"] else "birth"), ("end", "death")):
+    for field, kind in (("start", "publication" if category == "work" else "floruit" if entry["floruit"] else "birth"), ("end", "death")):
         distinct = sorted(year for year, _ in entry[field])
         if len(distinct) > 1:
             claims += [{"field": field, "value": year, "note": f"Wikidata lists more than one {kind} year.",
@@ -309,34 +393,25 @@ def existing_records() -> dict[str, dict]:
     return {path.stem: json.loads(path.read_text(encoding="utf-8")) for path in ENTRIES.glob("*.json")}
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--dry-run", action="store_true", help="print the report, write nothing")
-    parser.add_argument("--refresh", action="store_true", help="ask Wikidata again instead of using the cache")
-    parser.add_argument("--min-sitelinks", type=int, default=MIN_SITELINKS)
-    args = parser.parse_args()
-
-    people, places, canon = load(args.min_sitelinks, args.refresh)
-    problems = self_check(people)
-    if problems:
-        print("Date self-check FAILED, nothing written:")
-        for problem in problems:
-            print("  " + problem)
-        return 1
-    print("Date self-check passed: Socrates 470-399 BCE, Confucius 551-479 BCE")
-
-    selected = set(cached("philosophers.json", False, lambda: []))
+def run(category: str, args, taken: set[str], existing: dict[str, dict]) -> None:
+    config = CATEGORIES[category]
+    print(f"\n== {category} ==")
+    subjects, people, places, canon = load(category, args.refresh, args.min_sitelinks)
+    selected = set(cached(config["cache"] + ("selected.json" if config["cache"] else "philosophers.json"), False, lambda: []))
     wanted = sorted(selected | set(canon))
-    print(f"Wikidata: {len(selected)} with an encyclopedia article and >= {args.min_sitelinks} sitelinks, "
-          f"{len(canon)} in the curated list, {len(wanted)} together")
+    print(f"Wikidata: {len(selected)} with the signal, {len(canon)} in the curated list, {len(wanted)} together")
 
-    existing = existing_records()
     by_qid = {record["wikidata"]: record for record in existing.values() if "wikidata" in record}
-    taken = set(existing)
     written, skipped, differences = [], [], []
 
     for qid in wanted:
-        entry = item(qid, people[qid], places, canon.get(qid))
+        if qid not in subjects:
+            skipped.append(f"{qid}: not in the Wikidata answer")
+            continue
+        if category == "work":
+            entry = work_item(qid, subjects[qid], people, places, canon.get(qid))
+        else:
+            entry = item(qid, subjects[qid], places, canon.get(qid))
         if qid in by_qid:
             record = by_qid[qid]
             for field in ("start", "end"):
@@ -353,7 +428,7 @@ def main() -> int:
             if candidate not in taken:
                 break
         taken.add(candidate)
-        record = build_record(entry, candidate)
+        record = build_record(entry, candidate, category)
         record["_tradition"] = entry["tradition"]
         written.append(record)
         if not args.dry_run:
@@ -380,8 +455,34 @@ def main() -> int:
     print("By start century: " + ", ".join(f"{c} {n}" for c, n in centuries.items()))
     regions = Counter(region(r["location"]["lat"], r["location"]["lon"]) for r in written)
     print("By region: " + ", ".join(f"{name} {n}" for name, n in regions.most_common()))
-    traditions = Counter(r["_tradition"] or "encyclopedia only" for r in written)
+    traditions = Counter(r["_tradition"] or "signal only" for r in written)
     print("By curated tradition: " + ", ".join(f"{name} {n}" for name, n in traditions.most_common()))
+
+
+def main() -> int:
+    sys.stdout.reconfigure(encoding="utf-8")
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--dry-run", action="store_true", help="print the report, write nothing")
+    parser.add_argument("--refresh", action="store_true", help="ask Wikidata again instead of using the cache")
+    parser.add_argument("--min-sitelinks", type=int, default=None, help="override the category's threshold")
+    parser.add_argument("--category", choices=list(CATEGORIES), action="append",
+                        help="which to import (repeatable; default: all)")
+    args = parser.parse_args()
+
+    # The date check uses the philosophers' cached entity data (Socrates, Confucius) whatever the category.
+    problems = self_check(cached("people.json", args.refresh, lambda: entities(sorted(KNOWN), "labels|descriptions|claims|sitelinks")))
+    if problems:
+        print("Date self-check FAILED, nothing written:")
+        for problem in problems:
+            print("  " + problem)
+        return 1
+    print("Date self-check passed: Socrates 470-399 BCE, Confucius 551-479 BCE")
+
+    existing = existing_records()
+    taken = set(existing)
+    for category in args.category or list(CATEGORIES):
+        run(category, args, taken, existing)
+        existing = existing_records() if not args.dry_run else existing
     return 0
 
 

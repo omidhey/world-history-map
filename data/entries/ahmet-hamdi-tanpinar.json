@@ -1,0 +1,23 @@
+{
+  "id": "ahmet-hamdi-tanpinar",
+  "wikidata": "Q401875",
+  "name": "Ahmet Hamdi Tanpınar",
+  "category": "writer",
+  "start": 1901,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.96,
+    "place": "Istanbul"
+  },
+  "summary": "Turkish poet, novelist, literary scholar and essayist (1901–1962), born in Istanbul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmet_Hamdi_Tanpınar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q401875",
+    "https://en.wikipedia.org/wiki/Ahmet_Hamdi_Tanpınar"
+  ],
+  "disputed": false
+}

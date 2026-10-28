@@ -1,0 +1,23 @@
+{
+  "id": "linus-pauling",
+  "wikidata": "Q48983",
+  "name": "Linus Pauling",
+  "category": "scientist",
+  "start": 1901,
+  "end": 1994,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.52,
+    "lon": -122.68,
+    "place": "Portland"
+  },
+  "summary": "American scientist (1901–1994), born in Portland. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Linus_Pauling"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48983",
+    "https://en.wikipedia.org/wiki/Linus_Pauling"
+  ],
+  "disputed": false
+}

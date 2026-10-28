@@ -1,0 +1,23 @@
+{
+  "id": "james-clerk-maxwell",
+  "wikidata": "Q9095",
+  "name": "James Clerk Maxwell",
+  "category": "scientist",
+  "start": 1831,
+  "end": 1879,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -3.19,
+    "place": "Edinburgh"
+  },
+  "summary": "Scottish physicist (1831–1879), born in Edinburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9095",
+    "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mao-dun",
+  "wikidata": "Q358494",
+  "name": "Mao Dun",
+  "category": "writer",
+  "start": 1896,
+  "end": 1981,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.63,
+    "lon": 120.55,
+    "place": "Tongxiang City"
+  },
+  "summary": "Chinese writer (1896-1981), born in Tongxiang City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mao_Dun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q358494",
+    "https://en.wikipedia.org/wiki/Mao_Dun"
+  ],
+  "disputed": false
+}

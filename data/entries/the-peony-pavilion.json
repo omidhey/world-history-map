@@ -1,0 +1,22 @@
+{
+  "id": "the-peony-pavilion",
+  "wikidata": "Q1196332",
+  "name": "The Peony Pavilion",
+  "category": "work",
+  "start": 1598,
+  "date_precision": "year",
+  "location": {
+    "lat": 27.98,
+    "lon": 116.36,
+    "place": "Linchuan District"
+  },
+  "summary": "1598 play by Tang Xianzu, associated with Linchuan District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Peony_Pavilion"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1196332",
+    "https://en.wikipedia.org/wiki/The_Peony_Pavilion"
+  ],
+  "disputed": false
+}

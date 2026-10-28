@@ -1,0 +1,23 @@
+{
+  "id": "kenzaburo-oe",
+  "wikidata": "Q80095",
+  "name": "Kenzaburō Ōe",
+  "category": "writer",
+  "start": 1935,
+  "end": 2023,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.57,
+    "lon": 132.72,
+    "place": "Ōse"
+  },
+  "summary": "Japanese writer and Nobel Laureate (1935–2023), born in Ōse. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenzaburō_Ōe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80095",
+    "https://en.wikipedia.org/wiki/Kenzaburō_Ōe"
+  ],
+  "disputed": false
+}

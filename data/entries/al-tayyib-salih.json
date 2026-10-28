@@ -1,0 +1,23 @@
+{
+  "id": "al-tayyib-salih",
+  "wikidata": "Q561434",
+  "name": "al-Tayyib Salih",
+  "category": "writer",
+  "start": 1929,
+  "end": 2009,
+  "date_precision": "day",
+  "location": {
+    "lat": 18.05,
+    "lon": 30.95,
+    "place": "Al Dabbah"
+  },
+  "summary": "Sudanese novelist and short story writer (1929–2009), born in Al Dabbah. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tayeb_Salih"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q561434",
+    "https://en.wikipedia.org/wiki/Tayeb_Salih"
+  ],
+  "disputed": false
+}

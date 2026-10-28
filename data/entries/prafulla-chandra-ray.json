@@ -1,0 +1,23 @@
+{
+  "id": "prafulla-chandra-ray",
+  "wikidata": "Q3351086",
+  "name": "Prafulla Chandra Ray",
+  "category": "scientist",
+  "start": 1861,
+  "end": 1944,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.17,
+    "lon": 89.2,
+    "place": "Jashore District"
+  },
+  "summary": "Bengali chemist, educationist, poet, historian, industrialist and philanthropist (1861–1944), born in Jashore District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prafulla_Chandra_Ray"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3351086",
+    "https://en.wikipedia.org/wiki/Prafulla_Chandra_Ray"
+  ],
+  "disputed": false
+}

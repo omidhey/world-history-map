@@ -1,0 +1,22 @@
+{
+  "id": "othello",
+  "wikidata": "Q26833",
+  "name": "Othello",
+  "category": "work",
+  "start": 1622,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "Theatrical play by William Shakespeare, associated with Stratford-upon-Avon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Othello"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q26833",
+    "https://en.wikipedia.org/wiki/Othello"
+  ],
+  "disputed": false
+}

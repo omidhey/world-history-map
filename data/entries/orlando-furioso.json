@@ -1,0 +1,40 @@
+{
+  "id": "orlando-furioso",
+  "wikidata": "Q48922",
+  "name": "Orlando Furioso",
+  "category": "work",
+  "start": 1516,
+  "date_precision": "year",
+  "location": {
+    "lat": 44.7,
+    "lon": 10.63,
+    "place": "Reggio Emilia"
+  },
+  "summary": "Epic Italian poem by Ludovico Ariosto, associated with Reggio Emilia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Orlando_Furioso"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48922",
+    "https://en.wikipedia.org/wiki/Orlando_Furioso"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1516,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48922"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1532,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48922"
+      ]
+    }
+  ]
+}

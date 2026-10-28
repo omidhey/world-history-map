@@ -1,0 +1,23 @@
+{
+  "id": "emanuel-lasker",
+  "wikidata": "Q57095",
+  "name": "Emanuel Lasker",
+  "category": "scientist",
+  "start": 1868,
+  "end": 1941,
+  "date_precision": "day",
+  "location": {
+    "lat": 53,
+    "lon": 15.2,
+    "place": "Barlinek"
+  },
+  "summary": "Greman chess player, World Chess champion (1868–1941), born in Barlinek. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Lasker"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57095",
+    "https://en.wikipedia.org/wiki/Emanuel_Lasker"
+  ],
+  "disputed": false
+}

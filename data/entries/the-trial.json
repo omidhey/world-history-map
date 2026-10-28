@@ -1,0 +1,22 @@
+{
+  "id": "the-trial",
+  "wikidata": "Q36097",
+  "name": "The Trial",
+  "category": "work",
+  "start": 1925,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.09,
+    "lon": 14.42,
+    "place": "Prague"
+  },
+  "summary": "1925 novel by Franz Kafka, associated with Prague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Trial"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36097",
+    "https://en.wikipedia.org/wiki/The_Trial"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "philip-emeagwali",
+  "wikidata": "Q2652702",
+  "name": "Philip Emeagwali",
+  "category": "scientist",
+  "start": 1954,
+  "date_precision": "year",
+  "location": {
+    "lat": 7.25,
+    "lon": 5.2,
+    "place": "Akure"
+  },
+  "summary": "Nigerian scientist, born in Akure. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Emeagwali"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2652702",
+    "https://en.wikipedia.org/wiki/Philip_Emeagwali"
+  ],
+  "disputed": false
+}

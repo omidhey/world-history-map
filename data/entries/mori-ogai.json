@@ -1,0 +1,23 @@
+{
+  "id": "mori-ogai",
+  "wikidata": "Q356960",
+  "name": "Mori Ōgai",
+  "category": "writer",
+  "start": 1862,
+  "end": 1922,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.54,
+    "lon": 131.84,
+    "place": "Tsuwano"
+  },
+  "summary": "Japanese novelist and army physician (1862-1922), born in Tsuwano. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mori_Ōgai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q356960",
+    "https://en.wikipedia.org/wiki/Mori_Ōgai"
+  ],
+  "disputed": false
+}

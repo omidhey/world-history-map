@@ -1,0 +1,23 @@
+{
+  "id": "petronius",
+  "wikidata": "Q47180",
+  "name": "Petronius",
+  "category": "writer",
+  "start": 27,
+  "end": 66,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.3,
+    "lon": 5.37,
+    "place": "Massilia"
+  },
+  "summary": "1st century AD Roman courtier and author of the Satyricon (27–66), born in Massilia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Petronius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47180",
+    "https://en.wikipedia.org/wiki/Petronius"
+  ],
+  "disputed": false
+}

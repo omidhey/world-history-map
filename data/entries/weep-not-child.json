@@ -1,0 +1,22 @@
+{
+  "id": "weep-not-child",
+  "wikidata": "Q3953479",
+  "name": "Weep Not, Child",
+  "category": "work",
+  "start": 1964,
+  "date_precision": "year",
+  "location": {
+    "lat": -1.12,
+    "lon": 36.63,
+    "place": "Kamirithu"
+  },
+  "summary": "1964 novel by Ngũgĩ wa Thiong'o, associated with Kamirithu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Weep_Not,_Child"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3953479",
+    "https://en.wikipedia.org/wiki/Weep_Not,_Child"
+  ],
+  "disputed": false
+}

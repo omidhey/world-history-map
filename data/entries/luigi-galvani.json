@@ -1,0 +1,23 @@
+{
+  "id": "luigi-galvani",
+  "wikidata": "Q1589",
+  "name": "Luigi Galvani",
+  "category": "scientist",
+  "start": 1737,
+  "end": 1798,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.49,
+    "lon": 11.34,
+    "place": "Bologna"
+  },
+  "summary": "Italian physician, physicist, and philosopher, born in Bologna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Galvani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1589",
+    "https://en.wikipedia.org/wiki/Luigi_Galvani"
+  ],
+  "disputed": false
+}

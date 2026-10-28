@@ -1,0 +1,23 @@
+{
+  "id": "tawfiq-al-hakim",
+  "wikidata": "Q2019161",
+  "name": "Tawfiq al-Hakim",
+  "category": "writer",
+  "start": 1898,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "Egyptian writer (1898-1987), born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tawfiq_al-Hakim"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2019161",
+    "https://en.wikipedia.org/wiki/Tawfiq_al-Hakim"
+  ],
+  "disputed": false
+}

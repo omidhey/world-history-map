@@ -1,0 +1,22 @@
+{
+  "id": "the-decameron",
+  "wikidata": "Q16438",
+  "name": "The Decameron",
+  "category": "work",
+  "start": 1351,
+  "date_precision": "decade",
+  "location": {
+    "lat": 43.77,
+    "lon": 11.25,
+    "place": "Florence"
+  },
+  "summary": "14th-century collection of stories by Giovanni Boccaccio, associated with Florence. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Decameron"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16438",
+    "https://en.wikipedia.org/wiki/The_Decameron"
+  ],
+  "disputed": false
+}

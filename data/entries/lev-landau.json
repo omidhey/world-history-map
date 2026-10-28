@@ -1,0 +1,23 @@
+{
+  "id": "lev-landau",
+  "wikidata": "Q133267",
+  "name": "Lev Landau",
+  "category": "scientist",
+  "start": 1908,
+  "end": 1968,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.37,
+    "lon": 49.84,
+    "place": "Baku"
+  },
+  "summary": "Soviet theoretical physicist (1908–1968), born in Baku. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lev_Landau"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q133267",
+    "https://en.wikipedia.org/wiki/Lev_Landau"
+  ],
+  "disputed": false
+}

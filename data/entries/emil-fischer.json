@@ -1,0 +1,23 @@
+{
+  "id": "emil-fischer",
+  "wikidata": "Q70554",
+  "name": "Emil Fischer",
+  "category": "scientist",
+  "start": 1852,
+  "end": 1919,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.66,
+    "lon": 6.79,
+    "place": "Euskirchen"
+  },
+  "summary": "German chemist (1852–1919), born in Euskirchen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Fischer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q70554",
+    "https://en.wikipedia.org/wiki/Emil_Fischer"
+  ],
+  "disputed": false
+}

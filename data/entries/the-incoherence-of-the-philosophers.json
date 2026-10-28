@@ -1,0 +1,22 @@
+{
+  "id": "the-incoherence-of-the-philosophers",
+  "wikidata": "Q2736005",
+  "name": "The Incoherence of the Philosophers",
+  "category": "work",
+  "start": 1095,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.49,
+    "lon": 59.52,
+    "place": "Tus"
+  },
+  "summary": "1095 CE book by Al-Ghazali, associated with Tus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2736005",
+    "https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers"
+  ],
+  "disputed": false
+}

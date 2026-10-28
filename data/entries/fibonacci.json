@@ -1,0 +1,23 @@
+{
+  "id": "fibonacci",
+  "wikidata": "Q8763",
+  "name": "Fibonacci",
+  "category": "scientist",
+  "start": 1170,
+  "end": 1240,
+  "date_precision": "century",
+  "location": {
+    "lat": 43.72,
+    "lon": 10.4,
+    "place": "Pisa"
+  },
+  "summary": "Italian mathematician (c.1170–c.1240/50), born in Pisa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fibonacci"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8763",
+    "https://en.wikipedia.org/wiki/Fibonacci"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "leon-battista-alberti",
+  "wikidata": "Q182046",
+  "name": "Leon Battista Alberti",
+  "category": "scientist",
+  "start": 1404,
+  "end": 1472,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.41,
+    "lon": 8.93,
+    "place": "Genoa"
+  },
+  "summary": "Italian architect and writer (1404-1472), born in Genoa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leon_Battista_Alberti"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q182046",
+    "https://en.wikipedia.org/wiki/Leon_Battista_Alberti"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "shota-rustaveli",
+  "wikidata": "Q132984",
+  "name": "Shota Rustaveli",
+  "category": "writer",
+  "start": 1172,
+  "end": 1216,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.62,
+    "lon": 43.13,
+    "place": "Rustavi"
+  },
+  "summary": "Georgian poet, born in Rustavi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shota_Rustaveli"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q132984",
+    "https://en.wikipedia.org/wiki/Shota_Rustaveli"
+  ],
+  "disputed": false
+}

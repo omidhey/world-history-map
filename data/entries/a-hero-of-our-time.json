@@ -1,0 +1,22 @@
+{
+  "id": "a-hero-of-our-time",
+  "wikidata": "Q1304649",
+  "name": "A Hero of Our Time",
+  "category": "work",
+  "start": 1840,
+  "date_precision": "year",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "1840 novel by Mikhail Lermontov, associated with Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1304649",
+    "https://en.wikipedia.org/wiki/A_Hero_of_Our_Time"
+  ],
+  "disputed": false
+}

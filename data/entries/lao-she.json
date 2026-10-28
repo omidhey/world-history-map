@@ -1,0 +1,23 @@
+{
+  "id": "lao-she",
+  "wikidata": "Q315167",
+  "name": "Lao She",
+  "category": "writer",
+  "start": 1899,
+  "end": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.9,
+    "lon": 116.41,
+    "place": "Beijing"
+  },
+  "summary": "Chinese writer, novelist and playwright (1899-1966), born in Beijing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lao_She"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315167",
+    "https://en.wikipedia.org/wiki/Lao_She"
+  ],
+  "disputed": false
+}

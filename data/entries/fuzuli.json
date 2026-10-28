@@ -1,0 +1,41 @@
+{
+  "id": "fuzuli",
+  "wikidata": "Q178379",
+  "name": "Fuzuli",
+  "category": "writer",
+  "start": 1480,
+  "end": 1556,
+  "date_precision": "year",
+  "location": {
+    "lat": 41,
+    "lon": 29,
+    "place": "Ottoman Empire"
+  },
+  "summary": "16th-century Azerbaijani poet, died in Ottoman Empire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fuzuli_(poet)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q178379",
+    "https://en.wikipedia.org/wiki/Fuzuli_(poet)"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1480,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q178379"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1494,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q178379"
+      ]
+    }
+  ]
+}

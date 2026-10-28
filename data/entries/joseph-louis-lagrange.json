@@ -1,0 +1,23 @@
+{
+  "id": "joseph-louis-lagrange",
+  "wikidata": "Q80222",
+  "name": "Joseph-Louis Lagrange",
+  "category": "scientist",
+  "start": 1736,
+  "end": 1813,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.08,
+    "lon": 7.68,
+    "place": "Turin"
+  },
+  "summary": "Mathematician and astronomer (1736–1813), born in Turin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80222",
+    "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "theogony",
+  "wikidata": "Q156498",
+  "name": "Theogony",
+  "category": "work",
+  "start": -700,
+  "date_precision": "century",
+  "location": {
+    "lat": 38.76,
+    "lon": 26.94,
+    "place": "Cyme"
+  },
+  "summary": "Poem by Hesiod, describing the origins and genealogies of the greek gods, associated with Cyme. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Theogony"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q156498",
+    "https://en.wikipedia.org/wiki/Theogony"
+  ],
+  "disputed": false
+}

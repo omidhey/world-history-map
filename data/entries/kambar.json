@@ -1,0 +1,23 @@
+{
+  "id": "kambar",
+  "wikidata": "Q1535227",
+  "name": "Kambar",
+  "category": "writer",
+  "start": 1180,
+  "end": 1250,
+  "date_precision": "year",
+  "location": {
+    "lat": 11.04,
+    "lon": 79.58,
+    "place": "Therizhandur"
+  },
+  "summary": "Medieval Tamil poet and author of Ramavataram, born in Therizhandur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kambar_(poet)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1535227",
+    "https://en.wikipedia.org/wiki/Kambar_(poet)"
+  ],
+  "disputed": false
+}

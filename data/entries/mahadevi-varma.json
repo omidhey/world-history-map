@@ -1,0 +1,23 @@
+{
+  "id": "mahadevi-varma",
+  "wikidata": "Q466337",
+  "name": "Mahadevi Varma",
+  "category": "writer",
+  "start": 1907,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.39,
+    "lon": 79.58,
+    "place": "Farrukhabad"
+  },
+  "summary": "Indian Hindi writer and poet (1907-1987), born in Farrukhabad. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahadevi_Varma"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q466337",
+    "https://en.wikipedia.org/wiki/Mahadevi_Varma"
+  ],
+  "disputed": false
+}

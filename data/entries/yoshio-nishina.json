@@ -1,0 +1,23 @@
+{
+  "id": "yoshio-nishina",
+  "wikidata": "Q561569",
+  "name": "Yoshio Nishina",
+  "category": "scientist",
+  "start": 1890,
+  "end": 1951,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.51,
+    "lon": 133.56,
+    "place": "Satosho"
+  },
+  "summary": "Japanese physicist (1890–1951), born in Satosho. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshio_Nishina"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q561569",
+    "https://en.wikipedia.org/wiki/Yoshio_Nishina"
+  ],
+  "disputed": false
+}

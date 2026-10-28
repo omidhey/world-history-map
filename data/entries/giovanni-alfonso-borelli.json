@@ -1,0 +1,23 @@
+{
+  "id": "giovanni-alfonso-borelli",
+  "wikidata": "Q311814",
+  "name": "Giovanni Alfonso Borelli",
+  "category": "scientist",
+  "start": 1608,
+  "end": 1679,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.84,
+    "lon": 14.25,
+    "place": "Naples"
+  },
+  "summary": "Italian physicist (*1608 – †1679), born in Naples. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Alfonso_Borelli"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311814",
+    "https://en.wikipedia.org/wiki/Giovanni_Alfonso_Borelli"
+  ],
+  "disputed": false
+}

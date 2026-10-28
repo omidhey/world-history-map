@@ -1,0 +1,22 @@
+{
+  "id": "book-of-optics",
+  "wikidata": "Q264562",
+  "name": "Book of Optics",
+  "category": "work",
+  "start": 1021,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.52,
+    "lon": 47.81,
+    "place": "Basra"
+  },
+  "summary": "11th century treatise on optics by Ibn al-Haytham, associated with Basra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Book_of_Optics"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q264562",
+    "https://en.wikipedia.org/wiki/Book_of_Optics"
+  ],
+  "disputed": false
+}

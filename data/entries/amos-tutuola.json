@@ -1,0 +1,23 @@
+{
+  "id": "amos-tutuola",
+  "wikidata": "Q361562",
+  "name": "Amos Tutuola",
+  "category": "writer",
+  "start": 1920,
+  "end": 1997,
+  "date_precision": "day",
+  "location": {
+    "lat": 7.15,
+    "lon": 3.35,
+    "place": "Abeokuta"
+  },
+  "summary": "Nigerian writer (1920-1997), born in Abeokuta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amos_Tutuola"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q361562",
+    "https://en.wikipedia.org/wiki/Amos_Tutuola"
+  ],
+  "disputed": false
+}

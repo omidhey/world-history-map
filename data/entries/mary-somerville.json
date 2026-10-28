@@ -1,0 +1,23 @@
+{
+  "id": "mary-somerville",
+  "wikidata": "Q268702",
+  "name": "Mary Somerville",
+  "category": "scientist",
+  "start": 1780,
+  "end": 1872,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.48,
+    "lon": -2.55,
+    "place": "Jedburgh"
+  },
+  "summary": "Scottish scientist, writer and polymath (1780–1872), born in Jedburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Somerville"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q268702",
+    "https://en.wikipedia.org/wiki/Mary_Somerville"
+  ],
+  "disputed": false
+}

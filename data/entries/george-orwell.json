@@ -1,0 +1,23 @@
+{
+  "id": "george-orwell",
+  "wikidata": "Q3335",
+  "name": "George Orwell",
+  "category": "writer",
+  "start": 1903,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 26.65,
+    "lon": 84.92,
+    "place": "Motihari"
+  },
+  "summary": "British writer and journalist (1903–1950), born in Motihari. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Orwell"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3335",
+    "https://en.wikipedia.org/wiki/George_Orwell"
+  ],
+  "disputed": false
+}

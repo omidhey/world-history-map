@@ -1,0 +1,22 @@
+{
+  "id": "pere-goriot",
+  "wikidata": "Q240617",
+  "name": "Père Goriot",
+  "category": "work",
+  "start": 1835,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.39,
+    "lon": 0.69,
+    "place": "Tours"
+  },
+  "summary": "1835 novel by Honoré de Balzac, associated with Tours. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Père_Goriot"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q240617",
+    "https://en.wikipedia.org/wiki/Père_Goriot"
+  ],
+  "disputed": false
+}

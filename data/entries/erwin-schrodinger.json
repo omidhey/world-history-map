@@ -1,0 +1,23 @@
+{
+  "id": "erwin-schrodinger",
+  "wikidata": "Q9130",
+  "name": "Erwin Schrödinger",
+  "category": "scientist",
+  "start": 1887,
+  "end": 1961,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian physicist (1887–1961), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Schrödinger"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9130",
+    "https://en.wikipedia.org/wiki/Erwin_Schrödinger"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jose-maria-arguedas",
+  "wikidata": "Q266816",
+  "name": "José María Arguedas",
+  "category": "writer",
+  "start": 1911,
+  "end": 1969,
+  "date_precision": "day",
+  "location": {
+    "lat": -13.66,
+    "lon": -73.38,
+    "place": "Andahuaylas"
+  },
+  "summary": "Peruvian writer (1911–1969), born in Andahuaylas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/José_María_Arguedas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q266816",
+    "https://en.wikipedia.org/wiki/José_María_Arguedas"
+  ],
+  "disputed": false
+}

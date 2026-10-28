@@ -1,0 +1,41 @@
+{
+  "id": "abu-nuwas",
+  "wikidata": "Q5670",
+  "name": "Abu Nuwas",
+  "category": "writer",
+  "start": 756,
+  "end": 814,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.32,
+    "lon": 48.68,
+    "place": "Ahvaz"
+  },
+  "summary": "8th-century classical Arabic poet, born in Ahvaz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abu_Nuwas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5670",
+    "https://en.wikipedia.org/wiki/Abu_Nuwas"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 756,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5670"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 762,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5670"
+      ]
+    }
+  ]
+}

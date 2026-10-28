@@ -1,0 +1,23 @@
+{
+  "id": "guimaraes-rosa",
+  "wikidata": "Q13012",
+  "name": "Guimarães Rosa",
+  "category": "writer",
+  "start": 1908,
+  "end": 1967,
+  "date_precision": "day",
+  "location": {
+    "lat": -19.12,
+    "lon": -44.32,
+    "place": "Cordisburgo"
+  },
+  "summary": "Brazilian novelist (1908–1967), born in Cordisburgo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/João_Guimarães_Rosa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q13012",
+    "https://en.wikipedia.org/wiki/João_Guimarães_Rosa"
+  ],
+  "disputed": false
+}

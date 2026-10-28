@@ -1,0 +1,22 @@
+{
+  "id": "history-of-the-peloponnesian-war",
+  "wikidata": "Q639493",
+  "name": "History of the Peloponnesian War",
+  "category": "work",
+  "start": -500,
+  "date_precision": "century",
+  "location": {
+    "lat": 37.91,
+    "lon": 23.73,
+    "place": "Halimous"
+  },
+  "summary": "5th century BC history book by Thucydides, associated with Halimous. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q639493",
+    "https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War"
+  ],
+  "disputed": false
+}

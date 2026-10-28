@@ -1,0 +1,23 @@
+{
+  "id": "miguel-de-cervantes",
+  "wikidata": "Q5682",
+  "name": "Miguel de Cervantes",
+  "category": "writer",
+  "start": 1547,
+  "end": 1616,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.48,
+    "lon": -3.36,
+    "place": "Alcalá de Henares"
+  },
+  "summary": "Spanish novelist, poet, and playwright (1547-1616), born in Alcalá de Henares. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5682",
+    "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+  ],
+  "disputed": false
+}

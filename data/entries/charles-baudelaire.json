@@ -1,0 +1,23 @@
+{
+  "id": "charles-baudelaire",
+  "wikidata": "Q501",
+  "name": "Charles Baudelaire",
+  "category": "writer",
+  "start": 1821,
+  "end": 1867,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.85,
+    "lon": 2.33,
+    "place": "former 11th arrondissement of Paris"
+  },
+  "summary": "French poet and critic (1821–1867), born in former 11th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Baudelaire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q501",
+    "https://en.wikipedia.org/wiki/Charles_Baudelaire"
+  ],
+  "disputed": false
+}

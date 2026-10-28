@@ -1,0 +1,23 @@
+{
+  "id": "jorge-isaacs",
+  "wikidata": "Q1703852",
+  "name": "Jorge Isaacs",
+  "category": "writer",
+  "start": 1837,
+  "end": 1895,
+  "date_precision": "day",
+  "location": {
+    "lat": 3.44,
+    "lon": -76.52,
+    "place": "Cali"
+  },
+  "summary": "Colombian writer and politician (1837-1895) Turín turan, born in Cali. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Isaacs"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1703852",
+    "https://en.wikipedia.org/wiki/Jorge_Isaacs"
+  ],
+  "disputed": false
+}

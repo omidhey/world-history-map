@@ -1,0 +1,23 @@
+{
+  "id": "bankim-chandra-chatterjee",
+  "wikidata": "Q377881",
+  "name": "Bankim Chandra Chatterjee",
+  "category": "writer",
+  "start": 1838,
+  "end": 1894,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.88,
+    "lon": 88.42,
+    "place": "Kanthalpara"
+  },
+  "summary": "Bengali writer, poet and journalist (1838-1894), born in Kanthalpara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q377881",
+    "https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee"
+  ],
+  "disputed": false
+}

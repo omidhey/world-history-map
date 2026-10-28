@@ -1,0 +1,23 @@
+{
+  "id": "mikhail-lomonosov",
+  "wikidata": "Q58720",
+  "name": "Mikhail Lomonosov",
+  "category": "scientist",
+  "start": 1711,
+  "end": 1765,
+  "date_precision": "day",
+  "location": {
+    "lat": 64.23,
+    "lon": 41.73,
+    "place": "Mishaninskaya"
+  },
+  "summary": "Russian polymath (1711-1765), born in Mishaninskaya. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Lomonosov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q58720",
+    "https://en.wikipedia.org/wiki/Mikhail_Lomonosov"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "john-forbes-nash",
+  "wikidata": "Q128736",
+  "name": "John Forbes Nash",
+  "category": "scientist",
+  "start": 1928,
+  "end": 2015,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.26,
+    "lon": -81.22,
+    "place": "Bluefield"
+  },
+  "summary": "American mathematician and economist (1928–2015), born in Bluefield. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr."
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q128736",
+    "https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr."
+  ],
+  "disputed": false
+}

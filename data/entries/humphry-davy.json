@@ -1,0 +1,23 @@
+{
+  "id": "humphry-davy",
+  "wikidata": "Q131761",
+  "name": "Humphry Davy",
+  "category": "scientist",
+  "start": 1778,
+  "end": 1829,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.12,
+    "lon": -5.54,
+    "place": "Penzance"
+  },
+  "summary": "British chemist, born in Penzance. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Humphry_Davy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131761",
+    "https://en.wikipedia.org/wiki/Humphry_Davy"
+  ],
+  "disputed": false
+}

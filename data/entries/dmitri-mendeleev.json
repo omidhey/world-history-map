@@ -1,0 +1,23 @@
+{
+  "id": "dmitri-mendeleev",
+  "wikidata": "Q9106",
+  "name": "Dmitri Mendeleev",
+  "category": "scientist",
+  "start": 1834,
+  "end": 1907,
+  "date_precision": "day",
+  "location": {
+    "lat": 58.2,
+    "lon": 68.26,
+    "place": "Tobolsk"
+  },
+  "summary": "Russian chemist (1834–1907), born in Tobolsk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9106",
+    "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+  ],
+  "disputed": false
+}

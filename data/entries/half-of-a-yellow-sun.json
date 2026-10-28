@@ -1,0 +1,22 @@
+{
+  "id": "half-of-a-yellow-sun",
+  "wikidata": "Q3235393",
+  "name": "Half of a Yellow Sun",
+  "category": "work",
+  "start": 2006,
+  "date_precision": "year",
+  "location": {
+    "lat": 6.44,
+    "lon": 7.49,
+    "place": "Enugu"
+  },
+  "summary": "2006 novel by Chimamanda Ngozi Adichie, associated with Enugu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3235393",
+    "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun"
+  ],
+  "disputed": false
+}

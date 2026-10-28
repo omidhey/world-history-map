@@ -1,0 +1,23 @@
+{
+  "id": "federico-garcia-lorca",
+  "wikidata": "Q41408",
+  "name": "Federico García Lorca",
+  "category": "writer",
+  "start": 1898,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.22,
+    "lon": -3.78,
+    "place": "Fuente Vaqueros"
+  },
+  "summary": "Spanish poet, dramatist and prose writer (1898–1936), born in Fuente Vaqueros. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_García_Lorca"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41408",
+    "https://en.wikipedia.org/wiki/Federico_García_Lorca"
+  ],
+  "disputed": false
+}

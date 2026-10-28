@@ -1,0 +1,22 @@
+{
+  "id": "native-son",
+  "wikidata": "Q165599",
+  "name": "Native Son",
+  "category": "work",
+  "start": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.56,
+    "lon": -91.4,
+    "place": "Natchez"
+  },
+  "summary": "1940 novel by Richard Wright, associated with Natchez. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Native_Son"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q165599",
+    "https://en.wikipedia.org/wiki/Native_Son"
+  ],
+  "disputed": false
+}

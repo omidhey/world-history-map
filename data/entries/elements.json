@@ -1,0 +1,22 @@
+{
+  "id": "elements",
+  "wikidata": "Q172891",
+  "name": "Elements",
+  "category": "work",
+  "start": -300,
+  "date_precision": "century",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "Mathematical treatise by Euclid, associated with Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Euclid's_Elements"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172891",
+    "https://en.wikipedia.org/wiki/Euclid's_Elements"
+  ],
+  "disputed": false
+}

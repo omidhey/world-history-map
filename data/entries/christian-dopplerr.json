@@ -1,0 +1,23 @@
+{
+  "id": "christian-dopplerr",
+  "wikidata": "Q84284",
+  "name": "Christian Dopplerr",
+  "category": "scientist",
+  "start": 1803,
+  "end": 1853,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.8,
+    "lon": 13.04,
+    "place": "Salzburg"
+  },
+  "summary": "Austrian mathematician and physicist (1803-1853), born in Salzburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Doppler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q84284",
+    "https://en.wikipedia.org/wiki/Christian_Doppler"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-temple-of-the-golden-pavilion",
+  "wikidata": "Q2518946",
+  "name": "The Temple of the Golden Pavilion",
+  "category": "work",
+  "start": 1956,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Tokyo"
+  },
+  "summary": "1956 novel by Yukio Mishima, associated with Tokyo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2518946",
+    "https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion"
+  ],
+  "disputed": false
+}

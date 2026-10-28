@@ -1,0 +1,22 @@
+{
+  "id": "tales-of-moonlight-and-rain",
+  "wikidata": "Q1660401",
+  "name": "Tales of Moonlight and Rain",
+  "category": "work",
+  "start": 1776,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.5,
+    "place": "Ōsaka"
+  },
+  "summary": "1776 novel by Ueda Akinari, associated with Ōsaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ugetsu_Monogatari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1660401",
+    "https://en.wikipedia.org/wiki/Ugetsu_Monogatari"
+  ],
+  "disputed": false
+}

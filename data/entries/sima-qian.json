@@ -1,0 +1,23 @@
+{
+  "id": "sima-qian",
+  "wikidata": "Q9372",
+  "name": "Sima Qian",
+  "category": "writer",
+  "start": -145,
+  "end": -86,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.59,
+    "lon": 110.71,
+    "place": "Hejin"
+  },
+  "summary": "Chinese historian (c. 145 – c. 86 BCE), born in Hejin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sima_Qian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9372",
+    "https://en.wikipedia.org/wiki/Sima_Qian"
+  ],
+  "disputed": false
+}

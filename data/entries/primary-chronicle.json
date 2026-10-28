@@ -1,0 +1,22 @@
+{
+  "id": "primary-chronicle",
+  "wikidata": "Q192551",
+  "name": "Primary Chronicle",
+  "category": "work",
+  "start": 1200,
+  "date_precision": "century",
+  "location": {
+    "lat": 50.45,
+    "lon": 30.52,
+    "place": "Kyiv"
+  },
+  "summary": "Literary work of 12th century by Nestor the Chronicler, associated with Kyiv. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Primary_Chronicle"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192551",
+    "https://en.wikipedia.org/wiki/Primary_Chronicle"
+  ],
+  "disputed": false
+}

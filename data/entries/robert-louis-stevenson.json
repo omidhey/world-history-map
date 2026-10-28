@@ -1,0 +1,23 @@
+{
+  "id": "robert-louis-stevenson",
+  "wikidata": "Q1512",
+  "name": "Robert Louis Stevenson",
+  "category": "writer",
+  "start": 1850,
+  "end": 1894,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -3.19,
+    "place": "Edinburgh"
+  },
+  "summary": "Scottish novelist and poet (1850–1894), born in Edinburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1512",
+    "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+  ],
+  "disputed": false
+}

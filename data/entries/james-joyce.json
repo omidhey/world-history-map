@@ -1,0 +1,23 @@
+{
+  "id": "james-joyce",
+  "wikidata": "Q6882",
+  "name": "James Joyce",
+  "category": "writer",
+  "start": 1882,
+  "end": 1941,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.31,
+    "lon": -6.27,
+    "place": "Rathgar"
+  },
+  "summary": "Irish novelist and poet (1882–1941), born in Rathgar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Joyce"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6882",
+    "https://en.wikipedia.org/wiki/James_Joyce"
+  ],
+  "disputed": false
+}

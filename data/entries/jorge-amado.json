@@ -1,0 +1,23 @@
+{
+  "id": "jorge-amado",
+  "wikidata": "Q184440",
+  "name": "Jorge Amado",
+  "category": "writer",
+  "start": 1912,
+  "end": 2001,
+  "date_precision": "day",
+  "location": {
+    "lat": -14.79,
+    "lon": -39.28,
+    "place": "Itabuna"
+  },
+  "summary": "Brazilian writer (1912–2001), born in Itabuna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Amado"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184440",
+    "https://en.wikipedia.org/wiki/Jorge_Amado"
+  ],
+  "disputed": false
+}

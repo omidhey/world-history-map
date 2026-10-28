@@ -1,0 +1,23 @@
+{
+  "id": "camillo-golgi",
+  "wikidata": "Q150630",
+  "name": "Camillo Golgi",
+  "category": "scientist",
+  "start": 1843,
+  "end": 1926,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.17,
+    "lon": 10.24,
+    "place": "Corteno Golgi"
+  },
+  "summary": "Italian physician, pathologist, scientist, and Nobel laureate (1843-1926), born in Corteno Golgi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Camillo_Golgi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q150630",
+    "https://en.wikipedia.org/wiki/Camillo_Golgi"
+  ],
+  "disputed": false
+}

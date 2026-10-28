@@ -1,0 +1,23 @@
+{
+  "id": "takakazu-seki",
+  "wikidata": "Q470531",
+  "name": "Takakazu Seki",
+  "category": "scientist",
+  "start": 1642,
+  "end": 1708,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.26,
+    "lon": 139.07,
+    "place": "Fujioka"
+  },
+  "summary": "Japanese mathematician, born in Fujioka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Seki_Takakazu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q470531",
+    "https://en.wikipedia.org/wiki/Seki_Takakazu"
+  ],
+  "disputed": false
+}

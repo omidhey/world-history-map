@@ -1,0 +1,22 @@
+{
+  "id": "beloved",
+  "wikidata": "Q971767",
+  "name": "Beloved",
+  "category": "work",
+  "start": 1987,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.45,
+    "lon": -82.17,
+    "place": "Lorain"
+  },
+  "summary": "Novel by Toni Morrison, associated with Lorain. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Beloved_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q971767",
+    "https://en.wikipedia.org/wiki/Beloved_(novel)"
+  ],
+  "disputed": false
+}

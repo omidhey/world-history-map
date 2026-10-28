@@ -1,0 +1,23 @@
+{
+  "id": "james-hutton",
+  "wikidata": "Q192927",
+  "name": "James Hutton",
+  "category": "scientist",
+  "start": 1726,
+  "end": 1797,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -3.19,
+    "place": "Edinburgh"
+  },
+  "summary": "Scottish geologist, physician, chemical manufacturer, naturalist, and experimental agriculturalist; (1726-1797), born in Edinburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Hutton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192927",
+    "https://en.wikipedia.org/wiki/James_Hutton"
+  ],
+  "disputed": false
+}

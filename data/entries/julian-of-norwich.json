@@ -1,0 +1,41 @@
+{
+  "id": "julian-of-norwich",
+  "wikidata": "Q236699",
+  "name": "Julian of Norwich",
+  "category": "writer",
+  "start": 1342,
+  "end": 1500,
+  "date_precision": "century",
+  "location": {
+    "lat": 52.63,
+    "lon": 1.29,
+    "place": "Norwich"
+  },
+  "summary": "English theologian and anchoress, born in Norwich. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_of_Norwich"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q236699",
+    "https://en.wikipedia.org/wiki/Julian_of_Norwich"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1342,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q236699"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1343,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q236699"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ryunosuke-akutagawa",
+  "wikidata": "Q186326",
+  "name": "Ryūnosuke Akutagawa",
+  "category": "writer",
+  "start": 1892,
+  "end": 1927,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Tokyo"
+  },
+  "summary": "Japanese writer (1892–1927), born in Tokyo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryūnosuke_Akutagawa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q186326",
+    "https://en.wikipedia.org/wiki/Ryūnosuke_Akutagawa"
+  ],
+  "disputed": false
+}

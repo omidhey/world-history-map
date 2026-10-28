@@ -1,0 +1,23 @@
+{
+  "id": "luigi-pirandello",
+  "wikidata": "Q1403",
+  "name": "Luigi Pirandello",
+  "category": "writer",
+  "start": 1867,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.31,
+    "lon": 13.57,
+    "place": "Agrigento"
+  },
+  "summary": "Italian dramatist, novelist, short story writer and poet (1867-1936), born in Agrigento. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Pirandello"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1403",
+    "https://en.wikipedia.org/wiki/Luigi_Pirandello"
+  ],
+  "disputed": false
+}

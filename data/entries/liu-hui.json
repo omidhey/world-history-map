@@ -1,0 +1,23 @@
+{
+  "id": "liu-hui",
+  "wikidata": "Q316304",
+  "name": "Liu Hui",
+  "category": "scientist",
+  "start": 225,
+  "end": 295,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.78,
+    "lon": 118.05,
+    "place": "Zibo"
+  },
+  "summary": "Chinese mathematician from Cao Wei (Three Kingdoms period), born in Zibo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liu_Hui"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316304",
+    "https://en.wikipedia.org/wiki/Liu_Hui"
+  ],
+  "disputed": false
+}

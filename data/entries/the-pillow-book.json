@@ -1,0 +1,22 @@
+{
+  "id": "the-pillow-book",
+  "wikidata": "Q615137",
+  "name": "The Pillow Book",
+  "category": "work",
+  "start": 1002,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 135.77,
+    "place": "Heian-kyō"
+  },
+  "summary": "1002 book of observations and musings recorded by Sei Shōnagon, associated with Heian-kyō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Pillow_Book"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q615137",
+    "https://en.wikipedia.org/wiki/The_Pillow_Book"
+  ],
+  "disputed": false
+}

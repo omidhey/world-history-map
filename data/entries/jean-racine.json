@@ -1,0 +1,23 @@
+{
+  "id": "jean-racine",
+  "wikidata": "Q742",
+  "name": "Jean Racine",
+  "category": "writer",
+  "start": 1639,
+  "end": 1699,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.18,
+    "lon": 3.12,
+    "place": "La Ferté-Milon"
+  },
+  "summary": "French dramatist (1639-1699), born in La Ferté-Milon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Racine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q742",
+    "https://en.wikipedia.org/wiki/Jean_Racine"
+  ],
+  "disputed": false
+}

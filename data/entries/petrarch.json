@@ -1,0 +1,23 @@
+{
+  "id": "petrarch",
+  "wikidata": "Q1401",
+  "name": "Petrarch",
+  "category": "writer",
+  "start": 1304,
+  "end": 1374,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.46,
+    "lon": 11.88,
+    "place": "Arezzo"
+  },
+  "summary": "Italian scholar and poet (1304-1374), born in Arezzo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Petrarch"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1401",
+    "https://en.wikipedia.org/wiki/Petrarch"
+  ],
+  "disputed": false
+}

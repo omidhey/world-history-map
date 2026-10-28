@@ -1,0 +1,23 @@
+{
+  "id": "guy-de-maupassant",
+  "wikidata": "Q9327",
+  "name": "Guy de Maupassant",
+  "category": "writer",
+  "start": 1850,
+  "end": 1893,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.86,
+    "lon": 1.1,
+    "place": "Tourville-sur-Arques"
+  },
+  "summary": "French writer (1850-1893), born in Tourville-sur-Arques. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guy_de_Maupassant"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9327",
+    "https://en.wikipedia.org/wiki/Guy_de_Maupassant"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abd-al-rahman-al-sufi",
+  "wikidata": "Q11075",
+  "name": "Abd al-Rahman al-Sufi",
+  "category": "scientist",
+  "start": 903,
+  "end": 986,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.6,
+    "lon": 51.43,
+    "place": "Ray"
+  },
+  "summary": "Persian astronomer (903-986), born in Ray. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11075",
+    "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "macbeth",
+  "wikidata": "Q130283",
+  "name": "Macbeth",
+  "category": "work",
+  "start": 1623,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "Tragic play by William Shakespeare from the early 1600s, associated with Stratford-upon-Avon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Macbeth"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q130283",
+    "https://en.wikipedia.org/wiki/Macbeth"
+  ],
+  "disputed": false
+}

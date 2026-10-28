@@ -1,0 +1,23 @@
+{
+  "id": "hendrik-lorentz",
+  "wikidata": "Q41688",
+  "name": "Hendrik Lorentz",
+  "category": "scientist",
+  "start": 1853,
+  "end": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.98,
+    "lon": 5.92,
+    "place": "Arnhem"
+  },
+  "summary": "Dutch physicist (1853–1928), born in Arnhem. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hendrik_Lorentz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41688",
+    "https://en.wikipedia.org/wiki/Hendrik_Lorentz"
+  ],
+  "disputed": false
+}

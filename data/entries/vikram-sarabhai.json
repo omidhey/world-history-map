@@ -1,0 +1,23 @@
+{
+  "id": "vikram-sarabhai",
+  "wikidata": "Q325470",
+  "name": "Vikram Sarabhai",
+  "category": "scientist",
+  "start": 1919,
+  "end": 1971,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.02,
+    "lon": 72.58,
+    "place": "Ahmedabad"
+  },
+  "summary": "Father of Indian space programme (1919–1971), born in Ahmedabad. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vikram_Sarabhai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q325470",
+    "https://en.wikipedia.org/wiki/Vikram_Sarabhai"
+  ],
+  "disputed": false
+}

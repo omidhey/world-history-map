@@ -1,0 +1,23 @@
+{
+  "id": "toni-morrison",
+  "wikidata": "Q72334",
+  "name": "Toni Morrison",
+  "category": "writer",
+  "start": 1931,
+  "end": 2019,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.45,
+    "lon": -82.17,
+    "place": "Lorain"
+  },
+  "summary": "African American novelist, essayist, and academic (1931–2019), born in Lorain. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Morrison"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q72334",
+    "https://en.wikipedia.org/wiki/Toni_Morrison"
+  ],
+  "disputed": false
+}

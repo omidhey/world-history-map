@@ -1,0 +1,23 @@
+{
+  "id": "percy-lavon-julian",
+  "wikidata": "Q705852",
+  "name": "Percy Lavon Julian",
+  "category": "scientist",
+  "start": 1899,
+  "end": 1975,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.37,
+    "lon": -86.3,
+    "place": "Montgomery"
+  },
+  "summary": "African-American chemist (1899-1975), born in Montgomery. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Percy_Lavon_Julian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q705852",
+    "https://en.wikipedia.org/wiki/Percy_Lavon_Julian"
+  ],
+  "disputed": false
+}

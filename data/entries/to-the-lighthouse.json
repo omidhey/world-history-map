@@ -1,0 +1,22 @@
+{
+  "id": "to-the-lighthouse",
+  "wikidata": "Q478016",
+  "name": "To the Lighthouse",
+  "category": "work",
+  "start": 1927,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "1927 novel by Virginia Woolf, associated with London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q478016",
+    "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+  ],
+  "disputed": false
+}

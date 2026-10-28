@@ -1,0 +1,22 @@
+{
+  "id": "rubaiyat-of-omar-khayyam",
+  "wikidata": "Q1059358",
+  "name": "Rubáiyát of Omar Khayyám",
+  "category": "work",
+  "start": 1100,
+  "date_precision": "decade",
+  "location": {
+    "lat": 36.21,
+    "lon": 58.8,
+    "place": "Nishapur"
+  },
+  "summary": "Persian poetry. Omar Khayyam’s robāʿiyyāt (“quatrains”). Also Persian-English quatrains translations by Edward Fitzgerald. by Omar Khayyám, associated with Nishapur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1059358",
+    "https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam"
+  ],
+  "disputed": false
+}

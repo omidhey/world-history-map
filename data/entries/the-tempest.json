@@ -1,0 +1,22 @@
+{
+  "id": "the-tempest",
+  "wikidata": "Q86440",
+  "name": "The Tempest",
+  "category": "work",
+  "start": 1623,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "Play by William Shakespeare, associated with Stratford-upon-Avon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Tempest"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q86440",
+    "https://en.wikipedia.org/wiki/The_Tempest"
+  ],
+  "disputed": false
+}

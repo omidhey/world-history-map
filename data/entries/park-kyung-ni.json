@@ -1,0 +1,23 @@
+{
+  "id": "park-kyung-ni",
+  "wikidata": "Q39963",
+  "name": "Park Kyung-ni",
+  "category": "writer",
+  "start": 1926,
+  "end": 2008,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.85,
+    "lon": 128.42,
+    "place": "Tongyeong"
+  },
+  "summary": "South Korean writer (1926-2008), born in Tongyeong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pak_Kyongni"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39963",
+    "https://en.wikipedia.org/wiki/Pak_Kyongni"
+  ],
+  "disputed": false
+}

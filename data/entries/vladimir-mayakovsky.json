@@ -1,0 +1,23 @@
+{
+  "id": "vladimir-mayakovsky",
+  "wikidata": "Q132964",
+  "name": "Vladimir Mayakovsky",
+  "category": "writer",
+  "start": 1893,
+  "end": 1930,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.07,
+    "lon": 42.82,
+    "place": "Baghdati"
+  },
+  "summary": "Russian and Soviet poet (1893–1930), born in Baghdati. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Mayakovsky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q132964",
+    "https://en.wikipedia.org/wiki/Vladimir_Mayakovsky"
+  ],
+  "disputed": false
+}

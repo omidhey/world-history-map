@@ -1,0 +1,23 @@
+{
+  "id": "thomas-malory",
+  "wikidata": "Q309907",
+  "name": "Thomas Malory",
+  "category": "writer",
+  "start": 1405,
+  "end": 1471,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.33,
+    "lon": -1.58,
+    "place": "Warwickshire"
+  },
+  "summary": "English writer, author of Le Morte d'Arthur (1405–1471), born in Warwickshire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Malory"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q309907",
+    "https://en.wikipedia.org/wiki/Thomas_Malory"
+  ],
+  "disputed": false
+}

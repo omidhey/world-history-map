@@ -1,0 +1,41 @@
+{
+  "id": "wu-cheng-en",
+  "wikidata": "Q228889",
+  "name": "Wu Cheng'en",
+  "category": "writer",
+  "start": 1500,
+  "end": 1582,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.59,
+    "lon": 119.02,
+    "place": "Huai'an"
+  },
+  "summary": "Chinese writer, born in Huai'an. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wu_Cheng'en"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q228889",
+    "https://en.wikipedia.org/wiki/Wu_Cheng'en"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1500,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q228889"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1504,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q228889"
+      ]
+    }
+  ]
+}

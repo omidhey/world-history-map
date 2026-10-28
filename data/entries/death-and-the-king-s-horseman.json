@@ -1,0 +1,22 @@
+{
+  "id": "death-and-the-king-s-horseman",
+  "wikidata": "Q5247287",
+  "name": "Death and the King's Horseman",
+  "category": "work",
+  "start": 1993,
+  "date_precision": "year",
+  "location": {
+    "lat": 7.15,
+    "lon": 3.35,
+    "place": "Abeokuta"
+  },
+  "summary": "1993 play by Wole Soyinka, associated with Abeokuta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_and_the_King's_Horseman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5247287",
+    "https://en.wikipedia.org/wiki/Death_and_the_King's_Horseman"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "paul-verlaine",
+  "wikidata": "Q755",
+  "name": "Paul Verlaine",
+  "category": "writer",
+  "start": 1844,
+  "end": 1896,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.12,
+    "lon": 6.18,
+    "place": "Metz"
+  },
+  "summary": "French poet (1844-1896), born in Metz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Verlaine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q755",
+    "https://en.wikipedia.org/wiki/Paul_Verlaine"
+  ],
+  "disputed": false
+}

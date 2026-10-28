@@ -1,0 +1,23 @@
+{
+  "id": "imru-al-qais",
+  "wikidata": "Q1051776",
+  "name": "Imru' al-Qais",
+  "category": "writer",
+  "start": 501,
+  "end": 544,
+  "date_precision": "year",
+  "location": {
+    "lat": 24.29,
+    "lon": 43.59,
+    "place": "Najd"
+  },
+  "summary": "Arab king and poet (501–544), born in Najd. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Imru'_al-Qais"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1051776",
+    "https://en.wikipedia.org/wiki/Imru'_al-Qais"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doris-lessing",
+  "wikidata": "Q40874",
+  "name": "Doris Lessing",
+  "category": "writer",
+  "start": 1919,
+  "end": 2013,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.32,
+    "lon": 47.07,
+    "place": "Kermanshah"
+  },
+  "summary": "British novelist, poet, playwright, librettist, biographer, and short story writer (1919–2013), born in Kermanshah. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doris_Lessing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40874",
+    "https://en.wikipedia.org/wiki/Doris_Lessing"
+  ],
+  "disputed": false
+}

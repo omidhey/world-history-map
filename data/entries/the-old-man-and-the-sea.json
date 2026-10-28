@@ -1,0 +1,22 @@
+{
+  "id": "the-old-man-and-the-sea",
+  "wikidata": "Q26505",
+  "name": "The Old Man and the Sea",
+  "category": "work",
+  "start": 1952,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": -87.79,
+    "place": "Oak Park"
+  },
+  "summary": "1952 short novel by Ernest Hemingway, written between December 1950 and February 1951, associated with Oak Park. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q26505",
+    "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+  ],
+  "disputed": false
+}

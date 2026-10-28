@@ -1,0 +1,23 @@
+{
+  "id": "cecilia-meireles",
+  "wikidata": "Q2607615",
+  "name": "Cecília Meireles",
+  "category": "writer",
+  "start": 1901,
+  "end": 1964,
+  "date_precision": "day",
+  "location": {
+    "lat": -22.91,
+    "lon": -43.21,
+    "place": "Rio de Janeiro"
+  },
+  "summary": "Brazilian writer (1901–1964), born in Rio de Janeiro. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecília_Meireles"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2607615",
+    "https://en.wikipedia.org/wiki/Cecília_Meireles"
+  ],
+  "disputed": false
+}

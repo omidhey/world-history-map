@@ -1,0 +1,23 @@
+{
+  "id": "tao-yuanming",
+  "wikidata": "Q314210",
+  "name": "Tao Yuanming",
+  "category": "writer",
+  "start": 365,
+  "end": 427,
+  "date_precision": "day",
+  "location": {
+    "lat": 29.45,
+    "lon": 116.04,
+    "place": "Lushan City"
+  },
+  "summary": "Chinese poet (365–427), born in Lushan City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tao_Yuanming"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q314210",
+    "https://en.wikipedia.org/wiki/Tao_Yuanming"
+  ],
+  "disputed": false
+}

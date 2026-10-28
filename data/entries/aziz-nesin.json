@@ -1,0 +1,23 @@
+{
+  "id": "aziz-nesin",
+  "wikidata": "Q327261",
+  "name": "Aziz Nesin",
+  "category": "writer",
+  "start": 1915,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.88,
+    "lon": 29.09,
+    "place": "Heybeliada"
+  },
+  "summary": "Turkish writer (1915–1995), born in Heybeliada. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aziz_Nesin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q327261",
+    "https://en.wikipedia.org/wiki/Aziz_Nesin"
+  ],
+  "disputed": false
+}

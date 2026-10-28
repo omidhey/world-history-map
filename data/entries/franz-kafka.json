@@ -1,0 +1,23 @@
+{
+  "id": "franz-kafka",
+  "wikidata": "Q905",
+  "name": "Franz Kafka",
+  "category": "writer",
+  "start": 1883,
+  "end": 1924,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.09,
+    "lon": 14.42,
+    "place": "Prague"
+  },
+  "summary": "Bohemian writer from Prague (1883–1924), born in Prague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Kafka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q905",
+    "https://en.wikipedia.org/wiki/Franz_Kafka"
+  ],
+  "disputed": false
+}

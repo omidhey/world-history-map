@@ -1,0 +1,23 @@
+{
+  "id": "evangelista-torricelli",
+  "wikidata": "Q102490",
+  "name": "Evangelista Torricelli",
+  "category": "scientist",
+  "start": 1608,
+  "end": 1647,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Italian physicist and mathematician (1608-1647), born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q102490",
+    "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+  ],
+  "disputed": false
+}

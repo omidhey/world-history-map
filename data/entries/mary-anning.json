@@ -1,0 +1,23 @@
+{
+  "id": "mary-anning",
+  "wikidata": "Q230491",
+  "name": "Mary Anning",
+  "category": "scientist",
+  "start": 1799,
+  "end": 1847,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.73,
+    "lon": -2.94,
+    "place": "Lyme Regis"
+  },
+  "summary": "British fossil collector and palaeontologist (1799–1847), born in Lyme Regis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Anning"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q230491",
+    "https://en.wikipedia.org/wiki/Mary_Anning"
+  ],
+  "disputed": false
+}

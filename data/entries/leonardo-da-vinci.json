@@ -1,0 +1,23 @@
+{
+  "id": "leonardo-da-vinci",
+  "wikidata": "Q762",
+  "name": "Leonardo da Vinci",
+  "category": "scientist",
+  "start": 1452,
+  "end": 1519,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.8,
+    "lon": 10.94,
+    "place": "Anchiano"
+  },
+  "summary": "Italian Renaissance polymath (1452−1519), born in Anchiano. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q762",
+    "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+  ],
+  "disputed": false
+}

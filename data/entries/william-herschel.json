@@ -1,0 +1,23 @@
+{
+  "id": "william-herschel",
+  "wikidata": "Q14277",
+  "name": "William Herschel",
+  "category": "scientist",
+  "start": 1738,
+  "end": 1822,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 9.74,
+    "place": "Hanover"
+  },
+  "summary": "German-born British astronomer and composer (1738–1822), born in Hanover. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Herschel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q14277",
+    "https://en.wikipedia.org/wiki/William_Herschel"
+  ],
+  "disputed": false
+}

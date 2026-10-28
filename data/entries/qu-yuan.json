@@ -1,0 +1,23 @@
+{
+  "id": "qu-yuan",
+  "wikidata": "Q313330",
+  "name": "Qu Yuan",
+  "category": "writer",
+  "start": -343,
+  "end": -278,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.83,
+    "lon": 110.97,
+    "place": "Zigui County"
+  },
+  "summary": "Chinese poet and politician (c.340–278 BC), born in Zigui County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qu_Yuan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313330",
+    "https://en.wikipedia.org/wiki/Qu_Yuan"
+  ],
+  "disputed": false
+}

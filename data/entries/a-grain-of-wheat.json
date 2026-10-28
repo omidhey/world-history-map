@@ -1,0 +1,22 @@
+{
+  "id": "a-grain-of-wheat",
+  "wikidata": "Q4657149",
+  "name": "A Grain of Wheat",
+  "category": "work",
+  "start": 1967,
+  "date_precision": "year",
+  "location": {
+    "lat": -1.12,
+    "lon": 36.63,
+    "place": "Kamirithu"
+  },
+  "summary": "Novel by Ngũgĩ wa Thiong'o, associated with Kamirithu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Grain_of_Wheat"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4657149",
+    "https://en.wikipedia.org/wiki/A_Grain_of_Wheat"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-name-of-the-rose",
+  "wikidata": "Q172850",
+  "name": "The Name of the Rose",
+  "category": "work",
+  "start": 1980,
+  "date_precision": "year",
+  "location": {
+    "lat": 44.91,
+    "lon": 8.62,
+    "place": "Alessandria"
+  },
+  "summary": "1980 novel by Umberto Eco, associated with Alessandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172850",
+    "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+  ],
+  "disputed": false
+}

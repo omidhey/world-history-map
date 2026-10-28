@@ -1,0 +1,23 @@
+{
+  "id": "martial",
+  "wikidata": "Q2098",
+  "name": "Martial",
+  "category": "writer",
+  "start": 40,
+  "end": 104,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.38,
+    "lon": -1.6,
+    "place": "Augusta Bilbilis"
+  },
+  "summary": "1st-century Latin poet from Hispania, born in Augusta Bilbilis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Martial"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2098",
+    "https://en.wikipedia.org/wiki/Martial"
+  ],
+  "disputed": false
+}

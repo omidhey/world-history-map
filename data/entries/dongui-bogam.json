@@ -1,0 +1,22 @@
+{
+  "id": "dongui-bogam",
+  "wikidata": "Q494387",
+  "name": "Dongui Bogam",
+  "category": "work",
+  "start": 1613,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.58,
+    "lon": 126.98,
+    "place": "Joseon"
+  },
+  "summary": "Compendium of traditional Korean medicine published in 1613 by Heo Jun, associated with Joseon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Donguibogam"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q494387",
+    "https://en.wikipedia.org/wiki/Donguibogam"
+  ],
+  "disputed": false
+}

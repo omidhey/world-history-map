@@ -1,0 +1,23 @@
+{
+  "id": "yehuda-alharizi",
+  "wikidata": "Q1350978",
+  "name": "Yehuda Alharizi",
+  "category": "writer",
+  "start": 1165,
+  "end": 1225,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.38,
+    "lon": 2.18,
+    "place": "Barcelona"
+  },
+  "summary": "Rabbi, translator, and poet, born in Barcelona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yehuda_Alharizi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1350978",
+    "https://en.wikipedia.org/wiki/Yehuda_Alharizi"
+  ],
+  "disputed": false
+}

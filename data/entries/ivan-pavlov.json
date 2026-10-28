@@ -1,0 +1,23 @@
+{
+  "id": "ivan-pavlov",
+  "wikidata": "Q42985",
+  "name": "Ivan Pavlov",
+  "category": "scientist",
+  "start": 1849,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.63,
+    "lon": 39.74,
+    "place": "Ryazan"
+  },
+  "summary": "Russian physiologist (1849–1936), born in Ryazan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Pavlov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42985",
+    "https://en.wikipedia.org/wiki/Ivan_Pavlov"
+  ],
+  "disputed": false
+}

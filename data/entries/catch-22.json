@@ -1,0 +1,22 @@
+{
+  "id": "catch-22",
+  "wikidata": "Q278208",
+  "name": "Catch-22",
+  "category": "work",
+  "start": 1961,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.58,
+    "lon": -73.98,
+    "place": "Coney Island"
+  },
+  "summary": "Novel by the American author Joseph Heller (1961), associated with Coney Island. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Catch-22"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q278208",
+    "https://en.wikipedia.org/wiki/Catch-22"
+  ],
+  "disputed": false
+}

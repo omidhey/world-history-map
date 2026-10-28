@@ -1,0 +1,23 @@
+{
+  "id": "otto-von-guericke",
+  "wikidata": "Q60095",
+  "name": "Otto von Guericke",
+  "category": "scientist",
+  "start": 1602,
+  "end": 1686,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.13,
+    "lon": 11.64,
+    "place": "Magdeburg"
+  },
+  "summary": "German scientist, inventor, and politician (1602-1686), born in Magdeburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto_von_Guericke"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60095",
+    "https://en.wikipedia.org/wiki/Otto_von_Guericke"
+  ],
+  "disputed": false
+}

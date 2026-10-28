@@ -1,0 +1,22 @@
+{
+  "id": "histories",
+  "wikidata": "Q746583",
+  "name": "Histories",
+  "category": "work",
+  "start": -440,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.04,
+    "lon": 27.42,
+    "place": "Halicarnassus"
+  },
+  "summary": "Work by Herodotus, c. 440 BC, associated with Halicarnassus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Histories_(Herodotus)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q746583",
+    "https://en.wikipedia.org/wiki/Histories_(Herodotus)"
+  ],
+  "disputed": false
+}

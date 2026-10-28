@@ -1,0 +1,22 @@
+{
+  "id": "summa-theologica",
+  "wikidata": "Q653871",
+  "name": "Summa Theologica",
+  "category": "work",
+  "start": 1274,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.55,
+    "lon": 13.67,
+    "place": "castle of the counts of Aquino"
+  },
+  "summary": "Theological treatise by Thomas Aquinas, associated with castle of the counts of Aquino. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Summa_Theologica"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q653871",
+    "https://en.wikipedia.org/wiki/Summa_Theologica"
+  ],
+  "disputed": false
+}

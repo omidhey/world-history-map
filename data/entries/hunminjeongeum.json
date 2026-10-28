@@ -1,0 +1,22 @@
+{
+  "id": "hunminjeongeum",
+  "wikidata": "Q18990",
+  "name": "Hunminjeongeum",
+  "category": "work",
+  "start": 1446,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.58,
+    "lon": 126.97,
+    "place": "Tongin-dong"
+  },
+  "summary": "15th century document on the Korean alphabet by Sejong the Great, Hall of Worthies, associated with Tongin-dong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hunminjeongeum"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q18990",
+    "https://en.wikipedia.org/wiki/Hunminjeongeum"
+  ],
+  "disputed": false
+}

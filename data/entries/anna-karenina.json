@@ -1,0 +1,22 @@
+{
+  "id": "anna-karenina",
+  "wikidata": "Q147787",
+  "name": "Anna Karenina",
+  "category": "work",
+  "start": 1877,
+  "date_precision": "year",
+  "location": {
+    "lat": 54.08,
+    "lon": 37.53,
+    "place": "Yasnaya Polyana"
+  },
+  "summary": "1877 novel by Leo Tolstoy, associated with Yasnaya Polyana. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Karenina"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q147787",
+    "https://en.wikipedia.org/wiki/Anna_Karenina"
+  ],
+  "disputed": false
+}

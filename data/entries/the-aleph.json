@@ -1,0 +1,22 @@
+{
+  "id": "the-aleph",
+  "wikidata": "Q743304",
+  "name": "The Aleph",
+  "category": "work",
+  "start": 1949,
+  "date_precision": "year",
+  "location": {
+    "lat": -34.6,
+    "lon": -58.38,
+    "place": "Buenos Aires"
+  },
+  "summary": "1949 short story collection by Jorge Luis Borges, associated with Buenos Aires. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Aleph_and_Other_Stories"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q743304",
+    "https://en.wikipedia.org/wiki/The_Aleph_and_Other_Stories"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "michael-servetus",
+  "wikidata": "Q185914",
+  "name": "Michael Servetus",
+  "category": "scientist",
+  "start": 1511,
+  "end": 1553,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.72,
+    "lon": -0.01,
+    "place": "Villanueva de Sigena"
+  },
+  "summary": "Spanish physician and theologian, born in Villanueva de Sigena. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Servetus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185914",
+    "https://en.wikipedia.org/wiki/Michael_Servetus"
+  ],
+  "disputed": false
+}

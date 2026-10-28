@@ -1,0 +1,22 @@
+{
+  "id": "vyasa",
+  "wikidata": "Q330521",
+  "name": "Vyasa",
+  "category": "writer",
+  "start": -1500,
+  "date_precision": "century",
+  "location": {
+    "lat": 26.12,
+    "lon": 79.73,
+    "place": "Kalpi"
+  },
+  "summary": "Legendary ancient Indian sage, compiler of the Vedas, and author of the Mahabharata, born in Kalpi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vyasa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q330521",
+    "https://en.wikipedia.org/wiki/Vyasa"
+  ],
+  "disputed": false
+}

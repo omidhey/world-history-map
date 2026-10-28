@@ -1,0 +1,23 @@
+{
+  "id": "christiaan-huygens",
+  "wikidata": "Q39599",
+  "name": "Christiaan Huygens",
+  "category": "scientist",
+  "start": 1629,
+  "end": 1695,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.08,
+    "lon": 4.31,
+    "place": "The Hague"
+  },
+  "summary": "Dutch mathematician, physicist and astronomer (1629–1695), born in The Hague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39599",
+    "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+  ],
+  "disputed": false
+}

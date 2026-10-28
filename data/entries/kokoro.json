@@ -1,0 +1,22 @@
+{
+  "id": "kokoro",
+  "wikidata": "Q2623003",
+  "name": "Kokoro",
+  "category": "work",
+  "start": 1914,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.7,
+    "lon": 139.72,
+    "place": "Kikuichō"
+  },
+  "summary": "Novel by Natsume Sōseki, associated with Kikuichō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kokoro"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2623003",
+    "https://en.wikipedia.org/wiki/Kokoro"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sofia-kovalevskaya",
+  "wikidata": "Q184535",
+  "name": "Sofia Kovalevskaya",
+  "category": "scientist",
+  "start": 1850,
+  "end": 1891,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "19th-century Russian mathematician, born in Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184535",
+    "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya"
+  ],
+  "disputed": false
+}

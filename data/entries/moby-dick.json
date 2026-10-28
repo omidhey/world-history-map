@@ -1,0 +1,22 @@
+{
+  "id": "moby-dick",
+  "wikidata": "Q174596",
+  "name": "Moby-Dick",
+  "category": "work",
+  "start": 1851,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.73,
+    "lon": -73.99,
+    "place": "Manhattan"
+  },
+  "summary": "Novel by Herman Melville, associated with Manhattan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Moby-Dick"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q174596",
+    "https://en.wikipedia.org/wiki/Moby-Dick"
+  ],
+  "disputed": false
+}

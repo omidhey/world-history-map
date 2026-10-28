@@ -1,0 +1,23 @@
+{
+  "id": "kobo-abe",
+  "wikidata": "Q186273",
+  "name": "Kōbō Abe",
+  "category": "writer",
+  "start": 1924,
+  "end": 1993,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.75,
+    "lon": 139.73,
+    "place": "Kita"
+  },
+  "summary": "Japanese writer, playwright, photographer and inventor, born in Kita. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kōbō_Abe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q186273",
+    "https://en.wikipedia.org/wiki/Kōbō_Abe"
+  ],
+  "disputed": false
+}

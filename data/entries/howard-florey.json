@@ -1,0 +1,23 @@
+{
+  "id": "howard-florey",
+  "wikidata": "Q137106",
+  "name": "Howard Florey",
+  "category": "scientist",
+  "start": 1898,
+  "end": 1968,
+  "date_precision": "day",
+  "location": {
+    "lat": -34.93,
+    "lon": 138.6,
+    "place": "Adelaide"
+  },
+  "summary": "Australian pathologist (1898-1968), born in Adelaide. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Florey"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q137106",
+    "https://en.wikipedia.org/wiki/Howard_Florey"
+  ],
+  "disputed": false
+}

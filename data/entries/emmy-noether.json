@@ -1,0 +1,23 @@
+{
+  "id": "emmy-noether",
+  "wikidata": "Q7099",
+  "name": "Emmy Noether",
+  "category": "scientist",
+  "start": 1882,
+  "end": 1935,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.59,
+    "lon": 11.01,
+    "place": "Erlangen"
+  },
+  "summary": "German Jewish mathematician (1882–1935), born in Erlangen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmy_Noether"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7099",
+    "https://en.wikipedia.org/wiki/Emmy_Noether"
+  ],
+  "disputed": false
+}

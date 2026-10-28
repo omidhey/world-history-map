@@ -1,0 +1,23 @@
+{
+  "id": "nagaoka-hantaro",
+  "wikidata": "Q1936356",
+  "name": "Nagaoka Hantarō",
+  "category": "scientist",
+  "start": 1865,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.9,
+    "lon": 129.96,
+    "place": "Ōmura-shi"
+  },
+  "summary": "Japanese physicist (1865–1950), born in Ōmura-shi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hantaro_Nagaoka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1936356",
+    "https://en.wikipedia.org/wiki/Hantaro_Nagaoka"
+  ],
+  "disputed": false
+}

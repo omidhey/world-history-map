@@ -1,0 +1,23 @@
+{
+  "id": "eugenio-montale",
+  "wikidata": "Q83174",
+  "name": "Eugenio Montale",
+  "category": "writer",
+  "start": 1896,
+  "end": 1981,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.41,
+    "lon": 8.93,
+    "place": "Genoa"
+  },
+  "summary": "Italian poet (1896-1981), born in Genoa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugenio_Montale"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83174",
+    "https://en.wikipedia.org/wiki/Eugenio_Montale"
+  ],
+  "disputed": false
+}

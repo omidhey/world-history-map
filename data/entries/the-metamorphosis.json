@@ -1,0 +1,22 @@
+{
+  "id": "the-metamorphosis",
+  "wikidata": "Q184222",
+  "name": "The Metamorphosis",
+  "category": "work",
+  "start": 1915,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.09,
+    "lon": 14.42,
+    "place": "Prague"
+  },
+  "summary": "Novella by Franz Kafka, associated with Prague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Metamorphosis"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184222",
+    "https://en.wikipedia.org/wiki/The_Metamorphosis"
+  ],
+  "disputed": false
+}

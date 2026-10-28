@@ -1,0 +1,23 @@
+{
+  "id": "qian-xuesen",
+  "wikidata": "Q333500",
+  "name": "Qian Xuesen",
+  "category": "scientist",
+  "start": 1911,
+  "end": 2009,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.12,
+    "lon": 121.37,
+    "place": "Shanghai County"
+  },
+  "summary": "Chinese rocket scientist (1911-2009), born in Shanghai County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qian_Xuesen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q333500",
+    "https://en.wikipedia.org/wiki/Qian_Xuesen"
+  ],
+  "disputed": false
+}

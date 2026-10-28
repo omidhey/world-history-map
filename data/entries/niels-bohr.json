@@ -1,0 +1,23 @@
+{
+  "id": "niels-bohr",
+  "wikidata": "Q7085",
+  "name": "Niels Bohr",
+  "category": "scientist",
+  "start": 1885,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.68,
+    "lon": 12.57,
+    "place": "Copenhagen"
+  },
+  "summary": "Danish physicist (1885–1962), born in Copenhagen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Bohr"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7085",
+    "https://en.wikipedia.org/wiki/Niels_Bohr"
+  ],
+  "disputed": false
+}

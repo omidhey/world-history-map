@@ -1,0 +1,23 @@
+{
+  "id": "cesar-milstein",
+  "wikidata": "Q155525",
+  "name": "César Milstein",
+  "category": "scientist",
+  "start": 1927,
+  "end": 2002,
+  "date_precision": "day",
+  "location": {
+    "lat": -38.72,
+    "lon": -62.27,
+    "place": "Bahía Blanca"
+  },
+  "summary": "Argentine biochemist (1927–2002), born in Bahía Blanca. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/César_Milstein"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155525",
+    "https://en.wikipedia.org/wiki/César_Milstein"
+  ],
+  "disputed": false
+}

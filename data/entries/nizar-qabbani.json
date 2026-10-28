@@ -1,0 +1,23 @@
+{
+  "id": "nizar-qabbani",
+  "wikidata": "Q382312",
+  "name": "Nizar Qabbani",
+  "category": "writer",
+  "start": 1923,
+  "end": 1998,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.51,
+    "lon": 36.29,
+    "place": "Damascus"
+  },
+  "summary": "Syrian diplomat, poet and publisher (1923-1998), born in Damascus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nizar_Qabbani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q382312",
+    "https://en.wikipedia.org/wiki/Nizar_Qabbani"
+  ],
+  "disputed": false
+}

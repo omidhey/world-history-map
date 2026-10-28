@@ -1,0 +1,22 @@
+{
+  "id": "the-pilgrims-progress",
+  "wikidata": "Q268211",
+  "name": "The Pilgrim’s Progress",
+  "category": "work",
+  "start": 1678,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.11,
+    "lon": -0.46,
+    "place": "Elstow"
+  },
+  "summary": "1678 Christian allegory written by John Bunyan, associated with Elstow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Pilgrim's_Progress"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q268211",
+    "https://en.wikipedia.org/wiki/The_Pilgrim's_Progress"
+  ],
+  "disputed": false
+}

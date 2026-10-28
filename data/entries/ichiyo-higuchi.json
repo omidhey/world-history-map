@@ -1,0 +1,23 @@
+{
+  "id": "ichiyo-higuchi",
+  "wikidata": "Q237948",
+  "name": "Ichiyō Higuchi",
+  "category": "writer",
+  "start": 1872,
+  "end": 1896,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Tokyo"
+  },
+  "summary": "Japanese writer, born in Tokyo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ichiyō_Higuchi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q237948",
+    "https://en.wikipedia.org/wiki/Ichiyō_Higuchi"
+  ],
+  "disputed": false
+}

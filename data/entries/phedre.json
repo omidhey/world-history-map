@@ -1,0 +1,22 @@
+{
+  "id": "phedre",
+  "wikidata": "Q969098",
+  "name": "Phèdre",
+  "category": "work",
+  "start": 1677,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.18,
+    "lon": 3.12,
+    "place": "La Ferté-Milon"
+  },
+  "summary": "Tragedy by Jean Racine, associated with La Ferté-Milon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Phèdre"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q969098",
+    "https://en.wikipedia.org/wiki/Phèdre"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "yukio-mishima",
+  "wikidata": "Q134456",
+  "name": "Yukio Mishima",
+  "category": "writer",
+  "start": 1925,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Tokyo"
+  },
+  "summary": "Japanese author (1925–1970), born in Tokyo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yukio_Mishima"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q134456",
+    "https://en.wikipedia.org/wiki/Yukio_Mishima"
+  ],
+  "disputed": false
+}

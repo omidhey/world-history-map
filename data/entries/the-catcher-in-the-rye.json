@@ -1,0 +1,22 @@
+{
+  "id": "the-catcher-in-the-rye",
+  "wikidata": "Q183883",
+  "name": "The Catcher in the Rye",
+  "category": "work",
+  "start": 1951,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.73,
+    "lon": -73.99,
+    "place": "Manhattan"
+  },
+  "summary": "1951 novel by J. D. Salinger, associated with Manhattan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q183883",
+    "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+  ],
+  "disputed": false
+}

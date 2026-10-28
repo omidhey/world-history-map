@@ -1,0 +1,23 @@
+{
+  "id": "jorge-manrique",
+  "wikidata": "Q389233",
+  "name": "Jorge Manrique",
+  "category": "writer",
+  "start": 1440,
+  "end": 1479,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.3,
+    "lon": -2.65,
+    "place": "Segura de la Sierra"
+  },
+  "summary": "Spanish poet (1440–1479), born in Segura de la Sierra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Manrique"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q389233",
+    "https://en.wikipedia.org/wiki/Jorge_Manrique"
+  ],
+  "disputed": false
+}

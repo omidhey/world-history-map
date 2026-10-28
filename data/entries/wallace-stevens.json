@@ -1,0 +1,23 @@
+{
+  "id": "wallace-stevens",
+  "wikidata": "Q166835",
+  "name": "Wallace Stevens",
+  "category": "writer",
+  "start": 1879,
+  "end": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.34,
+    "lon": -75.93,
+    "place": "Reading"
+  },
+  "summary": "American poet (1879–1955), born in Reading. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace_Stevens"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q166835",
+    "https://en.wikipedia.org/wiki/Wallace_Stevens"
+  ],
+  "disputed": false
+}

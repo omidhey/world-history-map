@@ -1,0 +1,23 @@
+{
+  "id": "anna-akhmatova",
+  "wikidata": "Q80440",
+  "name": "Anna Akhmatova",
+  "category": "writer",
+  "start": 1889,
+  "end": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.48,
+    "lon": 30.73,
+    "place": "Odesa"
+  },
+  "summary": "Russian poet (1889–1966), born in Odesa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Akhmatova"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80440",
+    "https://en.wikipedia.org/wiki/Anna_Akhmatova"
+  ],
+  "disputed": false
+}

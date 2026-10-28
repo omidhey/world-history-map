@@ -1,0 +1,23 @@
+{
+  "id": "lewis-howard-latimer",
+  "wikidata": "Q732229",
+  "name": "Lewis Howard Latimer",
+  "category": "scientist",
+  "start": 1848,
+  "end": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.39,
+    "lon": -71.03,
+    "place": "Chelsea"
+  },
+  "summary": "American inventor (1848–1928), born in Chelsea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Howard_Latimer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q732229",
+    "https://en.wikipedia.org/wiki/Lewis_Howard_Latimer"
+  ],
+  "disputed": false
+}

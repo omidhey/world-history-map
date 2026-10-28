@@ -1,0 +1,23 @@
+{
+  "id": "john-ray",
+  "wikidata": "Q316949",
+  "name": "John Ray",
+  "category": "scientist",
+  "start": 1627,
+  "end": 1705,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.85,
+    "lon": 0.57,
+    "place": "Black Notley"
+  },
+  "summary": "British botanist (1627–1705), born in Black Notley. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Ray"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316949",
+    "https://en.wikipedia.org/wiki/John_Ray"
+  ],
+  "disputed": false
+}

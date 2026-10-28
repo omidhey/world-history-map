@@ -1,0 +1,23 @@
+{
+  "id": "georg-cantor",
+  "wikidata": "Q76420",
+  "name": "Georg Cantor",
+  "category": "scientist",
+  "start": 1845,
+  "end": 1918,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.95,
+    "lon": 30.32,
+    "place": "Saint Petersburg"
+  },
+  "summary": "German mathematician, inventor of set theory (1845–1918), born in Saint Petersburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Cantor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76420",
+    "https://en.wikipedia.org/wiki/Georg_Cantor"
+  ],
+  "disputed": false
+}

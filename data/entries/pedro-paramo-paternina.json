@@ -1,0 +1,22 @@
+{
+  "id": "pedro-paramo-paternina",
+  "wikidata": "Q1427966",
+  "name": "Pedro Páramo Paternina",
+  "category": "work",
+  "start": 1955,
+  "date_precision": "year",
+  "location": {
+    "lat": 19.85,
+    "lon": -103.6,
+    "place": "Sayula Municipality"
+  },
+  "summary": "Novel by Juan Rulfo, associated with Sayula Municipality. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Páramo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1427966",
+    "https://en.wikipedia.org/wiki/Pedro_Páramo"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "antonie-van-leeuwenhoek",
+  "wikidata": "Q43522",
+  "name": "Antonie van Leeuwenhoek",
+  "category": "scientist",
+  "start": 1632,
+  "end": 1723,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.01,
+    "lon": 4.36,
+    "place": "Delft"
+  },
+  "summary": "Dutch scientist known as \"the Father of Microbiology\", and one of the first microscopists (1632–1723), born in Delft. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43522",
+    "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
+  ],
+  "disputed": false
+}

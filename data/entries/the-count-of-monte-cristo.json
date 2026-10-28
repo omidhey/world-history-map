@@ -1,0 +1,22 @@
+{
+  "id": "the-count-of-monte-cristo",
+  "wikidata": "Q191838",
+  "name": "The Count of Monte Cristo",
+  "category": "work",
+  "start": 1844,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.25,
+    "lon": 3.09,
+    "place": "Villers-Cotterêts"
+  },
+  "summary": "Novel by Alexandre Dumas, associated with Villers-Cotterêts. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q191838",
+    "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo"
+  ],
+  "disputed": false
+}

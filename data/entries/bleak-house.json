@@ -1,0 +1,22 @@
+{
+  "id": "bleak-house",
+  "wikidata": "Q883305",
+  "name": "Bleak House",
+  "category": "work",
+  "start": 1853,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.8,
+    "lon": -1.09,
+    "place": "Landport"
+  },
+  "summary": "Novel by Charles Dickens (1853), associated with Landport. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bleak_House"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q883305",
+    "https://en.wikipedia.org/wiki/Bleak_House"
+  ],
+  "disputed": false
+}

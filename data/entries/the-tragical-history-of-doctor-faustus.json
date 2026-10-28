@@ -1,0 +1,22 @@
+{
+  "id": "the-tragical-history-of-doctor-faustus",
+  "wikidata": "Q50919",
+  "name": "The Tragical History of Doctor Faustus",
+  "category": "work",
+  "start": 1604,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.28,
+    "lon": 1.08,
+    "place": "Canterbury"
+  },
+  "summary": "Play by Christopher Marlowe, associated with Canterbury. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Faustus_(play)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q50919",
+    "https://en.wikipedia.org/wiki/Doctor_Faustus_(play)"
+  ],
+  "disputed": false
+}

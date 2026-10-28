@@ -1,0 +1,23 @@
+{
+  "id": "francois-villon",
+  "wikidata": "Q849",
+  "name": "François Villon",
+  "category": "writer",
+  "start": 1431,
+  "end": 1463,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French poet and criminal, born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/François_Villon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q849",
+    "https://en.wikipedia.org/wiki/François_Villon"
+  ],
+  "disputed": false
+}

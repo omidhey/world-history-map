@@ -1,0 +1,23 @@
+{
+  "id": "antoine-lavoisier",
+  "wikidata": "Q39607",
+  "name": "Antoine Lavoisier",
+  "category": "scientist",
+  "start": 1743,
+  "end": 1794,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French nobleman and chemist (1743–1794), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Lavoisier"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39607",
+    "https://en.wikipedia.org/wiki/Antoine_Lavoisier"
+  ],
+  "disputed": false
+}

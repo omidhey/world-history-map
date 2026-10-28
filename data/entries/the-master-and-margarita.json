@@ -1,0 +1,40 @@
+{
+  "id": "the-master-and-margarita",
+  "wikidata": "Q188538",
+  "name": "The Master and Margarita",
+  "category": "work",
+  "start": 1928,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.45,
+    "lon": 30.52,
+    "place": "Kyiv"
+  },
+  "summary": "Novel by Mikhail Bulgakov, associated with Kyiv. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188538",
+    "https://en.wikipedia.org/wiki/The_Master_and_Margarita"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1928,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q188538"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1967,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q188538"
+      ]
+    }
+  ]
+}

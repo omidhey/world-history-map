@@ -1,0 +1,41 @@
+{
+  "id": "al-mutanabbi",
+  "wikidata": "Q284542",
+  "name": "Al-Mutanabbi",
+  "category": "writer",
+  "start": 915,
+  "end": 965,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.03,
+    "lon": 44.4,
+    "place": "Kufa"
+  },
+  "summary": "Arab poet (c. 915 – 965), born in Kufa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Mutanabbi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q284542",
+    "https://en.wikipedia.org/wiki/Al-Mutanabbi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 915,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q284542"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 920,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q284542"
+      ]
+    }
+  ]
+}

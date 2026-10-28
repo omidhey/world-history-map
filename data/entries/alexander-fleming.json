@@ -1,0 +1,23 @@
+{
+  "id": "alexander-fleming",
+  "wikidata": "Q37064",
+  "name": "Alexander Fleming",
+  "category": "scientist",
+  "start": 1881,
+  "end": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.65,
+    "lon": -4.25,
+    "place": "Lochfield"
+  },
+  "summary": "Scottish biologist, pharmacologist, botanist, and Nobel laureate (1881–1955), born in Lochfield. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Fleming"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37064",
+    "https://en.wikipedia.org/wiki/Alexander_Fleming"
+  ],
+  "disputed": false
+}

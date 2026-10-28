@@ -1,0 +1,23 @@
+{
+  "id": "benjamin-franklin",
+  "wikidata": "Q34969",
+  "name": "Benjamin Franklin",
+  "category": "scientist",
+  "start": 1706,
+  "end": 1790,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.36,
+    "lon": -71.06,
+    "place": "Boston"
+  },
+  "summary": "American polymath and statesman (1706–1790), born in Boston. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34969",
+    "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  ],
+  "disputed": false
+}

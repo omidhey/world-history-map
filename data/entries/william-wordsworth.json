@@ -1,0 +1,23 @@
+{
+  "id": "william-wordsworth",
+  "wikidata": "Q45546",
+  "name": "William Wordsworth",
+  "category": "writer",
+  "start": 1770,
+  "end": 1850,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.66,
+    "lon": -3.36,
+    "place": "Cockermouth"
+  },
+  "summary": "English Romantic poet (1770–1850), born in Cockermouth. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45546",
+    "https://en.wikipedia.org/wiki/William_Wordsworth"
+  ],
+  "disputed": false
+}

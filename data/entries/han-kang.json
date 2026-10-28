@@ -1,0 +1,22 @@
+{
+  "id": "han-kang",
+  "wikidata": "Q5646626",
+  "name": "Han Kang",
+  "category": "writer",
+  "start": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.17,
+    "lon": 126.92,
+    "place": "Gwangju"
+  },
+  "summary": "South Korean writer, born in Gwangju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_Kang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5646626",
+    "https://en.wikipedia.org/wiki/Han_Kang"
+  ],
+  "disputed": false
+}

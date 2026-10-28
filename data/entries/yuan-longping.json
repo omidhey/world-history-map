@@ -1,0 +1,23 @@
+{
+  "id": "yuan-longping",
+  "wikidata": "Q3141326",
+  "name": "Yuan Longping",
+  "category": "scientist",
+  "start": 1930,
+  "end": 2021,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.91,
+    "lon": 116.41,
+    "place": "Peking Union Medical College Hospital"
+  },
+  "summary": "Chinese biologist (1930-2021), born in Peking Union Medical College Hospital. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuan_Longping"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3141326",
+    "https://en.wikipedia.org/wiki/Yuan_Longping"
+  ],
+  "disputed": false
+}

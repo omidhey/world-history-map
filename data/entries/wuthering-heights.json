@@ -1,0 +1,22 @@
+{
+  "id": "wuthering-heights",
+  "wikidata": "Q202975",
+  "name": "Wuthering Heights",
+  "category": "work",
+  "start": 1847,
+  "date_precision": "year",
+  "location": {
+    "lat": 53.79,
+    "lon": -1.85,
+    "place": "The Brontë Birthplace"
+  },
+  "summary": "1847 novel by Emily Brontë, associated with The Brontë Birthplace. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q202975",
+    "https://en.wikipedia.org/wiki/Wuthering_Heights"
+  ],
+  "disputed": false
+}

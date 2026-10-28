@@ -1,0 +1,22 @@
+{
+  "id": "elif-safak",
+  "wikidata": "Q270739",
+  "name": "Elif Şafak",
+  "category": "writer",
+  "start": 1971,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.57,
+    "lon": 7.75,
+    "place": "Strasbourg"
+  },
+  "summary": "Turkish writer (born 1971), born in Strasbourg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elif_Shafak"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q270739",
+    "https://en.wikipedia.org/wiki/Elif_Shafak"
+  ],
+  "disputed": false
+}

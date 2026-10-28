@@ -1,0 +1,23 @@
+{
+  "id": "vicente-hohoneo",
+  "wikidata": "Q117018",
+  "name": "Vicente Hohoneo",
+  "category": "writer",
+  "start": 1893,
+  "end": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": -33.44,
+    "lon": -70.65,
+    "place": "Santiago"
+  },
+  "summary": "Colombian poet, born in Santiago. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Huidobro"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q117018",
+    "https://en.wikipedia.org/wiki/Vicente_Huidobro"
+  ],
+  "disputed": false
+}

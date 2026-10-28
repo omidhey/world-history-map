@@ -1,0 +1,23 @@
+{
+  "id": "konrad-lorenz",
+  "wikidata": "Q78496",
+  "name": "Konrad Lorenz",
+  "category": "scientist",
+  "start": 1903,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian zoologist, winner of the Nobel Prize in Physiology or Medicine in 1973 (1903–1989), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Lorenz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q78496",
+    "https://en.wikipedia.org/wiki/Konrad_Lorenz"
+  ],
+  "disputed": false
+}

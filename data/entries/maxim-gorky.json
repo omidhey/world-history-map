@@ -1,0 +1,23 @@
+{
+  "id": "maxim-gorky",
+  "wikidata": "Q12706",
+  "name": "Maxim Gorky",
+  "category": "writer",
+  "start": 1868,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.33,
+    "lon": 44.01,
+    "place": "Nizhny Novgorod"
+  },
+  "summary": "Russian and Soviet writer (1868–1936), born in Nizhny Novgorod. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxim_Gorky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12706",
+    "https://en.wikipedia.org/wiki/Maxim_Gorky"
+  ],
+  "disputed": false
+}

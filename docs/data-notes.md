@@ -103,6 +103,19 @@ those need fixing on Wikidata itself.
 Existing records whose dates differ from Wikidata (reported, not changed): Gautama Buddha and
 Laozi (Wikidata has century-precision dates).
 
+## Scientists, writers and works from Wikidata (Session 12, 2026-10-28)
+
+`python pipeline/import_wikidata.py --category scientist|writer|work` (repeatable; no flag runs all four categories). Dates, places and the Julian/BCE handling are the same as for philosophers.
+
+- **Scientists**: humans with occupation scientist, a MacTutor biography and at least 80 sitelinks (147), plus [scientists_canon.json](../pipeline/scientists_canon.json) (347 names in 12 groups, including Islamic, Chinese, Indian, Japanese/Korean, African and Latin American science). 355 new records. MacTutor leans to mathematics and Europe, so the curated list carries the rest. Thresholds compared: 60 sitelinks gave 235 from MacTutor and 416 records, 80 gives 147 and 355.
+- **Writers**: curated list only ([writers_canon.json](../pipeline/writers_canon.json), 486 names). An encyclopedia signal (Britannica, Gutenberg) gave 800 to 2,300 people at any sensible threshold, mostly Western. 428 new records.
+- **Works**: curated list only ([works_canon.json](../pipeline/works_canon.json)). Date = publication, else inception, else the author's floruit (marked `circa`). Place = the list's place, else the author's (birth, work, death). The summary says "associated with" because that is the author's place, not necessarily where the work was written (the Odyssey lands on Ios, where Homer died per Wikidata). 222 new records; 86 skipped.
+- Curated entries are Wikipedia article titles, resolved to Wikidata items through the Wikipedia API (redirects followed); titles that resolve to nothing are printed (Kim Sakkat, al-Maʿarri, Gulistan, Bustan, Rihla, Ihya, The Life of an Amorous Man, Nueva corónica, Canzoniere).
+- **Spread** (place): scientists Europe 209, Asia 68, Americas 48, Middle East / N. Africa 24, Africa 4. Writers Europe 182, Asia 110, Americas 56, Middle East / N. Africa 49, Africa 31. Works Europe 105, Asia 46, Americas 40, Middle East / N. Africa 16, Africa 15. African science is thin: Wikidata gives few coordinates and the list is short; contributors can add names.
+- **Skipped works** (86): mostly anonymous or collective texts with no author on Wikidata (Qur'an, Psalms, Ramayana, Popol Vuh) and so no place; a curated `place` with a source brings them in. Others have no date.
+- Existing records that differ from Wikidata (reported, not changed): Homer (ours −800/−701, Wikidata −900/−800), Murasaki Shikibu (death 1014 vs 1100), Hafez (end), Tale of Genji (1008 vs 1010), Iliad (−750 vs −800), Shahnameh, Code of Hammurabi.
+- Inventions are not imported: Wikidata structures them too poorly.
+
 ## Observations
 
 - **Unnamed polygons are common**, especially early on (113 of 138 at 3000 BCE, 148 of 291 in 1500).

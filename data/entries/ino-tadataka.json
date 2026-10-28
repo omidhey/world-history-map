@@ -1,0 +1,23 @@
+{
+  "id": "ino-tadataka",
+  "wikidata": "Q1240937",
+  "name": "Inō Tadataka",
+  "category": "scientist",
+  "start": 1745,
+  "end": 1818,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.6,
+    "lon": 140.12,
+    "place": "Yamabe district"
+  },
+  "summary": "Japanese surveyor and cartographer (1745-1818), born in Yamabe district. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Inō_Tadataka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1240937",
+    "https://en.wikipedia.org/wiki/Inō_Tadataka"
+  ],
+  "disputed": false
+}

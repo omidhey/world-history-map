@@ -1,0 +1,23 @@
+{
+  "id": "basava",
+  "wikidata": "Q771686",
+  "name": "Basava",
+  "category": "writer",
+  "start": 1134,
+  "end": 1196,
+  "date_precision": "year",
+  "location": {
+    "lat": 16.58,
+    "lon": 75.97,
+    "place": "Basavan Bagewadi"
+  },
+  "summary": "12th-century Hindu philosopher, statesman, Kannada Bhakti poet of Lingayatism, born in Basavan Bagewadi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Basava"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q771686",
+    "https://en.wikipedia.org/wiki/Basava"
+  ],
+  "disputed": false
+}

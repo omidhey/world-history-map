@@ -1,0 +1,23 @@
+{
+  "id": "farrokhi-sistani",
+  "wikidata": "Q734383",
+  "name": "Farrokhi Sistani",
+  "category": "writer",
+  "start": 980,
+  "end": 1037,
+  "date_precision": "decade",
+  "location": {
+    "lat": 31,
+    "lon": 62,
+    "place": "Sistan"
+  },
+  "summary": "Persian poet, born in Sistan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Farrukhi_Sistani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q734383",
+    "https://en.wikipedia.org/wiki/Farrukhi_Sistani"
+  ],
+  "disputed": false
+}

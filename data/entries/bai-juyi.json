@@ -1,0 +1,23 @@
+{
+  "id": "bai-juyi",
+  "wikidata": "Q313324",
+  "name": "Bai Juyi",
+  "category": "writer",
+  "start": 772,
+  "end": 846,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.4,
+    "lon": 113.72,
+    "place": "Xinzheng"
+  },
+  "summary": "Chinese poet of the Tang Dynasty (772-846), born in Xinzheng. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bai_Juyi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313324",
+    "https://en.wikipedia.org/wiki/Bai_Juyi"
+  ],
+  "disputed": false
+}

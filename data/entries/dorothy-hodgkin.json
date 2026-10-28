@@ -1,0 +1,23 @@
+{
+  "id": "dorothy-hodgkin",
+  "wikidata": "Q7487",
+  "name": "Dorothy Hodgkin",
+  "category": "scientist",
+  "start": 1910,
+  "end": 1994,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.04,
+    "lon": 31.24,
+    "place": "Cairo"
+  },
+  "summary": "British chemist, born in Cairo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7487",
+    "https://en.wikipedia.org/wiki/Dorothy_Hodgkin"
+  ],
+  "disputed": false
+}

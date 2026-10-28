@@ -1,0 +1,23 @@
+{
+  "id": "jane-austen",
+  "wikidata": "Q36322",
+  "name": "Jane Austen",
+  "category": "writer",
+  "start": 1775,
+  "end": 1817,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.23,
+    "lon": -1.22,
+    "place": "Steventon"
+  },
+  "summary": "Author, novelist, writer (1775–1817), born in Steventon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36322",
+    "https://en.wikipedia.org/wiki/Jane_Austen"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "records-of-the-grand-historian",
+  "wikidata": "Q272530",
+  "name": "Records of the Grand Historian",
+  "category": "work",
+  "start": -90,
+  "date_precision": "decade",
+  "location": {
+    "lat": 35.59,
+    "lon": 110.71,
+    "place": "Hejin"
+  },
+  "summary": "Historical record of ancient China by Sima Qian, associated with Hejin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shiji"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q272530",
+    "https://en.wikipedia.org/wiki/Shiji"
+  ],
+  "disputed": false
+}

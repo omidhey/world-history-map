@@ -1,0 +1,23 @@
+{
+  "id": "marcel-proust",
+  "wikidata": "Q7199",
+  "name": "Marcel Proust",
+  "category": "writer",
+  "start": 1871,
+  "end": 1922,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.28,
+    "place": "16th arrondissement of Paris"
+  },
+  "summary": "French novelist, critic and essayist (1871–1922), born in 16th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Proust"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7199",
+    "https://en.wikipedia.org/wiki/Marcel_Proust"
+  ],
+  "disputed": false
+}

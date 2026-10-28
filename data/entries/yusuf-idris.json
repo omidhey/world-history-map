@@ -1,0 +1,23 @@
+{
+  "id": "yusuf-idris",
+  "wikidata": "Q733393",
+  "name": "Yusuf Idris",
+  "category": "writer",
+  "start": 1927,
+  "end": 1991,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.73,
+    "lon": 31.8,
+    "place": "Faqous"
+  },
+  "summary": "Egyptian writer (1927-1991), born in Faqous. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yusuf_Idris"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q733393",
+    "https://en.wikipedia.org/wiki/Yusuf_Idris"
+  ],
+  "disputed": false
+}

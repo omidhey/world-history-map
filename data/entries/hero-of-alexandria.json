@@ -1,0 +1,23 @@
+{
+  "id": "hero-of-alexandria",
+  "wikidata": "Q161853",
+  "name": "Hero of Alexandria",
+  "category": "scientist",
+  "start": 10,
+  "end": 75,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "Ancient Greek mathematician and engineer, born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q161853",
+    "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "karl-weierstrass",
+  "wikidata": "Q57103",
+  "name": "Karl Weierstraß",
+  "category": "scientist",
+  "start": 1815,
+  "end": 1897,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.87,
+    "lon": 8.08,
+    "place": "Ostenfelde"
+  },
+  "summary": "German mathematician (1815–1897), born in Ostenfelde. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Weierstrass"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57103",
+    "https://en.wikipedia.org/wiki/Karl_Weierstrass"
+  ],
+  "disputed": false
+}

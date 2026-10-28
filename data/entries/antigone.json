@@ -1,0 +1,22 @@
+{
+  "id": "antigone",
+  "wikidata": "Q241077",
+  "name": "Antigone",
+  "category": "work",
+  "start": -442,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.0,
+    "lon": 23.72,
+    "place": "Colonus"
+  },
+  "summary": "Ancient Greek tragedy by Sophocles, associated with Colonus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antigone_(Sophocles_play)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q241077",
+    "https://en.wikipedia.org/wiki/Antigone_(Sophocles_play)"
+  ],
+  "disputed": false
+}

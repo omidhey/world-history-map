@@ -1,0 +1,41 @@
+{
+  "id": "moses-ibn-ezra",
+  "wikidata": "Q719393",
+  "name": "Moses ibn Ezra",
+  "category": "writer",
+  "start": 1058,
+  "end": 1139,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.17,
+    "lon": -3.6,
+    "place": "Granada"
+  },
+  "summary": "11th/12th-century Andalusian Jewish philosopher, linguist and poet, born in Granada. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Moses_ibn_Ezra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q719393",
+    "https://en.wikipedia.org/wiki/Moses_ibn_Ezra"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1138,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q719393"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1139,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q719393"
+      ]
+    }
+  ]
+}

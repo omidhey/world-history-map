@@ -1,0 +1,23 @@
+{
+  "id": "abu-al-hariri",
+  "wikidata": "Q286097",
+  "name": "Abu al-Hariri",
+  "category": "writer",
+  "start": 1054,
+  "end": 1122,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.52,
+    "lon": 47.81,
+    "place": "Basra"
+  },
+  "summary": "Arab poet and scholar (1054–1122), born in Basra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Hariri_of_Basra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q286097",
+    "https://en.wikipedia.org/wiki/Al-Hariri_of_Basra"
+  ],
+  "disputed": false
+}

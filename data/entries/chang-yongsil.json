@@ -1,0 +1,22 @@
+{
+  "id": "chang-yongsil",
+  "wikidata": "Q494615",
+  "name": "Chang Yŏngsil",
+  "category": "scientist",
+  "start": 1400,
+  "date_precision": "century",
+  "location": {
+    "lat": 35.18,
+    "lon": 129.07,
+    "place": "Busan"
+  },
+  "summary": "Korean mechanical engineer, scientist and inventor, born in Busan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chang_Yŏngsil"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q494615",
+    "https://en.wikipedia.org/wiki/Chang_Yŏngsil"
+  ],
+  "disputed": false
+}

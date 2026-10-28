@@ -1,0 +1,23 @@
+{
+  "id": "alexander-pope",
+  "wikidata": "Q164047",
+  "name": "Alexander Pope",
+  "category": "writer",
+  "start": 1688,
+  "end": 1744,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English poet (1688–1744), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q164047",
+    "https://en.wikipedia.org/wiki/Alexander_Pope"
+  ],
+  "disputed": false
+}

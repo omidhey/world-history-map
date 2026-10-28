@@ -1,0 +1,22 @@
+{
+  "id": "the-prince",
+  "wikidata": "Q131719",
+  "name": "The Prince",
+  "category": "work",
+  "start": 1532,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.77,
+    "lon": 11.25,
+    "place": "Florence"
+  },
+  "summary": "Political treatise by Niccolò Machiavelli, associated with Florence. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Prince"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131719",
+    "https://en.wikipedia.org/wiki/The_Prince"
+  ],
+  "disputed": false
+}

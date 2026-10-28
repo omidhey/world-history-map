@@ -1,0 +1,23 @@
+{
+  "id": "yehuda-amichai",
+  "wikidata": "Q58612",
+  "name": "Yehuda Amichai",
+  "category": "writer",
+  "start": 1924,
+  "end": 2000,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.79,
+    "lon": 9.93,
+    "place": "Würzburg"
+  },
+  "summary": "Israeli poet (1924-2000), born in Würzburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yehuda_Amichai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q58612",
+    "https://en.wikipedia.org/wiki/Yehuda_Amichai"
+  ],
+  "disputed": false
+}

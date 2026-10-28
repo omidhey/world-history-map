@@ -1,0 +1,23 @@
+{
+  "id": "eugene-paul-wigner",
+  "wikidata": "Q155790",
+  "name": "Eugene Paul Wigner",
+  "category": "scientist",
+  "start": 1902,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.5,
+    "lon": 19.04,
+    "place": "Budapest"
+  },
+  "summary": "Hungarian-American physicist and mathematician (1902–1995), born in Budapest. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Wigner"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155790",
+    "https://en.wikipedia.org/wiki/Eugene_Wigner"
+  ],
+  "disputed": false
+}

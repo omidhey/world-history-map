@@ -1,0 +1,22 @@
+{
+  "id": "kalila-and-demna",
+  "wikidata": "Q12064127",
+  "name": "Kalila and Demna",
+  "category": "work",
+  "start": 750,
+  "date_precision": "year",
+  "location": {
+    "lat": 28.85,
+    "lon": 52.53,
+    "place": "Gor"
+  },
+  "summary": "Collection of fables by Ibn al-Muqaffa', associated with Gor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalīla_wa-Dimna"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12064127",
+    "https://en.wikipedia.org/wiki/Kalīla_wa-Dimna"
+  ],
+  "disputed": false
+}

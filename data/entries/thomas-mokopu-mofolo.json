@@ -1,0 +1,23 @@
+{
+  "id": "thomas-mokopu-mofolo",
+  "wikidata": "Q1452076",
+  "name": "Thomas Mokopu Mofolo",
+  "category": "writer",
+  "start": 1876,
+  "end": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": -29.15,
+    "lon": 27.73,
+    "place": "Teyateyaneng"
+  },
+  "summary": "Lesotho novelist (1876–1948) regarded as the first African novelist and greatest author to write in an African language; composed three works in Sesotho between 1905 and 1910, widely translated internationally, died in Teyateyaneng. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Mofolo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1452076",
+    "https://en.wikipedia.org/wiki/Thomas_Mofolo"
+  ],
+  "disputed": false
+}

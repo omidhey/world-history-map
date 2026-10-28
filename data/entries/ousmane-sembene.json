@@ -1,0 +1,23 @@
+{
+  "id": "ousmane-sembene",
+  "wikidata": "Q314966",
+  "name": "Ousmane Sembène",
+  "category": "writer",
+  "start": 1923,
+  "end": 2007,
+  "date_precision": "day",
+  "location": {
+    "lat": 12.59,
+    "lon": -16.27,
+    "place": "Ziguinchor"
+  },
+  "summary": "Senegalese film director, producer, screenwriter, actor, and author (1923–2007), born in Ziguinchor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ousmane_Sembène"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q314966",
+    "https://en.wikipedia.org/wiki/Ousmane_Sembène"
+  ],
+  "disputed": false
+}

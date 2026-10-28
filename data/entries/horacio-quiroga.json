@@ -1,0 +1,23 @@
+{
+  "id": "horacio-quiroga",
+  "wikidata": "Q16864",
+  "name": "Horacio Quiroga",
+  "category": "writer",
+  "start": 1878,
+  "end": 1937,
+  "date_precision": "day",
+  "location": {
+    "lat": -31.39,
+    "lon": -57.96,
+    "place": "Salto"
+  },
+  "summary": "Uruguayan playwright, poet, and short story writer (1878–1937), born in Salto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Horacio_Quiroga"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16864",
+    "https://en.wikipedia.org/wiki/Horacio_Quiroga"
+  ],
+  "disputed": false
+}

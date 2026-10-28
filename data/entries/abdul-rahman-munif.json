@@ -1,0 +1,23 @@
+{
+  "id": "abdul-rahman-munif",
+  "wikidata": "Q307440",
+  "name": "Abdul Rahman Munif",
+  "category": "writer",
+  "start": 1933,
+  "end": 2004,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.95,
+    "lon": 35.93,
+    "place": "Amman"
+  },
+  "summary": "Saudi writer (1933-2004), born in Amman. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdul_Rahman_Munif"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q307440",
+    "https://en.wikipedia.org/wiki/Abdul_Rahman_Munif"
+  ],
+  "disputed": false
+}

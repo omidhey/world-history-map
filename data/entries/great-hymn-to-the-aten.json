@@ -1,0 +1,22 @@
+{
+  "id": "great-hymn-to-the-aten",
+  "wikidata": "Q737001",
+  "name": "Great Hymn to the Aten",
+  "category": "work",
+  "start": -1400,
+  "date_precision": "century",
+  "location": {
+    "lat": 25.72,
+    "lon": 32.61,
+    "place": "Thebes"
+  },
+  "summary": "Ancient Egyptian literary work by Akhenaten, associated with Thebes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q737001",
+    "https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jorge-luis-borges",
+  "wikidata": "Q909",
+  "name": "Jorge Luis Borges",
+  "category": "writer",
+  "start": 1899,
+  "end": 1986,
+  "date_precision": "day",
+  "location": {
+    "lat": -34.6,
+    "lon": -58.38,
+    "place": "Buenos Aires"
+  },
+  "summary": "Argentine writer, essayist, poet and translator (1899–1986), born in Buenos Aires. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q909",
+    "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+  ],
+  "disputed": false
+}

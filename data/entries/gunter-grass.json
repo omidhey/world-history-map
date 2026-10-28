@@ -1,0 +1,23 @@
+{
+  "id": "gunter-grass",
+  "wikidata": "Q6538",
+  "name": "Günter Grass",
+  "category": "writer",
+  "start": 1927,
+  "end": 2015,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.4,
+    "lon": 18.66,
+    "place": "Free City of Danzig"
+  },
+  "summary": "German novelist, poet, playwright, illustrator, graphic artist, and sculptor (1927-2015), born in Free City of Danzig. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Günter_Grass"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6538",
+    "https://en.wikipedia.org/wiki/Günter_Grass"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "things-fall-apart",
+  "wikidata": "Q622400",
+  "name": "Things Fall Apart",
+  "category": "work",
+  "start": 1958,
+  "date_precision": "year",
+  "location": {
+    "lat": 6.15,
+    "lon": 6.87,
+    "place": "Ogidi"
+  },
+  "summary": "1958 novel by Chinua Achebe, associated with Ogidi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q622400",
+    "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1958,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q622400"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1968,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q622400"
+      ]
+    }
+  ]
+}

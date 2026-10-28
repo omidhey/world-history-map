@@ -1,0 +1,23 @@
+{
+  "id": "thucydides",
+  "wikidata": "Q41683",
+  "name": "Thucydides",
+  "category": "writer",
+  "start": -460,
+  "end": -395,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.91,
+    "lon": 23.73,
+    "place": "Halimous"
+  },
+  "summary": "5th-century BC Athenian historian and general, born in Halimous. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thucydides"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41683",
+    "https://en.wikipedia.org/wiki/Thucydides"
+  ],
+  "disputed": false
+}

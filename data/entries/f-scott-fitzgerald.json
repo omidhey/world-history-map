@@ -1,0 +1,23 @@
+{
+  "id": "f-scott-fitzgerald",
+  "wikidata": "Q93354",
+  "name": "F. Scott Fitzgerald",
+  "category": "writer",
+  "start": 1896,
+  "end": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.94,
+    "lon": -93.09,
+    "place": "Saint Paul"
+  },
+  "summary": "American writer (1896–1940), born in Saint Paul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q93354",
+    "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+  ],
+  "disputed": false
+}

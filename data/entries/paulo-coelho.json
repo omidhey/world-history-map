@@ -1,0 +1,22 @@
+{
+  "id": "paulo-coelho",
+  "wikidata": "Q12881",
+  "name": "Paulo Coelho",
+  "category": "writer",
+  "start": 1947,
+  "date_precision": "day",
+  "location": {
+    "lat": -22.91,
+    "lon": -43.21,
+    "place": "Rio de Janeiro"
+  },
+  "summary": "Brazilian lyricist and novelist (born 1947), born in Rio de Janeiro. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Coelho"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12881",
+    "https://en.wikipedia.org/wiki/Paulo_Coelho"
+  ],
+  "disputed": false
+}

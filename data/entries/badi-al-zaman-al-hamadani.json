@@ -1,0 +1,23 @@
+{
+  "id": "badi-al-zaman-al-hamadani",
+  "wikidata": "Q374608",
+  "name": "Badi' al-Zaman al-Hamadani",
+  "category": "writer",
+  "start": 969,
+  "end": 1007,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.8,
+    "lon": 48.52,
+    "place": "Hamadan"
+  },
+  "summary": "Arab poet, born in Hamadan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Badi'_al-Zaman_al-Hamadani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q374608",
+    "https://en.wikipedia.org/wiki/Badi'_al-Zaman_al-Hamadani"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "carlos-chagas",
+  "wikidata": "Q438907",
+  "name": "Carlos Chagas",
+  "category": "scientist",
+  "start": 1879,
+  "end": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": -20.7,
+    "lon": -44.83,
+    "place": "Oliveira"
+  },
+  "summary": "Brazilian doctor and scientist (1878–1934), born in Oliveira. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Chagas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q438907",
+    "https://en.wikipedia.org/wiki/Carlos_Chagas"
+  ],
+  "disputed": false
+}

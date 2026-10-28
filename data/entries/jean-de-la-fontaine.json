@@ -1,0 +1,23 @@
+{
+  "id": "jean-de-la-fontaine",
+  "wikidata": "Q49496",
+  "name": "Jean de La Fontaine",
+  "category": "writer",
+  "start": 1621,
+  "end": 1695,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.05,
+    "lon": 3.4,
+    "place": "Château-Thierry"
+  },
+  "summary": "French poet, fabulist and writer (1621–1695), born in Château-Thierry. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_de_La_Fontaine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q49496",
+    "https://en.wikipedia.org/wiki/Jean_de_La_Fontaine"
+  ],
+  "disputed": false
+}

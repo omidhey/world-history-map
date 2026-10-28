@@ -1,0 +1,23 @@
+{
+  "id": "georges-lemaitre",
+  "wikidata": "Q12998",
+  "name": "Georges Lemaître",
+  "category": "scientist",
+  "start": 1894,
+  "end": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.42,
+    "lon": 4.44,
+    "place": "Charleroi"
+  },
+  "summary": "Belgian astrophysicist and Catholic priest (1894–1966), born in Charleroi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Lemaître"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12998",
+    "https://en.wikipedia.org/wiki/Georges_Lemaître"
+  ],
+  "disputed": false
+}

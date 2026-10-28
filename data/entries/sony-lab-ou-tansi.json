@@ -1,0 +1,23 @@
+{
+  "id": "sony-lab-ou-tansi",
+  "wikidata": "Q983273",
+  "name": "Sony Lab'ou Tansi",
+  "category": "writer",
+  "start": 1947,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": -4.46,
+    "lon": 15.29,
+    "place": "Kimwenza"
+  },
+  "summary": "Playwright, Novelist and Screenwriter (1947-1995), born in Kimwenza. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sony_Lab'ou_Tansi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q983273",
+    "https://en.wikipedia.org/wiki/Sony_Lab'ou_Tansi"
+  ],
+  "disputed": false
+}

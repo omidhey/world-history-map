@@ -1,0 +1,23 @@
+{
+  "id": "demosthenes",
+  "wikidata": "Q117253",
+  "name": "Demosthenes",
+  "category": "writer",
+  "start": -384,
+  "end": -322,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 23.84,
+    "place": "Upper Paiania"
+  },
+  "summary": "Classical Athenian statesman and orator (384–322 BC), born in Upper Paiania. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Demosthenes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q117253",
+    "https://en.wikipedia.org/wiki/Demosthenes"
+  ],
+  "disputed": false
+}

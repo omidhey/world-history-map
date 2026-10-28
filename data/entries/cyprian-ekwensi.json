@@ -1,0 +1,23 @@
+{
+  "id": "cyprian-ekwensi",
+  "wikidata": "Q959020",
+  "name": "Cyprian Ekwensi",
+  "category": "writer",
+  "start": 1921,
+  "end": 2007,
+  "date_precision": "day",
+  "location": {
+    "lat": 9.61,
+    "lon": 6.56,
+    "place": "Minna"
+  },
+  "summary": "Nigerian author (1921-2007), born in Minna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_Ekwensi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q959020",
+    "https://en.wikipedia.org/wiki/Cyprian_Ekwensi"
+  ],
+  "disputed": false
+}

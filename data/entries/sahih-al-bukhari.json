@@ -1,0 +1,22 @@
+{
+  "id": "sahih-al-bukhari",
+  "wikidata": "Q1023470",
+  "name": "Sahih al-Bukhari",
+  "category": "work",
+  "start": 900,
+  "date_precision": "century",
+  "location": {
+    "lat": 39.77,
+    "lon": 64.43,
+    "place": "Bukhara"
+  },
+  "summary": "Most famous collection of hadith in Sunni Islam by Muḥammad ibn Ismaeel al-Bukhārī, associated with Bukhara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sahih_al-Bukhari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1023470",
+    "https://en.wikipedia.org/wiki/Sahih_al-Bukhari"
+  ],
+  "disputed": false
+}

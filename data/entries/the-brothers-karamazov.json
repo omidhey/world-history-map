@@ -1,0 +1,22 @@
+{
+  "id": "the-brothers-karamazov",
+  "wikidata": "Q183157",
+  "name": "The Brothers Karamazov",
+  "category": "work",
+  "start": 1880,
+  "date_precision": "year",
+  "location": {
+    "lat": 55.78,
+    "lon": 37.61,
+    "place": "Mariinsky Hospital for the Poor"
+  },
+  "summary": "1879 novel by Fyodor Dostoyevsky, associated with Mariinsky Hospital for the Poor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q183157",
+    "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "luis-de-camoes",
+  "wikidata": "Q590",
+  "name": "Luís de Camões",
+  "category": "writer",
+  "start": 1524,
+  "end": 1580,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.71,
+    "lon": -9.14,
+    "place": "Lisbon"
+  },
+  "summary": "16th-century Portuguese poet, born in Lisbon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luís_de_Camões"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q590",
+    "https://en.wikipedia.org/wiki/Luís_de_Camões"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1524,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q590"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1525,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q590"
+      ]
+    }
+  ]
+}

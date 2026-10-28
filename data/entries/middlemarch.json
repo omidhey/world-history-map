@@ -1,0 +1,22 @@
+{
+  "id": "middlemarch",
+  "wikidata": "Q313129",
+  "name": "Middlemarch",
+  "category": "work",
+  "start": 1871,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.52,
+    "lon": -1.47,
+    "place": "Nuneaton"
+  },
+  "summary": "Novel by George Eliot, associated with Nuneaton. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Middlemarch"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313129",
+    "https://en.wikipedia.org/wiki/Middlemarch"
+  ],
+  "disputed": false
+}

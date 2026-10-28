@@ -1,0 +1,23 @@
+{
+  "id": "john-william-strutt",
+  "wikidata": "Q83297",
+  "name": "John William Strutt",
+  "category": "scientist",
+  "start": 1842,
+  "end": 1919,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.76,
+    "lon": 0.67,
+    "place": "Langford Grove"
+  },
+  "summary": "English physicist (1842–1919), born in Langford Grove. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83297",
+    "https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh"
+  ],
+  "disputed": false
+}

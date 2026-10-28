@@ -1,0 +1,22 @@
+{
+  "id": "orhan-pamuk",
+  "wikidata": "Q241248",
+  "name": "Orhan Pamuk",
+  "category": "writer",
+  "start": 1952,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.96,
+    "place": "Istanbul"
+  },
+  "summary": "Turkish novelist, academic and Nobel laureate (born 1952), born in Istanbul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Orhan_Pamuk"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q241248",
+    "https://en.wikipedia.org/wiki/Orhan_Pamuk"
+  ],
+  "disputed": false
+}

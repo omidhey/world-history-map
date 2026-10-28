@@ -1,0 +1,23 @@
+{
+  "id": "carl-friedrich-gauss",
+  "wikidata": "Q6722",
+  "name": "Carl Friedrich Gauss",
+  "category": "scientist",
+  "start": 1777,
+  "end": 1855,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.27,
+    "lon": 10.52,
+    "place": "Brunswick"
+  },
+  "summary": "German mathematician and physicist (1777–1855), born in Brunswick. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6722",
+    "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
+  ],
+  "disputed": false
+}

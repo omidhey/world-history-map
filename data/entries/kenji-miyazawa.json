@@ -1,0 +1,23 @@
+{
+  "id": "kenji-miyazawa",
+  "wikidata": "Q55993",
+  "name": "Kenji Miyazawa",
+  "category": "writer",
+  "start": 1896,
+  "end": 1933,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.39,
+    "lon": 141.09,
+    "place": "Hanamakikawaguchi"
+  },
+  "summary": "Japanese poet and author of children's literature (1896–1933), born in Hanamakikawaguchi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenji_Miyazawa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q55993",
+    "https://en.wikipedia.org/wiki/Kenji_Miyazawa"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "claude-shannon",
+  "wikidata": "Q92760",
+  "name": "Claude Shannon",
+  "category": "scientist",
+  "start": 1916,
+  "end": 2001,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.37,
+    "lon": -84.96,
+    "place": "Petoskey"
+  },
+  "summary": "American mathematician and information theorist (1916–2001), born in Petoskey. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Shannon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q92760",
+    "https://en.wikipedia.org/wiki/Claude_Shannon"
+  ],
+  "disputed": false
+}

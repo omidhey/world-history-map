@@ -1,0 +1,22 @@
+{
+  "id": "americanah",
+  "wikidata": "Q16154159",
+  "name": "Americanah",
+  "category": "work",
+  "start": 2013,
+  "date_precision": "day",
+  "location": {
+    "lat": 6.44,
+    "lon": 7.49,
+    "place": "Enugu"
+  },
+  "summary": "Novel by Chimamanda Ngozi Adichie, associated with Enugu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Americanah"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16154159",
+    "https://en.wikipedia.org/wiki/Americanah"
+  ],
+  "disputed": false
+}

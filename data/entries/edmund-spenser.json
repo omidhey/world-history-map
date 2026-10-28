@@ -1,0 +1,23 @@
+{
+  "id": "edmund-spenser",
+  "wikidata": "Q4352055",
+  "name": "Edmund Spenser",
+  "category": "writer",
+  "start": 1552,
+  "end": 1599,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.07,
+    "place": "East Smithfield"
+  },
+  "summary": "English poet (c. 1552–1599), born in East Smithfield. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Spenser"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4352055",
+    "https://en.wikipedia.org/wiki/Edmund_Spenser"
+  ],
+  "disputed": false
+}

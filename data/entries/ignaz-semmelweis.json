@@ -1,0 +1,23 @@
+{
+  "id": "ignaz-semmelweis",
+  "wikidata": "Q59736",
+  "name": "Ignaz Semmelweis",
+  "category": "scientist",
+  "start": 1818,
+  "end": 1865,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.49,
+    "lon": 19.04,
+    "place": "Tabán"
+  },
+  "summary": "Hungarian physician, early pioneer of antiseptic procedures (1818–1865), born in Tabán. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q59736",
+    "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+  ],
+  "disputed": false
+}

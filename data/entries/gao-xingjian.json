@@ -1,0 +1,22 @@
+{
+  "id": "gao-xingjian",
+  "wikidata": "Q18143",
+  "name": "Gao Xingjian",
+  "category": "writer",
+  "start": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 25.84,
+    "lon": 115.09,
+    "place": "Ganxian District"
+  },
+  "summary": "Chinese novelist and playwright (1940- ), born in Ganxian District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gao_Xingjian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q18143",
+    "https://en.wikipedia.org/wiki/Gao_Xingjian"
+  ],
+  "disputed": false
+}

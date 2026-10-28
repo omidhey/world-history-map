@@ -1,0 +1,22 @@
+{
+  "id": "vanity-fair",
+  "wikidata": "Q612836",
+  "name": "Vanity Fair",
+  "category": "work",
+  "start": 1848,
+  "date_precision": "year",
+  "location": {
+    "lat": 22.57,
+    "lon": 88.37,
+    "place": "Kolkata"
+  },
+  "summary": "1848 novel by William Makepeace Thackeray, associated with Kolkata. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q612836",
+    "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)"
+  ],
+  "disputed": false
+}

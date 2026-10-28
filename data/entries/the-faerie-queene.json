@@ -1,0 +1,22 @@
+{
+  "id": "the-faerie-queene",
+  "wikidata": "Q1813771",
+  "name": "The Faerie Queene",
+  "category": "work",
+  "start": 1590,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.07,
+    "place": "East Smithfield"
+  },
+  "summary": "English epic poem by Edmund Spenser, associated with East Smithfield. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Faerie_Queene"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1813771",
+    "https://en.wikipedia.org/wiki/The_Faerie_Queene"
+  ],
+  "disputed": false
+}

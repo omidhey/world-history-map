@@ -1,0 +1,23 @@
+{
+  "id": "saadi",
+  "wikidata": "Q170302",
+  "name": "Saadi",
+  "category": "writer",
+  "start": 1210,
+  "end": 1292,
+  "date_precision": "year",
+  "location": {
+    "lat": 29.61,
+    "lon": 52.53,
+    "place": "Shiraz"
+  },
+  "summary": "Persian poet, born in Shiraz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saadi_Shirazi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170302",
+    "https://en.wikipedia.org/wiki/Saadi_Shirazi"
+  ],
+  "disputed": false
+}

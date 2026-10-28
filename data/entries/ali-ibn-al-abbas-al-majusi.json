@@ -1,0 +1,41 @@
+{
+  "id": "ali-ibn-al-abbas-al-majusi",
+  "wikidata": "Q543191",
+  "name": "'Ali ibn al-'Abbas al-Majusi",
+  "category": "scientist",
+  "start": 930,
+  "end": 994,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.32,
+    "lon": 48.68,
+    "place": "Ahvaz"
+  },
+  "summary": "10th century Persian physician and psychologist, born in Ahvaz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/'Ali_ibn_al-'Abbas_al-Majusi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q543191",
+    "https://en.wikipedia.org/wiki/'Ali_ibn_al-'Abbas_al-Majusi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 994,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q543191"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1010,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q543191"
+      ]
+    }
+  ]
+}

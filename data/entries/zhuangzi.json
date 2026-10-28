@@ -1,0 +1,22 @@
+{
+  "id": "zhuangzi",
+  "wikidata": "Q1074987",
+  "name": "Zhuangzi",
+  "category": "work",
+  "start": -300,
+  "date_precision": "decade",
+  "location": {
+    "lat": 34.43,
+    "lon": 115.65,
+    "place": "Shangqiu"
+  },
+  "summary": "Ancient Chinese Taoist text from the Warring States period traditionally attributed to Zhuang Zhou, associated with Shangqiu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1074987",
+    "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
+  ],
+  "disputed": false
+}

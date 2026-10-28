@@ -1,0 +1,23 @@
+{
+  "id": "boris-pasternak",
+  "wikidata": "Q41223",
+  "name": "Boris Pasternak",
+  "category": "writer",
+  "start": 1890,
+  "end": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Russian writer (1890–1960), born in Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Pasternak"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41223",
+    "https://en.wikipedia.org/wiki/Boris_Pasternak"
+  ],
+  "disputed": false
+}

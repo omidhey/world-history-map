@@ -1,0 +1,23 @@
+{
+  "id": "isaak-babel",
+  "wikidata": "Q49080",
+  "name": "Isaak Babel",
+  "category": "writer",
+  "start": 1894,
+  "end": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.48,
+    "lon": 30.73,
+    "place": "Odesa"
+  },
+  "summary": "Russian language journalist, playwright, literary translator, and short story writer (1894–1940), born in Odesa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Babel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q49080",
+    "https://en.wikipedia.org/wiki/Isaac_Babel"
+  ],
+  "disputed": false
+}

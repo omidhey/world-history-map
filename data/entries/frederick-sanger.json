@@ -1,0 +1,23 @@
+{
+  "id": "frederick-sanger",
+  "wikidata": "Q151564",
+  "name": "Frederick Sanger",
+  "category": "scientist",
+  "start": 1918,
+  "end": 2013,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.78,
+    "lon": -1.98,
+    "place": "Rendcomb"
+  },
+  "summary": "British biochemist (1918–2013), born in Rendcomb. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Sanger"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q151564",
+    "https://en.wikipedia.org/wiki/Frederick_Sanger"
+  ],
+  "disputed": false
+}

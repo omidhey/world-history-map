@@ -1,0 +1,23 @@
+{
+  "id": "christopher-marlowe",
+  "wikidata": "Q28975",
+  "name": "Christopher Marlowe",
+  "category": "writer",
+  "start": 1564,
+  "end": 1593,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.28,
+    "lon": 1.08,
+    "place": "Canterbury"
+  },
+  "summary": "English dramatist, poet and translator (1564–1593), born in Canterbury. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Marlowe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28975",
+    "https://en.wikipedia.org/wiki/Christopher_Marlowe"
+  ],
+  "disputed": false
+}

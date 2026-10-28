@@ -1,0 +1,23 @@
+{
+  "id": "ibn-al-muqaffa",
+  "wikidata": "Q1060637",
+  "name": "Ibn al-Muqaffa'",
+  "category": "writer",
+  "start": 724,
+  "end": 840,
+  "date_precision": "year",
+  "location": {
+    "lat": 28.85,
+    "lon": 52.53,
+    "place": "Gor"
+  },
+  "summary": "8th-century Persian author and translator, born in Gor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa'"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1060637",
+    "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa'"
+  ],
+  "disputed": false
+}

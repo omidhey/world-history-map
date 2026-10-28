@@ -1,0 +1,23 @@
+{
+  "id": "jayadeva",
+  "wikidata": "Q335015",
+  "name": "Jayadeva",
+  "category": "writer",
+  "start": 1170,
+  "end": 1245,
+  "date_precision": "year",
+  "location": {
+    "lat": 20.13,
+    "lon": 85.6,
+    "place": "Kenduli Sasan"
+  },
+  "summary": "12th century Sanskrit poet, best known for the \"Gita Govinda\", born in Kenduli Sasan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jayadeva"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q335015",
+    "https://en.wikipedia.org/wiki/Jayadeva"
+  ],
+  "disputed": false
+}

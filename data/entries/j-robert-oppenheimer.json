@@ -1,0 +1,23 @@
+{
+  "id": "j-robert-oppenheimer",
+  "wikidata": "Q132537",
+  "name": "J. Robert Oppenheimer",
+  "category": "scientist",
+  "start": 1904,
+  "end": 1967,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.73,
+    "lon": -73.99,
+    "place": "Manhattan"
+  },
+  "summary": "American theoretical physicist (1904–1967), born in Manhattan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q132537",
+    "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
+  ],
+  "disputed": false
+}

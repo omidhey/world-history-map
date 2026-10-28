@@ -1,0 +1,23 @@
+{
+  "id": "badr-shakir-al-sayyab",
+  "wikidata": "Q2756530",
+  "name": "Badr Shakir al-Sayyab",
+  "category": "writer",
+  "start": 1926,
+  "end": 1964,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.52,
+    "lon": 47.81,
+    "place": "Basra"
+  },
+  "summary": "Iraqi poet (1926-1964), born in Basra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Badr_Shakir_al-Sayyab"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2756530",
+    "https://en.wikipedia.org/wiki/Badr_Shakir_al-Sayyab"
+  ],
+  "disputed": false
+}

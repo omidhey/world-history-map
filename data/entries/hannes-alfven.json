@@ -1,0 +1,23 @@
+{
+  "id": "hannes-alfven",
+  "wikidata": "Q54945",
+  "name": "Hannes Alfvén",
+  "category": "scientist",
+  "start": 1908,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 58.59,
+    "lon": 16.19,
+    "place": "Norrköping Saint Olof parish"
+  },
+  "summary": "Swedish electrical engineer, plasma physicist and science fiction author (1908–1995), winner of the 1970 Nobel Prize for Physics, born in Norrköping Saint Olof parish. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannes_Alfvén"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q54945",
+    "https://en.wikipedia.org/wiki/Hannes_Alfvén"
+  ],
+  "disputed": false
+}

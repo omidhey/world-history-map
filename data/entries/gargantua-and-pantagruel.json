@@ -1,0 +1,22 @@
+{
+  "id": "gargantua-and-pantagruel",
+  "wikidata": "Q822290",
+  "name": "Gargantua and Pantagruel",
+  "category": "work",
+  "start": 1534,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.13,
+    "lon": 0.17,
+    "place": "Seuilly"
+  },
+  "summary": "Five novels by François Rabelais, associated with Seuilly. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q822290",
+    "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel"
+  ],
+  "disputed": false
+}

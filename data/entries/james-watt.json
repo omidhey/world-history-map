@@ -1,0 +1,23 @@
+{
+  "id": "james-watt",
+  "wikidata": "Q9041",
+  "name": "James Watt",
+  "category": "scientist",
+  "start": 1736,
+  "end": 1819,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -4.77,
+    "place": "Greenock"
+  },
+  "summary": "British engineer (1736–1819), born in Greenock. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Watt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9041",
+    "https://en.wikipedia.org/wiki/James_Watt"
+  ],
+  "disputed": false
+}

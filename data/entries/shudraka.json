@@ -1,0 +1,23 @@
+{
+  "id": "shudraka",
+  "wikidata": "Q1331151",
+  "name": "Shudraka",
+  "category": "writer",
+  "start": 500,
+  "end": 500,
+  "date_precision": "century",
+  "location": {
+    "lat": 22.8,
+    "lon": 83,
+    "place": "India"
+  },
+  "summary": "Indian king, poet and playwright, born in India. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shudraka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1331151",
+    "https://en.wikipedia.org/wiki/Shudraka"
+  ],
+  "disputed": false
+}

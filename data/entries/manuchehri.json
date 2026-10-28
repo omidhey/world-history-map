@@ -1,0 +1,23 @@
+{
+  "id": "manuchehri",
+  "wikidata": "Q1340001",
+  "name": "Manuchehri",
+  "category": "writer",
+  "start": 1000,
+  "end": 1040,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.23,
+    "lon": 53.92,
+    "place": "Semnan Province"
+  },
+  "summary": "Persian poet, born in Semnan Province. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuchehri"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1340001",
+    "https://en.wikipedia.org/wiki/Manuchehri"
+  ],
+  "disputed": false
+}

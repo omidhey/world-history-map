@@ -1,0 +1,23 @@
+{
+  "id": "diophantus-of-alexandria",
+  "wikidata": "Q178217",
+  "name": "Diophantus of Alexandria",
+  "category": "scientist",
+  "start": 200,
+  "end": 284,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "3rd century Alexandrian Greek mathematician, born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Diophantus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q178217",
+    "https://en.wikipedia.org/wiki/Diophantus"
+  ],
+  "disputed": false
+}

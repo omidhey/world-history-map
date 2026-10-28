@@ -1,0 +1,23 @@
+{
+  "id": "ole-romer",
+  "wikidata": "Q160187",
+  "name": "Ole Rømer",
+  "category": "scientist",
+  "start": 1644,
+  "end": 1710,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.16,
+    "lon": 10.21,
+    "place": "Aarhus"
+  },
+  "summary": "Danish astronomer (*1644 – †1710), born in Aarhus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ole_Rømer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160187",
+    "https://en.wikipedia.org/wiki/Ole_Rømer"
+  ],
+  "disputed": false
+}

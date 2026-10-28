@@ -1,0 +1,23 @@
+{
+  "id": "ulugh-beg",
+  "wikidata": "Q486088",
+  "name": "Ulugh Beg",
+  "category": "scientist",
+  "start": 1394,
+  "end": 1449,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.43,
+    "lon": 48.8,
+    "place": "Soltaniyeh"
+  },
+  "summary": "Timurid sultan, astronomer and mathematician (1394–1449), born in Soltaniyeh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulugh_Beg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q486088",
+    "https://en.wikipedia.org/wiki/Ulugh_Beg"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "samguk-yusa",
+  "wikidata": "Q485538",
+  "name": "Samguk Yusa",
+  "category": "work",
+  "start": 1279,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.82,
+    "lon": 128.73,
+    "place": "Gyeongsan"
+  },
+  "summary": "Collection of legends, folktales and historical accounts relating to Goguryeo, Baekje, Silla and other ancient Korean states, compiled by Iryeon by Il-yeon, associated with Gyeongsan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samguk_yusa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q485538",
+    "https://en.wikipedia.org/wiki/Samguk_yusa"
+  ],
+  "disputed": false
+}

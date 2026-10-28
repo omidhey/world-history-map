@@ -1,0 +1,23 @@
+{
+  "id": "charles-glover-barkla",
+  "wikidata": "Q160522",
+  "name": "Charles Glover Barkla",
+  "category": "scientist",
+  "start": 1877,
+  "end": 1944,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.36,
+    "lon": -2.73,
+    "place": "Widnes"
+  },
+  "summary": "English physicist (1877-1944), born in Widnes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Barkla"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160522",
+    "https://en.wikipedia.org/wiki/Charles_Barkla"
+  ],
+  "disputed": false
+}

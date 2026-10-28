@@ -1,0 +1,22 @@
+{
+  "id": "charaka",
+  "wikidata": "Q278748",
+  "name": "Charaka",
+  "category": "scientist",
+  "start": 50,
+  "date_precision": "century",
+  "location": {
+    "lat": 34.5,
+    "lon": 76,
+    "place": "Kashmir"
+  },
+  "summary": "Indian physician and academic, worked in Kashmir. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charaka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q278748",
+    "https://en.wikipedia.org/wiki/Charaka"
+  ],
+  "disputed": false
+}

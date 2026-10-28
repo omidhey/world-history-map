@@ -1,0 +1,23 @@
+{
+  "id": "euphemia-haynes",
+  "wikidata": "Q5410328",
+  "name": "Euphemia Haynes",
+  "category": "scientist",
+  "start": 1890,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.9,
+    "lon": -77.04,
+    "place": "Washington, D.C."
+  },
+  "summary": "American mathematician (1890–1980), born in Washington, D.C.. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Euphemia_Haynes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5410328",
+    "https://en.wikipedia.org/wiki/Euphemia_Haynes"
+  ],
+  "disputed": false
+}

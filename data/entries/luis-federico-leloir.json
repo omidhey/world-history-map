@@ -1,0 +1,23 @@
+{
+  "id": "luis-federico-leloir",
+  "wikidata": "Q233985",
+  "name": "Luis Federico Leloir",
+  "category": "scientist",
+  "start": 1906,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.28,
+    "place": "16th arrondissement of Paris"
+  },
+  "summary": "Argentine biochemist, born in 16th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Federico_Leloir"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q233985",
+    "https://en.wikipedia.org/wiki/Luis_Federico_Leloir"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "william-rowan-hamilton",
+  "wikidata": "Q11887",
+  "name": "William Rowan Hamilton",
+  "category": "scientist",
+  "start": 1805,
+  "end": 1865,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.35,
+    "lon": -6.26,
+    "place": "Dublin"
+  },
+  "summary": "Irish mathematician and astronomer (1805-1865), born in Dublin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11887",
+    "https://en.wikipedia.org/wiki/William_Rowan_Hamilton"
+  ],
+  "disputed": false
+}

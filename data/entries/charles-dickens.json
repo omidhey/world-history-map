@@ -1,0 +1,23 @@
+{
+  "id": "charles-dickens",
+  "wikidata": "Q5686",
+  "name": "Charles Dickens",
+  "category": "writer",
+  "start": 1812,
+  "end": 1870,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.8,
+    "lon": -1.09,
+    "place": "Landport"
+  },
+  "summary": "English novelist and social critic (1812–1870), born in Landport. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5686",
+    "https://en.wikipedia.org/wiki/Charles_Dickens"
+  ],
+  "disputed": false
+}

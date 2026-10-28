@@ -1,0 +1,22 @@
+{
+  "id": "the-sound-and-the-fury",
+  "wikidata": "Q135515",
+  "name": "The Sound and the Fury",
+  "category": "work",
+  "start": 1929,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.49,
+    "lon": -89.01,
+    "place": "New Albany"
+  },
+  "summary": "1929 novel by William Faulkner, associated with New Albany. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q135515",
+    "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+  ],
+  "disputed": false
+}

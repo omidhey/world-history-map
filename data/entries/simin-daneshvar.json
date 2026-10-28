@@ -1,0 +1,23 @@
+{
+  "id": "simin-daneshvar",
+  "wikidata": "Q263807",
+  "name": "Simin Daneshvar",
+  "category": "writer",
+  "start": 1921,
+  "end": 2012,
+  "date_precision": "day",
+  "location": {
+    "lat": 29.61,
+    "lon": 52.53,
+    "place": "Shiraz"
+  },
+  "summary": "Iranian writer (1921–2012), born in Shiraz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Simin_Daneshvar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q263807",
+    "https://en.wikipedia.org/wiki/Simin_Daneshvar"
+  ],
+  "disputed": false
+}

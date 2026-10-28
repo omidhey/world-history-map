@@ -1,0 +1,23 @@
+{
+  "id": "lord-byron",
+  "wikidata": "Q5679",
+  "name": "Lord Byron",
+  "category": "writer",
+  "start": 1788,
+  "end": 1824,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.5,
+    "lon": -0.14,
+    "place": "City of Westminster"
+  },
+  "summary": "English Romantic poet and lyricist (1788–1824), born in City of Westminster. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5679",
+    "https://en.wikipedia.org/wiki/Lord_Byron"
+  ],
+  "disputed": false
+}

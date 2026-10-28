@@ -1,0 +1,23 @@
+{
+  "id": "brahmagupta",
+  "wikidata": "Q202943",
+  "name": "Brahmagupta",
+  "category": "scientist",
+  "start": 598,
+  "end": 670,
+  "date_precision": "year",
+  "location": {
+    "lat": 25,
+    "lon": 72.25,
+    "place": "Bhinmal"
+  },
+  "summary": "Indian mathematician and astronomer (c. 598 – c. 668 CE), born in Bhinmal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahmagupta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q202943",
+    "https://en.wikipedia.org/wiki/Brahmagupta"
+  ],
+  "disputed": false
+}

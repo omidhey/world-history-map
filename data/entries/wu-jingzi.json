@@ -1,0 +1,23 @@
+{
+  "id": "wu-jingzi",
+  "wikidata": "Q699365",
+  "name": "Wu Jingzi",
+  "category": "writer",
+  "start": 1701,
+  "end": 1754,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.09,
+    "lon": 118.26,
+    "place": "Quanjiao County"
+  },
+  "summary": "Chinese scholar-writer (1701-1754), born in Quanjiao County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wu_Jingzi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q699365",
+    "https://en.wikipedia.org/wiki/Wu_Jingzi"
+  ],
+  "disputed": false
+}

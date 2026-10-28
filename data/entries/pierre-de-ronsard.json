@@ -1,0 +1,23 @@
+{
+  "id": "pierre-de-ronsard",
+  "wikidata": "Q49752",
+  "name": "Pierre de Ronsard",
+  "category": "writer",
+  "start": 1524,
+  "end": 1585,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.75,
+    "lon": 0.69,
+    "place": "La Possonnière Castle"
+  },
+  "summary": "French poet (1524-1585), born in La Possonnière Castle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Ronsard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q49752",
+    "https://en.wikipedia.org/wiki/Pierre_de_Ronsard"
+  ],
+  "disputed": false
+}

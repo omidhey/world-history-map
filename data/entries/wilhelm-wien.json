@@ -1,0 +1,23 @@
+{
+  "id": "wilhelm-wien",
+  "wikidata": "Q57068",
+  "name": "Wilhelm Wien",
+  "category": "scientist",
+  "start": 1864,
+  "end": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.77,
+    "lon": 20.02,
+    "place": "Parusnoye"
+  },
+  "summary": "German physicist (1864-1928), born in Parusnoye. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Wien"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57068",
+    "https://en.wikipedia.org/wiki/Wilhelm_Wien"
+  ],
+  "disputed": false
+}

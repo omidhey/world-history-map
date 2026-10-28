@@ -1,0 +1,22 @@
+{
+  "id": "the-sun-also-rises",
+  "wikidata": "Q501351",
+  "name": "The Sun Also Rises",
+  "category": "work",
+  "start": 1926,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": -87.79,
+    "place": "Oak Park"
+  },
+  "summary": "Novel by Ernest Hemingway, associated with Oak Park. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q501351",
+    "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+  ],
+  "disputed": false
+}

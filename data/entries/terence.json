@@ -1,0 +1,23 @@
+{
+  "id": "terence",
+  "wikidata": "Q172048",
+  "name": "Terence",
+  "category": "writer",
+  "start": -185,
+  "end": -159,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.85,
+    "lon": 10.32,
+    "place": "Carthage"
+  },
+  "summary": "Roman comic playwright (2nd cent. BC), born in Carthage. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172048",
+    "https://en.wikipedia.org/wiki/Terence"
+  ],
+  "disputed": false
+}

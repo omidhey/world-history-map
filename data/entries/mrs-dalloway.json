@@ -1,0 +1,22 @@
+{
+  "id": "mrs-dalloway",
+  "wikidata": "Q752584",
+  "name": "Mrs Dalloway",
+  "category": "work",
+  "start": 1925,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "1925 novel by Virginia Woolf, associated with London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mrs_Dalloway"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q752584",
+    "https://en.wikipedia.org/wiki/Mrs_Dalloway"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "grigori-perelman",
+  "wikidata": "Q117346",
+  "name": "Grigori Perelman",
+  "category": "scientist",
+  "start": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.95,
+    "lon": 30.32,
+    "place": "Saint Petersburg"
+  },
+  "summary": "Russian mathematician (born 1966), born in Saint Petersburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grigori_Perelman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q117346",
+    "https://en.wikipedia.org/wiki/Grigori_Perelman"
+  ],
+  "disputed": false
+}

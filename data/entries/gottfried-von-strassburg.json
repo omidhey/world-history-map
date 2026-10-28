@@ -1,0 +1,23 @@
+{
+  "id": "gottfried-von-strassburg",
+  "wikidata": "Q326403",
+  "name": "Gottfried von Strassburg",
+  "category": "writer",
+  "start": 1180,
+  "end": 1215,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.57,
+    "lon": 7.75,
+    "place": "Strasbourg"
+  },
+  "summary": "Medieval German poet, born in Strasbourg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_von_Strassburg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q326403",
+    "https://en.wikipedia.org/wiki/Gottfried_von_Strassburg"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "xu-guangqi",
+  "wikidata": "Q420427",
+  "name": "Xu Guangqi",
+  "category": "scientist",
+  "start": 1562,
+  "end": 1633,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.23,
+    "lon": 121.47,
+    "place": "Shanghai"
+  },
+  "summary": "Late-Ming-dynasty Chinese politician, Scholar, Lay Catholic leader and Servant of God (*1562 – †1633), born in Shanghai. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xu_Guangqi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q420427",
+    "https://en.wikipedia.org/wiki/Xu_Guangqi"
+  ],
+  "disputed": false
+}

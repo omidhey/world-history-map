@@ -1,0 +1,22 @@
+{
+  "id": "parallel-lives",
+  "wikidata": "Q842337",
+  "name": "Parallel Lives",
+  "category": "work",
+  "start": 110,
+  "date_precision": "decade",
+  "location": {
+    "lat": 38.5,
+    "lon": 22.84,
+    "place": "Chaeronea"
+  },
+  "summary": "Biographies of famous Greeks and Romans by Plutarch, associated with Chaeronea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parallel_Lives"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q842337",
+    "https://en.wikipedia.org/wiki/Parallel_Lives"
+  ],
+  "disputed": false
+}

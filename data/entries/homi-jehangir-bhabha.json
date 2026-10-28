@@ -1,0 +1,23 @@
+{
+  "id": "homi-jehangir-bhabha",
+  "wikidata": "Q325611",
+  "name": "Homi Jehangir Bhabha",
+  "category": "scientist",
+  "start": 1909,
+  "end": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.08,
+    "lon": 72.88,
+    "place": "Mumbai"
+  },
+  "summary": "Indian nuclear physicist (1909–1966), born in Mumbai. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Homi_J._Bhabha"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q325611",
+    "https://en.wikipedia.org/wiki/Homi_J._Bhabha"
+  ],
+  "disputed": false
+}

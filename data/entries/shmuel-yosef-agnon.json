@@ -1,0 +1,23 @@
+{
+  "id": "shmuel-yosef-agnon",
+  "wikidata": "Q133042",
+  "name": "Shmuel Yosef Agnon",
+  "category": "writer",
+  "start": 1887,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.06,
+    "lon": 25.39,
+    "place": "Buchach"
+  },
+  "summary": "Ukrainian-born Israeli Hebrew writer, Nobel laureate in Literature (1888–1970), born in Buchach. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q133042",
+    "https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon"
+  ],
+  "disputed": false
+}

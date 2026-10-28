@@ -1,0 +1,23 @@
+{
+  "id": "n-scott-momaday",
+  "wikidata": "Q736570",
+  "name": "N. Scott Momaday",
+  "category": "writer",
+  "start": 1934,
+  "end": 2024,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.61,
+    "lon": -98.39,
+    "place": "Lawton"
+  },
+  "summary": "Kiowa author and academic (1934–2024), born in Lawton. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/N._Scott_Momaday"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q736570",
+    "https://en.wikipedia.org/wiki/N._Scott_Momaday"
+  ],
+  "disputed": false
+}

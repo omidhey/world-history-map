@@ -1,0 +1,23 @@
+{
+  "id": "francois-rabelais",
+  "wikidata": "Q131018",
+  "name": "François Rabelais",
+  "category": "writer",
+  "start": 1494,
+  "end": 1553,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.13,
+    "lon": 0.17,
+    "place": "Seuilly"
+  },
+  "summary": "16th-century French writer and humanist (1494–1553), born in Seuilly. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/François_Rabelais"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131018",
+    "https://en.wikipedia.org/wiki/François_Rabelais"
+  ],
+  "disputed": false
+}

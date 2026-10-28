@@ -1,0 +1,22 @@
+{
+  "id": "book-of-fixed-stars",
+  "wikidata": "Q2087785",
+  "name": "Book of Fixed Stars",
+  "category": "work",
+  "start": 964,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.6,
+    "lon": 51.43,
+    "place": "Ray"
+  },
+  "summary": "Non-fiction work by Abd al-Rahman al-Sufi, associated with Ray. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Book_of_Fixed_Stars"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2087785",
+    "https://en.wikipedia.org/wiki/The_Book_of_Fixed_Stars"
+  ],
+  "disputed": false
+}

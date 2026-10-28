@@ -1,0 +1,22 @@
+{
+  "id": "mae-jemison",
+  "wikidata": "Q34091",
+  "name": "Mae Jemison",
+  "category": "scientist",
+  "start": 1956,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.58,
+    "lon": -86.98,
+    "place": "Decatur"
+  },
+  "summary": "American doctor and NASA astronaut, born in Decatur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mae_Jemison"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34091",
+    "https://en.wikipedia.org/wiki/Mae_Jemison"
+  ],
+  "disputed": false
+}

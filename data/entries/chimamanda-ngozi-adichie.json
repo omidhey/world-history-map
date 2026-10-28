@@ -1,0 +1,22 @@
+{
+  "id": "chimamanda-ngozi-adichie",
+  "wikidata": "Q230141",
+  "name": "Chimamanda Ngozi Adichie",
+  "category": "writer",
+  "start": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 6.44,
+    "lon": 7.49,
+    "place": "Enugu"
+  },
+  "summary": "Nigerian writer (born 1977), born in Enugu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q230141",
+    "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
+  ],
+  "disputed": false
+}

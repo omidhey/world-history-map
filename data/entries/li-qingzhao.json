@@ -1,0 +1,23 @@
+{
+  "id": "li-qingzhao",
+  "wikidata": "Q464470",
+  "name": "Li Qingzhao",
+  "category": "writer",
+  "start": 1084,
+  "end": 1155,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.76,
+    "lon": 117.49,
+    "place": "Zhangqiu District"
+  },
+  "summary": "Chinese Song Dynasty poet, known as \"the most talented woman in all ages\", born in Zhangqiu District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Li_Qingzhao"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q464470",
+    "https://en.wikipedia.org/wiki/Li_Qingzhao"
+  ],
+  "disputed": false
+}

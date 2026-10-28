@@ -1,0 +1,23 @@
+{
+  "id": "pliny-the-elder",
+  "wikidata": "Q82778",
+  "name": "Pliny the Elder",
+  "category": "scientist",
+  "start": 20,
+  "end": 79,
+  "date_precision": "decade",
+  "location": {
+    "lat": 45,
+    "lon": 11,
+    "place": "Novum Comum"
+  },
+  "summary": "Roman military commander and writer (AD23/24–79), born in Novum Comum. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q82778",
+    "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+  ],
+  "disputed": false
+}

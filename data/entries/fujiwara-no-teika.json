@@ -1,0 +1,23 @@
+{
+  "id": "fujiwara-no-teika",
+  "wikidata": "Q378425",
+  "name": "Fujiwara no Teika",
+  "category": "writer",
+  "start": 1162,
+  "end": 1241,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 136,
+    "place": "Japan"
+  },
+  "summary": "Poet and court noble (1162–1241), born in Japan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fujiwara_no_Teika"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q378425",
+    "https://en.wikipedia.org/wiki/Fujiwara_no_Teika"
+  ],
+  "disputed": false
+}

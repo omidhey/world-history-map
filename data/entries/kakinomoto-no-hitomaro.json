@@ -1,0 +1,23 @@
+{
+  "id": "kakinomoto-no-hitomaro",
+  "wikidata": "Q380818",
+  "name": "Kakinomoto no Hitomaro",
+  "category": "writer",
+  "start": 662,
+  "end": 710,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 136,
+    "place": "Japan"
+  },
+  "summary": "Japanese poet, born in Japan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q380818",
+    "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro"
+  ],
+  "disputed": false
+}

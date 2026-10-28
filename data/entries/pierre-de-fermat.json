@@ -1,0 +1,23 @@
+{
+  "id": "pierre-de-fermat",
+  "wikidata": "Q75655",
+  "name": "Pierre de Fermat",
+  "category": "scientist",
+  "start": 1607,
+  "end": 1665,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.88,
+    "lon": 0.99,
+    "place": "Beaumont-de-Lomagne"
+  },
+  "summary": "French mathematician and lawyer, born in Beaumont-de-Lomagne. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Fermat"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q75655",
+    "https://en.wikipedia.org/wiki/Pierre_de_Fermat"
+  ],
+  "disputed": false
+}

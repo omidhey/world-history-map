@@ -1,0 +1,23 @@
+{
+  "id": "menander",
+  "wikidata": "Q118992",
+  "name": "Menander",
+  "category": "writer",
+  "start": -340,
+  "end": -290,
+  "date_precision": "decade",
+  "location": {
+    "lat": 38.08,
+    "lon": 23.82,
+    "place": "Kephisia"
+  },
+  "summary": "Athenian playwright of New Comedy, born in Kephisia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Menander"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q118992",
+    "https://en.wikipedia.org/wiki/Menander"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "imhotep",
+  "wikidata": "Q131171",
+  "name": "Imhotep",
+  "category": "scientist",
+  "start": -2800,
+  "end": -2700,
+  "date_precision": "century",
+  "location": {
+    "lat": 29.84,
+    "lon": 31.25,
+    "place": "Memphis"
+  },
+  "summary": "Egyptian architect, physician, astronomer, and god of medicine in ancient Egyptian mythology., born in Memphis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Imhotep"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131171",
+    "https://en.wikipedia.org/wiki/Imhotep"
+  ],
+  "disputed": false
+}

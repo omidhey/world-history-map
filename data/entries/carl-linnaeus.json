@@ -1,0 +1,23 @@
+{
+  "id": "carl-linnaeus",
+  "wikidata": "Q1043",
+  "name": "Carl Linnaeus",
+  "category": "scientist",
+  "start": 1707,
+  "end": 1778,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.62,
+    "lon": 14.2,
+    "place": "Råshult"
+  },
+  "summary": "Swedish botanist, physician, and zoologist (1707–1778); developed the foundations of modern taxonomy, born in Råshult. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1043",
+    "https://en.wikipedia.org/wiki/Carl_Linnaeus"
+  ],
+  "disputed": false
+}

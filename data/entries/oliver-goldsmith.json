@@ -1,0 +1,23 @@
+{
+  "id": "oliver-goldsmith",
+  "wikidata": "Q236236",
+  "name": "Oliver Goldsmith",
+  "category": "writer",
+  "start": 1728,
+  "end": 1774,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.85,
+    "lon": -8.2,
+    "place": "Elphin"
+  },
+  "summary": "Anglo-Irish writer, poet, and physician (d. 1774), born in Elphin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Goldsmith"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q236236",
+    "https://en.wikipedia.org/wiki/Oliver_Goldsmith"
+  ],
+  "disputed": false
+}

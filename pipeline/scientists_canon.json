@@ -1,0 +1,1129 @@
+[
+ {
+  "tradition": "Islamic science",
+  "overview": "https://en.wikipedia.org/wiki/Science_in_the_medieval_Islamic_world",
+  "people": [
+   {
+    "title": "Jabir ibn Hayyan"
+   },
+   {
+    "title": "Al-Khwarizmi"
+   },
+   {
+    "title": "Al-Battani"
+   },
+   {
+    "title": "Ibn al-Haytham"
+   },
+   {
+    "title": "Al-Biruni"
+   },
+   {
+    "title": "Avicenna"
+   },
+   {
+    "title": "Averroes"
+   },
+   {
+    "title": "Muhammad ibn Zakariya al-Razi"
+   },
+   {
+    "title": "Ibn al-Nafis"
+   },
+   {
+    "title": "Al-Zahrawi"
+   },
+   {
+    "title": "Al-Idrisi"
+   },
+   {
+    "title": "Nasir al-Din al-Tusi"
+   },
+   {
+    "title": "Ibn Yunus"
+   },
+   {
+    "title": "Al-Farabi"
+   },
+   {
+    "title": "Abd al-Rahman al-Sufi"
+   },
+   {
+    "title": "Banu Musa"
+   },
+   {
+    "title": "Thabit ibn Qurra"
+   },
+   {
+    "title": "Ulugh Beg"
+   },
+   {
+    "title": "Jamshid al-Kashi"
+   },
+   {
+    "title": "Ibn al-Shatir"
+   },
+   {
+    "title": "Abu Ma'shar al-Balkhi"
+   },
+   {
+    "title": "Haly Abbas"
+   },
+   {
+    "title": "Avenzoar"
+   },
+   {
+    "title": "Ismail al-Jazari"
+   },
+   {
+    "title": "Qutb al-Din al-Shirazi"
+   },
+   {
+    "title": "Ibn Khaldun"
+   }
+  ]
+ },
+ {
+  "tradition": "Chinese science",
+  "overview": "https://en.wikipedia.org/wiki/History_of_science_and_technology_in_China",
+  "people": [
+   {
+    "title": "Zhang Heng"
+   },
+   {
+    "title": "Zu Chongzhi"
+   },
+   {
+    "title": "Liu Hui"
+   },
+   {
+    "title": "Shen Kuo"
+   },
+   {
+    "title": "Su Song"
+   },
+   {
+    "title": "Guo Shoujing"
+   },
+   {
+    "title": "Li Shizhen",
+    "place": {
+     "name": "Qizhou (now Qichun)",
+     "lat": 30.23,
+     "lon": 115.43,
+     "relation": "born in",
+     "source": "https://en.wikipedia.org/wiki/Li_Shizhen"
+    }
+   },
+   {
+    "title": "Zhang Zhongjing"
+   },
+   {
+    "title": "Hua Tuo"
+   },
+   {
+    "title": "Sun Simiao"
+   },
+   {
+    "title": "Qin Jiushao"
+   },
+   {
+    "title": "Yang Hui"
+   },
+   {
+    "title": "Zhu Shijie"
+   },
+   {
+    "title": "Li Ye (mathematician)"
+   },
+   {
+    "title": "Xu Guangqi"
+   },
+   {
+    "title": "Song Yingxing"
+   },
+   {
+    "title": "Yi Xing"
+   },
+   {
+    "title": "Bi Sheng"
+   },
+   {
+    "title": "Cai Lun"
+   },
+   {
+    "title": "Wang Zhenyi"
+   },
+   {
+    "title": "Qian Xuesen"
+   },
+   {
+    "title": "Chen-Ning Yang"
+   },
+   {
+    "title": "Tu Youyou"
+   },
+   {
+    "title": "Yuan Longping"
+   },
+   {
+    "title": "Chien-Shiung Wu"
+   }
+  ]
+ },
+ {
+  "tradition": "Indian science",
+  "overview": "https://en.wikipedia.org/wiki/Indian_science_and_technology",
+  "people": [
+   {
+    "title": "Aryabhata"
+   },
+   {
+    "title": "Brahmagupta"
+   },
+   {
+    "title": "Bhāskara II"
+   },
+   {
+    "title": "Varāhamihira"
+   },
+   {
+    "title": "Sushruta"
+   },
+   {
+    "title": "Charaka"
+   },
+   {
+    "title": "Madhava of Sangamagrama"
+   },
+   {
+    "title": "Nilakantha Somayaji"
+   },
+   {
+    "title": "Mahāvīra (mathematician)"
+   },
+   {
+    "title": "Bhāskara I"
+   },
+   {
+    "title": "Srinivasa Ramanujan"
+   },
+   {
+    "title": "Jagadish Chandra Bose"
+   },
+   {
+    "title": "C. V. Raman"
+   },
+   {
+    "title": "Satyendra Nath Bose"
+   },
+   {
+    "title": "Meghnad Saha"
+   },
+   {
+    "title": "Subrahmanyan Chandrasekhar"
+   },
+   {
+    "title": "Homi J. Bhabha"
+   },
+   {
+    "title": "Vikram Sarabhai"
+   },
+   {
+    "title": "Har Gobind Khorana"
+   },
+   {
+    "title": "Prasanta Chandra Mahalanobis"
+   },
+   {
+    "title": "Birbal Sahni"
+   },
+   {
+    "title": "Prafulla Chandra Ray"
+   },
+   {
+    "title": "Kamala Sohonie"
+   },
+   {
+    "title": "Janaki Ammal"
+   },
+   {
+    "title": "Shanti Swarup Bhatnagar"
+   },
+   {
+    "title": "Yellapragada Subbarow"
+   }
+  ]
+ },
+ {
+  "tradition": "Japanese and Korean science",
+  "overview": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+  "people": [
+   {
+    "title": "Seki Takakazu"
+   },
+   {
+    "title": "Hideyo Noguchi"
+   },
+   {
+    "title": "Kitasato Shibasaburō"
+   },
+   {
+    "title": "Hantaro Nagaoka"
+   },
+   {
+    "title": "Hideki Yukawa"
+   },
+   {
+    "title": "Sin-Itiro Tomonaga"
+   },
+   {
+    "title": "Leo Esaki"
+   },
+   {
+    "title": "Susumu Tonegawa"
+   },
+   {
+    "title": "Shinya Yamanaka"
+   },
+   {
+    "title": "Jang Yeong-sil"
+   },
+   {
+    "title": "Heo Jun"
+   },
+   {
+    "title": "Ino Tadataka"
+   },
+   {
+    "title": "Sugita Genpaku"
+   },
+   {
+    "title": "Yoshio Nishina"
+   },
+   {
+    "title": "Kikunae Ikeda"
+   },
+   {
+    "title": "Umetaro Suzuki"
+   }
+  ]
+ },
+ {
+  "tradition": "African and diaspora science",
+  "overview": "https://en.wikipedia.org/wiki/Science_and_technology_in_Africa",
+  "people": [
+   {
+    "title": "Imhotep"
+   },
+   {
+    "title": "Hypatia"
+   },
+   {
+    "title": "Benjamin Banneker"
+   },
+   {
+    "title": "George Washington Carver"
+   },
+   {
+    "title": "Percy Julian"
+   },
+   {
+    "title": "Charles R. Drew"
+   },
+   {
+    "title": "Mae Jemison"
+   },
+   {
+    "title": "Cheikh Anta Diop"
+   },
+   {
+    "title": "Philip Emeagwali"
+   },
+   {
+    "title": "Wangari Maathai"
+   },
+   {
+    "title": "Katherine Johnson"
+   },
+   {
+    "title": "Marie Maynard Daly"
+   },
+   {
+    "title": "Ernest Everett Just"
+   },
+   {
+    "title": "Jan Ernst Matzeliger"
+   },
+   {
+    "title": "Lewis Latimer"
+   },
+   {
+    "title": "Elijah McCoy"
+   },
+   {
+    "title": "Gladys West"
+   },
+   {
+    "title": "Ahmed Zewail"
+   },
+   {
+    "title": "Calestous Juma"
+   },
+   {
+    "title": "Thomas Odhiambo"
+   },
+   {
+    "title": "Euphemia Haynes"
+   },
+   {
+    "title": "Alexa Canady"
+   }
+  ]
+ },
+ {
+  "tradition": "Latin American science",
+  "overview": "https://en.wikipedia.org/wiki/History_of_science_and_technology_in_Latin_America",
+  "people": [
+   {
+    "title": "Carlos Finlay"
+   },
+   {
+    "title": "Oswaldo Cruz"
+   },
+   {
+    "title": "Carlos Chagas"
+   },
+   {
+    "title": "Bernardo Houssay"
+   },
+   {
+    "title": "Luis Federico Leloir"
+   },
+   {
+    "title": "César Milstein"
+   },
+   {
+    "title": "Mario J. Molina"
+   },
+   {
+    "title": "Baruj Benacerraf"
+   },
+   {
+    "title": "Santiago Antúnez de Mayolo"
+   },
+   {
+    "title": "Alberto Santos-Dumont"
+   },
+   {
+    "title": "César Lattes"
+   },
+   {
+    "title": "Luis Walter Alvarez"
+   },
+   {
+    "title": "Manuel Elkin Patarroyo"
+   },
+   {
+    "title": "Rodolfo Llinás"
+   },
+   {
+    "title": "José Celestino Mutis"
+   },
+   {
+    "title": "Francisco José de Caldas"
+   },
+   {
+    "title": "Alexander von Humboldt"
+   }
+  ]
+ },
+ {
+  "tradition": "Greek and Roman science",
+  "overview": "https://en.wikipedia.org/wiki/Ancient_Greek_science",
+  "people": [
+   {
+    "title": "Thales"
+   },
+   {
+    "title": "Pythagoras"
+   },
+   {
+    "title": "Hippocrates"
+   },
+   {
+    "title": "Democritus"
+   },
+   {
+    "title": "Eudoxus of Cnidus"
+   },
+   {
+    "title": "Aristotle"
+   },
+   {
+    "title": "Theophrastus"
+   },
+   {
+    "title": "Euclid"
+   },
+   {
+    "title": "Archimedes"
+   },
+   {
+    "title": "Eratosthenes"
+   },
+   {
+    "title": "Aristarchus of Samos"
+   },
+   {
+    "title": "Hipparchus"
+   },
+   {
+    "title": "Apollonius of Perga"
+   },
+   {
+    "title": "Hero of Alexandria"
+   },
+   {
+    "title": "Galen"
+   },
+   {
+    "title": "Ptolemy"
+   },
+   {
+    "title": "Pliny the Elder"
+   },
+   {
+    "title": "Diophantus"
+   },
+   {
+    "title": "Pappus of Alexandria"
+   },
+   {
+    "title": "Herophilos"
+   },
+   {
+    "title": "Erasistratus"
+   },
+   {
+    "title": "Ctesibius"
+   },
+   {
+    "title": "Vitruvius"
+   },
+   {
+    "title": "Pedanius Dioscorides"
+   },
+   {
+    "title": "Strabo",
+    "place": {
+     "name": "Amaseia (now Amasya)",
+     "lat": 40.65,
+     "lon": 35.83,
+     "relation": "born in",
+     "source": "https://en.wikipedia.org/wiki/Strabo"
+    }
+   },
+   {
+    "title": "Seleucus of Seleucia"
+   },
+   {
+    "title": "Anaximander"
+   },
+   {
+    "title": "Empedocles"
+   },
+   {
+    "title": "Archytas"
+   },
+   {
+    "title": "Philolaus"
+   },
+   {
+    "title": "Alcmaeon of Croton"
+   },
+   {
+    "title": "Pytheas"
+   },
+   {
+    "title": "Theon of Alexandria"
+   }
+  ]
+ },
+ {
+  "tradition": "Medieval and Renaissance Europe",
+  "overview": "https://en.wikipedia.org/wiki/Science_in_the_Middle_Ages",
+  "people": [
+   {
+    "title": "Roger Bacon"
+   },
+   {
+    "title": "Robert Grosseteste"
+   },
+   {
+    "title": "Albertus Magnus"
+   },
+   {
+    "title": "Fibonacci"
+   },
+   {
+    "title": "Jordanus de Nemore"
+   },
+   {
+    "title": "Nicole Oresme"
+   },
+   {
+    "title": "Jean Buridan"
+   },
+   {
+    "title": "Theodoric of Freiberg"
+   },
+   {
+    "title": "Hildegard of Bingen"
+   },
+   {
+    "title": "Pope Sylvester II"
+   },
+   {
+    "title": "Adelard of Bath"
+   },
+   {
+    "title": "Gerard of Cremona"
+   },
+   {
+    "title": "Regiomontanus"
+   },
+   {
+    "title": "Nicolaus Copernicus"
+   },
+   {
+    "title": "Andreas Vesalius"
+   },
+   {
+    "title": "Paracelsus"
+   },
+   {
+    "title": "Georgius Agricola"
+   },
+   {
+    "title": "Tycho Brahe"
+   },
+   {
+    "title": "Ambroise Paré"
+   },
+   {
+    "title": "Girolamo Fracastoro"
+   },
+   {
+    "title": "Conrad Gessner"
+   },
+   {
+    "title": "Leonardo da Vinci"
+   },
+   {
+    "title": "Gerardus Mercator"
+   },
+   {
+    "title": "Gerolamo Cardano"
+   },
+   {
+    "title": "Niccolò Fontana Tartaglia"
+   },
+   {
+    "title": "Simon Stevin"
+   },
+   {
+    "title": "William Gilbert (physician)"
+   },
+   {
+    "title": "Hieronymus Fabricius"
+   },
+   {
+    "title": "Michael Servetus"
+   },
+   {
+    "title": "Bartolomeo Eustachi"
+   }
+  ]
+ },
+ {
+  "tradition": "Scientific revolution",
+  "overview": "https://en.wikipedia.org/wiki/Scientific_Revolution",
+  "people": [
+   {
+    "title": "Galileo Galilei"
+   },
+   {
+    "title": "Johannes Kepler"
+   },
+   {
+    "title": "William Harvey"
+   },
+   {
+    "title": "Robert Boyle"
+   },
+   {
+    "title": "Robert Hooke"
+   },
+   {
+    "title": "Christiaan Huygens"
+   },
+   {
+    "title": "Isaac Newton"
+   },
+   {
+    "title": "Antonie van Leeuwenhoek"
+   },
+   {
+    "title": "Marcello Malpighi"
+   },
+   {
+    "title": "Jan Swammerdam"
+   },
+   {
+    "title": "Evangelista Torricelli"
+   },
+   {
+    "title": "Blaise Pascal"
+   },
+   {
+    "title": "René Descartes"
+   },
+   {
+    "title": "Otto von Guericke"
+   },
+   {
+    "title": "Giovanni Domenico Cassini"
+   },
+   {
+    "title": "Edmond Halley"
+   },
+   {
+    "title": "John Ray"
+   },
+   {
+    "title": "Jan Baptist van Helmont"
+   },
+   {
+    "title": "Francesco Redi"
+   },
+   {
+    "title": "Nicolas Steno"
+   },
+   {
+    "title": "Ole Rømer"
+   },
+   {
+    "title": "Pierre Gassendi"
+   },
+   {
+    "title": "Giovanni Alfonso Borelli"
+   }
+  ]
+ },
+ {
+  "tradition": "Enlightenment sciences",
+  "overview": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+  "people": [
+   {
+    "title": "Carl Linnaeus"
+   },
+   {
+    "title": "Georges-Louis Leclerc, Comte de Buffon"
+   },
+   {
+    "title": "Antoine Lavoisier"
+   },
+   {
+    "title": "Joseph Priestley"
+   },
+   {
+    "title": "Henry Cavendish"
+   },
+   {
+    "title": "Joseph Black"
+   },
+   {
+    "title": "Luigi Galvani"
+   },
+   {
+    "title": "Alessandro Volta"
+   },
+   {
+    "title": "Benjamin Franklin"
+   },
+   {
+    "title": "James Hutton"
+   },
+   {
+    "title": "William Herschel"
+   },
+   {
+    "title": "Caroline Herschel"
+   },
+   {
+    "title": "Charles-Augustin de Coulomb"
+   },
+   {
+    "title": "Daniel Bernoulli"
+   },
+   {
+    "title": "Leonhard Euler"
+   },
+   {
+    "title": "Émilie du Châtelet"
+   },
+   {
+    "title": "Laura Bassi"
+   },
+   {
+    "title": "Anders Celsius"
+   },
+   {
+    "title": "Jean-Baptiste Lamarck"
+   },
+   {
+    "title": "Georges Cuvier"
+   },
+   {
+    "title": "Edward Jenner"
+   },
+   {
+    "title": "John Dalton"
+   },
+   {
+    "title": "Mary Anning"
+   },
+   {
+    "title": "Mikhail Lomonosov"
+   },
+   {
+    "title": "Carl Wilhelm Scheele"
+   },
+   {
+    "title": "Lazzaro Spallanzani"
+   },
+   {
+    "title": "James Watt"
+   },
+   {
+    "title": "William Smith (geologist)"
+   }
+  ]
+ },
+ {
+  "tradition": "Nineteenth century",
+  "overview": "https://en.wikipedia.org/wiki/History_of_science",
+  "people": [
+   {
+    "title": "Charles Darwin"
+   },
+   {
+    "title": "Alfred Russel Wallace"
+   },
+   {
+    "title": "Gregor Mendel"
+   },
+   {
+    "title": "Louis Pasteur"
+   },
+   {
+    "title": "Robert Koch"
+   },
+   {
+    "title": "Joseph Lister, 1st Baron Lister"
+   },
+   {
+    "title": "Michael Faraday"
+   },
+   {
+    "title": "James Clerk Maxwell"
+   },
+   {
+    "title": "William Thomson, 1st Baron Kelvin"
+   },
+   {
+    "title": "Hermann von Helmholtz"
+   },
+   {
+    "title": "Dmitri Mendeleev"
+   },
+   {
+    "title": "Justus von Liebig"
+   },
+   {
+    "title": "Friedrich Wöhler"
+   },
+   {
+    "title": "Charles Lyell"
+   },
+   {
+    "title": "Thomas Henry Huxley"
+   },
+   {
+    "title": "Claude Bernard"
+   },
+   {
+    "title": "Rudolf Virchow"
+   },
+   {
+    "title": "Ignaz Semmelweis"
+   },
+   {
+    "title": "Florence Nightingale"
+   },
+   {
+    "title": "Ada Lovelace"
+   },
+   {
+    "title": "Mary Somerville"
+   },
+   {
+    "title": "Charles Babbage"
+   },
+   {
+    "title": "Heinrich Hertz"
+   },
+   {
+    "title": "Rudolf Clausius"
+   },
+   {
+    "title": "Svante Arrhenius"
+   },
+   {
+    "title": "Wilhelm Röntgen"
+   },
+   {
+    "title": "Ernst Haeckel"
+   },
+   {
+    "title": "Santiago Ramón y Cajal"
+   },
+   {
+    "title": "Camillo Golgi"
+   },
+   {
+    "title": "Marie Curie"
+   },
+   {
+    "title": "Louis Agassiz"
+   },
+   {
+    "title": "Asa Gray"
+   },
+   {
+    "title": "Joseph Henry"
+   },
+   {
+    "title": "Nikola Tesla"
+   },
+   {
+    "title": "Thomas Edison"
+   },
+   {
+    "title": "Alexander Graham Bell"
+   },
+   {
+    "title": "André-Marie Ampère"
+   },
+   {
+    "title": "Hans Christian Ørsted"
+   },
+   {
+    "title": "Georg Ohm"
+   },
+   {
+    "title": "Humphry Davy"
+   },
+   {
+    "title": "Joseph von Fraunhofer"
+   },
+   {
+    "title": "Gustav Kirchhoff"
+   },
+   {
+    "title": "Robert Bunsen"
+   },
+   {
+    "title": "August Kekulé"
+   },
+   {
+    "title": "Alfred Nobel"
+   },
+   {
+    "title": "Ivan Pavlov"
+   },
+   {
+    "title": "Sigmund Freud"
+   },
+   {
+    "title": "Emil Fischer"
+   },
+   {
+    "title": "Wilhelm Wundt"
+   },
+   {
+    "title": "Élie Metchnikoff"
+   },
+   {
+    "title": "Paul Ehrlich"
+   }
+  ]
+ },
+ {
+  "tradition": "Twentieth century",
+  "overview": "https://en.wikipedia.org/wiki/20th_century_in_science",
+  "people": [
+   {
+    "title": "Albert Einstein"
+   },
+   {
+    "title": "Max Planck"
+   },
+   {
+    "title": "Niels Bohr"
+   },
+   {
+    "title": "Werner Heisenberg"
+   },
+   {
+    "title": "Erwin Schrödinger"
+   },
+   {
+    "title": "Paul Dirac"
+   },
+   {
+    "title": "Enrico Fermi"
+   },
+   {
+    "title": "Richard Feynman"
+   },
+   {
+    "title": "Lise Meitner"
+   },
+   {
+    "title": "Otto Hahn"
+   },
+   {
+    "title": "Ernest Rutherford"
+   },
+   {
+    "title": "Edwin Hubble"
+   },
+   {
+    "title": "Georges Lemaître"
+   },
+   {
+    "title": "Alexander Fleming"
+   },
+   {
+    "title": "Howard Florey"
+   },
+   {
+    "title": "Jonas Salk"
+   },
+   {
+    "title": "Rosalind Franklin"
+   },
+   {
+    "title": "Francis Crick"
+   },
+   {
+    "title": "James Watson"
+   },
+   {
+    "title": "Linus Pauling"
+   },
+   {
+    "title": "Barbara McClintock"
+   },
+   {
+    "title": "Dorothy Crowfoot Hodgkin"
+   },
+   {
+    "title": "Alan Turing"
+   },
+   {
+    "title": "John von Neumann"
+   },
+   {
+    "title": "Claude Shannon"
+   },
+   {
+    "title": "Emmy Noether"
+   },
+   {
+    "title": "Lev Landau"
+   },
+   {
+    "title": "Andrei Sakharov"
+   },
+   {
+    "title": "Stephen Hawking"
+   },
+   {
+    "title": "Carl Sagan"
+   },
+   {
+    "title": "Jane Goodall"
+   },
+   {
+    "title": "Rachel Carson"
+   },
+   {
+    "title": "Konrad Lorenz"
+   },
+   {
+    "title": "Ernst Mayr"
+   },
+   {
+    "title": "Theodosius Dobzhansky"
+   },
+   {
+    "title": "Ronald Fisher"
+   },
+   {
+    "title": "J. B. S. Haldane"
+   },
+   {
+    "title": "Frederick Sanger"
+   },
+   {
+    "title": "Fritz Haber"
+   },
+   {
+    "title": "Wallace Carothers"
+   },
+   {
+    "title": "Hans Bethe"
+   },
+   {
+    "title": "Rita Levi-Montalcini"
+   },
+   {
+    "title": "Vera Rubin"
+   },
+   {
+    "title": "Jocelyn Bell Burnell"
+   },
+   {
+    "title": "Tim Berners-Lee"
+   },
+   {
+    "title": "Hedy Lamarr"
+   },
+   {
+    "title": "Grace Hopper"
+   },
+   {
+    "title": "Wernher von Braun"
+   },
+   {
+    "title": "Sergei Korolev"
+   },
+   {
+    "title": "Robert Oppenheimer"
+   }
+  ]
+ }
+]

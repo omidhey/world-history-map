@@ -1,0 +1,22 @@
+{
+  "id": "the-divine-comedy",
+  "wikidata": "Q40185",
+  "name": "The Divine Comedy",
+  "category": "work",
+  "start": 1320,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.77,
+    "lon": 11.25,
+    "place": "Florence"
+  },
+  "summary": "Italian narrative poem by Dante Alighieri, associated with Florence. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Divine_Comedy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40185",
+    "https://en.wikipedia.org/wiki/Divine_Comedy"
+  ],
+  "disputed": false
+}

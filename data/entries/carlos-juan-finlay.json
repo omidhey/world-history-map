@@ -1,0 +1,23 @@
+{
+  "id": "carlos-juan-finlay",
+  "wikidata": "Q742233",
+  "name": "Carlos Juan Finlay",
+  "category": "scientist",
+  "start": 1833,
+  "end": 1915,
+  "date_precision": "day",
+  "location": {
+    "lat": 21.38,
+    "lon": -77.92,
+    "place": "Camagüey"
+  },
+  "summary": "Cuban physician discoverer of means of transmission of yellow fever through biological vector (1833–1915), born in Camagüey. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Finlay"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q742233",
+    "https://en.wikipedia.org/wiki/Carlos_Finlay"
+  ],
+  "disputed": false
+}

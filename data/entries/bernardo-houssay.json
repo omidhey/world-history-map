@@ -1,0 +1,23 @@
+{
+  "id": "bernardo-houssay",
+  "wikidata": "Q237160",
+  "name": "Bernardo Houssay",
+  "category": "scientist",
+  "start": 1887,
+  "end": 1971,
+  "date_precision": "day",
+  "location": {
+    "lat": -34.6,
+    "lon": -58.38,
+    "place": "Buenos Aires"
+  },
+  "summary": "Argentine physician (1887–1971), born in Buenos Aires. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_Houssay"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q237160",
+    "https://en.wikipedia.org/wiki/Bernardo_Houssay"
+  ],
+  "disputed": false
+}

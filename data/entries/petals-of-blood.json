@@ -1,0 +1,22 @@
+{
+  "id": "petals-of-blood",
+  "wikidata": "Q7171660",
+  "name": "Petals of Blood",
+  "category": "work",
+  "start": 1977,
+  "date_precision": "year",
+  "location": {
+    "lat": -1.12,
+    "lon": 36.63,
+    "place": "Kamirithu"
+  },
+  "summary": "Novel by Ngũgĩ wa Thiong'o, associated with Kamirithu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Petals_of_Blood"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7171660",
+    "https://en.wikipedia.org/wiki/Petals_of_Blood"
+  ],
+  "disputed": false
+}

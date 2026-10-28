@@ -1,0 +1,23 @@
+{
+  "id": "ibn-battuta",
+  "wikidata": "Q7331",
+  "name": "Ibn Battuta",
+  "category": "writer",
+  "start": 1304,
+  "end": 1368,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.77,
+    "lon": -5.8,
+    "place": "Tangier"
+  },
+  "summary": "14th century Muslim Maghrebi scholar and explorer, born in Tangier. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Battuta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7331",
+    "https://en.wikipedia.org/wiki/Ibn_Battuta"
+  ],
+  "disputed": false
+}

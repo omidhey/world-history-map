@@ -1,0 +1,23 @@
+{
+  "id": "pbitek-okot",
+  "wikidata": "Q1113362",
+  "name": "p’Bitek Okot",
+  "category": "writer",
+  "start": 1931,
+  "end": 1982,
+  "date_precision": "day",
+  "location": {
+    "lat": 2.77,
+    "lon": 32.31,
+    "place": "Gulu City"
+  },
+  "summary": "Ugandan poet (1931–1982), born in Gulu City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Okot_p'Bitek"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1113362",
+    "https://en.wikipedia.org/wiki/Okot_p'Bitek"
+  ],
+  "disputed": false
+}

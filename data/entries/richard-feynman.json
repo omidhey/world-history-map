@@ -1,0 +1,23 @@
+{
+  "id": "richard-feynman",
+  "wikidata": "Q39246",
+  "name": "Richard Feynman",
+  "category": "scientist",
+  "start": 1918,
+  "end": 1988,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.6,
+    "lon": -73.76,
+    "place": "Far Rockaway"
+  },
+  "summary": "American theoretical physicist (1918–1988), born in Far Rockaway. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Feynman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39246",
+    "https://en.wikipedia.org/wiki/Richard_Feynman"
+  ],
+  "disputed": false
+}

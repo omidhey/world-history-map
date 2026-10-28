@@ -1,0 +1,23 @@
+{
+  "id": "daniel-bernoulli",
+  "wikidata": "Q122366",
+  "name": "Daniel Bernoulli",
+  "category": "scientist",
+  "start": 1700,
+  "end": 1782,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.22,
+    "lon": 6.57,
+    "place": "Groningen"
+  },
+  "summary": "Swiss mathematician and physicist (1700-1782), born in Groningen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Bernoulli"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q122366",
+    "https://en.wikipedia.org/wiki/Daniel_Bernoulli"
+  ],
+  "disputed": false
+}

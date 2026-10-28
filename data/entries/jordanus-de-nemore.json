@@ -1,0 +1,23 @@
+{
+  "id": "jordanus-de-nemore",
+  "wikidata": "Q1232954",
+  "name": "Jordanus de Nemore",
+  "category": "scientist",
+  "start": 1225,
+  "end": 1260,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.57,
+    "lon": 9.24,
+    "place": "Borgentreich"
+  },
+  "summary": "Mathematician, born in Borgentreich. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordanus_de_Nemore"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1232954",
+    "https://en.wikipedia.org/wiki/Jordanus_de_Nemore"
+  ],
+  "disputed": false
+}

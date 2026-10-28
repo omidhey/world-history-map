@@ -1,0 +1,41 @@
+{
+  "id": "kamala-sohonie",
+  "wikidata": "Q7406",
+  "name": "Kamala Sohonie",
+  "category": "scientist",
+  "start": 1911,
+  "end": 1998,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.72,
+    "lon": 75.86,
+    "place": "Indore"
+  },
+  "summary": "Indian biochemist (1911–1998), born in Indore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamala_Sohonie"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7406",
+    "https://en.wikipedia.org/wiki/Kamala_Sohonie"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1911,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7406"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1912,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7406"
+      ]
+    }
+  ]
+}

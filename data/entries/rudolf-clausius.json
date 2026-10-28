@@ -1,0 +1,23 @@
+{
+  "id": "rudolf-clausius",
+  "wikidata": "Q30693",
+  "name": "Rudolf Clausius",
+  "category": "scientist",
+  "start": 1822,
+  "end": 1888,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.19,
+    "lon": 16.18,
+    "place": "Koszalin"
+  },
+  "summary": "German mathematical physicist and professor (1822–1888), born in Koszalin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Clausius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q30693",
+    "https://en.wikipedia.org/wiki/Rudolf_Clausius"
+  ],
+  "disputed": false
+}

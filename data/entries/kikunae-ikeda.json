@@ -1,0 +1,23 @@
+{
+  "id": "kikunae-ikeda",
+  "wikidata": "Q380575",
+  "name": "Kikunae Ikeda",
+  "category": "scientist",
+  "start": 1864,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Kyoto"
+  },
+  "summary": "Japanese chemist (1864–1936), born in Kyoto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kikunae_Ikeda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q380575",
+    "https://en.wikipedia.org/wiki/Kikunae_Ikeda"
+  ],
+  "disputed": false
+}

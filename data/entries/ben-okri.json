@@ -1,0 +1,22 @@
+{
+  "id": "ben-okri",
+  "wikidata": "Q315362",
+  "name": "Ben Okri",
+  "category": "writer",
+  "start": 1959,
+  "date_precision": "day",
+  "location": {
+    "lat": 9.61,
+    "lon": 6.56,
+    "place": "Minna"
+  },
+  "summary": "Nigerian-born British poet and novelist (1959-), born in Minna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Okri"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315362",
+    "https://en.wikipedia.org/wiki/Ben_Okri"
+  ],
+  "disputed": false
+}

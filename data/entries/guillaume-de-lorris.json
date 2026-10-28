@@ -1,0 +1,23 @@
+{
+  "id": "guillaume-de-lorris",
+  "wikidata": "Q544959",
+  "name": "Guillaume de Lorris",
+  "category": "writer",
+  "start": 1200,
+  "end": 1238,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.89,
+    "lon": 2.51,
+    "place": "Lorris"
+  },
+  "summary": "French scholar and poet from Lorris (1200–1238), born in Lorris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillaume_de_Lorris"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q544959",
+    "https://en.wikipedia.org/wiki/Guillaume_de_Lorris"
+  ],
+  "disputed": false
+}

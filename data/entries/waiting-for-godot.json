@@ -1,0 +1,22 @@
+{
+  "id": "waiting-for-godot",
+  "wikidata": "Q19871",
+  "name": "Waiting for Godot",
+  "category": "work",
+  "start": 1952,
+  "date_precision": "year",
+  "location": {
+    "lat": 53.27,
+    "lon": -6.17,
+    "place": "Foxrock"
+  },
+  "summary": "Play by Samuel Beckett, associated with Foxrock. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Waiting_for_Godot"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q19871",
+    "https://en.wikipedia.org/wiki/Waiting_for_Godot"
+  ],
+  "disputed": false
+}

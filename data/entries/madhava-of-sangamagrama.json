@@ -1,0 +1,23 @@
+{
+  "id": "madhava-of-sangamagrama",
+  "wikidata": "Q115590",
+  "name": "Madhava of Sangamagrama",
+  "category": "scientist",
+  "start": 1340,
+  "end": 1425,
+  "date_precision": "year",
+  "location": {
+    "lat": 22.21,
+    "lon": 76.97,
+    "place": "Indian subcontinent"
+  },
+  "summary": "Indian mathematician and astronomer (c.1340-c.1425), died in Indian subcontinent. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q115590",
+    "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama"
+  ],
+  "disputed": false
+}

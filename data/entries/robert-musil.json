@@ -1,0 +1,23 @@
+{
+  "id": "robert-musil",
+  "wikidata": "Q78487",
+  "name": "Robert Musil",
+  "category": "writer",
+  "start": 1880,
+  "end": 1942,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.61,
+    "lon": 14.31,
+    "place": "St. Ruprecht"
+  },
+  "summary": "Austrian philosophical writer (1880–1942), born in St. Ruprecht. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Musil"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q78487",
+    "https://en.wikipedia.org/wiki/Robert_Musil"
+  ],
+  "disputed": false
+}

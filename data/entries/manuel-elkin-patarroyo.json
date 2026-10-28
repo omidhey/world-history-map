@@ -1,0 +1,23 @@
+{
+  "id": "manuel-elkin-patarroyo",
+  "wikidata": "Q977933",
+  "name": "Manuel Elkin Patarroyo",
+  "category": "scientist",
+  "start": 1946,
+  "end": 2025,
+  "date_precision": "day",
+  "location": {
+    "lat": 3.59,
+    "lon": -75.38,
+    "place": "Ataco"
+  },
+  "summary": "Colombian scientist (1946–2025), born in Ataco. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Elkin_Patarroyo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q977933",
+    "https://en.wikipedia.org/wiki/Manuel_Elkin_Patarroyo"
+  ],
+  "disputed": false
+}

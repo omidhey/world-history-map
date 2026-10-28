@@ -1,0 +1,23 @@
+{
+  "id": "callimachus",
+  "wikidata": "Q192417",
+  "name": "Callimachus",
+  "category": "writer",
+  "start": -305,
+  "end": -240,
+  "date_precision": "century",
+  "location": {
+    "lat": 32.82,
+    "lon": 21.85,
+    "place": "Cyrene"
+  },
+  "summary": "3rd-century BC Greek poet, scholar and librarian, born in Cyrene. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Callimachus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192417",
+    "https://en.wikipedia.org/wiki/Callimachus"
+  ],
+  "disputed": false
+}

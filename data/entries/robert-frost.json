@@ -1,0 +1,23 @@
+{
+  "id": "robert-frost",
+  "wikidata": "Q168728",
+  "name": "Robert Frost",
+  "category": "writer",
+  "start": 1874,
+  "end": 1963,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.77,
+    "lon": -122.42,
+    "place": "San Francisco"
+  },
+  "summary": "American poet (1874–1963), born in San Francisco. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Frost"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q168728",
+    "https://en.wikipedia.org/wiki/Robert_Frost"
+  ],
+  "disputed": false
+}

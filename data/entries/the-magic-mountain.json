@@ -1,0 +1,22 @@
+{
+  "id": "the-magic-mountain",
+  "wikidata": "Q212898",
+  "name": "The Magic Mountain",
+  "category": "work",
+  "start": 1924,
+  "date_precision": "year",
+  "location": {
+    "lat": 53.87,
+    "lon": 10.69,
+    "place": "Lübeck"
+  },
+  "summary": "1924 novel by Thomas Mann, associated with Lübeck. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q212898",
+    "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+  ],
+  "disputed": false
+}

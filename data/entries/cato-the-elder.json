@@ -1,0 +1,23 @@
+{
+  "id": "cato-the-elder",
+  "wikidata": "Q180081",
+  "name": "Cato the Elder",
+  "category": "philosopher",
+  "start": -234,
+  "end": -149,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.8,
+    "lon": 12.71,
+    "place": "Tusculum"
+  },
+  "summary": "Roman politician, soldier and writer (234–149 BC), born in Tusculum. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cato_the_Elder"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q180081",
+    "https://en.wikipedia.org/wiki/Cato_the_Elder"
+  ],
+  "disputed": false
+}

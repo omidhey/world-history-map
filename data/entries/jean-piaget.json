@@ -1,0 +1,23 @@
+{
+  "id": "jean-piaget",
+  "wikidata": "Q123190",
+  "name": "Jean Piaget",
+  "category": "philosopher",
+  "start": 1896,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.99,
+    "lon": 6.93,
+    "place": "Neuchâtel"
+  },
+  "summary": "Swiss psychologist, biologist, logician, philosopher and academic (1896–1980), born in Neuchâtel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Piaget"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q123190",
+    "https://en.wikipedia.org/wiki/Jean_Piaget"
+  ],
+  "disputed": false
+}

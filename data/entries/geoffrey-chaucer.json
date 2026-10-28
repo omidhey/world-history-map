@@ -1,0 +1,23 @@
+{
+  "id": "geoffrey-chaucer",
+  "wikidata": "Q5683",
+  "name": "Geoffrey Chaucer",
+  "category": "philosopher",
+  "start": 1343,
+  "end": 1400,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "14th century English poet and author (1343–1400), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5683",
+    "https://en.wikipedia.org/wiki/Geoffrey_Chaucer"
+  ],
+  "disputed": false
+}

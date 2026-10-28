@@ -1,0 +1,23 @@
+{
+  "id": "diogenes-of-sinope",
+  "wikidata": "Q59180",
+  "name": "Diogenes of Sinope",
+  "category": "philosopher",
+  "start": -400,
+  "end": -323,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.02,
+    "lon": 35.14,
+    "place": "Sinope"
+  },
+  "summary": "4th-century BC Greek Cynic philosopher, born in Sinope. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Diogenes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q59180",
+    "https://en.wikipedia.org/wiki/Diogenes"
+  ],
+  "disputed": false
+}

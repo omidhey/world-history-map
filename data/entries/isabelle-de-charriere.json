@@ -1,0 +1,23 @@
+{
+  "id": "isabelle-de-charriere",
+  "wikidata": "Q123386",
+  "name": "Isabelle de Charrière",
+  "category": "philosopher",
+  "start": 1740,
+  "end": 1805,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.13,
+    "lon": 5.07,
+    "place": "Zuylen Castle"
+  },
+  "summary": "Dutch French-language writer and composer (1740-1805), born in Zuylen Castle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabelle_de_Charri%C3%A8re"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q123386",
+    "https://en.wikipedia.org/wiki/Isabelle_de_Charri%C3%A8re"
+  ],
+  "disputed": false
+}

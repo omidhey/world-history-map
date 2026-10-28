@@ -1,0 +1,23 @@
+{
+  "id": "samuel-taylor-coleridge",
+  "wikidata": "Q82409",
+  "name": "Samuel Taylor Coleridge",
+  "category": "philosopher",
+  "start": 1772,
+  "end": 1834,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.75,
+    "lon": -3.28,
+    "place": "Ottery St Mary"
+  },
+  "summary": "English poet, literary critic and philosopher (1772–1834), born in Ottery St Mary. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q82409",
+    "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge"
+  ],
+  "disputed": false
+}

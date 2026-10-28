@@ -1,0 +1,23 @@
+{
+  "id": "emmanuel-swedenborg",
+  "wikidata": "Q185832",
+  "name": "Emmanuel Swedenborg",
+  "category": "philosopher",
+  "start": 1688,
+  "end": 1772,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.33,
+    "lon": 18.07,
+    "place": "Jakob and Johannes parish"
+  },
+  "summary": "Swedish 18th century scientist and theologian (1688-1772), born in Jakob and Johannes parish. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185832",
+    "https://en.wikipedia.org/wiki/Emanuel_Swedenborg"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "simone-weil",
+  "wikidata": "Q157309",
+  "name": "Simone Weil",
+  "category": "philosopher",
+  "start": 1909,
+  "end": 1943,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French philosopher, writer, and social activist (1909–1943), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Weil"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157309",
+    "https://en.wikipedia.org/wiki/Simone_Weil"
+  ],
+  "disputed": false
+}

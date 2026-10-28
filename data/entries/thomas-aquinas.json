@@ -1,0 +1,23 @@
+{
+  "id": "thomas-aquinas",
+  "wikidata": "Q9438",
+  "name": "Thomas Aquinas",
+  "category": "philosopher",
+  "start": 1225,
+  "end": 1274,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.55,
+    "lon": 13.67,
+    "place": "castle of the counts of Aquino"
+  },
+  "summary": "Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church (1225–1274), born in castle of the counts of Aquino. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9438",
+    "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+  ],
+  "disputed": false
+}

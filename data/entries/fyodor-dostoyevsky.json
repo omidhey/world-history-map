@@ -1,0 +1,23 @@
+{
+  "id": "fyodor-dostoyevsky",
+  "wikidata": "Q991",
+  "name": "Fyodor Dostoyevsky",
+  "category": "philosopher",
+  "start": 1821,
+  "end": 1881,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.78,
+    "lon": 37.61,
+    "place": "Mariinsky Hospital for the Poor"
+  },
+  "summary": "Russian novelist and philosopher (1821–1881), born in Mariinsky Hospital for the Poor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q991",
+    "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"
+  ],
+  "disputed": false
+}

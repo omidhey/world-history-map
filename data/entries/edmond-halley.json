@@ -1,0 +1,23 @@
+{
+  "id": "edmond-halley",
+  "wikidata": "Q47434",
+  "name": "Edmond Halley",
+  "category": "philosopher",
+  "start": 1656,
+  "end": 1742,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.53,
+    "lon": -0.08,
+    "place": "Haggerston"
+  },
+  "summary": "English astronomer, mathematician, geophysicist, meteorologist and physicist (1656–1742), born in Haggerston. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmond_Halley"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47434",
+    "https://en.wikipedia.org/wiki/Edmond_Halley"
+  ],
+  "disputed": false
+}

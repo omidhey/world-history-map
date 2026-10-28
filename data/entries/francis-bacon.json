@@ -1,0 +1,23 @@
+{
+  "id": "francis-bacon",
+  "wikidata": "Q37388",
+  "name": "Francis Bacon",
+  "category": "philosopher",
+  "start": 1561,
+  "end": 1626,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.12,
+    "place": "York House, Strand"
+  },
+  "summary": "English philosopher and statesman (1561–1626), born in York House, Strand. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37388",
+    "https://en.wikipedia.org/wiki/Francis_Bacon"
+  ],
+  "disputed": false
+}

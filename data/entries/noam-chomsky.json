@@ -1,0 +1,22 @@
+{
+  "id": "noam-chomsky",
+  "wikidata": "Q9049",
+  "name": "Noam Chomsky",
+  "category": "philosopher",
+  "start": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.95,
+    "lon": -75.16,
+    "place": "Philadelphia"
+  },
+  "summary": "American linguist and activist (born 1928), born in Philadelphia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Noam_Chomsky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9049",
+    "https://en.wikipedia.org/wiki/Noam_Chomsky"
+  ],
+  "disputed": false
+}

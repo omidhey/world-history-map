@@ -1,0 +1,23 @@
+{
+  "id": "david-ricardo",
+  "wikidata": "Q160270",
+  "name": "David Ricardo",
+  "category": "philosopher",
+  "start": 1772,
+  "end": 1823,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "British banker, classical economist and politician (1772-1823), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Ricardo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160270",
+    "https://en.wikipedia.org/wiki/David_Ricardo"
+  ],
+  "disputed": false
+}

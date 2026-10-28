@@ -1,0 +1,23 @@
+{
+  "id": "max-weber",
+  "wikidata": "Q9387",
+  "name": "Max Weber",
+  "category": "philosopher",
+  "start": 1864,
+  "end": 1920,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.98,
+    "lon": 11.03,
+    "place": "Erfurt"
+  },
+  "summary": "German sociologist, philosopher, and political economist (1864–1920), born in Erfurt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Weber"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9387",
+    "https://en.wikipedia.org/wiki/Max_Weber"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ptolemy",
+  "wikidata": "Q34943",
+  "name": "Ptolemy",
+  "category": "philosopher",
+  "start": 100,
+  "end": 170,
+  "date_precision": "year",
+  "location": {
+    "lat": 26.48,
+    "lon": 31.8,
+    "place": "Ptolemais Hermiou"
+  },
+  "summary": "2nd-century Roman mathematician, astronomer, geographer, born in Ptolemais Hermiou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ptolemy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34943",
+    "https://en.wikipedia.org/wiki/Ptolemy"
+  ],
+  "disputed": false
+}

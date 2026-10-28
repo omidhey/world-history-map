@@ -1,0 +1,23 @@
+{
+  "id": "robert-owen",
+  "wikidata": "Q179374",
+  "name": "Robert Owen",
+  "category": "philosopher",
+  "start": 1771,
+  "end": 1858,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.51,
+    "lon": -3.31,
+    "place": "Newtown"
+  },
+  "summary": "Welsh textile manufacturer and social reformer (1771–1858), born in Newtown. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Owen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179374",
+    "https://en.wikipedia.org/wiki/Robert_Owen"
+  ],
+  "disputed": false
+}

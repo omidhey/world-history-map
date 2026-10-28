@@ -1,0 +1,23 @@
+{
+  "id": "sophocles",
+  "wikidata": "Q7235",
+  "name": "Sophocles",
+  "category": "philosopher",
+  "start": -496,
+  "end": -406,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.0,
+    "lon": 23.72,
+    "place": "Colonus"
+  },
+  "summary": "Ancient Greek playwright, born in Colonus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophocles"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7235",
+    "https://en.wikipedia.org/wiki/Sophocles"
+  ],
+  "disputed": false
+}

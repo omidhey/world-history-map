@@ -1,0 +1,23 @@
+{
+  "id": "lewis-carroll",
+  "wikidata": "Q38082",
+  "name": "Lewis Carroll",
+  "category": "philosopher",
+  "start": 1832,
+  "end": 1898,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.34,
+    "lon": -2.63,
+    "place": "Daresbury"
+  },
+  "summary": "British author and scholar (1832–1898), born in Daresbury. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Carroll"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q38082",
+    "https://en.wikipedia.org/wiki/Lewis_Carroll"
+  ],
+  "disputed": false
+}

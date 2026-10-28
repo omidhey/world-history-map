@@ -1,0 +1,23 @@
+{
+  "id": "max-planck",
+  "wikidata": "Q9021",
+  "name": "Max Planck",
+  "category": "philosopher",
+  "start": 1858,
+  "end": 1947,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.32,
+    "lon": 10.14,
+    "place": "Kiel"
+  },
+  "summary": "German theoretical physicist (1858–1947), born in Kiel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Planck"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9021",
+    "https://en.wikipedia.org/wiki/Max_Planck"
+  ],
+  "disputed": false
+}

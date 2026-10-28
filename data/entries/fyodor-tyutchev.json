@@ -1,0 +1,23 @@
+{
+  "id": "fyodor-tyutchev",
+  "wikidata": "Q37217",
+  "name": "Fyodor Tyutchev",
+  "category": "philosopher",
+  "start": 1803,
+  "end": 1873,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.37,
+    "lon": 33.88,
+    "place": "Ovstug"
+  },
+  "summary": "Russian poet (1803–1873), born in Ovstug. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fyodor_Tyutchev"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37217",
+    "https://en.wikipedia.org/wiki/Fyodor_Tyutchev"
+  ],
+  "disputed": false
+}

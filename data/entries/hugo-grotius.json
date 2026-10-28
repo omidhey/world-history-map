@@ -1,0 +1,23 @@
+{
+  "id": "hugo-grotius",
+  "wikidata": "Q154959",
+  "name": "Hugo Grotius",
+  "category": "philosopher",
+  "start": 1583,
+  "end": 1645,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.01,
+    "lon": 4.36,
+    "place": "Delft"
+  },
+  "summary": "Dutch jurist and scholar (1583-1645), born in Delft. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Grotius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q154959",
+    "https://en.wikipedia.org/wiki/Hugo_Grotius"
+  ],
+  "disputed": false
+}

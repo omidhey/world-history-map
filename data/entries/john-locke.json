@@ -1,0 +1,23 @@
+{
+  "id": "john-locke",
+  "wikidata": "Q9353",
+  "name": "John Locke",
+  "category": "philosopher",
+  "start": 1632,
+  "end": 1704,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.36,
+    "lon": -2.76,
+    "place": "Wrington"
+  },
+  "summary": "English philosopher and physician (1632-1704), born in Wrington. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Locke"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9353",
+    "https://en.wikipedia.org/wiki/John_Locke"
+  ],
+  "disputed": false
+}

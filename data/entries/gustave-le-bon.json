@@ -1,0 +1,23 @@
+{
+  "id": "gustave-le-bon",
+  "wikidata": "Q294572",
+  "name": "Gustave Le Bon",
+  "category": "philosopher",
+  "start": 1841,
+  "end": 1931,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.32,
+    "lon": 0.82,
+    "place": "Nogent-le-Rotrou"
+  },
+  "summary": "French psychologist (1841-1931), born in Nogent-le-Rotrou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Le_Bon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q294572",
+    "https://en.wikipedia.org/wiki/Gustave_Le_Bon"
+  ],
+  "disputed": false
+}

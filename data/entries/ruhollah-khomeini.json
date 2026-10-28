@@ -1,0 +1,41 @@
+{
+  "id": "ruhollah-khomeini",
+  "wikidata": "Q38823",
+  "name": "Ruhollah Khomeini",
+  "category": "philosopher",
+  "start": 1900,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.64,
+    "lon": 50.08,
+    "place": "Khomein"
+  },
+  "summary": "Supreme Leader of Iran from 1979 to 1989, born in Khomein. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q38823",
+    "https://en.wikipedia.org/wiki/Ruhollah_Khomeini"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1900,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q38823"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1902,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q38823"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "albert-schweitzer",
+  "wikidata": "Q49325",
+  "name": "Albert Schweitzer",
+  "category": "philosopher",
+  "start": 1875,
+  "end": 1965,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.14,
+    "lon": 7.26,
+    "place": "Kaysersberg"
+  },
+  "summary": "French-German physician, theologian, musician, and philosopher (1875-1965), born in Kaysersberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Schweitzer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q49325",
+    "https://en.wikipedia.org/wiki/Albert_Schweitzer"
+  ],
+  "disputed": false
+}

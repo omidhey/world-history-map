@@ -1,0 +1,23 @@
+{
+  "id": "andre-marie-ampere",
+  "wikidata": "Q675",
+  "name": "André-Marie Ampère",
+  "category": "philosopher",
+  "start": 1775,
+  "end": 1836,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.77,
+    "lon": 4.83,
+    "place": "Lyon"
+  },
+  "summary": "French physicist and mathematician (1775–1836), born in Lyon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q675",
+    "https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re"
+  ],
+  "disputed": false
+}

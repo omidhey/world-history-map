@@ -1,0 +1,23 @@
+{
+  "id": "johann-gottfried-herder",
+  "wikidata": "Q155547",
+  "name": "Johann Gottfried Herder",
+  "category": "philosopher",
+  "start": 1744,
+  "end": 1803,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.92,
+    "lon": 19.93,
+    "place": "Morąg"
+  },
+  "summary": "German philosopher, theologian, poet (1744–1803), born in Morąg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottfried_Herder"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155547",
+    "https://en.wikipedia.org/wiki/Johann_Gottfried_Herder"
+  ],
+  "disputed": false
+}

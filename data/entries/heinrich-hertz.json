@@ -1,0 +1,23 @@
+{
+  "id": "heinrich-hertz",
+  "wikidata": "Q41257",
+  "name": "Heinrich Hertz",
+  "category": "philosopher",
+  "start": 1857,
+  "end": 1894,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.55,
+    "lon": 10.0,
+    "place": "Hamburg"
+  },
+  "summary": "German physicist (1857–1894), born in Hamburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41257",
+    "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+  ],
+  "disputed": false
+}

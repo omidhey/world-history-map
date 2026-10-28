@@ -1,0 +1,23 @@
+{
+  "id": "rosa-luxemburg",
+  "wikidata": "Q7231",
+  "name": "Rosa Luxemburg",
+  "category": "philosopher",
+  "start": 1871,
+  "end": 1919,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.72,
+    "lon": 23.26,
+    "place": "Zamość"
+  },
+  "summary": "Polish-German Marxist revolutionary (1871–1919), born in Zamość. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_Luxemburg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7231",
+    "https://en.wikipedia.org/wiki/Rosa_Luxemburg"
+  ],
+  "disputed": false
+}

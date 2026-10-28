@@ -1,0 +1,23 @@
+{
+  "id": "democritus",
+  "wikidata": "Q41980",
+  "name": "Democritus",
+  "category": "philosopher",
+  "start": -460,
+  "end": -360,
+  "date_precision": "decade",
+  "location": {
+    "lat": 40.93,
+    "lon": 24.97,
+    "place": "Ancient Abdera"
+  },
+  "summary": "Greek philosopher (c. 460–c. 370 BC), born in Ancient Abdera. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Democritus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41980",
+    "https://en.wikipedia.org/wiki/Democritus"
+  ],
+  "disputed": false
+}

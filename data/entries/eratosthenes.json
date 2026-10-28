@@ -1,0 +1,23 @@
+{
+  "id": "eratosthenes",
+  "wikidata": "Q43182",
+  "name": "Eratosthenes",
+  "category": "philosopher",
+  "start": -276,
+  "end": -194,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.82,
+    "lon": 21.85,
+    "place": "Cyrene"
+  },
+  "summary": "Greek mathematician, geographer, poet, astronomer, librarian and music theorist, born in Cyrene. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eratosthenes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43182",
+    "https://en.wikipedia.org/wiki/Eratosthenes"
+  ],
+  "disputed": false
+}

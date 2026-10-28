@@ -1,0 +1,23 @@
+{
+  "id": "thomas-paine",
+  "wikidata": "Q126462",
+  "name": "Thomas Paine",
+  "category": "philosopher",
+  "start": 1737,
+  "end": 1809,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.41,
+    "lon": 0.74,
+    "place": "Thetford"
+  },
+  "summary": "American Founding Father, philosopher, and political activist (1737–1809), born in Thetford. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q126462",
+    "https://en.wikipedia.org/wiki/Thomas_Paine"
+  ],
+  "disputed": false
+}

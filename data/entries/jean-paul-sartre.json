@@ -1,0 +1,23 @@
+{
+  "id": "jean-paul-sartre",
+  "wikidata": "Q9364",
+  "name": "Jean-Paul Sartre",
+  "category": "philosopher",
+  "start": 1905,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French existentialist philosopher (1905–1980), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9364",
+    "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+  ],
+  "disputed": false
+}

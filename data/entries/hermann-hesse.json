@@ -1,0 +1,23 @@
+{
+  "id": "hermann-hesse",
+  "wikidata": "Q25973",
+  "name": "Hermann Hesse",
+  "category": "philosopher",
+  "start": 1877,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.71,
+    "lon": 8.74,
+    "place": "Calw"
+  },
+  "summary": "Nobel Prize winning German-Swiss poet, novelist and painter (1877–1962), born in Calw. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Hesse"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q25973",
+    "https://en.wikipedia.org/wiki/Hermann_Hesse"
+  ],
+  "disputed": false
+}

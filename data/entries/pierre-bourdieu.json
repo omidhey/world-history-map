@@ -1,0 +1,23 @@
+{
+  "id": "pierre-bourdieu",
+  "wikidata": "Q156268",
+  "name": "Pierre Bourdieu",
+  "category": "philosopher",
+  "start": 1930,
+  "end": 2002,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.36,
+    "lon": -0.51,
+    "place": "Denguin"
+  },
+  "summary": "French sociologist, anthropologist, and philosopher (1930–2002), born in Denguin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Bourdieu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q156268",
+    "https://en.wikipedia.org/wiki/Pierre_Bourdieu"
+  ],
+  "disputed": false
+}

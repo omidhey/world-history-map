@@ -1,0 +1,23 @@
+{
+  "id": "max-stirner",
+  "wikidata": "Q76725",
+  "name": "Max Stirner",
+  "category": "philosopher",
+  "start": 1806,
+  "end": 1856,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.95,
+    "lon": 11.58,
+    "place": "Bayreuth"
+  },
+  "summary": "German philosopher (1806–1856), born in Bayreuth. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Stirner"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76725",
+    "https://en.wikipedia.org/wiki/Max_Stirner"
+  ],
+  "disputed": false
+}

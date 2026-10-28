@@ -1,0 +1,22 @@
+{
+  "id": "roger-penrose",
+  "wikidata": "Q193803",
+  "name": "Roger Penrose",
+  "category": "philosopher",
+  "start": 1931,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.89,
+    "lon": 0.9,
+    "place": "Colchester"
+  },
+  "summary": "English mathematical physicist, recreational mathematician and philosopher, born in Colchester. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Penrose"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193803",
+    "https://en.wikipedia.org/wiki/Roger_Penrose"
+  ],
+  "disputed": false
+}

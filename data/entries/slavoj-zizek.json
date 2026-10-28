@@ -1,0 +1,22 @@
+{
+  "id": "slavoj-zizek",
+  "wikidata": "Q184750",
+  "name": "Slavoj Žižek",
+  "category": "philosopher",
+  "start": 1949,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.05,
+    "lon": 14.51,
+    "place": "Ljubljana"
+  },
+  "summary": "Slovenian philosopher (born 1949), born in Ljubljana. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184750",
+    "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek"
+  ],
+  "disputed": false
+}

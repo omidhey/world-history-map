@@ -1,0 +1,23 @@
+{
+  "id": "charles-darwin",
+  "wikidata": "Q1035",
+  "name": "Charles Darwin",
+  "category": "philosopher",
+  "start": 1809,
+  "end": 1882,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.71,
+    "lon": -2.76,
+    "place": "The Mount"
+  },
+  "summary": "English naturalist and biologist (1809–1882), born in The Mount. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1035",
+    "https://en.wikipedia.org/wiki/Charles_Darwin"
+  ],
+  "disputed": false
+}

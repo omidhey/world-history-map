@@ -1,0 +1,23 @@
+{
+  "id": "friedrich-hayek",
+  "wikidata": "Q1325",
+  "name": "Friedrich Hayek",
+  "category": "philosopher",
+  "start": 1899,
+  "end": 1992,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian and British economist (1899–1992), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Hayek"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1325",
+    "https://en.wikipedia.org/wiki/Friedrich_Hayek"
+  ],
+  "disputed": false
+}

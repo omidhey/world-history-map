@@ -1,0 +1,23 @@
+{
+  "id": "elias-canetti",
+  "wikidata": "Q80064",
+  "name": "Elias Canetti",
+  "category": "philosopher",
+  "start": 1905,
+  "end": 1994,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.84,
+    "lon": 25.95,
+    "place": "Ruse"
+  },
+  "summary": "Bulgarian-born Swiss and British Jewish modernist novelist, playwright, memoirist, and non-fiction writer (1905–1994), born in Ruse. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Canetti"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80064",
+    "https://en.wikipedia.org/wiki/Elias_Canetti"
+  ],
+  "disputed": false
+}

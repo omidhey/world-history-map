@@ -1,0 +1,23 @@
+{
+  "id": "john-wycliffe",
+  "wikidata": "Q173893",
+  "name": "John Wycliffe",
+  "category": "philosopher",
+  "start": 1320,
+  "end": 1384,
+  "date_precision": "decade",
+  "location": {
+    "lat": 54.38,
+    "lon": -1.72,
+    "place": "Hipswell"
+  },
+  "summary": "English theologian and dissident in the Roman Catholic Church, born in Hipswell. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wycliffe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q173893",
+    "https://en.wikipedia.org/wiki/John_Wycliffe"
+  ],
+  "disputed": false
+}

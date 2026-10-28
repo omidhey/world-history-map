@@ -1,0 +1,41 @@
+{
+  "id": "yun-ch-iho",
+  "wikidata": "Q192111",
+  "name": "Yun Ch'iho",
+  "category": "philosopher",
+  "start": 1864,
+  "end": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.35,
+    "lon": 126.92,
+    "place": "Asan"
+  },
+  "summary": "Korean independence activist (1864-1945), born in Asan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yun_Ch%27iho"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192111",
+    "https://en.wikipedia.org/wiki/Yun_Ch%27iho"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1864,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q192111"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1865,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q192111"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "yuval-noah-harari",
+  "wikidata": "Q2484404",
+  "name": "Yuval Noah Harari",
+  "category": "philosopher",
+  "start": 1976,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.8,
+    "lon": 35.1,
+    "place": "Kiryat Ata"
+  },
+  "summary": "Israeli historian and author of popular science bestsellers, born in Kiryat Ata. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2484404",
+    "https://en.wikipedia.org/wiki/Yuval_Noah_Harari"
+  ],
+  "disputed": false
+}

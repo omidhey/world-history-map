@@ -1,0 +1,23 @@
+{
+  "id": "thales",
+  "wikidata": "Q36303",
+  "name": "Thales",
+  "category": "philosopher",
+  "start": -625,
+  "end": -545,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.53,
+    "lon": 27.28,
+    "place": "Miletus"
+  },
+  "summary": "Ancient Greek philosopher and mathematician, born in Miletus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thales_of_Miletus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36303",
+    "https://en.wikipedia.org/wiki/Thales_of_Miletus"
+  ],
+  "disputed": false
+}

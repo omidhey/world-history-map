@@ -1,0 +1,41 @@
+{
+  "id": "al-kindi",
+  "wikidata": "Q179759",
+  "name": "Al-Kindi",
+  "category": "philosopher",
+  "start": 801,
+  "end": 870,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.03,
+    "lon": 44.4,
+    "place": "Kufa"
+  },
+  "summary": "Muslim Arab philosopher, mathematician and physician (c.801–873), born in Kufa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Kindi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179759",
+    "https://en.wikipedia.org/wiki/Al-Kindi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 870,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q179759"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 873,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q179759"
+      ]
+    }
+  ]
+}

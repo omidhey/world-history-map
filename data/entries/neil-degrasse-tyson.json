@@ -1,0 +1,22 @@
+{
+  "id": "neil-degrasse-tyson",
+  "wikidata": "Q310903",
+  "name": "Neil deGrasse Tyson",
+  "category": "philosopher",
+  "start": 1958,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.73,
+    "lon": -73.99,
+    "place": "Manhattan"
+  },
+  "summary": "American astrophysicist and science communicator, born in Manhattan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q310903",
+    "https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "xenophanes",
+  "wikidata": "Q131671",
+  "name": "Xenophanes",
+  "category": "philosopher",
+  "start": -570,
+  "end": -478,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.12,
+    "lon": 27.14,
+    "place": "Colophon"
+  },
+  "summary": "Greek Pre-Socratic philosopher (c.570–c.478 BC), born in Colophon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xenophanes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131671",
+    "https://en.wikipedia.org/wiki/Xenophanes"
+  ],
+  "disputed": false
+}

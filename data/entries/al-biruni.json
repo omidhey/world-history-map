@@ -1,0 +1,23 @@
+{
+  "id": "al-biruni",
+  "wikidata": "Q11826",
+  "name": "Al-Biruni",
+  "category": "philosopher",
+  "start": 973,
+  "end": 1048,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.66,
+    "lon": 60.3,
+    "place": "Kath"
+  },
+  "summary": "11th-century Khwarazmian scholar and polymath (973–1048), born in Kath. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Biruni"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11826",
+    "https://en.wikipedia.org/wiki/Al-Biruni"
+  ],
+  "disputed": false
+}

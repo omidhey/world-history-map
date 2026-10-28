@@ -1,0 +1,23 @@
+{
+  "id": "adi-shankara",
+  "wikidata": "Q180967",
+  "name": "Ādi Shankara",
+  "category": "philosopher",
+  "start": 788,
+  "end": 820,
+  "date_precision": "year",
+  "location": {
+    "lat": 10.17,
+    "lon": 76.44,
+    "place": "Kalady"
+  },
+  "summary": "An Indian philosopher and theologian who consolidated the doctrine of Advaita Vedanta and revitalized Sanskrit scholasticism., born in Kalady. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Adi_Shankara"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q180967",
+    "https://en.wikipedia.org/wiki/Adi_Shankara"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hippocrates",
+  "wikidata": "Q5264",
+  "name": "Hippocrates",
+  "category": "philosopher",
+  "start": -460,
+  "end": -370,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.82,
+    "lon": 27.11,
+    "place": "Kos"
+  },
+  "summary": "Ancient Greek physician (c. 460 – c. 370 BCE), born in Kos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippocrates"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5264",
+    "https://en.wikipedia.org/wiki/Hippocrates"
+  ],
+  "disputed": false
+}

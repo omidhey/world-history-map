@@ -1,0 +1,23 @@
+{
+  "id": "sully-prudhomme",
+  "wikidata": "Q42247",
+  "name": "Sully Prudhomme",
+  "category": "philosopher",
+  "start": 1839,
+  "end": 1907,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.88,
+    "lon": 2.36,
+    "place": "10ᵗʰ arrondissement of Paris"
+  },
+  "summary": "French poet, Nobel prize for literature winner 1901 (1839–1907), born in 10ᵗʰ arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sully_Prudhomme"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42247",
+    "https://en.wikipedia.org/wiki/Sully_Prudhomme"
+  ],
+  "disputed": false
+}

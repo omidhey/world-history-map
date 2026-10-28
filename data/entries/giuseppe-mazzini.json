@@ -1,0 +1,23 @@
+{
+  "id": "giuseppe-mazzini",
+  "wikidata": "Q187336",
+  "name": "Giuseppe Mazzini",
+  "category": "philosopher",
+  "start": 1805,
+  "end": 1872,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.41,
+    "lon": 8.93,
+    "place": "Genoa"
+  },
+  "summary": "Italian nationalist activist, politician, journalist and philosopher, born in Genoa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Mazzini"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q187336",
+    "https://en.wikipedia.org/wiki/Giuseppe_Mazzini"
+  ],
+  "disputed": false
+}

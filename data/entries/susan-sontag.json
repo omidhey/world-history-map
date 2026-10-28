@@ -1,0 +1,23 @@
+{
+  "id": "susan-sontag",
+  "wikidata": "Q152824",
+  "name": "Susan Sontag",
+  "category": "philosopher",
+  "start": 1933,
+  "end": 2004,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.71,
+    "lon": -74.01,
+    "place": "New York City"
+  },
+  "summary": "American writer and filmmaker, professor, and activist (1933–2004), born in New York City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Sontag"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q152824",
+    "https://en.wikipedia.org/wiki/Susan_Sontag"
+  ],
+  "disputed": false
+}

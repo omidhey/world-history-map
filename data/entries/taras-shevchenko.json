@@ -1,0 +1,23 @@
+{
+  "id": "taras-shevchenko",
+  "wikidata": "Q134958",
+  "name": "Taras Shevchenko",
+  "category": "philosopher",
+  "start": 1814,
+  "end": 1861,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.26,
+    "lon": 31.01,
+    "place": "Moryntsi"
+  },
+  "summary": "Ukrainian poet and artist (1814–1861), born in Moryntsi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Taras_Shevchenko"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q134958",
+    "https://en.wikipedia.org/wiki/Taras_Shevchenko"
+  ],
+  "disputed": false
+}

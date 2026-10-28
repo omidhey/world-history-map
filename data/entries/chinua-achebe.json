@@ -1,0 +1,23 @@
+{
+  "id": "chinua-achebe",
+  "wikidata": "Q155845",
+  "name": "Chinua Achebe",
+  "category": "philosopher",
+  "start": 1930,
+  "end": 2013,
+  "date_precision": "day",
+  "location": {
+    "lat": 6.15,
+    "lon": 6.87,
+    "place": "Ogidi"
+  },
+  "summary": "Nigerian novelist, poet, professor, and critic (1930-2013), born in Ogidi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinua_Achebe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155845",
+    "https://en.wikipedia.org/wiki/Chinua_Achebe"
+  ],
+  "disputed": false
+}

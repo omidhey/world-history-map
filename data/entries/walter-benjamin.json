@@ -1,0 +1,23 @@
+{
+  "id": "walter-benjamin",
+  "wikidata": "Q61078",
+  "name": "Walter Benjamin",
+  "category": "philosopher",
+  "start": 1892,
+  "end": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.52,
+    "lon": 13.38,
+    "place": "Berlin"
+  },
+  "summary": "German cultural critic, philosopher and social critic (1892–1940), born in Berlin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Benjamin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q61078",
+    "https://en.wikipedia.org/wiki/Walter_Benjamin"
+  ],
+  "disputed": false
+}

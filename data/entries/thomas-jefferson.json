@@ -1,0 +1,23 @@
+{
+  "id": "thomas-jefferson",
+  "wikidata": "Q11812",
+  "name": "Thomas Jefferson",
+  "category": "philosopher",
+  "start": 1743,
+  "end": 1826,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.01,
+    "lon": -78.4,
+    "place": "Shadwell"
+  },
+  "summary": "Founding Father, U.S. president from 1801 to 1809 (1743–1826), born in Shadwell. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11812",
+    "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+  ],
+  "disputed": false
+}

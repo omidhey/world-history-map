@@ -1,0 +1,23 @@
+{
+  "id": "simone-de-beauvoir",
+  "wikidata": "Q7197",
+  "name": "Simone de Beauvoir",
+  "category": "philosopher",
+  "start": 1908,
+  "end": 1986,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.85,
+    "lon": 2.33,
+    "place": "6th arrondissement of Paris"
+  },
+  "summary": "French philosopher, social theorist and activist (1908–1986), born in 6th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7197",
+    "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+  ],
+  "disputed": false
+}

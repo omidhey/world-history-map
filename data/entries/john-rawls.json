@@ -1,0 +1,23 @@
+{
+  "id": "john-rawls",
+  "wikidata": "Q172544",
+  "name": "John Rawls",
+  "category": "philosopher",
+  "start": 1921,
+  "end": 2002,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.29,
+    "lon": -76.61,
+    "place": "Baltimore"
+  },
+  "summary": "American philosopher, philosophy teacher, born in Baltimore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Rawls"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172544",
+    "https://en.wikipedia.org/wiki/John_Rawls"
+  ],
+  "disputed": false
+}

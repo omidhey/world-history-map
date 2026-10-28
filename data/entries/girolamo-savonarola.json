@@ -1,0 +1,23 @@
+{
+  "id": "girolamo-savonarola",
+  "wikidata": "Q164823",
+  "name": "Girolamo Savonarola",
+  "category": "philosopher",
+  "start": 1452,
+  "end": 1498,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.84,
+    "lon": 11.62,
+    "place": "Ferrara"
+  },
+  "summary": "Italian Dominican friar and preacher (1452-1498), born in Ferrara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Girolamo_Savonarola"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q164823",
+    "https://en.wikipedia.org/wiki/Girolamo_Savonarola"
+  ],
+  "disputed": false
+}

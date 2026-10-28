@@ -1,0 +1,23 @@
+{
+  "id": "antonio-gramsci",
+  "wikidata": "Q83003",
+  "name": "Antonio Gramsci",
+  "category": "philosopher",
+  "start": 1891,
+  "end": 1937,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.77,
+    "lon": 8.82,
+    "place": "Ales"
+  },
+  "summary": "Italian Marxist philosopher, writer, and politician (1891–1937), born in Ales. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Gramsci"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83003",
+    "https://en.wikipedia.org/wiki/Antonio_Gramsci"
+  ],
+  "disputed": false
+}

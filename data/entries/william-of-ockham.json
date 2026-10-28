@@ -1,0 +1,23 @@
+{
+  "id": "william-of-ockham",
+  "wikidata": "Q43936",
+  "name": "William of Ockham",
+  "category": "philosopher",
+  "start": 1287,
+  "end": 1349,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.3,
+    "lon": -0.46,
+    "place": "Ockham"
+  },
+  "summary": "English Franciscan friar and theologian (c.1287–1347), born in Ockham. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_of_Ockham"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43936",
+    "https://en.wikipedia.org/wiki/William_of_Ockham"
+  ],
+  "disputed": false
+}

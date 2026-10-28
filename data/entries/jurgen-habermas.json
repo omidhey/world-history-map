@@ -1,0 +1,23 @@
+{
+  "id": "jurgen-habermas",
+  "wikidata": "Q76357",
+  "name": "Jürgen Habermas",
+  "category": "philosopher",
+  "start": 1929,
+  "end": 2026,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.23,
+    "lon": 6.78,
+    "place": "Düsseldorf"
+  },
+  "summary": "German sociologist and philosopher (1929–2026), born in Düsseldorf. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76357",
+    "https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas"
+  ],
+  "disputed": false
+}

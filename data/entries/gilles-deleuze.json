@@ -1,0 +1,23 @@
+{
+  "id": "gilles-deleuze",
+  "wikidata": "Q184226",
+  "name": "Gilles Deleuze",
+  "category": "philosopher",
+  "start": 1925,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.88,
+    "lon": 2.31,
+    "place": "17th arrondissement of Paris"
+  },
+  "summary": "French philosopher (1925–1995), born in 17th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilles_Deleuze"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184226",
+    "https://en.wikipedia.org/wiki/Gilles_Deleuze"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "david-hume",
+  "wikidata": "Q37160",
+  "name": "David Hume",
+  "category": "philosopher",
+  "start": 1711,
+  "end": 1776,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -3.19,
+    "place": "Edinburgh"
+  },
+  "summary": "Scottish philosopher, economist, and historian (1711-1776), born in Edinburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Hume"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37160",
+    "https://en.wikipedia.org/wiki/David_Hume"
+  ],
+  "disputed": false
+}

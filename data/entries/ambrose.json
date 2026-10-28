@@ -1,0 +1,23 @@
+{
+  "id": "ambrose",
+  "wikidata": "Q43689",
+  "name": "Ambrose",
+  "category": "philosopher",
+  "start": 339,
+  "end": 397,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.76,
+    "lon": 6.64,
+    "place": "Augusta Treverorum"
+  },
+  "summary": "Roman theologian and Bishop of Milan (c. 340–397), born in Augusta Treverorum. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ambrose"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43689",
+    "https://en.wikipedia.org/wiki/Ambrose"
+  ],
+  "disputed": false
+}

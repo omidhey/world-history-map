@@ -1,0 +1,23 @@
+{
+  "id": "leon-trotsky",
+  "wikidata": "Q33391",
+  "name": "Leon Trotsky",
+  "category": "philosopher",
+  "start": 1879,
+  "end": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.89,
+    "lon": 32.29,
+    "place": "Bereslavka"
+  },
+  "summary": "Russian Marxist revolutionary (1879–1940), born in Bereslavka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leon_Trotsky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q33391",
+    "https://en.wikipedia.org/wiki/Leon_Trotsky"
+  ],
+  "disputed": false
+}

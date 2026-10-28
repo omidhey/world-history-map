@@ -1,0 +1,49 @@
+{
+  "id": "nizami-ganjavi",
+  "wikidata": "Q234908",
+  "name": "Nizami Ganjavi",
+  "category": "philosopher",
+  "start": 1141,
+  "end": 1202,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.68,
+    "lon": 46.36,
+    "place": "Ganja"
+  },
+  "summary": "Persian poet, born in Ganja. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nizami_Ganjavi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q234908",
+    "https://en.wikipedia.org/wiki/Nizami_Ganjavi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1202,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q234908"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1209,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q234908"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1214,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q234908"
+      ]
+    }
+  ]
+}

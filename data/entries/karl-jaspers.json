@@ -1,0 +1,23 @@
+{
+  "id": "karl-jaspers",
+  "wikidata": "Q76509",
+  "name": "Karl Jaspers",
+  "category": "philosopher",
+  "start": 1883,
+  "end": 1969,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.14,
+    "lon": 8.21,
+    "place": "Oldenburg"
+  },
+  "summary": "German-Swiss psychiatrist and philosopher (1883–1969), born in Oldenburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Jaspers"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76509",
+    "https://en.wikipedia.org/wiki/Karl_Jaspers"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "georg-christoph-lichtenberg",
+  "wikidata": "Q57554",
+  "name": "Georg Christoph Lichtenberg",
+  "category": "philosopher",
+  "start": 1742,
+  "end": 1799,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.83,
+    "lon": 8.75,
+    "place": "Ober-Ramstadt"
+  },
+  "summary": "German scientist and satirist (1742-1799), born in Ober-Ramstadt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Christoph_Lichtenberg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57554",
+    "https://en.wikipedia.org/wiki/Georg_Christoph_Lichtenberg"
+  ],
+  "disputed": false
+}

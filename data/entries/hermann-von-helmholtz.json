@@ -1,0 +1,23 @@
+{
+  "id": "hermann-von-helmholtz",
+  "wikidata": "Q60024",
+  "name": "Hermann von Helmholtz",
+  "category": "philosopher",
+  "start": 1821,
+  "end": 1894,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.4,
+    "lon": 13.06,
+    "place": "Potsdam"
+  },
+  "summary": "German physicist and physiologist (1821-1894), born in Potsdam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60024",
+    "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+  ],
+  "disputed": false
+}

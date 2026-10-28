@@ -1,0 +1,23 @@
+{
+  "id": "ernest-renan",
+  "wikidata": "Q157155",
+  "name": "Ernest Renan",
+  "category": "philosopher",
+  "start": 1823,
+  "end": 1892,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.78,
+    "lon": -3.23,
+    "place": "Tréguier"
+  },
+  "summary": "French philosopher and writer (1823–1892), born in Tréguier. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Renan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157155",
+    "https://en.wikipedia.org/wiki/Ernest_Renan"
+  ],
+  "disputed": false
+}

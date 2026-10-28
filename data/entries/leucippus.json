@@ -1,0 +1,23 @@
+{
+  "id": "leucippus",
+  "wikidata": "Q165589",
+  "name": "Leucippus",
+  "category": "philosopher",
+  "start": -500,
+  "end": -500,
+  "date_precision": "century",
+  "location": {
+    "lat": 37.53,
+    "lon": 27.28,
+    "place": "Miletus"
+  },
+  "summary": "5th-century BCE Greek philosopher, born in Miletus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leucippus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q165589",
+    "https://en.wikipedia.org/wiki/Leucippus"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "antoine-de-saint-exupery",
+  "wikidata": "Q2908",
+  "name": "Antoine de Saint-Exupéry",
+  "category": "philosopher",
+  "start": 1900,
+  "end": 1944,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.75,
+    "lon": 4.83,
+    "place": "2nd arrondissement of Lyon"
+  },
+  "summary": "French writer and aviator (1900–1944), born in 2nd arrondissement of Lyon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2908",
+    "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+  ],
+  "disputed": false
+}

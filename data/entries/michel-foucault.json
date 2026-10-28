@@ -1,0 +1,23 @@
+{
+  "id": "michel-foucault",
+  "wikidata": "Q44272",
+  "name": "Michel Foucault",
+  "category": "philosopher",
+  "start": 1926,
+  "end": 1984,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.58,
+    "lon": 0.34,
+    "place": "Poitiers"
+  },
+  "summary": "French philosopher (1926–1984), born in Poitiers. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Foucault"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44272",
+    "https://en.wikipedia.org/wiki/Michel_Foucault"
+  ],
+  "disputed": false
+}

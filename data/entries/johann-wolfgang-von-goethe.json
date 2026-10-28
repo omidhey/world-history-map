@@ -1,0 +1,23 @@
+{
+  "id": "johann-wolfgang-von-goethe",
+  "wikidata": "Q5879",
+  "name": "Johann Wolfgang von Goethe",
+  "category": "philosopher",
+  "start": 1749,
+  "end": 1832,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.11,
+    "lon": 8.68,
+    "place": "Frankfurt"
+  },
+  "summary": "German writer, artist, natural scientist and politician (1749–1832), born in Frankfurt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5879",
+    "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
+  ],
+  "disputed": false
+}

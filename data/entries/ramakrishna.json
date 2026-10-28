@@ -1,0 +1,23 @@
+{
+  "id": "ramakrishna",
+  "wikidata": "Q183126",
+  "name": "Ramakrishna",
+  "category": "philosopher",
+  "start": 1836,
+  "end": 1886,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.91,
+    "lon": 87.65,
+    "place": "Kamarpukur"
+  },
+  "summary": "Indian mystic and religious preacher (1836–1886), born in Kamarpukur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramakrishna"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q183126",
+    "https://en.wikipedia.org/wiki/Ramakrishna"
+  ],
+  "disputed": false
+}

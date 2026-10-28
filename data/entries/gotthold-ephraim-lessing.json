@@ -1,0 +1,23 @@
+{
+  "id": "gotthold-ephraim-lessing",
+  "wikidata": "Q34628",
+  "name": "Gotthold Ephraim Lessing",
+  "category": "philosopher",
+  "start": 1729,
+  "end": 1781,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.27,
+    "lon": 14.1,
+    "place": "Kamenz"
+  },
+  "summary": "German writer, philosopher, publicist, and art critic (1729-1781), born in Kamenz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34628",
+    "https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing"
+  ],
+  "disputed": false
+}

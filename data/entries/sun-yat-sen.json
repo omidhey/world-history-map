@@ -1,0 +1,23 @@
+{
+  "id": "sun-yat-sen",
+  "wikidata": "Q8573",
+  "name": "Sun Yat-sen",
+  "category": "philosopher",
+  "start": 1866,
+  "end": 1925,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.44,
+    "lon": 113.54,
+    "place": "Cuiheng"
+  },
+  "summary": "Chinese politician, physician, and revolutionary (1866–1925), born in Cuiheng. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sun_Yat-sen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8573",
+    "https://en.wikipedia.org/wiki/Sun_Yat-sen"
+  ],
+  "disputed": false
+}

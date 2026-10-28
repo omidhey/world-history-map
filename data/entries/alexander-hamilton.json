@@ -1,0 +1,23 @@
+{
+  "id": "alexander-hamilton",
+  "wikidata": "Q178903",
+  "name": "Alexander Hamilton",
+  "category": "philosopher",
+  "start": 1757,
+  "end": 1804,
+  "date_precision": "day",
+  "location": {
+    "lat": 17.14,
+    "lon": -62.63,
+    "place": "Charlestown"
+  },
+  "summary": "American Founding Father and statesman (1755/1757–1804), born in Charlestown. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Hamilton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q178903",
+    "https://en.wikipedia.org/wiki/Alexander_Hamilton"
+  ],
+  "disputed": false
+}

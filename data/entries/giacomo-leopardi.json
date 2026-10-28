@@ -1,0 +1,23 @@
+{
+  "id": "giacomo-leopardi",
+  "wikidata": "Q172599",
+  "name": "Giacomo Leopardi",
+  "category": "philosopher",
+  "start": 1798,
+  "end": 1837,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.4,
+    "lon": 13.55,
+    "place": "Recanati"
+  },
+  "summary": "Italian noble, poet, philosopher, and writer (1798-1837), born in Recanati. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Leopardi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172599",
+    "https://en.wikipedia.org/wiki/Giacomo_Leopardi"
+  ],
+  "disputed": false
+}

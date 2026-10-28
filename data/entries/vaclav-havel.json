@@ -1,0 +1,23 @@
+{
+  "id": "vaclav-havel",
+  "wikidata": "Q36233",
+  "name": "Václav Havel",
+  "category": "philosopher",
+  "start": 1936,
+  "end": 2011,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.09,
+    "lon": 14.42,
+    "place": "Prague"
+  },
+  "summary": "Czech statesman, playwright, and former dissident, the last president of Czechoslovakia and the first president of the Czech Republic (1936–2011), born in Prague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36233",
+    "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel"
+  ],
+  "disputed": false
+}

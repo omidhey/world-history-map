@@ -1,0 +1,23 @@
+{
+  "id": "jan-hus",
+  "wikidata": "Q43977",
+  "name": "Jan Hus",
+  "category": "philosopher",
+  "start": 1370,
+  "end": 1415,
+  "date_precision": "decade",
+  "location": {
+    "lat": 49.06,
+    "lon": 13.99,
+    "place": "Husinec"
+  },
+  "summary": "Czech theologian, philosopher and preacher (1369-1415), born in Husinec. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Hus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43977",
+    "https://en.wikipedia.org/wiki/Jan_Hus"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "benedetto-croce",
+  "wikidata": "Q192348",
+  "name": "Benedetto Croce",
+  "category": "philosopher",
+  "start": 1866,
+  "end": 1952,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.8,
+    "lon": 13.79,
+    "place": "Pescasseroli"
+  },
+  "summary": "Italian philosopher (1866-1952), born in Pescasseroli. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedetto_Croce"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192348",
+    "https://en.wikipedia.org/wiki/Benedetto_Croce"
+  ],
+  "disputed": false
+}

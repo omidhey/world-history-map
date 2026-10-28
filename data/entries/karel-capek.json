@@ -1,0 +1,23 @@
+{
+  "id": "karel-capek",
+  "wikidata": "Q155855",
+  "name": "Karel Čapek",
+  "category": "philosopher",
+  "start": 1890,
+  "end": 1938,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.53,
+    "lon": 16.05,
+    "place": "Malé Svatoňovice"
+  },
+  "summary": "Czech writer (1890–1938), born in Malé Svatoňovice. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155855",
+    "https://en.wikipedia.org/wiki/Karel_%C4%8Capek"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "germaine-de-stael",
+  "wikidata": "Q123041",
+  "name": "Germaine de Staël",
+  "category": "philosopher",
+  "start": 1766,
+  "end": 1817,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Genevan-French author (1766-1817), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q123041",
+    "https://en.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl"
+  ],
+  "disputed": false
+}

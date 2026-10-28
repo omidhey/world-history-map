@@ -1,0 +1,23 @@
+{
+  "id": "marguerite-duras",
+  "wikidata": "Q153248",
+  "name": "Marguerite Duras",
+  "category": "philosopher",
+  "start": 1914,
+  "end": 1996,
+  "date_precision": "day",
+  "location": {
+    "lat": 10.78,
+    "lon": 106.7,
+    "place": "Ho Chi Minh City"
+  },
+  "summary": "French writer and film director (1914-1996), born in Ho Chi Minh City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Duras"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q153248",
+    "https://en.wikipedia.org/wiki/Marguerite_Duras"
+  ],
+  "disputed": false
+}

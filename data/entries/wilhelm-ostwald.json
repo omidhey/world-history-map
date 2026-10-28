@@ -1,0 +1,23 @@
+{
+  "id": "wilhelm-ostwald",
+  "wikidata": "Q12658",
+  "name": "Wilhelm Ostwald",
+  "category": "philosopher",
+  "start": 1853,
+  "end": 1932,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.95,
+    "lon": 24.11,
+    "place": "Riga"
+  },
+  "summary": "Baltic German chemist (1853–1932), born in Riga. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Ostwald"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12658",
+    "https://en.wikipedia.org/wiki/Wilhelm_Ostwald"
+  ],
+  "disputed": false
+}

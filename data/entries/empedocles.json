@@ -1,0 +1,23 @@
+{
+  "id": "empedocles",
+  "wikidata": "Q83375",
+  "name": "Empedocles",
+  "category": "philosopher",
+  "start": -494,
+  "end": -434,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.29,
+    "lon": 13.59,
+    "place": "Akragas"
+  },
+  "summary": "5th century BC Greek philosopher, born in Akragas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Empedocles"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83375",
+    "https://en.wikipedia.org/wiki/Empedocles"
+  ],
+  "disputed": false
+}

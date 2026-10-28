@@ -1,0 +1,23 @@
+{
+  "id": "blaise-pascal",
+  "wikidata": "Q1290",
+  "name": "Blaise Pascal",
+  "category": "philosopher",
+  "start": 1623,
+  "end": 1662,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.78,
+    "lon": 3.09,
+    "place": "birth house of Blaise Pascal"
+  },
+  "summary": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623-1662), born in birth house of Blaise Pascal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1290",
+    "https://en.wikipedia.org/wiki/Blaise_Pascal"
+  ],
+  "disputed": false
+}

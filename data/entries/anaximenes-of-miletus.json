@@ -1,0 +1,41 @@
+{
+  "id": "anaximenes-of-miletus",
+  "wikidata": "Q80612",
+  "name": "Anaximenes of Miletus",
+  "category": "philosopher",
+  "start": -585,
+  "end": -528,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.53,
+    "lon": 27.28,
+    "place": "Miletus"
+  },
+  "summary": "Greek Ionian Pre-Socratic philosopher (c.586–c.526 BC), born in Miletus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anaximenes_of_Miletus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80612",
+    "https://en.wikipedia.org/wiki/Anaximenes_of_Miletus"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": -528,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q80612"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -525,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q80612"
+      ]
+    }
+  ]
+}

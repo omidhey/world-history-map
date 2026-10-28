@@ -1,0 +1,23 @@
+{
+  "id": "john-of-damascus",
+  "wikidata": "Q51884",
+  "name": "John of Damascus",
+  "category": "philosopher",
+  "start": 675,
+  "end": 749,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.51,
+    "lon": 36.29,
+    "place": "Damascus"
+  },
+  "summary": "Christian monk, priest, hymnographer and apologist (675/6-749), born in Damascus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_of_Damascus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q51884",
+    "https://en.wikipedia.org/wiki/John_of_Damascus"
+  ],
+  "disputed": false
+}

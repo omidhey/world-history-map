@@ -1,0 +1,23 @@
+{
+  "id": "john-maynard-keynes",
+  "wikidata": "Q9317",
+  "name": "John Maynard Keynes",
+  "category": "philosopher",
+  "start": 1883,
+  "end": 1946,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.21,
+    "lon": 0.12,
+    "place": "Cambridge"
+  },
+  "summary": "British economist (1883–1946), born in Cambridge. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9317",
+    "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
+  ],
+  "disputed": false
+}

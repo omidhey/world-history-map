@@ -1,0 +1,23 @@
+{
+  "id": "halldor-laxness",
+  "wikidata": "Q80321",
+  "name": "Halldór Laxness",
+  "category": "philosopher",
+  "start": 1902,
+  "end": 1998,
+  "date_precision": "day",
+  "location": {
+    "lat": 64.15,
+    "lon": -21.93,
+    "place": "Reykjavík"
+  },
+  "summary": "Icelandic author (1902-1998), born in Reykjavík. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Halld%C3%B3r_Laxness"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80321",
+    "https://en.wikipedia.org/wiki/Halld%C3%B3r_Laxness"
+  ],
+  "disputed": false
+}

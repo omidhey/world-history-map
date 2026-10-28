@@ -1,0 +1,22 @@
+{
+  "id": "larry-sanger",
+  "wikidata": "Q185",
+  "name": "Larry Sanger",
+  "category": "philosopher",
+  "start": 1968,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.61,
+    "lon": -122.19,
+    "place": "Bellevue"
+  },
+  "summary": "American former professor, co-founder of Wikipedia, founder of Citizendium and other projects (born 1968), born in Bellevue. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Sanger"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185",
+    "https://en.wikipedia.org/wiki/Larry_Sanger"
+  ],
+  "disputed": false
+}

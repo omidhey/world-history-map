@@ -1,0 +1,23 @@
+{
+  "id": "jonathan-swift",
+  "wikidata": "Q41166",
+  "name": "Jonathan Swift",
+  "category": "philosopher",
+  "start": 1667,
+  "end": 1745,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.35,
+    "lon": -6.26,
+    "place": "Dublin"
+  },
+  "summary": "Anglo-Irish satirist and essayist (1667–1745), born in Dublin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41166",
+    "https://en.wikipedia.org/wiki/Jonathan_Swift"
+  ],
+  "disputed": false
+}

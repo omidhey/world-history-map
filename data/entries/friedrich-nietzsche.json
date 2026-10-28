@@ -1,0 +1,23 @@
+{
+  "id": "friedrich-nietzsche",
+  "wikidata": "Q9358",
+  "name": "Friedrich Nietzsche",
+  "category": "philosopher",
+  "start": 1844,
+  "end": 1900,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.24,
+    "lon": 12.12,
+    "place": "Röcken"
+  },
+  "summary": "German philosopher (1844-1900), born in Röcken. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9358",
+    "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+  ],
+  "disputed": false
+}

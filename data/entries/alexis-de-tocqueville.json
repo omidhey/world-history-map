@@ -1,0 +1,23 @@
+{
+  "id": "alexis-de-tocqueville",
+  "wikidata": "Q140694",
+  "name": "Alexis de Tocqueville",
+  "category": "philosopher",
+  "start": 1805,
+  "end": 1859,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French political thinker and historian, minister of Foreign Affairs (1805-1859), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q140694",
+    "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hannah-arendt",
+  "wikidata": "Q60025",
+  "name": "Hannah Arendt",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 1975,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 9.74,
+    "place": "Hanover"
+  },
+  "summary": "German-American political theorist and philosopher (1906–1975), born in Hanover. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Arendt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60025",
+    "https://en.wikipedia.org/wiki/Hannah_Arendt"
+  ],
+  "disputed": false
+}

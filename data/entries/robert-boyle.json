@@ -1,0 +1,23 @@
+{
+  "id": "robert-boyle",
+  "wikidata": "Q43393",
+  "name": "Robert Boyle",
+  "category": "philosopher",
+  "start": 1627,
+  "end": 1691,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.14,
+    "lon": -7.93,
+    "place": "Lismore Castle"
+  },
+  "summary": "Anglo-Irish natural philosopher, chemist, physicist, and inventor (1627-1691), born in Lismore Castle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Boyle"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43393",
+    "https://en.wikipedia.org/wiki/Robert_Boyle"
+  ],
+  "disputed": false
+}

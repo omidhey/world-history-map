@@ -1,0 +1,41 @@
+{
+  "id": "moshe-ben-maimon",
+  "wikidata": "Q127398",
+  "name": "Moshe ben Maimon",
+  "category": "philosopher",
+  "start": 1135,
+  "end": 1204,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "Medieval Jewish philosopher from Spain (1135–1204), born in Córdoba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maimonides"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q127398",
+    "https://en.wikipedia.org/wiki/Maimonides"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1135,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q127398"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1138,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q127398"
+      ]
+    }
+  ]
+}

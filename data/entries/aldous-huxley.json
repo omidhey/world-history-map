@@ -1,0 +1,23 @@
+{
+  "id": "aldous-huxley",
+  "wikidata": "Q81447",
+  "name": "Aldous Huxley",
+  "category": "philosopher",
+  "start": 1894,
+  "end": 1963,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.19,
+    "lon": -0.61,
+    "place": "Godalming"
+  },
+  "summary": "Viva el completo (1894–1963), born in Godalming. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81447",
+    "https://en.wikipedia.org/wiki/Aldous_Huxley"
+  ],
+  "disputed": false
+}

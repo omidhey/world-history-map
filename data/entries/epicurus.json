@@ -1,0 +1,23 @@
+{
+  "id": "epicurus",
+  "wikidata": "Q43216",
+  "name": "Epicurus",
+  "category": "philosopher",
+  "start": -342,
+  "end": -270,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.69,
+    "lon": 26.94,
+    "place": "Samos"
+  },
+  "summary": "Ancient Greek philosopher, born in Samos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Epicurus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43216",
+    "https://en.wikipedia.org/wiki/Epicurus"
+  ],
+  "disputed": false
+}

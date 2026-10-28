@@ -1,0 +1,23 @@
+{
+  "id": "euripides",
+  "wikidata": "Q48305",
+  "name": "Euripides",
+  "category": "philosopher",
+  "start": -480,
+  "end": -406,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.94,
+    "lon": 23.49,
+    "place": "Salamis Island"
+  },
+  "summary": "Classical Athenian playwright, born in Salamis Island. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Euripides"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48305",
+    "https://en.wikipedia.org/wiki/Euripides"
+  ],
+  "disputed": false
+}

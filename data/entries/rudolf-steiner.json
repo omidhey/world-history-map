@@ -1,0 +1,23 @@
+{
+  "id": "rudolf-steiner",
+  "wikidata": "Q78484",
+  "name": "Rudolf Steiner",
+  "category": "philosopher",
+  "start": 1861,
+  "end": 1925,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.37,
+    "lon": 16.65,
+    "place": "Donji Kraljevec"
+  },
+  "summary": "Austrian social reformer, occultist and esotericist (1861–1925), born in Donji Kraljevec. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Steiner"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q78484",
+    "https://en.wikipedia.org/wiki/Rudolf_Steiner"
+  ],
+  "disputed": false
+}

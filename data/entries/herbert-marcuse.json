@@ -1,0 +1,23 @@
+{
+  "id": "herbert-marcuse",
+  "wikidata": "Q60030",
+  "name": "Herbert Marcuse",
+  "category": "philosopher",
+  "start": 1898,
+  "end": 1979,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.52,
+    "lon": 13.38,
+    "place": "Berlin"
+  },
+  "summary": "German philosopher, sociologist, and political theorist (1898–1979), born in Berlin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Marcuse"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60030",
+    "https://en.wikipedia.org/wiki/Herbert_Marcuse"
+  ],
+  "disputed": false
+}

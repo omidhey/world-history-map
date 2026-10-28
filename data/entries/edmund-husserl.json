@@ -1,0 +1,23 @@
+{
+  "id": "edmund-husserl",
+  "wikidata": "Q58586",
+  "name": "Edmund Husserl",
+  "category": "philosopher",
+  "start": 1859,
+  "end": 1938,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.47,
+    "lon": 17.11,
+    "place": "Prostějov"
+  },
+  "summary": "German philosopher, known as the father of phenomenology (1859–1938), born in Prostějov. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Husserl"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q58586",
+    "https://en.wikipedia.org/wiki/Edmund_Husserl"
+  ],
+  "disputed": false
+}

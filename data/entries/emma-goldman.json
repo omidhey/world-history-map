@@ -1,0 +1,23 @@
+{
+  "id": "emma-goldman",
+  "wikidata": "Q79969",
+  "name": "Emma Goldman",
+  "category": "philosopher",
+  "start": 1869,
+  "end": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.9,
+    "lon": 23.93,
+    "place": "Kaunas"
+  },
+  "summary": "Russian-born American anarchist (1869–1940), born in Kaunas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Goldman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q79969",
+    "https://en.wikipedia.org/wiki/Emma_Goldman"
+  ],
+  "disputed": false
+}

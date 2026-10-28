@@ -1,0 +1,23 @@
+{
+  "id": "zeno-of-citium",
+  "wikidata": "Q171303",
+  "name": "Zeno of Citium",
+  "category": "philosopher",
+  "start": -334,
+  "end": -263,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.93,
+    "lon": 33.63,
+    "place": "Kition"
+  },
+  "summary": "Greek philosopher, founder of Stoicism, born in Kition. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q171303",
+    "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+  ],
+  "disputed": false
+}

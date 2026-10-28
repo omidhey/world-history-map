@@ -1,0 +1,23 @@
+{
+  "id": "robert-hooke",
+  "wikidata": "Q46830",
+  "name": "Robert Hooke",
+  "category": "philosopher",
+  "start": 1635,
+  "end": 1703,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.68,
+    "lon": -1.52,
+    "place": "Freshwater"
+  },
+  "summary": "English natural philosopher, architect and polymath (1635 — 1703), born in Freshwater. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hooke"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q46830",
+    "https://en.wikipedia.org/wiki/Robert_Hooke"
+  ],
+  "disputed": false
+}

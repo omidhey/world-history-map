@@ -1,0 +1,23 @@
+{
+  "id": "averroes",
+  "wikidata": "Q39837",
+  "name": "Averroes",
+  "category": "philosopher",
+  "start": 1126,
+  "end": 1198,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "Arab Andalusian Muslim writer and philosopher (1126–1198), born in Córdoba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Averroes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39837",
+    "https://en.wikipedia.org/wiki/Averroes"
+  ],
+  "disputed": false
+}

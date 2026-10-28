@@ -1,0 +1,23 @@
+{
+  "id": "edward-said",
+  "wikidata": "Q201538",
+  "name": "Edward Said",
+  "category": "philosopher",
+  "start": 1935,
+  "end": 2003,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.78,
+    "lon": 35.23,
+    "place": "Jerusalem"
+  },
+  "summary": "Palestinian-American professor (1935–2003), born in Jerusalem. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Said"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q201538",
+    "https://en.wikipedia.org/wiki/Edward_Said"
+  ],
+  "disputed": false
+}

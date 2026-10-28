@@ -1,0 +1,23 @@
+{
+  "id": "konstantin-tsiolkovsky",
+  "wikidata": "Q41239",
+  "name": "Konstantin Tsiolkovsky",
+  "category": "philosopher",
+  "start": 1857,
+  "end": 1935,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.55,
+    "lon": 40.87,
+    "place": "Izhevskoe"
+  },
+  "summary": "Russian and Soviet rocket scientist and pioneer of the astronautic theory (1857-1935), born in Izhevskoe. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41239",
+    "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
+  ],
+  "disputed": false
+}

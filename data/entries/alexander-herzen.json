@@ -1,0 +1,23 @@
+{
+  "id": "alexander-herzen",
+  "wikidata": "Q201221",
+  "name": "Alexander Herzen",
+  "category": "philosopher",
+  "start": 1812,
+  "end": 1870,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Russian author, philosopher, and revolutionary (1812–1870), born in Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Herzen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q201221",
+    "https://en.wikipedia.org/wiki/Alexander_Herzen"
+  ],
+  "disputed": false
+}

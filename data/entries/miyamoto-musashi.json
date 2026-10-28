@@ -1,0 +1,23 @@
+{
+  "id": "miyamoto-musashi",
+  "wikidata": "Q193344",
+  "name": "Miyamoto Musashi",
+  "category": "philosopher",
+  "start": 1584,
+  "end": 1645,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.97,
+    "lon": 134.67,
+    "place": "Harima Province"
+  },
+  "summary": "Japanese swordsman, philosopher, strategist, writer, artist, and rōnin (1584–1645), born in Harima Province. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193344",
+    "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
+  ],
+  "disputed": false
+}

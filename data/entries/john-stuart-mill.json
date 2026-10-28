@@ -1,0 +1,23 @@
+{
+  "id": "john-stuart-mill",
+  "wikidata": "Q50020",
+  "name": "John Stuart Mill",
+  "category": "philosopher",
+  "start": 1806,
+  "end": 1873,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.53,
+    "lon": -0.1,
+    "place": "Pentonville"
+  },
+  "summary": "British philosopher and political economist (1806–1873), born in Pentonville. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stuart_Mill"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q50020",
+    "https://en.wikipedia.org/wiki/John_Stuart_Mill"
+  ],
+  "disputed": false
+}

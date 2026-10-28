@@ -1,0 +1,23 @@
+{
+  "id": "baron-d-holbach",
+  "wikidata": "Q7104",
+  "name": "Baron d'Holbach",
+  "category": "philosopher",
+  "start": 1723,
+  "end": 1789,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.26,
+    "lon": 8.13,
+    "place": "Edesheim"
+  },
+  "summary": "German-born French philosopher (1723–1789), born in Edesheim. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Baron_d%27Holbach"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7104",
+    "https://en.wikipedia.org/wiki/Baron_d%27Holbach"
+  ],
+  "disputed": false
+}

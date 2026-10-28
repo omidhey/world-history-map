@@ -1,0 +1,23 @@
+{
+  "id": "nagarjuna",
+  "wikidata": "Q171195",
+  "name": "Nagarjuna",
+  "category": "philosopher",
+  "start": 150,
+  "end": 250,
+  "date_precision": "year",
+  "location": {
+    "lat": 13.0,
+    "lon": 77.0,
+    "place": "South India"
+  },
+  "summary": "3rd-century Indian Buddhist philosopher, born in South India. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nagarjuna"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q171195",
+    "https://en.wikipedia.org/wiki/Nagarjuna"
+  ],
+  "disputed": false
+}

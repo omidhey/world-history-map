@@ -1,0 +1,25 @@
+{
+  "id": "jean-bodin",
+  "wikidata": "Q190944",
+  "name": "Jean Bodin",
+  "category": "philosopher",
+  "start": 1530,
+  "end": 1596,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.47,
+    "lon": -0.55,
+    "place": "Angers"
+  },
+  "summary": "French philosopher, historian, lawyer, law teacher, author, born in Angers. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Bodin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q190944",
+    "https://en.wikipedia.org/wiki/Jean_Bodin",
+    "https://plato.stanford.edu/entries/bodin/",
+    "https://iep.utm.edu/bodin/"
+  ],
+  "disputed": false
+}

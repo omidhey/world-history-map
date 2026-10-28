@@ -1,0 +1,23 @@
+{
+  "id": "giorgio-agamben",
+  "wikidata": "Q311687",
+  "name": "Giorgio Agamben",
+  "category": "philosopher",
+  "start": 1942,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Italian philosopher (b. 1942), born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Agamben"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311687",
+    "https://en.wikipedia.org/wiki/Giorgio_Agamben",
+    "https://iep.utm.edu/agamben/"
+  ],
+  "disputed": false
+}

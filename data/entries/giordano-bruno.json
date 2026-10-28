@@ -1,0 +1,24 @@
+{
+  "id": "giordano-bruno",
+  "wikidata": "Q36330",
+  "name": "Giordano Bruno",
+  "category": "philosopher",
+  "start": 1548,
+  "end": 1600,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.93,
+    "lon": 14.53,
+    "place": "Nola"
+  },
+  "summary": "Italian Dominican friar, philosopher and mathematician (1548–1600), born in Nola. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giordano_Bruno"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36330",
+    "https://en.wikipedia.org/wiki/Giordano_Bruno",
+    "https://plato.stanford.edu/entries/bruno/"
+  ],
+  "disputed": false
+}

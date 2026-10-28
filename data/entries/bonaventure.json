@@ -1,0 +1,24 @@
+{
+  "id": "bonaventure",
+  "wikidata": "Q43746",
+  "name": "Bonaventure",
+  "category": "philosopher",
+  "start": 1221,
+  "end": 1274,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.63,
+    "lon": 12.09,
+    "place": "Bagnoregio"
+  },
+  "summary": "Franciscan, bishop, cardinal, Doctor of the Church, Catholic saint (1221–1274), born in Bagnoregio. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonaventure"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43746",
+    "https://en.wikipedia.org/wiki/Bonaventure",
+    "https://plato.stanford.edu/entries/bonaventure/"
+  ],
+  "disputed": false
+}

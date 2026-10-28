@@ -1,0 +1,24 @@
+{
+  "id": "zhang-zai",
+  "wikidata": "Q197338",
+  "name": "Zhang Zai",
+  "category": "philosopher",
+  "start": 1020,
+  "end": 1077,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.8,
+    "lon": 114.34,
+    "place": "Kaifeng"
+  },
+  "summary": "Chinese philosopher, essayist, politician, writer, and cosmologist (1020-1077), born in Kaifeng. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhang_Zai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q197338",
+    "https://en.wikipedia.org/wiki/Zhang_Zai",
+    "https://iep.utm.edu/zhangzai/"
+  ],
+  "disputed": false
+}

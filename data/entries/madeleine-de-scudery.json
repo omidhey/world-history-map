@@ -1,0 +1,24 @@
+{
+  "id": "madeleine-de-scudery",
+  "wikidata": "Q237095",
+  "name": "Madeleine de Scudéry",
+  "category": "philosopher",
+  "start": 1607,
+  "end": 1701,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.49,
+    "lon": 0.11,
+    "place": "Le Havre"
+  },
+  "summary": "French writer (1607–1701), born in Le Havre. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madeleine_de_Scudéry"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q237095",
+    "https://en.wikipedia.org/wiki/Madeleine_de_Scudéry",
+    "https://plato.stanford.edu/entries/madeleine-scudery/"
+  ],
+  "disputed": false
+}

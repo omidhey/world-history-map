@@ -1,0 +1,24 @@
+{
+  "id": "franz-brentano",
+  "wikidata": "Q57196",
+  "name": "Franz Brentano",
+  "category": "philosopher",
+  "start": 1838,
+  "end": 1917,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.23,
+    "lon": 7.59,
+    "place": "Boppard"
+  },
+  "summary": "German philosopher and psychologist as well as refounder of the theory of intentionality (1838–1917), born in Boppard. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Brentano"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57196",
+    "https://en.wikipedia.org/wiki/Franz_Brentano",
+    "https://plato.stanford.edu/entries/brentano/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "alfred-tarski",
+  "wikidata": "Q207534",
+  "name": "Alfred Tarski",
+  "category": "philosopher",
+  "start": 1901,
+  "end": 1983,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.23,
+    "lon": 21.01,
+    "place": "Warsaw"
+  },
+  "summary": "Polish-American logician (1901-1983), born in Warsaw. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Tarski"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207534",
+    "https://en.wikipedia.org/wiki/Alfred_Tarski",
+    "https://plato.stanford.edu/entries/tarski/"
+  ],
+  "disputed": false
+}

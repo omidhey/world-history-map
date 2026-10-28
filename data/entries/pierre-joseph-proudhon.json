@@ -1,0 +1,23 @@
+{
+  "id": "pierre-joseph-proudhon",
+  "wikidata": "Q5749",
+  "name": "Pierre-Joseph Proudhon",
+  "category": "philosopher",
+  "start": 1809,
+  "end": 1865,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.24,
+    "lon": 6.02,
+    "place": "Besançon"
+  },
+  "summary": "French politician, philosopher, anarchist and socialist (1809-1865), born in Besançon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5749",
+    "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon"
+  ],
+  "disputed": false
+}

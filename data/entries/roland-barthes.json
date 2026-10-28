@@ -1,0 +1,23 @@
+{
+  "id": "roland-barthes",
+  "wikidata": "Q179109",
+  "name": "Roland Barthes",
+  "category": "philosopher",
+  "start": 1915,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.63,
+    "lon": -1.6,
+    "place": "Cherbourg"
+  },
+  "summary": "French philosopher and essayist (1915–1980), born in Cherbourg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roland_Barthes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179109",
+    "https://en.wikipedia.org/wiki/Roland_Barthes"
+  ],
+  "disputed": false
+}

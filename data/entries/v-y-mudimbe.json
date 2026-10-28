@@ -1,0 +1,23 @@
+{
+  "id": "v-y-mudimbe",
+  "wikidata": "Q3056528",
+  "name": "V. Y. Mudimbe",
+  "category": "philosopher",
+  "start": 1941,
+  "end": 2025,
+  "date_precision": "day",
+  "location": {
+    "lat": -10.98,
+    "lon": 26.73,
+    "place": "Likasi"
+  },
+  "summary": "American writer, born in Likasi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/V._Y._Mudimbe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3056528",
+    "https://en.wikipedia.org/wiki/V._Y._Mudimbe"
+  ],
+  "disputed": false
+}

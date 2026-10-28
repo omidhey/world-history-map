@@ -1,0 +1,24 @@
+{
+  "id": "thomas-hobbes",
+  "wikidata": "Q37621",
+  "name": "Thomas Hobbes",
+  "category": "philosopher",
+  "start": 1588,
+  "end": 1679,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.59,
+    "lon": -2.1,
+    "place": "Westport"
+  },
+  "summary": "English philosopher (1588–1679), born in Westport. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hobbes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37621",
+    "https://en.wikipedia.org/wiki/Thomas_Hobbes",
+    "https://plato.stanford.edu/entries/hobbes/"
+  ],
+  "disputed": false
+}

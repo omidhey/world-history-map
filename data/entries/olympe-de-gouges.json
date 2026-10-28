@@ -1,0 +1,24 @@
+{
+  "id": "olympe-de-gouges",
+  "wikidata": "Q206972",
+  "name": "Olympe de Gouges",
+  "category": "philosopher",
+  "start": 1748,
+  "end": 1793,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.02,
+    "lon": 1.35,
+    "place": "Montauban"
+  },
+  "summary": "French playwright and political activist (1748–1793), born in Montauban. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Olympe_de_Gouges"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q206972",
+    "https://en.wikipedia.org/wiki/Olympe_de_Gouges",
+    "https://iep.utm.edu/gouges/"
+  ],
+  "disputed": false
+}

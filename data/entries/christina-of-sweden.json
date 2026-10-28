@@ -1,0 +1,24 @@
+{
+  "id": "christina-of-sweden",
+  "wikidata": "Q52937",
+  "name": "Christina of Sweden",
+  "category": "philosopher",
+  "start": 1626,
+  "end": 1689,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.33,
+    "lon": 18.07,
+    "place": "Stockholm"
+  },
+  "summary": "Queen of Sweden, ruled from 1632 until abdication in 1654 (1626–1689), born in Stockholm. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina,_Queen_of_Sweden"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q52937",
+    "https://en.wikipedia.org/wiki/Christina,_Queen_of_Sweden",
+    "https://iep.utm.edu/wasa/"
+  ],
+  "disputed": false
+}

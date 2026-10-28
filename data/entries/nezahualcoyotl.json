@@ -1,0 +1,23 @@
+{
+  "id": "nezahualcoyotl",
+  "wikidata": "Q379964",
+  "name": "Nezahualcóyotl",
+  "category": "philosopher",
+  "start": 1402,
+  "end": 1472,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.51,
+    "lon": -98.88,
+    "place": "Texcoco de Mora"
+  },
+  "summary": "Ruler of Texcoco, born in Texcoco de Mora. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nezahualcoyotl_(tlatoani)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379964",
+    "https://en.wikipedia.org/wiki/Nezahualcoyotl_(tlatoani)"
+  ],
+  "disputed": false
+}

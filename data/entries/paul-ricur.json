@@ -1,0 +1,25 @@
+{
+  "id": "paul-ricur",
+  "wikidata": "Q192066",
+  "name": "Paul Ricœur",
+  "category": "philosopher",
+  "start": 1913,
+  "end": 2005,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.93,
+    "lon": 4.89,
+    "place": "Valence"
+  },
+  "summary": "French philosopher (1913–2005), born in Valence. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Ricœur"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192066",
+    "https://en.wikipedia.org/wiki/Paul_Ricœur",
+    "https://plato.stanford.edu/entries/ricoeur/",
+    "https://iep.utm.edu/ricoeur/"
+  ],
+  "disputed": false
+}

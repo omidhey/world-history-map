@@ -1,0 +1,23 @@
+{
+  "id": "posidonius",
+  "wikidata": "Q185770",
+  "name": "Posidonius",
+  "category": "philosopher",
+  "start": -135,
+  "end": -51,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.42,
+    "lon": 36.4,
+    "place": "Apamea"
+  },
+  "summary": "Greek Stoic philosopher (c.135 – c.51 BC), born in Apamea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Posidonius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185770",
+    "https://en.wikipedia.org/wiki/Posidonius"
+  ],
+  "disputed": false
+}

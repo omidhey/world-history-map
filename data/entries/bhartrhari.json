@@ -1,0 +1,24 @@
+{
+  "id": "bhartrhari",
+  "wikidata": "Q335161",
+  "name": "Bhartṛhari",
+  "category": "philosopher",
+  "start": 570,
+  "end": 651,
+  "date_precision": "year",
+  "location": {
+    "lat": 23.18,
+    "lon": 75.78,
+    "place": "Ujjain"
+  },
+  "summary": "Indian linguist, poet and writer, born in Ujjain. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhartṛhari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q335161",
+    "https://en.wikipedia.org/wiki/Bhartṛhari",
+    "https://iep.utm.edu/bhartrihari/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "yi-i",
+  "wikidata": "Q379653",
+  "name": "Yi I",
+  "category": "philosopher",
+  "start": 1536,
+  "end": 1584,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.76,
+    "lon": 128.9,
+    "place": "Gangneung"
+  },
+  "summary": "Joseon civil servant & Neo-Confucianist (1536 – 1584), born in Gangneung. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yi_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379653",
+    "https://en.wikipedia.org/wiki/Yi_I"
+  ],
+  "disputed": false
+}

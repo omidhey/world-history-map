@@ -1,0 +1,42 @@
+{
+  "id": "aristippus",
+  "wikidata": "Q189506",
+  "name": "Aristippus",
+  "category": "philosopher",
+  "start": -435,
+  "end": -366,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.82,
+    "lon": 21.85,
+    "place": "Cyrene"
+  },
+  "summary": "Greek philosopher, founder of Cyrenaicism (c.435–c.356 BCE), born in Cyrene. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristippus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189506",
+    "https://en.wikipedia.org/wiki/Aristippus",
+    "https://iep.utm.edu/aristip/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": -366,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q189506"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -355,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q189506"
+      ]
+    }
+  ]
+}

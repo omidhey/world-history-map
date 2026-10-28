@@ -1,0 +1,25 @@
+{
+  "id": "peter-abelard",
+  "wikidata": "Q4295",
+  "name": "Peter Abelard",
+  "category": "philosopher",
+  "start": 1079,
+  "end": 1142,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.14,
+    "lon": -1.34,
+    "place": "Le Pallet"
+  },
+  "summary": "French scholastic philosopher, theologian and preeminent logician (c.1079-1142), born in Le Pallet. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Abelard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4295",
+    "https://en.wikipedia.org/wiki/Peter_Abelard",
+    "https://plato.stanford.edu/entries/abelard/",
+    "https://iep.utm.edu/abelard/"
+  ],
+  "disputed": false
+}

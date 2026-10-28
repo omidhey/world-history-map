@@ -1,0 +1,24 @@
+{
+  "id": "jacques-maritain",
+  "wikidata": "Q45723",
+  "name": "Jacques Maritain",
+  "category": "philosopher",
+  "start": 1882,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.88,
+    "lon": 2.34,
+    "place": "9th arrondissement of Paris"
+  },
+  "summary": "French philosopher (1882–1973), born in 9th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Maritain"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45723",
+    "https://en.wikipedia.org/wiki/Jacques_Maritain",
+    "https://plato.stanford.edu/entries/maritain/"
+  ],
+  "disputed": false
+}

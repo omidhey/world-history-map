@@ -1,0 +1,24 @@
+{
+  "id": "porphyry",
+  "wikidata": "Q203445",
+  "name": "Porphyry",
+  "category": "philosopher",
+  "start": 233,
+  "end": 301,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.27,
+    "lon": 35.2,
+    "place": "Tyre"
+  },
+  "summary": "3rd-century Phoenician Neoplatonist philosopher, born in Tyre. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Porphyry_of_Tyre"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q203445",
+    "https://en.wikipedia.org/wiki/Porphyry_of_Tyre",
+    "https://plato.stanford.edu/entries/porphyry/"
+  ],
+  "disputed": false
+}

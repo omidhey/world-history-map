@@ -1,0 +1,24 @@
+{
+  "id": "friedrich-holderlin",
+  "wikidata": "Q75889",
+  "name": "Friedrich Hölderlin",
+  "category": "philosopher",
+  "start": 1770,
+  "end": 1843,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.08,
+    "lon": 9.16,
+    "place": "Lauffen am Neckar"
+  },
+  "summary": "German poet, born in Lauffen am Neckar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Hölderlin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q75889",
+    "https://en.wikipedia.org/wiki/Friedrich_Hölderlin",
+    "https://iep.utm.edu/holderli/"
+  ],
+  "disputed": false
+}

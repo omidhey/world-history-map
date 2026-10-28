@@ -1,0 +1,24 @@
+{
+  "id": "boethius",
+  "wikidata": "Q102851",
+  "name": "Boethius",
+  "category": "philosopher",
+  "start": 480,
+  "end": 524,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Roman senator and philosopher of the early 6th century (480–524), born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Boethius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q102851",
+    "https://en.wikipedia.org/wiki/Boethius",
+    "https://plato.stanford.edu/entries/boethius/"
+  ],
+  "disputed": false
+}

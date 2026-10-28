@@ -1,0 +1,24 @@
+{
+  "id": "joseph-priestley",
+  "wikidata": "Q159636",
+  "name": "Joseph Priestley",
+  "category": "philosopher",
+  "start": 1733,
+  "end": 1804,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.73,
+    "lon": -1.66,
+    "place": "Birstall"
+  },
+  "summary": "English chemist, theologian, educator, and political theorist (1733–1804), born in Birstall. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Priestley"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q159636",
+    "https://en.wikipedia.org/wiki/Joseph_Priestley",
+    "https://iep.utm.edu/priestly/"
+  ],
+  "disputed": false
+}

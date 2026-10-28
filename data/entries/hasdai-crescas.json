@@ -1,0 +1,42 @@
+{
+  "id": "hasdai-crescas",
+  "wikidata": "Q528415",
+  "name": "Hasdai Crescas",
+  "category": "philosopher",
+  "start": 1340,
+  "end": 1410,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.38,
+    "lon": 2.18,
+    "place": "Barcelona"
+  },
+  "summary": "Spanish Jewish philosopher and teacher (c.1340–1410/11), born in Barcelona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hasdai_Crescas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q528415",
+    "https://en.wikipedia.org/wiki/Hasdai_Crescas",
+    "https://plato.stanford.edu/entries/crescas/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1410,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q528415"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1412,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q528415"
+      ]
+    }
+  ]
+}

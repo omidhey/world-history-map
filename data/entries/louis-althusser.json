@@ -1,0 +1,24 @@
+{
+  "id": "louis-althusser",
+  "wikidata": "Q184169",
+  "name": "Louis Althusser",
+  "category": "philosopher",
+  "start": 1918,
+  "end": 1990,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.74,
+    "lon": 3.05,
+    "place": "Bir Mourad Rais"
+  },
+  "summary": "French Marxist philosopher (1918–1990), born in Bir Mourad Rais. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Althusser"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184169",
+    "https://en.wikipedia.org/wiki/Louis_Althusser",
+    "https://plato.stanford.edu/entries/althusser/"
+  ],
+  "disputed": false
+}

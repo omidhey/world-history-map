@@ -1,0 +1,24 @@
+{
+  "id": "juan-luis-vives",
+  "wikidata": "Q316357",
+  "name": "Juan Luis Vives",
+  "category": "philosopher",
+  "start": 1492,
+  "end": 1540,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.47,
+    "lon": -0.38,
+    "place": "Valencia"
+  },
+  "summary": "Spanish philosopher, born in Valencia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Luis_Vives"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316357",
+    "https://en.wikipedia.org/wiki/Juan_Luis_Vives",
+    "https://plato.stanford.edu/entries/vives/"
+  ],
+  "disputed": false
+}

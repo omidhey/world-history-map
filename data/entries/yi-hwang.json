@@ -1,0 +1,23 @@
+{
+  "id": "yi-hwang",
+  "wikidata": "Q486291",
+  "name": "Yi Hwang",
+  "category": "philosopher",
+  "start": 1501,
+  "end": 1570,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.57,
+    "lon": 128.72,
+    "place": "Andong"
+  },
+  "summary": "Korean Confucian scholar (1502 -1571), born in Andong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yi_Hwang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q486291",
+    "https://en.wikipedia.org/wiki/Yi_Hwang"
+  ],
+  "disputed": false
+}

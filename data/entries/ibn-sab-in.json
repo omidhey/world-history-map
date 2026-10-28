@@ -1,0 +1,23 @@
+{
+  "id": "ibn-sab-in",
+  "wikidata": "Q2719051",
+  "name": "Ibn Sab'in",
+  "category": "philosopher",
+  "start": 1217,
+  "end": 1270,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.12,
+    "lon": -1.3,
+    "place": "Valle de Ricote"
+  },
+  "summary": "Muslim philosopher, born in Valle de Ricote. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Sab'in"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2719051",
+    "https://en.wikipedia.org/wiki/Ibn_Sab'in"
+  ],
+  "disputed": false
+}

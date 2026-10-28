@@ -1,0 +1,25 @@
+{
+  "id": "jane-addams",
+  "wikidata": "Q180989",
+  "name": "Jane Addams",
+  "category": "philosopher",
+  "start": 1860,
+  "end": 1935,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.38,
+    "lon": -89.63,
+    "place": "Cedarville"
+  },
+  "summary": "American feminist social activist, reformer, social worker, sociologist, philosopher, and writer (1860–1935), born in Cedarville. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Addams"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q180989",
+    "https://en.wikipedia.org/wiki/Jane_Addams",
+    "https://plato.stanford.edu/entries/addams-jane/",
+    "https://iep.utm.edu/addamsj/"
+  ],
+  "disputed": false
+}

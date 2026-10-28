@@ -1,0 +1,24 @@
+{
+  "id": "a-j-ayer",
+  "wikidata": "Q243757",
+  "name": "A. J. Ayer",
+  "category": "philosopher",
+  "start": 1910,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English philosopher (1910–1989), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/A._J._Ayer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q243757",
+    "https://en.wikipedia.org/wiki/A._J._Ayer",
+    "https://plato.stanford.edu/entries/ayer/"
+  ],
+  "disputed": false
+}

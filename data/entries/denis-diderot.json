@@ -1,0 +1,25 @@
+{
+  "id": "denis-diderot",
+  "wikidata": "Q448",
+  "name": "Denis Diderot",
+  "category": "philosopher",
+  "start": 1713,
+  "end": 1784,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.86,
+    "lon": 5.33,
+    "place": "Langres"
+  },
+  "summary": "French Enlightenment philosopher writer and encyclopædist (1713–1784), born in Langres. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q448",
+    "https://en.wikipedia.org/wiki/Denis_Diderot",
+    "https://plato.stanford.edu/entries/diderot/",
+    "https://iep.utm.edu/diderot/"
+  ],
+  "disputed": false
+}

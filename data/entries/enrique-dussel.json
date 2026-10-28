@@ -1,0 +1,23 @@
+{
+  "id": "enrique-dussel",
+  "wikidata": "Q473518",
+  "name": "Enrique Dussel",
+  "category": "philosopher",
+  "start": 1934,
+  "end": 2023,
+  "date_precision": "day",
+  "location": {
+    "lat": -33.47,
+    "lon": -67.55,
+    "place": "La Paz"
+  },
+  "summary": "Argentine-Mexican philosopher, born in La Paz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Dussel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q473518",
+    "https://en.wikipedia.org/wiki/Enrique_Dussel"
+  ],
+  "disputed": false
+}

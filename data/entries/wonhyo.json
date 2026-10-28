@@ -1,0 +1,23 @@
+{
+  "id": "wonhyo",
+  "wikidata": "Q485114",
+  "name": "Wonhyo",
+  "category": "philosopher",
+  "start": 617,
+  "end": 686,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.82,
+    "lon": 128.73,
+    "place": "Gyeongsan"
+  },
+  "summary": "Korean Buddhist monk and commentator (617–686), born in Gyeongsan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wonhyo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q485114",
+    "https://en.wikipedia.org/wiki/Wonhyo"
+  ],
+  "disputed": false
+}

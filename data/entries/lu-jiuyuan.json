@@ -1,0 +1,23 @@
+{
+  "id": "lu-jiuyuan",
+  "wikidata": "Q2466384",
+  "name": "Lu Jiuyuan",
+  "category": "philosopher",
+  "start": 1139,
+  "end": 1193,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.9,
+    "lon": 116.75,
+    "place": "Jinxi County"
+  },
+  "summary": "Chinese scholar (1139-1192), born in Jinxi County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lu_Jiuyuan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2466384",
+    "https://en.wikipedia.org/wiki/Lu_Jiuyuan"
+  ],
+  "disputed": false
+}

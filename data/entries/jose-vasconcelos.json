@@ -1,0 +1,41 @@
+{
+  "id": "jose-vasconcelos",
+  "wikidata": "Q1091141",
+  "name": "José Vasconcelos",
+  "category": "philosopher",
+  "start": 1881,
+  "end": 1959,
+  "date_precision": "day",
+  "location": {
+    "lat": 17.05,
+    "lon": -96.65,
+    "place": "Oaxaca"
+  },
+  "summary": "Mexican writer, philosopher, and politician (1882–1959), born in Oaxaca. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/José_Vasconcelos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1091141",
+    "https://en.wikipedia.org/wiki/José_Vasconcelos"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1881,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1091141"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1882,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1091141"
+      ]
+    }
+  ]
+}

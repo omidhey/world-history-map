@@ -1,0 +1,23 @@
+{
+  "id": "alexis-kagame",
+  "wikidata": "Q2834552",
+  "name": "Alexis Kagame",
+  "category": "philosopher",
+  "start": 1912,
+  "end": 1981,
+  "date_precision": "day",
+  "location": {
+    "lat": -2.34,
+    "lon": 29.79,
+    "place": "Nyanza District"
+  },
+  "summary": "African philosopher (1912-1981), born in Nyanza District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Kagame"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2834552",
+    "https://en.wikipedia.org/wiki/Alexis_Kagame"
+  ],
+  "disputed": false
+}

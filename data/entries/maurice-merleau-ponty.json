@@ -1,0 +1,25 @@
+{
+  "id": "maurice-merleau-ponty",
+  "wikidata": "Q212639",
+  "name": "Maurice Merleau-Ponty",
+  "category": "philosopher",
+  "start": 1908,
+  "end": 1961,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.94,
+    "lon": -0.97,
+    "place": "Rochefort"
+  },
+  "summary": "French phenomenological philosopher, born in Rochefort. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q212639",
+    "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty",
+    "https://plato.stanford.edu/entries/merleau-ponty/",
+    "https://iep.utm.edu/merleau/"
+  ],
+  "disputed": false
+}

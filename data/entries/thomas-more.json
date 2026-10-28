@@ -1,0 +1,24 @@
+{
+  "id": "thomas-more",
+  "wikidata": "Q42544",
+  "name": "Thomas More",
+  "category": "philosopher",
+  "start": 1478,
+  "end": 1535,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English statesman, lawyer and philosopher (1478–1535), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42544",
+    "https://en.wikipedia.org/wiki/Thomas_More",
+    "https://plato.stanford.edu/entries/thomas-more/"
+  ],
+  "disputed": false
+}

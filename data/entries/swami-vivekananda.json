@@ -1,0 +1,23 @@
+{
+  "id": "swami-vivekananda",
+  "wikidata": "Q47478",
+  "name": "Swami Vivekananda",
+  "category": "philosopher",
+  "start": 1863,
+  "end": 1902,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.59,
+    "lon": 88.37,
+    "place": "Swami Vivekananda's Ancestral House & Cultural Centre"
+  },
+  "summary": "Indian Hindu monk and philosopher (1863–1902), born in Swami Vivekananda's Ancestral House & Cultural Centre. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Swami_Vivekananda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47478",
+    "https://en.wikipedia.org/wiki/Swami_Vivekananda"
+  ],
+  "disputed": false
+}

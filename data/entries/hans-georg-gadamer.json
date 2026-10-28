@@ -1,0 +1,25 @@
+{
+  "id": "hans-georg-gadamer",
+  "wikidata": "Q76356",
+  "name": "Hans-Georg Gadamer",
+  "category": "philosopher",
+  "start": 1900,
+  "end": 2002,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.82,
+    "lon": 8.77,
+    "place": "Marburg"
+  },
+  "summary": "German philosopher (1900–2002), born in Marburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans-Georg_Gadamer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76356",
+    "https://en.wikipedia.org/wiki/Hans-Georg_Gadamer",
+    "https://plato.stanford.edu/entries/gadamer/",
+    "https://iep.utm.edu/gadamer/"
+  ],
+  "disputed": false
+}

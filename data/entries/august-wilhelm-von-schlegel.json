@@ -1,0 +1,24 @@
+{
+  "id": "august-wilhelm-von-schlegel",
+  "wikidata": "Q57281",
+  "name": "August Wilhelm von Schlegel",
+  "category": "philosopher",
+  "start": 1767,
+  "end": 1845,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 9.74,
+    "place": "Hanover"
+  },
+  "summary": "German poet, translator, critic, and writer (1767–1845), born in Hanover. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Wilhelm_Schlegel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57281",
+    "https://en.wikipedia.org/wiki/August_Wilhelm_Schlegel",
+    "https://plato.stanford.edu/entries/schlegel-aw/"
+  ],
+  "disputed": false
+}

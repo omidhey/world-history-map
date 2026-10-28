@@ -1,0 +1,24 @@
+{
+  "id": "leo-strauss",
+  "wikidata": "Q77144",
+  "name": "Leo Strauss",
+  "category": "philosopher",
+  "start": 1899,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.82,
+    "lon": 8.92,
+    "place": "Kirchhain"
+  },
+  "summary": "History of Political Philosophy scholar (1899-1973), born in Kirchhain. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Strauss"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q77144",
+    "https://en.wikipedia.org/wiki/Leo_Strauss",
+    "https://plato.stanford.edu/entries/strauss-leo/"
+  ],
+  "disputed": false
+}

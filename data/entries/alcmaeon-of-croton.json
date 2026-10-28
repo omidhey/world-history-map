@@ -1,0 +1,24 @@
+{
+  "id": "alcmaeon-of-croton",
+  "wikidata": "Q188332",
+  "name": "Alcmaeon of Croton",
+  "category": "philosopher",
+  "start": -600,
+  "end": -500,
+  "date_precision": "century",
+  "location": {
+    "lat": 39.08,
+    "lon": 17.12,
+    "place": "Crotone"
+  },
+  "summary": "5th-century BC Greek physician and philosopher, born in Crotone. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alcmaeon_of_Croton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188332",
+    "https://en.wikipedia.org/wiki/Alcmaeon_of_Croton",
+    "https://plato.stanford.edu/entries/alcmaeon/"
+  ],
+  "disputed": false
+}

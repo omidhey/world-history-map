@@ -1,0 +1,24 @@
+{
+  "id": "ernst-bloch",
+  "wikidata": "Q57240",
+  "name": "Ernst Bloch",
+  "category": "philosopher",
+  "start": 1885,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.48,
+    "lon": 8.44,
+    "place": "Ludwigshafen"
+  },
+  "summary": "German philosopher (1885–1977), born in Ludwigshafen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Bloch"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57240",
+    "https://en.wikipedia.org/wiki/Ernst_Bloch",
+    "https://plato.stanford.edu/entries/bloch/"
+  ],
+  "disputed": false
+}

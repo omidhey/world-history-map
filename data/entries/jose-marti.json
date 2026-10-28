@@ -1,0 +1,23 @@
+{
+  "id": "jose-marti",
+  "wikidata": "Q103285",
+  "name": "José Martí",
+  "category": "philosopher",
+  "start": 1853,
+  "end": 1895,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.14,
+    "lon": -82.36,
+    "place": "Havana"
+  },
+  "summary": "Cuban poet, philosopher and nationalist (1853-1895), born in Havana. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/José_Martí"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q103285",
+    "https://en.wikipedia.org/wiki/José_Martí"
+  ],
+  "disputed": false
+}

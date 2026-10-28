@@ -1,0 +1,25 @@
+{
+  "id": "herbert-spencer",
+  "wikidata": "Q144535",
+  "name": "Herbert Spencer",
+  "category": "philosopher",
+  "start": 1820,
+  "end": 1903,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.92,
+    "lon": -1.48,
+    "place": "Derby"
+  },
+  "summary": "English philosopher and political theorist (1820–1903), born in Derby. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Spencer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q144535",
+    "https://en.wikipedia.org/wiki/Herbert_Spencer",
+    "https://plato.stanford.edu/entries/spencer/",
+    "https://iep.utm.edu/spencer/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "plutarch",
+  "wikidata": "Q41523",
+  "name": "Plutarch",
+  "category": "philosopher",
+  "start": 40,
+  "end": 120,
+  "date_precision": "decade",
+  "location": {
+    "lat": 38.5,
+    "lon": 22.84,
+    "place": "Chaeronea"
+  },
+  "summary": "Greek philosopher and historian (c. AD 46 – after AD 119), born in Chaeronea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Plutarch"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41523",
+    "https://en.wikipedia.org/wiki/Plutarch",
+    "https://plato.stanford.edu/entries/plutarch/"
+  ],
+  "disputed": false
+}

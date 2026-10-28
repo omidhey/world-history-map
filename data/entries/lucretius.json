@@ -1,0 +1,25 @@
+{
+  "id": "lucretius",
+  "wikidata": "Q47154",
+  "name": "Lucretius",
+  "category": "philosopher",
+  "start": -94,
+  "end": -55,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.75,
+    "lon": 14.49,
+    "place": "Pompeii"
+  },
+  "summary": "1st-century BC Roman poet and philosopher, born in Pompeii. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucretius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47154",
+    "https://en.wikipedia.org/wiki/Lucretius",
+    "https://plato.stanford.edu/entries/lucretius/",
+    "https://iep.utm.edu/lucretiu/"
+  ],
+  "disputed": false
+}

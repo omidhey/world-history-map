@@ -1,0 +1,25 @@
+{
+  "id": "richard-rorty",
+  "wikidata": "Q215258",
+  "name": "Richard Rorty",
+  "category": "philosopher",
+  "start": 1931,
+  "end": 2007,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.71,
+    "lon": -74.01,
+    "place": "New York City"
+  },
+  "summary": "American philosopher (1931–2007), born in New York City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Rorty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q215258",
+    "https://en.wikipedia.org/wiki/Richard_Rorty",
+    "https://plato.stanford.edu/entries/rorty/",
+    "https://iep.utm.edu/rorty/"
+  ],
+  "disputed": false
+}

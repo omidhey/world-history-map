@@ -1,0 +1,23 @@
+{
+  "id": "placide-tempels",
+  "wikidata": "Q327448",
+  "name": "Placide Tempels",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.12,
+    "lon": 4.66,
+    "place": "Berlaar"
+  },
+  "summary": "Belgian missionary (1906–1977), born in Berlaar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Placide_Tempels"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q327448",
+    "https://en.wikipedia.org/wiki/Placide_Tempels"
+  ],
+  "disputed": false
+}

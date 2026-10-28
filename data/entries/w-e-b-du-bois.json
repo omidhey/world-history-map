@@ -1,0 +1,25 @@
+{
+  "id": "w-e-b-du-bois",
+  "wikidata": "Q158060",
+  "name": "W. E. B. Du Bois",
+  "category": "philosopher",
+  "start": 1868,
+  "end": 1963,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.2,
+    "lon": -73.36,
+    "place": "Great Barrington"
+  },
+  "summary": "American sociologist and activist (1868–1963), born in Great Barrington. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q158060",
+    "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+    "https://plato.stanford.edu/entries/dubois/",
+    "https://iep.utm.edu/dubois/"
+  ],
+  "disputed": false
+}

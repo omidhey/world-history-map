@@ -1,0 +1,25 @@
+{
+  "id": "gabriel-marcel",
+  "wikidata": "Q154145",
+  "name": "Gabriel Marcel",
+  "category": "philosopher",
+  "start": 1889,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.87,
+    "lon": 2.31,
+    "place": "8th arrondissement of Paris"
+  },
+  "summary": "French philosopher, playwright, music critic and leading Christian existentialist (1889-1973), born in 8th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Marcel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q154145",
+    "https://en.wikipedia.org/wiki/Gabriel_Marcel",
+    "https://plato.stanford.edu/entries/marcel/",
+    "https://iep.utm.edu/marcel/"
+  ],
+  "disputed": false
+}

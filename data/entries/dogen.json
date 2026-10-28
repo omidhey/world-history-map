@@ -1,0 +1,23 @@
+{
+  "id": "dogen",
+  "wikidata": "Q318064",
+  "name": "Dōgen",
+  "category": "philosopher",
+  "start": 1200,
+  "end": 1253,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.94,
+    "lon": 135.73,
+    "place": "Koga"
+  },
+  "summary": "Japanese Zen Buddhist teacher (1200-1253), born in Koga. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dōgen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q318064",
+    "https://en.wikipedia.org/wiki/Dōgen"
+  ],
+  "disputed": false
+}

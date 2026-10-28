@@ -1,0 +1,25 @@
+{
+  "id": "plato",
+  "wikidata": "Q859",
+  "name": "Plato",
+  "category": "philosopher",
+  "start": -428,
+  "end": -348,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.98,
+    "lon": 23.73,
+    "place": "Athens"
+  },
+  "summary": "4th-century BCE Greek philosopher, born in Athens. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Plato"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q859",
+    "https://en.wikipedia.org/wiki/Plato",
+    "https://plato.stanford.edu/entries/plato/",
+    "https://iep.utm.edu/plato/"
+  ],
+  "disputed": false
+}

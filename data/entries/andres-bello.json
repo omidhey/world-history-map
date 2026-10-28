@@ -1,0 +1,23 @@
+{
+  "id": "andres-bello",
+  "wikidata": "Q439195",
+  "name": "Andrés Bello",
+  "category": "philosopher",
+  "start": 1781,
+  "end": 1865,
+  "date_precision": "day",
+  "location": {
+    "lat": 10.51,
+    "lon": -66.91,
+    "place": "Caracas"
+  },
+  "summary": "Venezuelan humanist, diplomat, poet, legislator, philosopher, educator and philologist (1781-1865), born in Caracas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrés_Bello"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q439195",
+    "https://en.wikipedia.org/wiki/Andrés_Bello"
+  ],
+  "disputed": false
+}

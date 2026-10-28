@@ -1,0 +1,24 @@
+{
+  "id": "wang-bi",
+  "wikidata": "Q459865",
+  "name": "Wang Bi",
+  "category": "philosopher",
+  "start": 226,
+  "end": 249,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.38,
+    "lon": 116.08,
+    "place": "Juye County"
+  },
+  "summary": "Chinese philosopher and author, born in Juye County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Bi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q459865",
+    "https://en.wikipedia.org/wiki/Wang_Bi",
+    "https://iep.utm.edu/wangbi/"
+  ],
+  "disputed": false
+}

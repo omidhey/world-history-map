@@ -1,0 +1,25 @@
+{
+  "id": "martin-heidegger",
+  "wikidata": "Q48301",
+  "name": "Martin Heidegger",
+  "category": "philosopher",
+  "start": 1889,
+  "end": 1976,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.99,
+    "lon": 9.11,
+    "place": "Meßkirch"
+  },
+  "summary": "German philosopher (1889–1976), born in Meßkirch. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Heidegger"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48301",
+    "https://en.wikipedia.org/wiki/Martin_Heidegger",
+    "https://plato.stanford.edu/entries/heidegger/",
+    "https://iep.utm.edu/heidegge/"
+  ],
+  "disputed": false
+}

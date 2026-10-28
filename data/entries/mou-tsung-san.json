@@ -1,0 +1,24 @@
+{
+  "id": "mou-tsung-san",
+  "wikidata": "Q6918843",
+  "name": "Mou Tsung-san",
+  "category": "philosopher",
+  "start": 1909,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 25.04,
+    "lon": 121.56,
+    "place": "Taipei"
+  },
+  "summary": "Chinese philosopher (1909-1995), died in Taipei. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mou_Tsung-san"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6918843",
+    "https://en.wikipedia.org/wiki/Mou_Tsung-san",
+    "https://iep.utm.edu/zongsan/"
+  ],
+  "disputed": false
+}

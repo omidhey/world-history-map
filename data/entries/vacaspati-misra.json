@@ -1,0 +1,23 @@
+{
+  "id": "vacaspati-misra",
+  "wikidata": "Q1292812",
+  "name": "Vācaspati Miśra",
+  "category": "philosopher",
+  "start": 900,
+  "end": 980,
+  "date_precision": "year",
+  "location": {
+    "lat": 25.37,
+    "lon": 85.13,
+    "place": "Mithila"
+  },
+  "summary": "Indian Hindu philosopher, born in Mithila. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vāchaspati_Misra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1292812",
+    "https://en.wikipedia.org/wiki/Vāchaspati_Misra"
+  ],
+  "disputed": false
+}

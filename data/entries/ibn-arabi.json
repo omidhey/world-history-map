@@ -1,0 +1,24 @@
+{
+  "id": "ibn-arabi",
+  "wikidata": "Q46420",
+  "name": "Ibn Arabi",
+  "category": "philosopher",
+  "start": 1165,
+  "end": 1240,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.98,
+    "lon": -1.13,
+    "place": "Murcia"
+  },
+  "summary": "Sufi scholar and Sunni philosopher (1165–1240), born in Murcia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Arabi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q46420",
+    "https://en.wikipedia.org/wiki/Ibn_Arabi",
+    "https://plato.stanford.edu/entries/ibn-arabi/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ernst-cassirer",
+  "wikidata": "Q57188",
+  "name": "Ernst Cassirer",
+  "category": "philosopher",
+  "start": 1874,
+  "end": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.11,
+    "lon": 17.03,
+    "place": "Wrocław"
+  },
+  "summary": "German philosopher (1874–1945), born in Wrocław. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Cassirer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57188",
+    "https://en.wikipedia.org/wiki/Ernst_Cassirer",
+    "https://plato.stanford.edu/entries/cassirer/",
+    "https://iep.utm.edu/cassirer/"
+  ],
+  "disputed": false
+}

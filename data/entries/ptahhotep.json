@@ -1,0 +1,23 @@
+{
+  "id": "ptahhotep",
+  "wikidata": "Q573606",
+  "name": "Ptahhotep",
+  "category": "philosopher",
+  "start": -2450,
+  "end": -2400,
+  "date_precision": "century",
+  "location": {
+    "lat": 29.8,
+    "lon": 31.3,
+    "place": "Ancient Egypt"
+  },
+  "summary": "Ancient Egyptian vizier, worked in Ancient Egypt. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ptahhotep"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q573606",
+    "https://en.wikipedia.org/wiki/Ptahhotep"
+  ],
+  "disputed": false
+}

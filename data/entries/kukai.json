@@ -1,0 +1,24 @@
+{
+  "id": "kukai",
+  "wikidata": "Q222227",
+  "name": "Kūkai",
+  "category": "philosopher",
+  "start": 774,
+  "end": 835,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.23,
+    "lon": 133.77,
+    "place": "Zentsū-ji Temple"
+  },
+  "summary": "Japanese Buddhist monk and calligrapher, the founder of the Shingon school (774–835), born in Zentsū-ji Temple. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kūkai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q222227",
+    "https://en.wikipedia.org/wiki/Kūkai",
+    "https://plato.stanford.edu/entries/kukai/"
+  ],
+  "disputed": false
+}

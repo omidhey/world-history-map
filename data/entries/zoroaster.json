@@ -1,0 +1,23 @@
+{
+  "id": "zoroaster",
+  "wikidata": "Q35811",
+  "name": "Zoroaster",
+  "category": "philosopher",
+  "start": -628,
+  "end": -551,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.6,
+    "lon": 51.43,
+    "place": "Ray"
+  },
+  "summary": "Founder of Zoroastrianism, born in Ray. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zoroaster"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q35811",
+    "https://en.wikipedia.org/wiki/Zoroaster"
+  ],
+  "disputed": false
+}

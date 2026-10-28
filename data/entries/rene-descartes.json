@@ -1,0 +1,25 @@
+{
+  "id": "rene-descartes",
+  "wikidata": "Q9191",
+  "name": "René Descartes",
+  "category": "philosopher",
+  "start": 1596,
+  "end": 1650,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.97,
+    "lon": 0.7,
+    "place": "Descartes"
+  },
+  "summary": "French philosopher, mathematician, and scientist (1596–1650), born in Descartes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/René_Descartes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9191",
+    "https://en.wikipedia.org/wiki/René_Descartes",
+    "https://plato.stanford.edu/entries/descartes/",
+    "https://iep.utm.edu/descarte/"
+  ],
+  "disputed": false
+}

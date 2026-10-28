@@ -1,0 +1,23 @@
+{
+  "id": "ogyu-sorai",
+  "wikidata": "Q369158",
+  "name": "Ogyū Sorai",
+  "category": "philosopher",
+  "start": 1666,
+  "end": 1728,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.77,
+    "place": "Edo"
+  },
+  "summary": "Japanese philosopher (1666–1728), born in Edo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ogyū_Sorai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q369158",
+    "https://en.wikipedia.org/wiki/Ogyū_Sorai"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "friedrich-engels",
+  "wikidata": "Q34787",
+  "name": "Friedrich Engels",
+  "category": "philosopher",
+  "start": 1820,
+  "end": 1895,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.27,
+    "lon": 7.2,
+    "place": "Barmen"
+  },
+  "summary": "German philosopher, sociologist and economist (1820–1895), born in Barmen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Engels"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34787",
+    "https://en.wikipedia.org/wiki/Friedrich_Engels"
+  ],
+  "disputed": false
+}

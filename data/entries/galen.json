@@ -1,0 +1,25 @@
+{
+  "id": "galen",
+  "wikidata": "Q8778",
+  "name": "Galen",
+  "category": "philosopher",
+  "start": 129,
+  "end": 300,
+  "date_precision": "century",
+  "location": {
+    "lat": 39.13,
+    "lon": 27.18,
+    "place": "Pergamon"
+  },
+  "summary": "2nd-century Greek physician, surgeon and philosopher, born in Pergamon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Galen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8778",
+    "https://en.wikipedia.org/wiki/Galen",
+    "https://plato.stanford.edu/entries/galen/",
+    "https://iep.utm.edu/galen/"
+  ],
+  "disputed": false
+}

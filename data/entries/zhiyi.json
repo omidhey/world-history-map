@@ -1,0 +1,23 @@
+{
+  "id": "zhiyi",
+  "wikidata": "Q197778",
+  "name": "Zhiyi",
+  "category": "philosopher",
+  "start": 538,
+  "end": 597,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.42,
+    "lon": 112.85,
+    "place": "Qianjiang"
+  },
+  "summary": "Chinese Buddhist monk and founder of Tiantai tradition (538–597), born in Qianjiang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhiyi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q197778",
+    "https://en.wikipedia.org/wiki/Zhiyi"
+  ],
+  "disputed": false
+}

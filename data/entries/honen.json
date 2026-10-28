@@ -1,0 +1,23 @@
+{
+  "id": "honen",
+  "wikidata": "Q507980",
+  "name": "Hōnen",
+  "category": "philosopher",
+  "start": 1133,
+  "end": 1212,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.96,
+    "lon": 133.95,
+    "place": "Tanjō-ji Temple"
+  },
+  "summary": "Japanese Buddhist monk, born in Tanjō-ji Temple. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hōnen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q507980",
+    "https://en.wikipedia.org/wiki/Hōnen"
+  ],
+  "disputed": false
+}

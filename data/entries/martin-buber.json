@@ -1,0 +1,25 @@
+{
+  "id": "martin-buber",
+  "wikidata": "Q84423",
+  "name": "Martin Buber",
+  "category": "philosopher",
+  "start": 1878,
+  "end": 1965,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "German Jewish Existentialist philosopher and theologian (1878–1965), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Buber"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q84423",
+    "https://en.wikipedia.org/wiki/Martin_Buber",
+    "https://plato.stanford.edu/entries/buber/",
+    "https://iep.utm.edu/buber/"
+  ],
+  "disputed": false
+}

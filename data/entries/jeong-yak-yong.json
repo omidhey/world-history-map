@@ -1,0 +1,23 @@
+{
+  "id": "jeong-yak-yong",
+  "wikidata": "Q256246",
+  "name": "Jeong Yak-yong",
+  "category": "philosopher",
+  "start": 1762,
+  "end": 1836,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.17,
+    "lon": 126.92,
+    "place": "Gwangju"
+  },
+  "summary": "Korean scholar and philosopher (1762 - 1836), born in Gwangju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chŏng_Yagyong"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q256246",
+    "https://en.wikipedia.org/wiki/Chŏng_Yagyong"
+  ],
+  "disputed": false
+}

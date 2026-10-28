@@ -1,0 +1,23 @@
+{
+  "id": "chaitanya-mahaprabhu",
+  "wikidata": "Q870262",
+  "name": "Chaitanya Mahaprabhu",
+  "category": "philosopher",
+  "start": 1486,
+  "end": 1534,
+  "date_precision": "year",
+  "location": {
+    "lat": 23.41,
+    "lon": 88.37,
+    "place": "Nabadwip"
+  },
+  "summary": "15th century Indian Vaishnavite saint, born in Nabadwip. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q870262",
+    "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu"
+  ],
+  "disputed": false
+}

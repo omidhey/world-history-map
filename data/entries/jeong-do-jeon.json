@@ -1,0 +1,23 @@
+{
+  "id": "jeong-do-jeon",
+  "wikidata": "Q469396",
+  "name": "Jeong Do-jeon",
+  "category": "philosopher",
+  "start": 1342,
+  "end": 1398,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.98,
+    "lon": 128.36,
+    "place": "Danyang County"
+  },
+  "summary": "Korean philosopher and politician (1342-1398), born in Danyang County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chŏng_Tojŏn"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q469396",
+    "https://en.wikipedia.org/wiki/Chŏng_Tojŏn"
+  ],
+  "disputed": false
+}

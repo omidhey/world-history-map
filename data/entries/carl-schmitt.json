@@ -1,0 +1,24 @@
+{
+  "id": "carl-schmitt",
+  "wikidata": "Q77148",
+  "name": "Carl Schmitt",
+  "category": "philosopher",
+  "start": 1888,
+  "end": 1985,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.21,
+    "lon": 7.87,
+    "place": "Plettenberg"
+  },
+  "summary": "German jurist, political theorist and professor of law (1888–1985), born in Plettenberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Schmitt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q77148",
+    "https://en.wikipedia.org/wiki/Carl_Schmitt",
+    "https://plato.stanford.edu/entries/schmitt/"
+  ],
+  "disputed": false
+}

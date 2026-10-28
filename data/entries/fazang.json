@@ -1,0 +1,42 @@
+{
+  "id": "fazang",
+  "wikidata": "Q1349949",
+  "name": "Fazang",
+  "category": "philosopher",
+  "start": 643,
+  "end": 712,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.31,
+    "lon": 108.86,
+    "place": "Chang'an"
+  },
+  "summary": "Buddhist patriarch (643-713), born in Chang'an. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fazang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1349949",
+    "https://en.wikipedia.org/wiki/Fazang",
+    "https://iep.utm.edu/fazang/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 712,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1349949"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 713,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1349949"
+      ]
+    }
+  ]
+}

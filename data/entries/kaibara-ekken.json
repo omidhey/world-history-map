@@ -1,0 +1,23 @@
+{
+  "id": "kaibara-ekken",
+  "wikidata": "Q1721396",
+  "name": "Kaibara Ekken",
+  "category": "philosopher",
+  "start": 1630,
+  "end": 1714,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.6,
+    "lon": 130.49,
+    "place": "Chikuzen Province"
+  },
+  "summary": "Japanese Confucianist Philosopher, Pre-Linnaean botanist, physician (1630-1714), born in Chikuzen Province. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaibara_Ekken"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1721396",
+    "https://en.wikipedia.org/wiki/Kaibara_Ekken"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "antisthenes",
+  "wikidata": "Q179149",
+  "name": "Antisthenes",
+  "category": "philosopher",
+  "start": -445,
+  "end": -365,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.94,
+    "lon": 23.64,
+    "place": "Piraeus"
+  },
+  "summary": "Greek philosopher, founder of Cynicism (c.446–c.366 BCE), born in Piraeus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antisthenes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179149",
+    "https://en.wikipedia.org/wiki/Antisthenes",
+    "https://iep.utm.edu/antisthe/"
+  ],
+  "disputed": false
+}

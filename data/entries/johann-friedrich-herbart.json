@@ -1,0 +1,24 @@
+{
+  "id": "johann-friedrich-herbart",
+  "wikidata": "Q76685",
+  "name": "Johann Friedrich Herbart",
+  "category": "philosopher",
+  "start": 1776,
+  "end": 1841,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.14,
+    "lon": 8.21,
+    "place": "Oldenburg"
+  },
+  "summary": "German philosopher, psychologist, and founder of pedagogy as an academic discipline (1776-1841), born in Oldenburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Friedrich_Herbart"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76685",
+    "https://en.wikipedia.org/wiki/Johann_Friedrich_Herbart",
+    "https://plato.stanford.edu/entries/johann-herbart/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abraham-ibn-ezra",
+  "wikidata": "Q270670",
+  "name": "Abraham ibn Ezra",
+  "category": "philosopher",
+  "start": 1092,
+  "end": 1167,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.07,
+    "lon": -1.61,
+    "place": "Tudela"
+  },
+  "summary": "12th-century Sephardic rabbi and astrologer, born in Tudela. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_ibn_Ezra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q270670",
+    "https://en.wikipedia.org/wiki/Abraham_ibn_Ezra",
+    "https://plato.stanford.edu/entries/ibn-ezra/"
+  ],
+  "disputed": false
+}

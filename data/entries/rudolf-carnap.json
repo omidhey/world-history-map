@@ -1,0 +1,25 @@
+{
+  "id": "rudolf-carnap",
+  "wikidata": "Q76519",
+  "name": "Rudolf Carnap",
+  "category": "philosopher",
+  "start": 1891,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.23,
+    "lon": 7.2,
+    "place": "Ronsdorf"
+  },
+  "summary": "German philosopher and logician (1891–1970), born in Ronsdorf. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Carnap"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76519",
+    "https://en.wikipedia.org/wiki/Rudolf_Carnap",
+    "https://plato.stanford.edu/entries/carnap/",
+    "https://iep.utm.edu/carnap/"
+  ],
+  "disputed": false
+}

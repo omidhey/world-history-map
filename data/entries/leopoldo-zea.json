@@ -1,0 +1,23 @@
+{
+  "id": "leopoldo-zea",
+  "wikidata": "Q1879022",
+  "name": "Leopoldo Zea",
+  "category": "philosopher",
+  "start": 1912,
+  "end": 2004,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.35,
+    "lon": -99.14,
+    "place": "Mexico City"
+  },
+  "summary": "Mexican philosopher (1912–2004), born in Mexico City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopoldo_Zea_Aguilar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1879022",
+    "https://en.wikipedia.org/wiki/Leopoldo_Zea_Aguilar"
+  ],
+  "disputed": false
+}

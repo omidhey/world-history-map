@@ -1,0 +1,24 @@
+{
+  "id": "ramon-llull",
+  "wikidata": "Q193660",
+  "name": "Ramon Llull",
+  "category": "philosopher",
+  "start": 1232,
+  "end": 1316,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.57,
+    "lon": 2.65,
+    "place": "Palma"
+  },
+  "summary": "Majorcan writer and philosopher (c.1232–1315/6), born in Palma. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramon_Llull"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193660",
+    "https://en.wikipedia.org/wiki/Ramon_Llull",
+    "https://plato.stanford.edu/entries/llull/"
+  ],
+  "disputed": false
+}

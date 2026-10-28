@@ -1,0 +1,23 @@
+{
+  "id": "domingo-faustino-sarmiento",
+  "wikidata": "Q254041",
+  "name": "Domingo Faustino Sarmiento",
+  "category": "philosopher",
+  "start": 1811,
+  "end": 1888,
+  "date_precision": "day",
+  "location": {
+    "lat": -31.54,
+    "lon": -68.54,
+    "place": "San Juan"
+  },
+  "summary": "Argentinian politician and writer (1811-1888), born in San Juan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q254041",
+    "https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento"
+  ],
+  "disputed": false
+}

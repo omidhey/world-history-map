@@ -1,0 +1,24 @@
+{
+  "id": "wilhelm-von-humboldt",
+  "wikidata": "Q77888",
+  "name": "Wilhelm von Humboldt",
+  "category": "philosopher",
+  "start": 1767,
+  "end": 1835,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.4,
+    "lon": 13.06,
+    "place": "Kabinetthaus"
+  },
+  "summary": "Prussian philosopher, government official, diplomat, and educator (1767–1835), born in Kabinetthaus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_von_Humboldt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q77888",
+    "https://en.wikipedia.org/wiki/Wilhelm_von_Humboldt",
+    "https://plato.stanford.edu/entries/wilhelm-humboldt/"
+  ],
+  "disputed": false
+}

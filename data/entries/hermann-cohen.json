@@ -1,0 +1,24 @@
+{
+  "id": "hermann-cohen",
+  "wikidata": "Q76709",
+  "name": "Hermann Cohen",
+  "category": "philosopher",
+  "start": 1842,
+  "end": 1918,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.88,
+    "lon": 12.43,
+    "place": "Coswig"
+  },
+  "summary": "German philosopher (1842–1918), born in Coswig. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Cohen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76709",
+    "https://en.wikipedia.org/wiki/Hermann_Cohen",
+    "https://plato.stanford.edu/entries/cohen/"
+  ],
+  "disputed": false
+}

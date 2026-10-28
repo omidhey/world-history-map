@@ -1,0 +1,24 @@
+{
+  "id": "shri-ramanujacharya",
+  "wikidata": "Q1741798",
+  "name": "Shri Ramanujacharya",
+  "category": "philosopher",
+  "start": 1017,
+  "end": 1137,
+  "date_precision": "century",
+  "location": {
+    "lat": 12.97,
+    "lon": 79.95,
+    "place": "Sriperumbudur"
+  },
+  "summary": "12th-century Iconic indian social reformer and proponent of the Vishishtadvaita Vedanta school of philosophy., born in Sriperumbudur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramanuja"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1741798",
+    "https://en.wikipedia.org/wiki/Ramanuja",
+    "https://iep.utm.edu/ramanuja/"
+  ],
+  "disputed": false
+}

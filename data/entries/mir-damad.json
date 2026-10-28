@@ -1,0 +1,23 @@
+{
+  "id": "mir-damad",
+  "wikidata": "Q3315763",
+  "name": "Mir Damad",
+  "category": "philosopher",
+  "start": 1561,
+  "end": 1631,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.85,
+    "lon": 54.43,
+    "place": "Gorgan"
+  },
+  "summary": "Iranian philosopher and inventor, born in Gorgan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mir_Damad"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3315763",
+    "https://en.wikipedia.org/wiki/Mir_Damad"
+  ],
+  "disputed": false
+}

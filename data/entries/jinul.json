@@ -1,0 +1,23 @@
+{
+  "id": "jinul",
+  "wikidata": "Q704894",
+  "name": "Jinul",
+  "category": "philosopher",
+  "start": 1158,
+  "end": 1210,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.43,
+    "lon": 126.17,
+    "place": "Sohung County"
+  },
+  "summary": "Korean Seon Buddhist monk (1158–1210), born in Sohung County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jinul"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q704894",
+    "https://en.wikipedia.org/wiki/Jinul"
+  ],
+  "disputed": false
+}

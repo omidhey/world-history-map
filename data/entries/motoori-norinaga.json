@@ -1,0 +1,23 @@
+{
+  "id": "motoori-norinaga",
+  "wikidata": "Q384647",
+  "name": "Motoori Norinaga",
+  "category": "philosopher",
+  "start": 1730,
+  "end": 1801,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.58,
+    "lon": 136.53,
+    "place": "Matsusaka"
+  },
+  "summary": "Japanese scholar and philosopher (1730–1801), born in Matsusaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Motoori_Norinaga"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q384647",
+    "https://en.wikipedia.org/wiki/Motoori_Norinaga"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "emilie-du-chatelet",
+  "wikidata": "Q7286",
+  "name": "Émilie du Châtelet",
+  "category": "philosopher",
+  "start": 1706,
+  "end": 1749,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Era chiná physicist, and author (1706-1749), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Émilie_du_Châtelet"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7286",
+    "https://en.wikipedia.org/wiki/Émilie_du_Châtelet",
+    "https://plato.stanford.edu/entries/emilie-du-chatelet/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pythagoras",
+  "wikidata": "Q10261",
+  "name": "Pythagoras",
+  "category": "philosopher",
+  "start": -582,
+  "end": -490,
+  "date_precision": "century",
+  "location": {
+    "lat": 37.69,
+    "lon": 26.94,
+    "place": "Samos"
+  },
+  "summary": "Greek philosopher and mathematician (c. 570 – c. 495 BC), born in Samos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10261",
+    "https://en.wikipedia.org/wiki/Pythagoras",
+    "https://plato.stanford.edu/entries/pythagoras/",
+    "https://iep.utm.edu/pythagor/"
+  ],
+  "disputed": false
+}

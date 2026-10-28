@@ -1,0 +1,23 @@
+{
+  "id": "fukuzawa-yukichi",
+  "wikidata": "Q355447",
+  "name": "Fukuzawa Yukichi",
+  "category": "philosopher",
+  "start": 1835,
+  "end": 1901,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.7,
+    "lon": 135.49,
+    "place": "Dōjima"
+  },
+  "summary": "Modern Enlightenment thinker, educator, philosopher, scholar, author, writer, journalist, translator, entrepreneur, and founder of Keio University in Japan's Meiji era (1835-1901), born in Dōjima. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fukuzawa_Yukichi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q355447",
+    "https://en.wikipedia.org/wiki/Fukuzawa_Yukichi"
+  ],
+  "disputed": false
+}

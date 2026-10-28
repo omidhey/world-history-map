@@ -1,0 +1,24 @@
+{
+  "id": "xuanzang",
+  "wikidata": "Q42063",
+  "name": "Xuanzang",
+  "category": "philosopher",
+  "start": 602,
+  "end": 664,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.72,
+    "lon": 112.78,
+    "place": "Yanshi District"
+  },
+  "summary": "7th-century Chinese Buddhist monk and scholar (602–664), born in Yanshi District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xuanzang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42063",
+    "https://en.wikipedia.org/wiki/Xuanzang",
+    "https://iep.utm.edu/xuanzang/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jean-buridan",
+  "wikidata": "Q275500",
+  "name": "Jean Buridan",
+  "category": "philosopher",
+  "start": 1295,
+  "end": 1358,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.53,
+    "lon": 2.64,
+    "place": "Béthune"
+  },
+  "summary": "Medieval philosopher (ca. 1300-1358), born in Béthune. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Buridan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q275500",
+    "https://en.wikipedia.org/wiki/Jean_Buridan",
+    "https://plato.stanford.edu/entries/buridan/"
+  ],
+  "disputed": false
+}

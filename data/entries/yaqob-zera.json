@@ -1,0 +1,41 @@
+{
+  "id": "yaqob-zera",
+  "wikidata": "Q2896591",
+  "name": "Yaqob Zera",
+  "category": "philosopher",
+  "start": 1599,
+  "end": 1693,
+  "date_precision": "year",
+  "location": {
+    "lat": 14.12,
+    "lon": 38.73,
+    "place": "Axum"
+  },
+  "summary": "Ethiopian philosopher, born in Axum. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2896591",
+    "https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1599,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2896591"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1600,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2896591"
+      ]
+    }
+  ]
+}

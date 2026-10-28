@@ -1,0 +1,41 @@
+{
+  "id": "bahya-ibn-paquda",
+  "wikidata": "Q762229",
+  "name": "Bahya ibn Paquda",
+  "category": "philosopher",
+  "start": 1050,
+  "end": 1100,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.65,
+    "lon": -0.88,
+    "place": "Zaragoza"
+  },
+  "summary": "Spanish Jewish philosopher and rabbi (c.1050–1120), born in Zaragoza. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahya_ibn_Paquda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q762229",
+    "https://en.wikipedia.org/wiki/Bahya_ibn_Paquda"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1100,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q762229"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1120,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q762229"
+      ]
+    }
+  ]
+}

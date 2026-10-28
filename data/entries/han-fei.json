@@ -1,0 +1,23 @@
+{
+  "id": "han-fei",
+  "wikidata": "Q28959",
+  "name": "Han Fei",
+  "category": "philosopher",
+  "start": -280,
+  "end": -233,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.4,
+    "lon": 113.72,
+    "place": "Xinzheng"
+  },
+  "summary": "Chinese Legalist, 280–233 BCE, born in Xinzheng. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_Fei"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28959",
+    "https://en.wikipedia.org/wiki/Han_Fei"
+  ],
+  "disputed": false
+}

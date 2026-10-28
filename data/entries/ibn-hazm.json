@@ -1,0 +1,23 @@
+{
+  "id": "ibn-hazm",
+  "wikidata": "Q317787",
+  "name": "Ibn Hazm",
+  "category": "philosopher",
+  "start": 994,
+  "end": 1064,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "Andalusian Muslim polymath, historian, jurist, philosopher and theologian (994–1064), born in Córdoba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Hazm"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q317787",
+    "https://en.wikipedia.org/wiki/Ibn_Hazm"
+  ],
+  "disputed": false
+}

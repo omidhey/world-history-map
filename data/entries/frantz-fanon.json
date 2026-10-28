@@ -1,0 +1,25 @@
+{
+  "id": "frantz-fanon",
+  "wikidata": "Q193670",
+  "name": "Frantz Fanon",
+  "category": "philosopher",
+  "start": 1925,
+  "end": 1961,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.6,
+    "lon": -61.07,
+    "place": "Fort-de-France"
+  },
+  "summary": "French West Indian psychiatrist and philosopher (1925–1961), born in Fort-de-France. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Frantz_Fanon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193670",
+    "https://en.wikipedia.org/wiki/Frantz_Fanon",
+    "https://plato.stanford.edu/entries/frantz-fanon/",
+    "https://iep.utm.edu/fanon/"
+  ],
+  "disputed": false
+}

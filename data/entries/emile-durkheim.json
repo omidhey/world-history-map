@@ -1,0 +1,24 @@
+{
+  "id": "emile-durkheim",
+  "wikidata": "Q15948",
+  "name": "Émile Durkheim",
+  "category": "philosopher",
+  "start": 1858,
+  "end": 1917,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.17,
+    "lon": 6.45,
+    "place": "Épinal"
+  },
+  "summary": "French sociologist (1858–1917), born in Épinal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Émile_Durkheim"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q15948",
+    "https://en.wikipedia.org/wiki/Émile_Durkheim",
+    "https://iep.utm.edu/durkheim/"
+  ],
+  "disputed": false
+}

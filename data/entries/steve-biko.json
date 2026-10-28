@@ -1,0 +1,23 @@
+{
+  "id": "steve-biko",
+  "wikidata": "Q214473",
+  "name": "Steve Biko",
+  "category": "philosopher",
+  "start": 1946,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": -32.88,
+    "lon": 27.4,
+    "place": "Qonce"
+  },
+  "summary": "South African anti-apartheid activist (1946–1977), born in Qonce. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Biko"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q214473",
+    "https://en.wikipedia.org/wiki/Steve_Biko"
+  ],
+  "disputed": false
+}

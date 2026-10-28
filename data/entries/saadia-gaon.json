@@ -1,0 +1,24 @@
+{
+  "id": "saadia-gaon",
+  "wikidata": "Q328748",
+  "name": "Saadia Gaon",
+  "category": "philosopher",
+  "start": 882,
+  "end": 942,
+  "date_precision": "year",
+  "location": {
+    "lat": 29.3,
+    "lon": 30.83,
+    "place": "Faiyum"
+  },
+  "summary": "Rabbi, translator, Jewish philosopher and theologian (0882-0942) active during the Abbasid Caliphate in Egypt and Irak, born in Faiyum. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saadia_Gaon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q328748",
+    "https://en.wikipedia.org/wiki/Saadia_Gaon",
+    "https://plato.stanford.edu/entries/saadya/"
+  ],
+  "disputed": false
+}

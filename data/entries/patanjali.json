@@ -1,0 +1,22 @@
+{
+  "id": "patanjali",
+  "wikidata": "Q231680",
+  "name": "Patanjali",
+  "category": "philosopher",
+  "start": -200,
+  "date_precision": "century",
+  "location": {
+    "lat": 22.8,
+    "lon": 83,
+    "place": "India"
+  },
+  "summary": "Ancient Indian scholar(s) of grammar and linguistics, of yoga, of medical treatises, born in India. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Patanjali"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q231680",
+    "https://en.wikipedia.org/wiki/Patanjali"
+  ],
+  "disputed": false
+}

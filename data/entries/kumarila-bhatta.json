@@ -1,0 +1,25 @@
+{
+  "id": "kumarila-bhatta",
+  "wikidata": "Q774847",
+  "name": "Kumārila Bhaṭṭa",
+  "category": "philosopher",
+  "start": 700,
+  "end": 700,
+  "date_precision": "century",
+  "location": {
+    "lat": 26,
+    "lon": 93,
+    "place": "Assam"
+  },
+  "summary": "Hindu philosopher of the Mimamsa school (fl. 7th century), born in Assam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kumārila_Bhaṭṭa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q774847",
+    "https://en.wikipedia.org/wiki/Kumārila_Bhaṭṭa",
+    "https://plato.stanford.edu/entries/kumaarila/",
+    "https://en.wikipedia.org/wiki/Kum%C4%81rila_Bha%E1%B9%AD%E1%B9%ADa"
+  ],
+  "disputed": false
+}

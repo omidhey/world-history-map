@@ -1,0 +1,25 @@
+{
+  "id": "xunzi",
+  "wikidata": "Q216072",
+  "name": "Xunzi",
+  "category": "philosopher",
+  "start": -313,
+  "end": -230,
+  "date_precision": "decade",
+  "location": {
+    "lat": 30.42,
+    "lon": 112.17,
+    "place": "Chu"
+  },
+  "summary": "Chinese Confucian philosopher (c. 310 – after 238 BCE), died in Chu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xunzi_(philosopher)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q216072",
+    "https://en.wikipedia.org/wiki/Xunzi_(philosopher)",
+    "https://plato.stanford.edu/entries/xunzi/",
+    "https://iep.utm.edu/xunzi/"
+  ],
+  "disputed": false
+}

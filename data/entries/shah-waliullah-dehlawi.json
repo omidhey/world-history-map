@@ -1,0 +1,23 @@
+{
+  "id": "shah-waliullah-dehlawi",
+  "wikidata": "Q392835",
+  "name": "Shah Waliullah Dehlawi",
+  "category": "philosopher",
+  "start": 1703,
+  "end": 1762,
+  "date_precision": "day",
+  "location": {
+    "lat": 28.67,
+    "lon": 77.22,
+    "place": "Delhi"
+  },
+  "summary": "Indian muslim scholar, born in Delhi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shah_Waliullah_Dehlawi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q392835",
+    "https://en.wikipedia.org/wiki/Shah_Waliullah_Dehlawi"
+  ],
+  "disputed": false
+}

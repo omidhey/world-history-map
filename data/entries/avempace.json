@@ -1,0 +1,24 @@
+{
+  "id": "avempace",
+  "wikidata": "Q11362",
+  "name": "Avempace",
+  "category": "philosopher",
+  "start": 1095,
+  "end": 1139,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.65,
+    "lon": -0.88,
+    "place": "Sarakusta"
+  },
+  "summary": "Arab Andalusian polymath (c. 1085 – 1138), born in Sarakusta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Avempace"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11362",
+    "https://en.wikipedia.org/wiki/Avempace",
+    "https://plato.stanford.edu/entries/ibn-bajja/"
+  ],
+  "disputed": false
+}

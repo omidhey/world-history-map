@@ -1,0 +1,25 @@
+{
+  "id": "gottfried-wilhelm-leibniz",
+  "wikidata": "Q9047",
+  "name": "Gottfried Wilhelm Leibniz",
+  "category": "philosopher",
+  "start": 1646,
+  "end": 1716,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.34,
+    "lon": 12.37,
+    "place": "Leipzig"
+  },
+  "summary": "German mathematician and philosopher (1646–1716), born in Leipzig. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9047",
+    "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "https://plato.stanford.edu/entries/leibniz/",
+    "https://iep.utm.edu/leib-ove/"
+  ],
+  "disputed": false
+}

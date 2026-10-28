@@ -1,0 +1,24 @@
+{
+  "id": "karl-popper",
+  "wikidata": "Q81244",
+  "name": "Karl Popper",
+  "category": "philosopher",
+  "start": 1902,
+  "end": 1994,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian-British philosopher of science and social and política e falsificationism and for criticism of Plato, Hegel and Marx as totalitarian opponents of open society (1902-1994), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Popper"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81244",
+    "https://en.wikipedia.org/wiki/Karl_Popper",
+    "https://plato.stanford.edu/entries/popper/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pierre-bayle",
+  "wikidata": "Q214816",
+  "name": "Pierre Bayle",
+  "category": "philosopher",
+  "start": 1647,
+  "end": 1706,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.15,
+    "lon": 1.39,
+    "place": "Carla-Bayle"
+  },
+  "summary": "French philosopher and writer (1647–1706), born in Carla-Bayle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Bayle"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q214816",
+    "https://en.wikipedia.org/wiki/Pierre_Bayle",
+    "https://plato.stanford.edu/entries/bayle/",
+    "https://iep.utm.edu/bayle/"
+  ],
+  "disputed": false
+}

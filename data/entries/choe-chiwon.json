@@ -1,0 +1,23 @@
+{
+  "id": "choe-chiwon",
+  "wikidata": "Q487042",
+  "name": "Choe Chiwon",
+  "category": "philosopher",
+  "start": 857,
+  "end": 901,
+  "date_precision": "century",
+  "location": {
+    "lat": 35.85,
+    "lon": 129.22,
+    "place": "Gyeongju"
+  },
+  "summary": "Silla Confucian & official, philosopher, and poet (857 ~ 908 ?), born in Gyeongju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ch'oe_Ch'iwŏn"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q487042",
+    "https://en.wikipedia.org/wiki/Ch'oe_Ch'iwŏn"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jean-baudrillard",
+  "wikidata": "Q182847",
+  "name": "Jean Baudrillard",
+  "category": "philosopher",
+  "start": 1929,
+  "end": 2007,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.27,
+    "lon": 4.03,
+    "place": "Reims"
+  },
+  "summary": "French sociologist, philosopher and cultural theorist (1929–2007), born in Reims. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Baudrillard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q182847",
+    "https://en.wikipedia.org/wiki/Jean_Baudrillard",
+    "https://plato.stanford.edu/entries/baudrillard/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cheng-yi",
+  "wikidata": "Q558380",
+  "name": "Cheng Yi",
+  "category": "philosopher",
+  "start": 1033,
+  "end": 1107,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.88,
+    "lon": 114.37,
+    "place": "Huangpi District"
+  },
+  "summary": "Chinese philosopher (1033–1107), born in Huangpi District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheng_Yi_(philosopher)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q558380",
+    "https://en.wikipedia.org/wiki/Cheng_Yi_(philosopher)",
+    "https://iep.utm.edu/chengyi/"
+  ],
+  "disputed": false
+}

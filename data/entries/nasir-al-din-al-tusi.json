@@ -1,0 +1,24 @@
+{
+  "id": "nasir-al-din-al-tusi",
+  "wikidata": "Q302835",
+  "name": "Nasir al-Din al-Tusi",
+  "category": "philosopher",
+  "start": 1201,
+  "end": 1274,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.49,
+    "lon": 59.52,
+    "place": "Tus"
+  },
+  "summary": "Persian astronomer (1201–1274), born in Tus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q302835",
+    "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi",
+    "https://iep.utm.edu/tusi/"
+  ],
+  "disputed": false
+}

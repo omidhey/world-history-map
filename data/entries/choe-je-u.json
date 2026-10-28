@@ -1,0 +1,23 @@
+{
+  "id": "choe-je-u",
+  "wikidata": "Q489310",
+  "name": "Choe Je-u",
+  "category": "philosopher",
+  "start": 1824,
+  "end": 1864,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.85,
+    "lon": 129.22,
+    "place": "Gyeongju"
+  },
+  "summary": "Korean religious leader (1824-1864), born in Gyeongju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ch'oe_Cheu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q489310",
+    "https://en.wikipedia.org/wiki/Ch'oe_Cheu"
+  ],
+  "disputed": false
+}

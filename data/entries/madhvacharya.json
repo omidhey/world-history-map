@@ -1,0 +1,24 @@
+{
+  "id": "madhvacharya",
+  "wikidata": "Q335371",
+  "name": "Madhvacharya",
+  "category": "philosopher",
+  "start": 1238,
+  "end": 1317,
+  "date_precision": "year",
+  "location": {
+    "lat": 13.27,
+    "lon": 74.79,
+    "place": "Pajaka"
+  },
+  "summary": "13th-century Hindu Dvaita philosopher, born in Pajaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madhvacharya"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q335371",
+    "https://en.wikipedia.org/wiki/Madhvacharya",
+    "https://iep.utm.edu/madhva/"
+  ],
+  "disputed": false
+}

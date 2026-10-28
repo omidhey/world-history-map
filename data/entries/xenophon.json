@@ -1,0 +1,24 @@
+{
+  "id": "xenophon",
+  "wikidata": "Q129772",
+  "name": "Xenophon",
+  "category": "philosopher",
+  "start": -430,
+  "end": -354,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 23.92,
+    "place": "Erchia"
+  },
+  "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC), born in Erchia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xenophon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129772",
+    "https://en.wikipedia.org/wiki/Xenophon",
+    "https://iep.utm.edu/xenophon/"
+  ],
+  "disputed": false
+}

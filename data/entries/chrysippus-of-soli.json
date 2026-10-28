@@ -1,0 +1,24 @@
+{
+  "id": "chrysippus-of-soli",
+  "wikidata": "Q211411",
+  "name": "Chrysippus of Soli",
+  "category": "philosopher",
+  "start": -281,
+  "end": -208,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.74,
+    "lon": 34.54,
+    "place": "Soli"
+  },
+  "summary": "Greek Stoic philosopher (c.279–c.206 BC), born in Soli. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chrysippus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q211411",
+    "https://en.wikipedia.org/wiki/Chrysippus",
+    "https://iep.utm.edu/chrysipp/"
+  ],
+  "disputed": false
+}

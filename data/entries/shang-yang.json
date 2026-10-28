@@ -1,0 +1,23 @@
+{
+  "id": "shang-yang",
+  "wikidata": "Q351345",
+  "name": "Shang Yang",
+  "category": "philosopher",
+  "start": -390,
+  "end": -338,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.76,
+    "lon": 115.03,
+    "place": "Puyang"
+  },
+  "summary": "Qin State statesman, chancellor and reformer (c. 390–338 BC), born in Puyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shang_Yang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q351345",
+    "https://en.wikipedia.org/wiki/Shang_Yang"
+  ],
+  "disputed": false
+}

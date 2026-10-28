@@ -1,0 +1,24 @@
+{
+  "id": "ludwig-feuerbach",
+  "wikidata": "Q76422",
+  "name": "Ludwig Feuerbach",
+  "category": "philosopher",
+  "start": 1804,
+  "end": 1872,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.54,
+    "lon": 12.15,
+    "place": "Landshut"
+  },
+  "summary": "German philosopher and anthropologist (1804–1872), born in Landshut. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Feuerbach"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76422",
+    "https://en.wikipedia.org/wiki/Ludwig_Feuerbach",
+    "https://plato.stanford.edu/entries/ludwig-feuerbach/"
+  ],
+  "disputed": false
+}

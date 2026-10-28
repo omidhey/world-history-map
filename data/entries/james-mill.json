@@ -1,0 +1,24 @@
+{
+  "id": "james-mill",
+  "wikidata": "Q271666",
+  "name": "James Mill",
+  "category": "philosopher",
+  "start": 1773,
+  "end": 1836,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.67,
+    "lon": -2.92,
+    "place": "Angus"
+  },
+  "summary": "Scottish historian, economist, political theorist and philosopher (1773-1836), born in Angus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Mill"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q271666",
+    "https://en.wikipedia.org/wiki/James_Mill",
+    "https://plato.stanford.edu/entries/james-mill/"
+  ],
+  "disputed": false
+}

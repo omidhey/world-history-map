@@ -1,0 +1,24 @@
+{
+  "id": "tetsuro-watsuji",
+  "wikidata": "Q969266",
+  "name": "Tetsuro Watsuji",
+  "category": "philosopher",
+  "start": 1889,
+  "end": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.82,
+    "lon": 134.69,
+    "place": "Himeji"
+  },
+  "summary": "Japanese philosopher (1889–1960), born in Himeji. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tetsurō_Watsuji"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q969266",
+    "https://en.wikipedia.org/wiki/Tetsurō_Watsuji",
+    "https://plato.stanford.edu/entries/watsuji-tetsuro/"
+  ],
+  "disputed": false
+}

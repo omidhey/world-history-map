@@ -1,0 +1,23 @@
+{
+  "id": "cheikh-anta-diop",
+  "wikidata": "Q521729",
+  "name": "Cheikh Anta Diop",
+  "category": "philosopher",
+  "start": 1923,
+  "end": 1986,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.93,
+    "lon": -16.42,
+    "place": "Thieytou"
+  },
+  "summary": "Senegalese politician, essayist (1923–1986), born in Thieytou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheikh_Anta_Diop"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q521729",
+    "https://en.wikipedia.org/wiki/Cheikh_Anta_Diop"
+  ],
+  "disputed": false
+}

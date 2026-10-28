@@ -1,0 +1,24 @@
+{
+  "id": "joseph-albo",
+  "wikidata": "Q559622",
+  "name": "Joseph Albo",
+  "category": "philosopher",
+  "start": 1380,
+  "end": 1444,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.79,
+    "lon": -1.35,
+    "place": "Monreal del Campo"
+  },
+  "summary": "Rabbi (1380–1444), born in Monreal del Campo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Albo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q559622",
+    "https://en.wikipedia.org/wiki/Joseph_Albo",
+    "https://plato.stanford.edu/entries/albo-joseph/"
+  ],
+  "disputed": false
+}

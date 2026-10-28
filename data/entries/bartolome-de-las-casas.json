@@ -1,0 +1,23 @@
+{
+  "id": "bartolome-de-las-casas",
+  "wikidata": "Q207416",
+  "name": "Bartolomé de las Casas",
+  "category": "philosopher",
+  "start": 1484,
+  "end": 1566,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.39,
+    "lon": -6.0,
+    "place": "Seville"
+  },
+  "summary": "Spanish Dominican friar, historian, and social reformer (1474–1566), born in Seville. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartolomé_de_las_Casas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207416",
+    "https://en.wikipedia.org/wiki/Bartolomé_de_las_Casas"
+  ],
+  "disputed": false
+}

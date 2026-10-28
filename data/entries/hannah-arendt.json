@@ -1,0 +1,25 @@
+{
+  "id": "hannah-arendt",
+  "wikidata": "Q60025",
+  "name": "Hannah Arendt",
+  "category": "philosopher",
+  "start": 1906,
+  "end": 1975,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 9.71,
+    "place": "Lindener Marktplatz 2, Hannover"
+  },
+  "summary": "German-American political theorist and philosopher (1906–1975), born in Lindener Marktplatz 2, Hannover. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Arendt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60025",
+    "https://en.wikipedia.org/wiki/Hannah_Arendt",
+    "https://plato.stanford.edu/entries/arendt/",
+    "https://iep.utm.edu/hannah-arendt/"
+  ],
+  "disputed": false
+}

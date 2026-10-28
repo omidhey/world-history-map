@@ -1,0 +1,25 @@
+{
+  "id": "immanuel-kant",
+  "wikidata": "Q9312",
+  "name": "Immanuel Kant",
+  "category": "philosopher",
+  "start": 1724,
+  "end": 1804,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.71,
+    "lon": 20.51,
+    "place": "Königsberg"
+  },
+  "summary": "German philosopher (1724-1804), born in Königsberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9312",
+    "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "https://plato.stanford.edu/entries/kant/",
+    "https://iep.utm.edu/kantview/"
+  ],
+  "disputed": false
+}

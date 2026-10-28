@@ -1,0 +1,41 @@
+{
+  "id": "anton-wilhelm-amo",
+  "wikidata": "Q595486",
+  "name": "Anton Wilhelm Amo",
+  "category": "philosopher",
+  "start": 1700,
+  "end": 1759,
+  "date_precision": "year",
+  "location": {
+    "lat": 4.87,
+    "lon": -2.24,
+    "place": "Axim"
+  },
+  "summary": "Ghanaian-German philosopher, born in Axim. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Wilhelm_Amo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q595486",
+    "https://en.wikipedia.org/wiki/Anton_Wilhelm_Amo"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1700,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q595486"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1703,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q595486"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mani",
+  "wikidata": "Q203922",
+  "name": "Mani",
+  "category": "philosopher",
+  "start": 216,
+  "end": 274,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.09,
+    "lon": 44.58,
+    "place": "Ctesiphon"
+  },
+  "summary": "3rd century prophet and founder of Manichaeism, born in Ctesiphon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mani_(prophet)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q203922",
+    "https://en.wikipedia.org/wiki/Mani_(prophet)"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 274,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q203922"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 277,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q203922"
+      ]
+    }
+  ]
+}

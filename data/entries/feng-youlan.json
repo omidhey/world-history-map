@@ -1,0 +1,24 @@
+{
+  "id": "feng-youlan",
+  "wikidata": "Q557220",
+  "name": "Feng Youlan",
+  "category": "philosopher",
+  "start": 1895,
+  "end": 1990,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.69,
+    "lon": 112.83,
+    "place": "Tanghe County"
+  },
+  "summary": "Chinese philosopher and historian (1895–1990), born in Tanghe County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Feng_Youlan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q557220",
+    "https://en.wikipedia.org/wiki/Feng_Youlan",
+    "https://iep.utm.edu/feng/"
+  ],
+  "disputed": false
+}

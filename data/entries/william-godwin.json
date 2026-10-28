@@ -1,0 +1,24 @@
+{
+  "id": "william-godwin",
+  "wikidata": "Q188569",
+  "name": "William Godwin",
+  "category": "philosopher",
+  "start": 1756,
+  "end": 1836,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.66,
+    "lon": 0.16,
+    "place": "Wisbech"
+  },
+  "summary": "English journalist, political philosopher and novelist (1756–1836), born in Wisbech. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Godwin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188569",
+    "https://en.wikipedia.org/wiki/William_Godwin",
+    "https://plato.stanford.edu/entries/godwin/"
+  ],
+  "disputed": false
+}

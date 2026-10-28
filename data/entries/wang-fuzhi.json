@@ -1,0 +1,23 @@
+{
+  "id": "wang-fuzhi",
+  "wikidata": "Q714374",
+  "name": "Wang Fuzhi",
+  "category": "philosopher",
+  "start": 1619,
+  "end": 1692,
+  "date_precision": "day",
+  "location": {
+    "lat": 26.9,
+    "lon": 112.59,
+    "place": "Hengyang"
+  },
+  "summary": "Chinese essayist, historian and philosopher (1619–1692), born in Hengyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Fuzhi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q714374",
+    "https://en.wikipedia.org/wiki/Wang_Fuzhi"
+  ],
+  "disputed": false
+}

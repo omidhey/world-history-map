@@ -1,0 +1,41 @@
+{
+  "id": "muhammad-husayn-tabatabaei",
+  "wikidata": "Q737448",
+  "name": "Muhammad Husayn Tabatabaei",
+  "category": "philosopher",
+  "start": 1904,
+  "end": 1981,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.07,
+    "lon": 46.3,
+    "place": "Tabriz"
+  },
+  "summary": "Iranian Shia cleric, philosopher, jurist and mystic, born in Tabriz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Husayn_Tabataba'i"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q737448",
+    "https://en.wikipedia.org/wiki/Muhammad_Husayn_Tabataba'i"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1892,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q737448"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1904,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q737448"
+      ]
+    }
+  ]
+}

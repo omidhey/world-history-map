@@ -1,0 +1,24 @@
+{
+  "id": "etienne-bonnot-de-condillac",
+  "wikidata": "Q272119",
+  "name": "Étienne Bonnot de Condillac",
+  "category": "philosopher",
+  "start": 1714,
+  "end": 1780,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.19,
+    "lon": 5.73,
+    "place": "Grenoble"
+  },
+  "summary": "French academic, born in Grenoble. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Étienne_Bonnot_de_Condillac"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q272119",
+    "https://en.wikipedia.org/wiki/Étienne_Bonnot_de_Condillac",
+    "https://plato.stanford.edu/entries/condillac/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pyrrho",
+  "wikidata": "Q192313",
+  "name": "Pyrrho",
+  "category": "philosopher",
+  "start": -360,
+  "end": -270,
+  "date_precision": "decade",
+  "location": {
+    "lat": 37.89,
+    "lon": 21.37,
+    "place": "Elis"
+  },
+  "summary": "Greek philosopher and founder of Pyrrhonism (c.360-c.270 BC), born in Elis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyrrho"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192313",
+    "https://en.wikipedia.org/wiki/Pyrrho",
+    "https://plato.stanford.edu/entries/pyrrho/",
+    "https://iep.utm.edu/pyrrho/"
+  ],
+  "disputed": false
+}

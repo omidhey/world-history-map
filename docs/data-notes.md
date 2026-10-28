@@ -40,10 +40,34 @@ came to 1.9 MB in total but lost 149 features in 1 BCE and dozens of islands per
 ## Philosophers from Wikidata (Session 11, 2026-10-28)
 
 `python pipeline/import_wikidata.py` (add `--dry-run` to see the report only, `--refresh` to ask
-Wikidata again instead of using `raw/wikidata/`). It selects humans with occupation philosopher
-(Q4964182), a birth date, a birthplace with coordinates and **at least 80 sitelinks**: 350 items
-on 2026-10-28. 13 already had a hand-written record and were left alone; 2 have only "unknown
-value" as birth date (Patanjali, Adrian IV) and were skipped; **335 new records** were written.
+Wikidata again instead of using `raw/wikidata/`). The aim is philosophers whose **thought** is
+studied, spread across traditions, not whoever is most famous.
+
+**Who is imported**
+
+1. Humans with occupation philosopher who have an article in the **Stanford Encyclopedia of
+   Philosophy or the Internet Encyclopedia of Philosophy** (as recorded on Wikidata) and at least
+   50 sitelinks: 263 people.
+2. Everyone in the curated list [pipeline/philosophers_canon.json](../pipeline/philosophers_canon.json):
+   212 people in 12 traditions (Chinese, Indian, Islamic, Iranian, Japanese, Korean, African,
+   Jewish, Latin American, Stoic, plus major Western thinkers the encyclopedias' Wikidata links
+   miss). Each is resolved through their English Wikipedia article title, not a name search, and
+   each tradition links its Wikipedia overview. Add people by pull request.
+
+Together 439 people; 9 already had a hand-written record (never changed), 16 were skipped, and
+**414 new records** were written.
+
+A first version (same day) took everyone with occupation philosopher and ≥ 80 sitelinks. That
+measures fame, not thought: it brought in Emmanuel Macron, Harry Houdini and several popes, and
+put only 29 of 335 people in Asia and 4 in Africa. Mencius, Mozi and Xunzi were missing entirely
+because Wikidata gives no coordinates for their birthplaces.
+
+**Spread** (by place): Europe 245, Asia 93, Americas 33, Middle East / North Africa 31,
+Africa 12. By start century: 50 BCE, 112 from 1 to 1500 CE, 252 after 1500. The
+encyclopedia threshold was compared at 30 / 40 / 50 / 60 sitelinks; 50 trims minor modern
+Europeans while keeping every curated name.
+
+**How facts are read**
 
 - **Dates come from the entity data, not the query service.** The query service gives
   astronomical years (Socrates born `-0469`) and turns Julian dates into Gregorian ones (Cicero,
@@ -51,20 +75,33 @@ value" as birth date (Patanjali, Adrian IV) and were skipped; **335 new records*
   found 7 of 35 BCE records off by a year that way. The entity data keeps the year as entered,
   with no year 0. The script checks Socrates (470–399 BCE) and Confucius (551–479 BCE) before
   writing anything.
+- Without a birth date, the floruit ("flourished") year is used and the record says `circa`.
 - Only the best-ranked statements count (preferred, else normal; never deprecated). When they
-  give different years the record is `disputed` with one claim per year (12 records); the main
+  give different years the record is `disputed` with one claim per year (23 records); the main
   value is the year most statements give.
 - `date_precision` follows Wikidata's: day, year (also for month), decade, century. Plato's
   preferred dates are decade-precision, so his record says "decade".
-- Location is the birthplace, labelled in English, else Wikidata's language-neutral `mul` label.
+- **Location:** birthplace, else where the person worked, else where they died. A place without
+  coordinates borrows those of the region it lies in. Where Wikidata has no usable place, the
+  curated list may give one with the Wikipedia article that states it (Mencius: Zou, now
+  Zoucheng; Mozi: Lu, now Tengzhou; Nimbarka: Mathura; also ready for Dharmakirti: Nalanda and
+  Gaṅgeśa: Mithila, who are still skipped for their dates).
+- Names are the English label, else Wikidata's language-neutral `mul` label.
 - Summaries are a template built from the CC0 Wikidata description ("4th-century BCE Greek
   philosopher, born in Athens. Imported from Wikidata; a summary in our own words is still to be
-  written."). Rewriting them is open to contributors.
-- Existing records whose dates differ from Wikidata (reported, not changed): Gautama Buddha and
-  Laozi (Wikidata has century-precision dates), Murasaki Shikibu (Wikidata 970–1100).
-- **Bias:** by birthplace, 260 Europe, 29 Asia, 25 Americas, 17 Middle East / North Africa,
-  4 Africa; 212 of the 335 were born after 1700. A sitelink threshold favours well-documented
-  European figures (roadmap, section 13). Lower regional thresholds are a later option.
+  written."). The curated list can correct a wrong description, with a source (Kumārila Bhaṭṭa:
+  Wikidata called him an alchemist). Rewriting summaries is open to contributors.
+- Sources: the Wikidata item, the English Wikipedia article, and the SEP / IEP article when
+  there is one.
+
+**Still missing** (16 skipped). No usable place on Wikidata: Hui Shi, Gongsun Long, Yang Zhu,
+Guo Xiang, Kanada, Kapila, Jaimini, Badarayana, Kundakunda, Seo Gyeong-deok, Mazdak, Hamid
+al-Din al-Kirmani, Sextus Empiricus, Diogenes Laërtius; a sourced `place` in the curated list
+brings them in. Unusable dates on Wikidata: Dharmakirti (death before birth), Gaṅgeśa (none);
+those need fixing on Wikidata itself.
+
+Existing records whose dates differ from Wikidata (reported, not changed): Gautama Buddha and
+Laozi (Wikidata has century-precision dates).
 
 ## Observations
 

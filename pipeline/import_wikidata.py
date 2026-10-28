@@ -213,8 +213,13 @@ def self_check(people: dict[str, dict]) -> list[str]:
     return problems
 
 
+# Letters that Unicode does not decompose into a base letter plus accent.
+LETTERS = str.maketrans({"ø": "o", "Ø": "O", "œ": "oe", "Œ": "Oe", "æ": "ae", "Æ": "Ae", "ß": "ss",
+                         "đ": "d", "Đ": "D", "ł": "l", "Ł": "L", "þ": "th", "Þ": "Th", "ı": "i"})
+
+
 def slug(text: str) -> str:
-    ascii_text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
+    ascii_text = unicodedata.normalize("NFKD", text.translate(LETTERS)).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", ascii_text.lower()).strip("-")[:70].strip("-")
 
 

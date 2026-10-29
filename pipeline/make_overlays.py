@@ -24,6 +24,13 @@ NAME = re.compile(r"cropland(\d+)(BC|AD)\.asc$", re.IGNORECASE)
 GREEN = (46, 125, 50)
 
 
+def max_gap(year):
+    """HYDE's step in that era (1000 y to 0, 100 y to 1700, 10 y to 2000, then 1 y); a snapshot further
+    than that from every earlier grid is missing data, not 'the same as before', so it gets no overlay."""
+    return 1000 if year <= 0 else 100 if year <= 1700 else 10 if year <= 2000 else 1
+
+
+
 def read_grid(handle):
     for _ in range(6):
         handle.readline()
@@ -60,7 +67,7 @@ def main():
     available = sorted(entries)
     used = {}
     for year in snapshots:
-        at_or_before = [y for y in available if y <= year]
+        at_or_before = [y for y in available if year - max_gap(year) <= y <= year]
         if at_or_before:
             used[year] = max(at_or_before)
 

@@ -1,0 +1,19 @@
+{
+  "id": "xuande-emperor",
+  "wikidata": "Q9977",
+  "name": "Xuande Emperor",
+  "polity": "ming-empire",
+  "title": "Emperor",
+  "dynasty": "ming-imperial-house",
+  "start": 1425,
+  "end": 1435,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xuande_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9977",
+    "https://en.wikipedia.org/wiki/Xuande_Emperor"
+  ],
+  "disputed": false
+}

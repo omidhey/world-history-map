@@ -1,0 +1,19 @@
+{
+  "id": "mithridates-ii-of-parthia",
+  "wikidata": "Q297763",
+  "name": "Mithridates II of Parthia",
+  "polity": "parthian-empire",
+  "title": "King of Kings",
+  "dynasty": "arsacid-dynasty",
+  "start": -124,
+  "end": -91,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mithridates_II_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q297763",
+    "https://en.wikipedia.org/wiki/Mithridates_II_of_Parthia"
+  ],
+  "disputed": false
+}

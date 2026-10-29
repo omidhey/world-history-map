@@ -1,0 +1,19 @@
+{
+  "id": "alexander-iii-of-russia",
+  "wikidata": "Q120180",
+  "name": "Alexander III of Russia",
+  "polity": "russian-empire",
+  "title": "Emperor",
+  "dynasty": "house-of-romanov",
+  "start": 1881,
+  "end": 1894,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q120180",
+    "https://en.wikipedia.org/wiki/Alexander_III_of_Russia"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "domitian",
+  "wikidata": "Q1423",
+  "name": "Domitian",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "flavian-dynasty",
+  "start": 81,
+  "end": 96,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Domitian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1423",
+    "https://en.wikipedia.org/wiki/Domitian"
+  ],
+  "disputed": false
+}

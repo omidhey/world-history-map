@@ -1,0 +1,18 @@
+{
+  "id": "house-of-normandy",
+  "wikidata": "Q516569",
+  "name": "House of Normandy",
+  "polity": "kingdom-of-england",
+  "start": 1066,
+  "end": 1135,
+  "date_precision": "year",
+  "summary": "Norman kings who conquered England in 1066 and reshaped its aristocracy and government.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Normandy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q516569",
+    "https://en.wikipedia.org/wiki/House_of_Normandy"
+  ],
+  "disputed": false
+}

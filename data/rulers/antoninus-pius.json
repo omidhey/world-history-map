@@ -1,0 +1,19 @@
+{
+  "id": "antoninus-pius",
+  "wikidata": "Q1429",
+  "name": "Antoninus Pius",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "nerva-antonine-dynasty",
+  "start": 138,
+  "end": 161,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoninus_Pius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1429",
+    "https://en.wikipedia.org/wiki/Antoninus_Pius"
+  ],
+  "disputed": false
+}

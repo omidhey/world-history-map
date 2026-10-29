@@ -1,0 +1,19 @@
+{
+  "id": "charles-vii-of-france",
+  "wikidata": "Q133372",
+  "name": "Charles VII of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-valois",
+  "start": 1422,
+  "end": 1461,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q133372",
+    "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+  ],
+  "disputed": false
+}

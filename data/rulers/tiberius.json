@@ -1,0 +1,19 @@
+{
+  "id": "tiberius",
+  "wikidata": "Q1407",
+  "name": "Tiberius",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "julio-claudian-dynasty",
+  "start": 14,
+  "end": 37,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiberius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1407",
+    "https://en.wikipedia.org/wiki/Tiberius"
+  ],
+  "disputed": false
+}

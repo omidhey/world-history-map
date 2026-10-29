@@ -1,0 +1,19 @@
+{
+  "id": "murad-iii",
+  "wikidata": "Q159934",
+  "name": "Murad III",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1574,
+  "end": 1595,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Murad_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q159934",
+    "https://en.wikipedia.org/wiki/Murad_III"
+  ],
+  "disputed": false
+}

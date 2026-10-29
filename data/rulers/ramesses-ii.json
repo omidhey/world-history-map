@@ -1,0 +1,19 @@
+{
+  "id": "ramesses-ii",
+  "wikidata": "Q1523",
+  "name": "Ramesses II",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "nineteenth-dynasty-of-egypt",
+  "start": -1279,
+  "end": -1213,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramesses_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1523",
+    "https://en.wikipedia.org/wiki/Ramesses_II"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bayezid-i",
+  "wikidata": "Q128358",
+  "name": "Bayezid I",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1389,
+  "end": 1402,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bayezid_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q128358",
+    "https://en.wikipedia.org/wiki/Bayezid_I"
+  ],
+  "disputed": false
+}

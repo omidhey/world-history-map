@@ -9,6 +9,8 @@ no year 0, start not after end, id equals the file name, no duplicate ids or Wik
 disputed records carry their claims, and every border override has a source.
 Polities in data/polities/ follow pipeline/polity.schema.json with the same year rules, and every
 border name they list must exist in the snapshots and be claimed by only one polity at a time.
+Dynasties (data/dynasties/) and rulers (data/rulers/) name a polity that exists, a ruler's dynasty
+belongs to the same polity, and reigns lie within the state's dates give or take REIGN_SLACK years.
 """
 
 import datetime
@@ -25,6 +27,11 @@ POLITIES = ROOT / "data" / "polities"
 BORDERS = ROOT / "data" / "borders"
 SCHEMA = Path(__file__).resolve().parent / "entry.schema.json"
 POLITY_SCHEMA = Path(__file__).resolve().parent / "polity.schema.json"
+DYNASTIES = ROOT / "data" / "dynasties"
+RULERS = ROOT / "data" / "rulers"
+DYNASTY_SCHEMA = Path(__file__).resolve().parent / "dynasty.schema.json"
+RULER_SCHEMA = Path(__file__).resolve().parent / "ruler.schema.json"
+REIGN_SLACK = 30  # years a reign may fall outside its state's dates (states have fuzzy edges)
 
 
 def check_years(record: dict) -> list[str]:
@@ -128,6 +135,62 @@ def check_polities() -> tuple[int, list[str]]:
     return len(files), problems
 
 
+def check_rulers() -> tuple[int, list[str]]:
+    """Dynasties and rulers: schema, then links to polities and dynasties and dates that fit the state."""
+    polities = {}
+    for path in POLITIES.glob("*.json"):
+        record = json.loads(path.read_text(encoding="utf-8"))
+        polities[record["id"]] = record
+    problems, dynasties = [], {}
+    count = 0
+    for folder, schema_path in ((DYNASTIES, DYNASTY_SCHEMA), (RULERS, RULER_SCHEMA)):
+        validator = Draft202012Validator(json.loads(schema_path.read_text(encoding="utf-8")))
+        seen_wikidata: dict[str, str] = {}
+        for path in sorted(folder.glob("*.json")):
+            count += 1
+            name = path.relative_to(ROOT).as_posix()
+            try:
+                record = json.loads(path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, UnicodeDecodeError) as error:
+                problems.append(f"{name}: not valid JSON ({error})")
+                continue
+            if not isinstance(record, dict):
+                problems.append(f"{name}: must be one JSON object")
+                continue
+            found = check_entry(path, record, validator)
+            problems += [f"{name}: {p}" for p in found]
+            if found:
+                continue
+            if folder is DYNASTIES:
+                dynasties[record["id"]] = record
+            qid = record.get("wikidata")
+            if qid:
+                if qid in seen_wikidata:
+                    problems.append(f"{name}: duplicate wikidata '{qid}' (also in {seen_wikidata[qid]})")
+                seen_wikidata[qid] = name
+    for folder in (DYNASTIES, RULERS):
+        for path in sorted(folder.glob("*.json")):
+            record = json.loads(path.read_text(encoding="utf-8"))
+            if not isinstance(record, dict) or "polity" not in record or "id" not in record:
+                continue
+            name = path.relative_to(ROOT).as_posix()
+            polity = polities.get(record["polity"])
+            if not polity:
+                problems.append(f"{name}: polity '{record['polity']}' has no record in data/polities/")
+                continue
+            low, high = polity["start"] - REIGN_SLACK, polity.get("end", 9999) + REIGN_SLACK
+            end = record.get("end", record.get("start"))
+            if isinstance(record.get("start"), int) and not (low <= record["start"] <= high and (not isinstance(end, int) or end <= high)):
+                problems.append(f"{name}: dates {record['start']}..{record.get('end', '')} fall outside {polity['name']} ({polity['start']}..{polity.get('end', '')}) by more than {REIGN_SLACK} years")
+            if folder is RULERS and "dynasty" in record:
+                dynasty = dynasties.get(record["dynasty"])
+                if not dynasty:
+                    problems.append(f"{name}: dynasty '{record['dynasty']}' has no record in data/dynasties/")
+                elif dynasty["polity"] != record["polity"]:
+                    problems.append(f"{name}: dynasty '{record['dynasty']}' belongs to '{dynasty['polity']}', not '{record['polity']}'")
+    return count, problems
+
+
 def main() -> int:
     validator = Draft202012Validator(json.loads(SCHEMA.read_text(encoding="utf-8")))
     problems = []
@@ -158,10 +221,12 @@ def main() -> int:
     problems += check_overrides()
     polity_count, polity_problems = check_polities()
     problems += polity_problems
+    ruler_count, ruler_problems = check_rulers()
+    problems += ruler_problems
 
     for problem in problems:
         print(problem)
-    print(f"Checked {len(files)} entries and {polity_count} polities: {len(problems)} problem(s).")
+    print(f"Checked {len(files)} entries and {polity_count} polities and {ruler_count} dynasties and rulers: {len(problems)} problem(s).")
     return 1 if problems else 0
 
 

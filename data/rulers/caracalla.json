@@ -1,0 +1,19 @@
+{
+  "id": "caracalla",
+  "wikidata": "Q1446",
+  "name": "Caracalla",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "severan-dynasty",
+  "start": 211,
+  "end": 217,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caracalla"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1446",
+    "https://en.wikipedia.org/wiki/Caracalla"
+  ],
+  "disputed": false
+}

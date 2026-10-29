@@ -1,0 +1,19 @@
+{
+  "id": "orodes-ii-of-parthia",
+  "wikidata": "Q313933",
+  "name": "Orodes II of Parthia",
+  "polity": "parthian-empire",
+  "title": "King of Kings",
+  "dynasty": "arsacid-dynasty",
+  "start": -57,
+  "end": -37,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Orodes_II_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313933",
+    "https://en.wikipedia.org/wiki/Orodes_II_of_Parthia"
+  ],
+  "disputed": false
+}

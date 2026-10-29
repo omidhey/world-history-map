@@ -1,0 +1,19 @@
+{
+  "id": "al-ma-mun",
+  "wikidata": "Q61056",
+  "name": "Al-Ma'mun",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 813,
+  "end": 833,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Ma'mun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q61056",
+    "https://en.wikipedia.org/wiki/Al-Ma'mun"
+  ],
+  "disputed": false
+}

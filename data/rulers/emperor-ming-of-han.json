@@ -1,0 +1,19 @@
+{
+  "id": "emperor-ming-of-han",
+  "wikidata": "Q7271",
+  "name": "Emperor Ming of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "eastern-han",
+  "start": 57,
+  "end": 75,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Ming_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7271",
+    "https://en.wikipedia.org/wiki/Emperor_Ming_of_Han"
+  ],
+  "disputed": false
+}

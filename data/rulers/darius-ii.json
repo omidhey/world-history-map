@@ -1,0 +1,19 @@
+{
+  "id": "darius-ii",
+  "wikidata": "Q202236",
+  "name": "Darius II",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -423,
+  "end": -405,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q202236",
+    "https://en.wikipedia.org/wiki/Darius_II"
+  ],
+  "disputed": false
+}

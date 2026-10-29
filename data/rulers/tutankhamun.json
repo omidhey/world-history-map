@@ -1,0 +1,19 @@
+{
+  "id": "tutankhamun",
+  "wikidata": "Q12154",
+  "name": "Tutankhamun",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "eighteenth-dynasty-of-egypt",
+  "start": -1332,
+  "end": -1323,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tutankhamun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12154",
+    "https://en.wikipedia.org/wiki/Tutankhamun"
+  ],
+  "disputed": false
+}

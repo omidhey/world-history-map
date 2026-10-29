@@ -1,0 +1,19 @@
+{
+  "id": "julian",
+  "wikidata": "Q33941",
+  "name": "Julian",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "constantinian-dynasty",
+  "start": 361,
+  "end": 363,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_(emperor)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q33941",
+    "https://en.wikipedia.org/wiki/Julian_(emperor)"
+  ],
+  "disputed": false
+}

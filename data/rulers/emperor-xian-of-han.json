@@ -1,0 +1,19 @@
+{
+  "id": "emperor-xian-of-han",
+  "wikidata": "Q7316",
+  "name": "Emperor Xian of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "eastern-han",
+  "start": 189,
+  "end": 220,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Xian_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7316",
+    "https://en.wikipedia.org/wiki/Emperor_Xian_of_Han"
+  ],
+  "disputed": false
+}

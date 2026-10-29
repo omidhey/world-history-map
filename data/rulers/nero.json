@@ -1,0 +1,19 @@
+{
+  "id": "nero",
+  "wikidata": "Q1413",
+  "name": "Nero",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "julio-claudian-dynasty",
+  "start": 54,
+  "end": 68,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nero"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1413",
+    "https://en.wikipedia.org/wiki/Nero"
+  ],
+  "disputed": false
+}

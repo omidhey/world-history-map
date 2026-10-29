@@ -1,0 +1,19 @@
+{
+  "id": "louis-ix-of-france",
+  "wikidata": "Q346",
+  "name": "Louis IX of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-capet",
+  "start": 1226,
+  "end": 1270,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q346",
+    "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+  ],
+  "disputed": false
+}

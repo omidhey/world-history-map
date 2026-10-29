@@ -1,0 +1,18 @@
+{
+  "id": "topa-inca-yupanqui",
+  "wikidata": "Q311415",
+  "name": "Topa Inca Yupanqui",
+  "polity": "inca-empire",
+  "title": "Sapa Inca",
+  "start": 1471,
+  "end": 1493,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Topa_Inca_Yupanqui"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311415",
+    "https://en.wikipedia.org/wiki/Topa_Inca_Yupanqui"
+  ],
+  "disputed": false
+}

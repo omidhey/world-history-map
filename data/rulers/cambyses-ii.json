@@ -1,0 +1,19 @@
+{
+  "id": "cambyses-ii",
+  "wikidata": "Q182483",
+  "name": "Cambyses II",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -530,
+  "end": -522,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cambyses_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q182483",
+    "https://en.wikipedia.org/wiki/Cambyses_II"
+  ],
+  "disputed": false
+}

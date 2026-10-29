@@ -1,0 +1,19 @@
+{
+  "id": "septimius-severus",
+  "wikidata": "Q1442",
+  "name": "Septimius Severus",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "severan-dynasty",
+  "start": 193,
+  "end": 211,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Septimius_Severus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1442",
+    "https://en.wikipedia.org/wiki/Septimius_Severus"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "house-of-stuart",
+  "wikidata": "Q179840",
+  "name": "House of Stuart",
+  "polity": "kingdom-of-england",
+  "start": 1603,
+  "end": 1707,
+  "date_precision": "year",
+  "summary": "Scottish royal house that took the English throne in 1603; it was interrupted by the Commonwealth of 1649–1660.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Stuart"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179840",
+    "https://en.wikipedia.org/wiki/House_of_Stuart"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ptolemy-ii-philadelphus",
+  "wikidata": "Q39576",
+  "name": "Ptolemy II Philadelphus",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "ptolemaic-dynasty",
+  "start": -285,
+  "end": -246,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39576",
+    "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"
+  ],
+  "disputed": false
+}

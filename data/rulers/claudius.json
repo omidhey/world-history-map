@@ -1,0 +1,19 @@
+{
+  "id": "claudius",
+  "wikidata": "Q1411",
+  "name": "Claudius",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "julio-claudian-dynasty",
+  "start": 41,
+  "end": 54,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1411",
+    "https://en.wikipedia.org/wiki/Claudius"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nineteenth-dynasty-of-egypt",
+  "wikidata": "Q157956",
+  "name": "Nineteenth Dynasty",
+  "polity": "ancient-egypt",
+  "start": -1292,
+  "end": -1189,
+  "date_precision": "circa",
+  "summary": "New Kingdom royal line best known for Ramesses II and its wars with the Hittites.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nineteenth_Dynasty_of_Egypt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157956",
+    "https://en.wikipedia.org/wiki/Nineteenth_Dynasty_of_Egypt"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "xianfeng-emperor",
+  "wikidata": "Q334452",
+  "name": "Xianfeng Emperor",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1850,
+  "end": 1861,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xianfeng_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q334452",
+    "https://en.wikipedia.org/wiki/Xianfeng_Emperor"
+  ],
+  "disputed": false
+}

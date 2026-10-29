@@ -1,0 +1,19 @@
+{
+  "id": "nicholas-ii",
+  "wikidata": "Q40787",
+  "name": "Nicholas II",
+  "polity": "russian-empire",
+  "title": "Emperor",
+  "dynasty": "house-of-romanov",
+  "start": 1894,
+  "end": 1917,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40787",
+    "https://en.wikipedia.org/wiki/Nicholas_II"
+  ],
+  "disputed": false
+}

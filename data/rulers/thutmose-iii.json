@@ -1,0 +1,19 @@
+{
+  "id": "thutmose-iii",
+  "wikidata": "Q157899",
+  "name": "Thutmose III",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "eighteenth-dynasty-of-egypt",
+  "start": -1479,
+  "end": -1425,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thutmose_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157899",
+    "https://en.wikipedia.org/wiki/Thutmose_III"
+  ],
+  "disputed": false
+}

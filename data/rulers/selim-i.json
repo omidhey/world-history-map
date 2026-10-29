@@ -1,0 +1,19 @@
+{
+  "id": "selim-i",
+  "wikidata": "Q494660",
+  "name": "Selim I",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1512,
+  "end": 1520,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Selim_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q494660",
+    "https://en.wikipedia.org/wiki/Selim_I"
+  ],
+  "disputed": false
+}

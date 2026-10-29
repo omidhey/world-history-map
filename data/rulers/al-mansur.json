@@ -1,0 +1,19 @@
+{
+  "id": "al-mansur",
+  "wikidata": "Q31066",
+  "name": "Al-Mansur",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 754,
+  "end": 775,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Mansur"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q31066",
+    "https://en.wikipedia.org/wiki/Al-Mansur"
+  ],
+  "disputed": false
+}

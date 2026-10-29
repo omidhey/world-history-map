@@ -1,0 +1,19 @@
+{
+  "id": "charles-i-of-england",
+  "wikidata": "Q81506",
+  "name": "Charles I of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-stuart",
+  "start": 1625,
+  "end": 1649,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81506",
+    "https://en.wikipedia.org/wiki/Charles_I_of_England"
+  ],
+  "disputed": false
+}

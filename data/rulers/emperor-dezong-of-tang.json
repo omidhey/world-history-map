@@ -1,0 +1,19 @@
+{
+  "id": "emperor-dezong-of-tang",
+  "wikidata": "Q9755",
+  "name": "Emperor Dezong of Tang",
+  "polity": "tang-empire",
+  "title": "Emperor",
+  "dynasty": "tang-imperial-house",
+  "start": 779,
+  "end": 805,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Dezong_of_Tang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9755",
+    "https://en.wikipedia.org/wiki/Emperor_Dezong_of_Tang"
+  ],
+  "disputed": false
+}

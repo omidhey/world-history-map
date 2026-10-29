@@ -1,0 +1,19 @@
+{
+  "id": "al-nasir",
+  "wikidata": "Q284750",
+  "name": "Al-Nasir",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 1180,
+  "end": 1225,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Nasir_li-Din_Allah"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q284750",
+    "https://en.wikipedia.org/wiki/Al-Nasir_li-Din_Allah"
+  ],
+  "disputed": false
+}

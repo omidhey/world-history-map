@@ -1,0 +1,16 @@
+{
+  "id": "eastern-han",
+  "name": "Eastern Han",
+  "polity": "han-dynasty",
+  "start": 25,
+  "end": 220,
+  "date_precision": "year",
+  "summary": "Restored Han, with its capital at Luoyang, which ended in the Three Kingdoms.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Han"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eastern_Han"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "emperor-xuanzong-of-tang",
+  "wikidata": "Q9746",
+  "name": "Emperor Xuanzong of Tang",
+  "polity": "tang-empire",
+  "title": "Emperor",
+  "dynasty": "tang-imperial-house",
+  "start": 712,
+  "end": 756,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9746",
+    "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+  ],
+  "disputed": false
+}

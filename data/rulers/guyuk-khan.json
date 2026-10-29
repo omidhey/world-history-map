@@ -1,0 +1,19 @@
+{
+  "id": "guyuk-khan",
+  "wikidata": "Q7520",
+  "name": "Güyük Khan",
+  "polity": "mongol-empire",
+  "title": "Great Khan",
+  "dynasty": "borjigin-dynasty",
+  "start": 1246,
+  "end": 1248,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCy%C3%BCk_Khan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7520",
+    "https://en.wikipedia.org/wiki/G%C3%BCy%C3%BCk_Khan"
+  ],
+  "disputed": false
+}

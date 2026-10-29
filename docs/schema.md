@@ -124,3 +124,19 @@ python pipeline/validate.py
 
 It prints one line per problem (`data/entries/x.json: start: there is no year 0 …`) and
 fails if there are any. The same check runs automatically on every pull request.
+
+## Dynasties and rulers
+
+A ruling house is one file in `data/dynasties/`, a ruler one file in `data/rulers/`
+([dynasty.schema.json](../pipeline/dynasty.schema.json), [ruler.schema.json](../pipeline/ruler.schema.json)).
+Both name the state they belong to in `polity` (an `id` from `data/polities/`) and follow the
+same year, `date_precision`, `disputed`/`claims` and `sources` rules as other records.
+
+- Dynasty: `start`/`end` are the years the house ruled **this state**.
+- Ruler: `title` (king, emperor, caliph, pharaoh…), optional `dynasty` (a dynasty `id` of the same state), and `start`/`end` are the **reign**, not birth and death. Co-reigns may overlap.
+- `validate.py` checks that the polity and dynasty exist and that dates lie within the state's dates give or take 30 years.
+
+The lists are a selection, not every ruler. `pipeline/rulers_seed.py` holds the curated rows and
+`pipeline/make_rulers.py` writes the files (adds Wikidata ids and Wikipedia sources, and prints reigns
+that contradict Wikidata's birth or death years). Wikidata's own reign data is too thin for ancient
+states to import directly (checked in Session 16), so rows are written by hand from Wikipedia.

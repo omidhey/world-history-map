@@ -1,0 +1,19 @@
+{
+  "id": "al-mu-tasim",
+  "wikidata": "Q284550",
+  "name": "Al-Mu'tasim",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 833,
+  "end": 842,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Mu'tasim"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q284550",
+    "https://en.wikipedia.org/wiki/Al-Mu'tasim"
+  ],
+  "disputed": false
+}

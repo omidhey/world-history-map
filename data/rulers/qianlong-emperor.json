@@ -1,0 +1,19 @@
+{
+  "id": "qianlong-emperor",
+  "wikidata": "Q19133",
+  "name": "Qianlong Emperor",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1735,
+  "end": 1796,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qianlong_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q19133",
+    "https://en.wikipedia.org/wiki/Qianlong_Emperor"
+  ],
+  "disputed": false
+}

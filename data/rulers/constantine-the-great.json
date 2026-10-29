@@ -1,0 +1,19 @@
+{
+  "id": "constantine-the-great",
+  "wikidata": "Q8413",
+  "name": "Constantine the Great",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "constantinian-dynasty",
+  "start": 306,
+  "end": 337,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8413",
+    "https://en.wikipedia.org/wiki/Constantine_the_Great"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "xerxes-i",
+  "wikidata": "Q129165",
+  "name": "Xerxes I",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -486,
+  "end": -465,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xerxes_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129165",
+    "https://en.wikipedia.org/wiki/Xerxes_I"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "amenhotep-iii",
+  "wikidata": "Q42606",
+  "name": "Amenhotep III",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "eighteenth-dynasty-of-egypt",
+  "start": -1391,
+  "end": -1353,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amenhotep_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42606",
+    "https://en.wikipedia.org/wiki/Amenhotep_III"
+  ],
+  "disputed": false
+}

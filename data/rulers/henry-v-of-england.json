@@ -1,0 +1,19 @@
+{
+  "id": "henry-v-of-england",
+  "wikidata": "Q131581",
+  "name": "Henry V of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-plantagenet",
+  "start": 1413,
+  "end": 1422,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_V_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131581",
+    "https://en.wikipedia.org/wiki/Henry_V_of_England"
+  ],
+  "disputed": false
+}

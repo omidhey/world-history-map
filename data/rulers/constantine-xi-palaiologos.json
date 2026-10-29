@@ -1,0 +1,19 @@
+{
+  "id": "constantine-xi-palaiologos",
+  "wikidata": "Q37142",
+  "name": "Constantine XI Palaiologos",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "palaiologos-dynasty",
+  "start": 1449,
+  "end": 1453,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37142",
+    "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos"
+  ],
+  "disputed": false
+}

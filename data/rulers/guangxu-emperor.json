@@ -1,0 +1,19 @@
+{
+  "id": "guangxu-emperor",
+  "wikidata": "Q299710",
+  "name": "Guangxu Emperor",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1875,
+  "end": 1908,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guangxu_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q299710",
+    "https://en.wikipedia.org/wiki/Guangxu_Emperor"
+  ],
+  "disputed": false
+}

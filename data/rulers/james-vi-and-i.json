@@ -1,0 +1,19 @@
+{
+  "id": "james-vi-and-i",
+  "wikidata": "Q79972",
+  "name": "James VI and I",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-stuart",
+  "start": 1603,
+  "end": 1625,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_VI_and_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q79972",
+    "https://en.wikipedia.org/wiki/James_VI_and_I"
+  ],
+  "disputed": false
+}

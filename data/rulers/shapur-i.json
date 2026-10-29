@@ -1,0 +1,19 @@
+{
+  "id": "shapur-i",
+  "wikidata": "Q191455",
+  "name": "Shapur I",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 242,
+  "end": 270,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shapur_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q191455",
+    "https://en.wikipedia.org/wiki/Shapur_I"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "henry-vii-of-england",
+  "wikidata": "Q675493",
+  "name": "Henry VII of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-tudor",
+  "start": 1485,
+  "end": 1509,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q675493",
+    "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+  ],
+  "disputed": false
+}

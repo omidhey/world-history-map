@@ -1,0 +1,19 @@
+{
+  "id": "alexander-i-of-russia",
+  "wikidata": "Q15193",
+  "name": "Alexander I of Russia",
+  "polity": "russian-empire",
+  "title": "Emperor",
+  "dynasty": "house-of-romanov",
+  "start": 1801,
+  "end": 1825,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q15193",
+    "https://en.wikipedia.org/wiki/Alexander_I_of_Russia"
+  ],
+  "disputed": false
+}

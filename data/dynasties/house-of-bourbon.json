@@ -1,0 +1,18 @@
+{
+  "id": "house-of-bourbon",
+  "wikidata": "Q58389",
+  "name": "House of Bourbon",
+  "polity": "kingdom-of-france",
+  "start": 1589,
+  "end": 1792,
+  "date_precision": "year",
+  "summary": "Royal house from Henry IV to Louis XVI, which ended with the revolution (and returned in 1814–1848).",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Bourbon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q58389",
+    "https://en.wikipedia.org/wiki/House_of_Bourbon"
+  ],
+  "disputed": false
+}

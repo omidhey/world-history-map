@@ -1,0 +1,19 @@
+{
+  "id": "chongzhen-emperor",
+  "wikidata": "Q10069",
+  "name": "Chongzhen Emperor",
+  "polity": "ming-empire",
+  "title": "Emperor",
+  "dynasty": "ming-imperial-house",
+  "start": 1627,
+  "end": 1644,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10069",
+    "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
+  ],
+  "disputed": false
+}

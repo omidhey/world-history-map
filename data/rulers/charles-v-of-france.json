@@ -1,0 +1,19 @@
+{
+  "id": "charles-v-of-france",
+  "wikidata": "Q167782",
+  "name": "Charles V of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-valois",
+  "start": 1364,
+  "end": 1380,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q167782",
+    "https://en.wikipedia.org/wiki/Charles_V_of_France"
+  ],
+  "disputed": false
+}

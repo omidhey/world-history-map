@@ -1,0 +1,19 @@
+{
+  "id": "commodus",
+  "wikidata": "Q1434",
+  "name": "Commodus",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "nerva-antonine-dynasty",
+  "start": 180,
+  "end": 192,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Commodus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1434",
+    "https://en.wikipedia.org/wiki/Commodus"
+  ],
+  "disputed": false
+}

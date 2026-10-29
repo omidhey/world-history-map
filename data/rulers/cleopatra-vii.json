@@ -1,0 +1,19 @@
+{
+  "id": "cleopatra-vii",
+  "wikidata": "Q635",
+  "name": "Cleopatra VII",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "ptolemaic-dynasty",
+  "start": -51,
+  "end": -30,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cleopatra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q635",
+    "https://en.wikipedia.org/wiki/Cleopatra"
+  ],
+  "disputed": false
+}

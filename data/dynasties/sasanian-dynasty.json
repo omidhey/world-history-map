@@ -1,0 +1,18 @@
+{
+  "id": "sasanian-dynasty",
+  "wikidata": "Q83891",
+  "name": "Sasanian dynasty",
+  "polity": "sasanian-empire",
+  "start": 224,
+  "end": 651,
+  "date_precision": "year",
+  "summary": "Persian royal house that ruled Iran and Mesopotamia for four centuries until the Arab conquest.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sasanian_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83891",
+    "https://en.wikipedia.org/wiki/Sasanian_Empire"
+  ],
+  "disputed": false
+}

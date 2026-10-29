@@ -1,0 +1,19 @@
+{
+  "id": "michael-viii-palaiologos",
+  "wikidata": "Q200033",
+  "name": "Michael VIII Palaiologos",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "palaiologos-dynasty",
+  "start": 1259,
+  "end": 1282,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_VIII_Palaiologos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q200033",
+    "https://en.wikipedia.org/wiki/Michael_VIII_Palaiologos"
+  ],
+  "disputed": false
+}

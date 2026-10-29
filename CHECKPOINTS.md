@@ -62,7 +62,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 - [x] **Session 15: Click a state, learn what it is** — `data/polities/` — 2026-10-28
   - Result: 86 polity records (`data/polities/`, schema `pipeline/polity.schema.json`, seeded by `pipeline/make_polities.py` from `polities_seed.json`; Wikidata ids looked up from Wikipedia titles). `validate.py` checks them (border names must exist in a snapshot, no two states claim a name at overlapping dates; broken record tested: fails). `build.py` writes `site/data/polities.json`. Clicking a realm opens its card in the side panel (dates, capital, summary, sources, suggest-an-edit and border-error links); unmatched land keeps the old popup. Checked in the browser at desktop and phone width: Achaemenid Empire at 500 BCE, Egypt/Persia picked by era, no console errors.
-- [ ] **Session 16: Rulers and dynasties**
+- [x] **Session 16: Rulers and dynasties** — 2026-10-29
+  - Result: new record types `data/dynasties/` and `data/rulers/` (schemas `pipeline/dynasty.schema.json`, `ruler.schema.json`; `validate.py` checks polity/dynasty links and reign dates). 17 curated states (Achaemenid, Parthian, Sasanian, Egypt, Han, Rome, Byzantium, Abbasid, Mongol, Tang, Ming, Qing, Ottoman, England, France, Russia, Inca): 209 records via `pipeline/rulers_seed.py` → `make_rulers.py`. `build.py` writes `site/data/rulers.json`; state cards list dynasties and rulers and mark who is in power at the slider's year (Achaemenid at 500 BCE → Darius the Great; no console errors). Deviation from the roadmap: no bulk Wikidata import — a coverage check found reign data too thin (e.g. 9 Achaemenid monarchs, none for Aksum or Kush). Reign years are from memory of the Wikipedia articles and unreviewed; a few differ from Wikidata by 1–6 years.
 - [ ] **Session 17: Timeline strip**
 
 ## Phase 5: Follow a country through time → v0.5

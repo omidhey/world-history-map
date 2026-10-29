@@ -1,0 +1,19 @@
+{
+  "id": "edward-iii-of-england",
+  "wikidata": "Q129247",
+  "name": "Edward III of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-plantagenet",
+  "start": 1327,
+  "end": 1377,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_III_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129247",
+    "https://en.wikipedia.org/wiki/Edward_III_of_England"
+  ],
+  "disputed": false
+}

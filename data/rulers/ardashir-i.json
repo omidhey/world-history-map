@@ -1,0 +1,19 @@
+{
+  "id": "ardashir-i",
+  "wikidata": "Q371319",
+  "name": "Ardashir I",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 224,
+  "end": 242,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ardashir_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q371319",
+    "https://en.wikipedia.org/wiki/Ardashir_I"
+  ],
+  "disputed": false
+}

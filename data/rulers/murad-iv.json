@@ -1,0 +1,19 @@
+{
+  "id": "murad-iv",
+  "wikidata": "Q174762",
+  "name": "Murad IV",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1623,
+  "end": 1640,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Murad_IV"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q174762",
+    "https://en.wikipedia.org/wiki/Murad_IV"
+  ],
+  "disputed": false
+}

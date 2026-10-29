@@ -1,0 +1,19 @@
+{
+  "id": "darius-iii",
+  "wikidata": "Q102865",
+  "name": "Darius III",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -336,
+  "end": -330,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q102865",
+    "https://en.wikipedia.org/wiki/Darius_III"
+  ],
+  "disputed": false
+}

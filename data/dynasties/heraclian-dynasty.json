@@ -1,0 +1,18 @@
+{
+  "id": "heraclian-dynasty",
+  "wikidata": "Q16515371",
+  "name": "Heraclian dynasty",
+  "polity": "byzantine-empire",
+  "start": 610,
+  "end": 711,
+  "date_precision": "year",
+  "summary": "Emperors who survived the Persian and Arab onslaught and reorganised the empire into themes.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heraclian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16515371",
+    "https://en.wikipedia.org/wiki/Heraclian_dynasty"
+  ],
+  "disputed": false
+}

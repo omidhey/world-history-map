@@ -1,0 +1,19 @@
+{
+  "id": "edward-the-confessor",
+  "wikidata": "Q130005",
+  "name": "Edward the Confessor",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-wessex",
+  "start": 1042,
+  "end": 1066,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q130005",
+    "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+  ],
+  "disputed": false
+}

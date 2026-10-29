@@ -1,0 +1,19 @@
+{
+  "id": "yongle-emperor",
+  "wikidata": "Q9965",
+  "name": "Yongle Emperor",
+  "polity": "ming-empire",
+  "title": "Emperor",
+  "dynasty": "ming-imperial-house",
+  "start": 1402,
+  "end": 1424,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9965",
+    "https://en.wikipedia.org/wiki/Yongle_Emperor"
+  ],
+  "disputed": false
+}

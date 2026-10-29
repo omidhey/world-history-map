@@ -1,0 +1,19 @@
+{
+  "id": "ahmed-i",
+  "wikidata": "Q114749",
+  "name": "Ahmed I",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1603,
+  "end": 1617,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q114749",
+    "https://en.wikipedia.org/wiki/Ahmed_I"
+  ],
+  "disputed": false
+}

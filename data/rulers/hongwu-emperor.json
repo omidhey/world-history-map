@@ -1,0 +1,19 @@
+{
+  "id": "hongwu-emperor",
+  "wikidata": "Q9957",
+  "name": "Hongwu Emperor",
+  "polity": "ming-empire",
+  "title": "Emperor",
+  "dynasty": "ming-imperial-house",
+  "start": 1368,
+  "end": 1398,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9957",
+    "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+  ],
+  "disputed": false
+}

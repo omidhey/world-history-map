@@ -1,0 +1,18 @@
+{
+  "id": "house-of-capet",
+  "wikidata": "Q179544",
+  "name": "House of Capet",
+  "polity": "kingdom-of-france",
+  "start": 987,
+  "end": 1328,
+  "date_precision": "year",
+  "summary": "Royal line founded by Hugh Capet, whose direct male line ruled France for over three centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Capetian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179544",
+    "https://en.wikipedia.org/wiki/Capetian_dynasty"
+  ],
+  "disputed": false
+}

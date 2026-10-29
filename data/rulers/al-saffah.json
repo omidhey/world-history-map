@@ -1,0 +1,19 @@
+{
+  "id": "al-saffah",
+  "wikidata": "Q252087",
+  "name": "Al-Saffah",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 750,
+  "end": 754,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Saffah"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q252087",
+    "https://en.wikipedia.org/wiki/Al-Saffah"
+  ],
+  "disputed": false
+}

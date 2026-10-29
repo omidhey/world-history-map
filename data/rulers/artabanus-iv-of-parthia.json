@@ -1,0 +1,19 @@
+{
+  "id": "artabanus-iv-of-parthia",
+  "wikidata": "Q316067",
+  "name": "Artabanus IV of Parthia",
+  "polity": "parthian-empire",
+  "title": "King of Kings",
+  "dynasty": "arsacid-dynasty",
+  "start": 213,
+  "end": 224,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Artabanus_IV_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316067",
+    "https://en.wikipedia.org/wiki/Artabanus_IV_of_Parthia"
+  ],
+  "disputed": false
+}

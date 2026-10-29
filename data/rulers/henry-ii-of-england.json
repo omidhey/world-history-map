@@ -1,0 +1,19 @@
+{
+  "id": "henry-ii-of-england",
+  "wikidata": "Q102140",
+  "name": "Henry II of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-plantagenet",
+  "start": 1154,
+  "end": 1189,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q102140",
+    "https://en.wikipedia.org/wiki/Henry_II_of_England"
+  ],
+  "disputed": false
+}

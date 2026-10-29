@@ -1,0 +1,19 @@
+{
+  "id": "khosrow-i",
+  "wikidata": "Q207381",
+  "name": "Khosrow I",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 531,
+  "end": 579,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khosrow_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207381",
+    "https://en.wikipedia.org/wiki/Khosrow_I"
+  ],
+  "disputed": false
+}

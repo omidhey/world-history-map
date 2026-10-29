@@ -1,0 +1,19 @@
+{
+  "id": "bayezid-ii",
+  "wikidata": "Q165983",
+  "name": "Bayezid II",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1481,
+  "end": 1512,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bayezid_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q165983",
+    "https://en.wikipedia.org/wiki/Bayezid_II"
+  ],
+  "disputed": false
+}

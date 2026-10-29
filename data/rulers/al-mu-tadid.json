@@ -1,0 +1,19 @@
+{
+  "id": "al-mu-tadid",
+  "wikidata": "Q284567",
+  "name": "Al-Mu'tadid",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 892,
+  "end": 902,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Mu'tadid"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q284567",
+    "https://en.wikipedia.org/wiki/Al-Mu'tadid"
+  ],
+  "disputed": false
+}

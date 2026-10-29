@@ -1,0 +1,19 @@
+{
+  "id": "kangxi-emperor",
+  "wikidata": "Q17790",
+  "name": "Kangxi Emperor",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1661,
+  "end": 1722,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kangxi_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q17790",
+    "https://en.wikipedia.org/wiki/Kangxi_Emperor"
+  ],
+  "disputed": false
+}

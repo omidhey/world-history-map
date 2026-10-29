@@ -1,0 +1,19 @@
+{
+  "id": "al-mutawakkil",
+  "wikidata": "Q220789",
+  "name": "Al-Mutawakkil",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 847,
+  "end": 861,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Mutawakkil"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q220789",
+    "https://en.wikipedia.org/wiki/Al-Mutawakkil"
+  ],
+  "disputed": false
+}

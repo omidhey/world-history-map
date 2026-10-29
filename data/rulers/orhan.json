@@ -1,0 +1,19 @@
+{
+  "id": "orhan",
+  "wikidata": "Q133168",
+  "name": "Orhan",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1326,
+  "end": 1362,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Orhan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q133168",
+    "https://en.wikipedia.org/wiki/Orhan"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "house-of-tudor",
+  "wikidata": "Q101978",
+  "name": "House of Tudor",
+  "polity": "kingdom-of-england",
+  "start": 1485,
+  "end": 1603,
+  "date_precision": "year",
+  "summary": "Welsh-descended dynasty of the English Reformation, from Henry VII to Elizabeth I.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Tudor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q101978",
+    "https://en.wikipedia.org/wiki/House_of_Tudor"
+  ],
+  "disputed": false
+}

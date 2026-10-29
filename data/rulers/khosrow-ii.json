@@ -1,0 +1,19 @@
+{
+  "id": "khosrow-ii",
+  "wikidata": "Q212732",
+  "name": "Khosrow II",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 590,
+  "end": 628,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khosrow_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q212732",
+    "https://en.wikipedia.org/wiki/Khosrow_II"
+  ],
+  "disputed": false
+}

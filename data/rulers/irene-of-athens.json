@@ -1,0 +1,18 @@
+{
+  "id": "irene-of-athens",
+  "wikidata": "Q206737",
+  "name": "Irene of Athens",
+  "polity": "byzantine-empire",
+  "title": "Empress",
+  "start": 797,
+  "end": 802,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Irene_of_Athens"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q206737",
+    "https://en.wikipedia.org/wiki/Irene_of_Athens"
+  ],
+  "disputed": false
+}

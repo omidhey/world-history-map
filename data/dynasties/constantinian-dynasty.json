@@ -1,0 +1,18 @@
+{
+  "id": "constantinian-dynasty",
+  "wikidata": "Q175454",
+  "name": "Constantinian dynasty",
+  "polity": "roman-empire",
+  "start": 306,
+  "end": 363,
+  "date_precision": "year",
+  "summary": "Family of Constantine the Great, which made Christianity the favoured religion of the empire.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Constantinian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q175454",
+    "https://en.wikipedia.org/wiki/Constantinian_dynasty"
+  ],
+  "disputed": false
+}

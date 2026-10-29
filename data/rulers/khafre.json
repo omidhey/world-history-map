@@ -1,0 +1,19 @@
+{
+  "id": "khafre",
+  "wikidata": "Q199861",
+  "name": "Khafre",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "fourth-dynasty-of-egypt",
+  "start": -2558,
+  "end": -2532,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khafre"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q199861",
+    "https://en.wikipedia.org/wiki/Khafre"
+  ],
+  "disputed": false
+}

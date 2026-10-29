@@ -1,0 +1,19 @@
+{
+  "id": "manuel-i-komnenos",
+  "wikidata": "Q41610",
+  "name": "Manuel I Komnenos",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "komnenian-dynasty",
+  "start": 1143,
+  "end": 1180,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41610",
+    "https://en.wikipedia.org/wiki/Manuel_I_Komnenos"
+  ],
+  "disputed": false
+}

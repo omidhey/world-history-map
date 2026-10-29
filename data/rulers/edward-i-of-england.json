@@ -1,0 +1,19 @@
+{
+  "id": "edward-i-of-england",
+  "wikidata": "Q57798",
+  "name": "Edward I of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-plantagenet",
+  "start": 1272,
+  "end": 1307,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_I_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57798",
+    "https://en.wikipedia.org/wiki/Edward_I_of_England"
+  ],
+  "disputed": false
+}

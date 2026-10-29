@@ -1,0 +1,19 @@
+{
+  "id": "puyi",
+  "wikidata": "Q185152",
+  "name": "Puyi",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1908,
+  "end": 1912,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Puyi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185152",
+    "https://en.wikipedia.org/wiki/Puyi"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "vologases-i-of-parthia",
+  "wikidata": "Q312446",
+  "name": "Vologases I of Parthia",
+  "polity": "parthian-empire",
+  "title": "King of Kings",
+  "dynasty": "arsacid-dynasty",
+  "start": 51,
+  "end": 78,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vologases_I_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312446",
+    "https://en.wikipedia.org/wiki/Vologases_I_of_Parthia"
+  ],
+  "disputed": false
+}

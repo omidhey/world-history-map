@@ -1,0 +1,19 @@
+{
+  "id": "emperor-zhaozong-of-tang",
+  "wikidata": "Q9891",
+  "name": "Emperor Zhaozong of Tang",
+  "polity": "tang-empire",
+  "title": "Emperor",
+  "dynasty": "tang-imperial-house",
+  "start": 888,
+  "end": 904,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Zhaozong_of_Tang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9891",
+    "https://en.wikipedia.org/wiki/Emperor_Zhaozong_of_Tang"
+  ],
+  "disputed": false
+}

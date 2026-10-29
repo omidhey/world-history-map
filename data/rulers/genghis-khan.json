@@ -1,0 +1,19 @@
+{
+  "id": "genghis-khan",
+  "wikidata": "Q720",
+  "name": "Genghis Khan",
+  "polity": "mongol-empire",
+  "title": "Great Khan",
+  "dynasty": "borjigin-dynasty",
+  "start": 1206,
+  "end": 1227,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q720",
+    "https://en.wikipedia.org/wiki/Genghis_Khan"
+  ],
+  "disputed": false
+}

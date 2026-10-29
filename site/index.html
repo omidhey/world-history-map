@@ -77,6 +77,12 @@
       border-radius: 4px; text-decoration: none;
     }
     #panel .card a { word-break: break-word; }
+    #panel .card details { margin: 6px 0; }
+    #panel .card summary { cursor: pointer; font-weight: bold; }
+    #panel .card ul.reigns { list-style: none; padding-left: 0; }
+    #panel .card ul.reigns li { padding: 2px 6px; border-left: 3px solid transparent; }
+    #panel .card ul.reigns li.now { background: #eef6ff; border-left-color: #2a6fb0; }
+    #panel .card ul.reigns small { display: block; }
     .leaflet-tooltip.entry { font-size: 13px; }
     .leaflet-tooltip.entry small { color: #555; }
     @media (max-width: 600px) {
@@ -231,6 +237,30 @@
       return best && bestGap <= POLITY_SLACK ? best : null;
     }
 
+    // ---- Dynasties and rulers (data/dynasties + data/rulers merged into data/rulers.json) ----
+    let rulerData = {};
+
+    function reignsHtml(polity, year) {
+      const group = rulerData[polity.id];
+      if (!group) return "";
+      const reigning = (r) => r.start <= year && year <= (r.end !== undefined ? r.end : r.start);
+      const item = (r, extra) => '<li' + (reigning(r) ? ' class="now"' : "") + ">" +
+        (r.links && r.links.wikipedia ? link(r.links.wikipedia, escapeHtml(r.name)) : escapeHtml(r.name)) +
+        '<small>' + (extra ? escapeHtml(extra) + " · " : "") + escapeHtml(formatDates(r)) + (reigning(r) ? " · in power in " + formatYear(year) : "") + "</small></li>";
+      const dynastyName = new Map(group.dynasties.map((d) => [d.id, d.name]));
+      let html = "";
+      if (group.dynasties.length) {
+        html += '<details open><summary>Dynasties (' + group.dynasties.length + ')</summary><ul class="reigns">' +
+          group.dynasties.map((d) => item(d, "")).join("") + "</ul></details>";
+      }
+      if (group.rulers.length) {
+        html += '<details' + (group.rulers.length <= 10 ? " open" : "") + '><summary>Rulers (' + group.rulers.length + ')</summary><ul class="reigns">' +
+          group.rulers.map((r) => item(r, [r.title, r.dynasty && dynastyName.get(r.dynasty)].filter(Boolean).join(", "))).join("") +
+          "</ul><small>A selection, not every ruler. Reign years follow the conventional chronology.</small></details>";
+      }
+      return html;
+    }
+
     function polityCardHtml(polity, p, year) {
       const edit = suggestEditUrl("correct-entry.yml", "[Correction] polity " + polity.id, { entry: polity.id });
       const border = suggestEditUrl("border-error.yml", "[Border] " + polity.name + ", " + formatYear(year), {
@@ -246,6 +276,7 @@
         html += '<div class="disputed"><b>Disputed.</b> Sources disagree:<ul>' + polity.claims.map((c) =>
           "<li>" + c.field + ": " + formatYear(c.value) + (c.note ? " — " + escapeHtml(c.note) : "") + "</li>").join("") + "</ul></div>";
       }
+      html += reignsHtml(polity, year);
       if (polity.links && polity.links.wikipedia) html += "<p>" + link(polity.links.wikipedia, "Wikipedia") + "</p>";
       html += "<b>Sources</b><ul>" + (polity.sources || []).map(sourceItem).join("") + "</ul><small>" +
         link(REPO + "/blob/main/data/polities/" + encodeURIComponent(polity.id) + ".json", "View record on GitHub") +
@@ -483,6 +514,13 @@
         for (const polity of data.polities) polityById.set(polity.id, polity);
       })
       .catch((error) => console.warn("Could not load polities (" + error.message + ")"));
+    fetch("data/rulers.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then((data) => { rulerData = data; if (openPolity) renderPanel(); })
+      .catch((error) => console.warn("Could not load rulers (" + error.message + ")"));
     let currentLayer = null;
     let requested = -1;
     const cache = new Map(); // year -> Promise<GeoJSON>

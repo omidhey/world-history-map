@@ -1,0 +1,18 @@
+{
+  "id": "ming-imperial-house",
+  "wikidata": "Q9903",
+  "name": "Ming imperial house",
+  "polity": "ming-empire",
+  "start": 1368,
+  "end": 1644,
+  "date_precision": "year",
+  "summary": "The Zhu family, which drove out the Mongols and ruled China until peasant rebels and the Manchus ended it.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ming_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9903",
+    "https://en.wikipedia.org/wiki/Ming_dynasty"
+  ],
+  "disputed": false
+}

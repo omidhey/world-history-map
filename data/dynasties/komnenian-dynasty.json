@@ -1,0 +1,18 @@
+{
+  "id": "komnenian-dynasty",
+  "wikidata": "Q163814",
+  "name": "Komnenos dynasty",
+  "polity": "byzantine-empire",
+  "start": 1081,
+  "end": 1185,
+  "date_precision": "year",
+  "summary": "Family that rebuilt the empire after defeat at Manzikert and dealt with the Crusaders.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Komnenos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q163814",
+    "https://en.wikipedia.org/wiki/Komnenos"
+  ],
+  "disputed": false
+}

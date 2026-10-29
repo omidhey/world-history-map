@@ -1,0 +1,18 @@
+{
+  "id": "macedonian-dynasty",
+  "wikidata": "Q332531",
+  "name": "Macedonian dynasty",
+  "polity": "byzantine-empire",
+  "start": 867,
+  "end": 1056,
+  "date_precision": "year",
+  "summary": "Emperors of a cultural and military revival, under whom the empire reached its medieval peak.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Macedonian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q332531",
+    "https://en.wikipedia.org/wiki/Macedonian_dynasty"
+  ],
+  "disputed": false
+}

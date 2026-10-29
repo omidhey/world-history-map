@@ -1,0 +1,18 @@
+{
+  "id": "house-of-osman",
+  "wikidata": "Q193383",
+  "name": "House of Osman",
+  "polity": "ottoman-empire",
+  "start": 1299,
+  "end": 1922,
+  "date_precision": "year",
+  "summary": "The family of Osman I, whose members held the Ottoman throne without interruption for over six centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ottoman_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193383",
+    "https://en.wikipedia.org/wiki/Ottoman_dynasty"
+  ],
+  "disputed": false
+}

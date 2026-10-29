@@ -106,6 +106,10 @@
     #panel .card ul.reigns li { padding: 2px 6px; border-left: 3px solid transparent; }
     #panel .card ul.reigns li.now { background: #eef6ff; border-left-color: #2a6fb0; }
     #panel .card ul.reigns small { display: block; }
+    .overlay-control { background: #fff; padding: 6px 8px; border-radius: 4px; font-size: 12px; max-width: 220px; box-shadow: 0 1px 4px rgba(0,0,0,.3); }
+    .overlay-control label { cursor: pointer; font-weight: bold; }
+    .overlay-control small { display: block; color: #555; margin-top: 2px; }
+    .overlay-control .swatch { display: inline-block; width: 60px; height: 8px; vertical-align: middle; background: linear-gradient(to right, rgba(46,125,50,.05), rgba(46,125,50,.8)); }
     .leaflet-tooltip.entry { font-size: 13px; }
     .leaflet-tooltip.entry small { color: #555; }
     @media (max-width: 600px) {
@@ -139,6 +143,8 @@
     by A. Ourednik (GPL-3.0). Borders are approximate; dashed outlines are the least certain;
     purple outlines are <a href="https://github.com/omidhey/world-history-map/blob/main/docs/vanished-realms.md">sourced corrections</a>;
     pale areas keep their last recorded realm where the source names none.
+    · Cropland overlay: <a href="https://doi.org/10.24416/UU01-F45D44">HYDE 3.5</a> by K. Klein Goldewijk et al.
+    (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>), downsampled and recoloured by this project; a model estimate, not a measurement.
     · Map: <a href="https://leafletjs.com">Leaflet</a>
     · <a href="https://github.com/omidhey/world-history-map">Source on GitHub</a>
     (<a href="https://github.com/omidhey/world-history-map#licensing">code GPL-3.0, text CC BY-SA 4.0</a>)
@@ -779,6 +785,7 @@
       if (currentLayer) map.removeLayer(currentLayer);
       currentLayer = layer;
       titleEl.textContent = "Borders as of " + formatYear(year);
+      updateOverlay();
 
       // Warm the cache for the neighbours so sliding feels instant.
       for (const n of [index - 1, index + 1]) {
@@ -789,6 +796,46 @@
     function step(delta) {
       const index = Math.min(snapshots.length - 1, Math.max(0, Number(slider.value) + delta));
       if (index !== requested) show(index);
+    }
+
+
+    // Cropland overlay (HYDE 3.5, model estimate). Shows the latest HYDE time step at or before the snapshot.
+    const overlay = { manifest: null, layer: null, on: false };
+    map.createPane("hyde");
+    map.getPane("hyde").style.zIndex = 450;
+    map.getPane("hyde").style.pointerEvents = "none";
+    const overlayBox = L.control({ position: "bottomleft" });
+    overlayBox.onAdd = () => {
+      const div = L.DomUtil.create("div", "overlay-control");
+      div.innerHTML = '<label><input type="checkbox" id="hyde-toggle"> Cropland (model estimate)</label>' +
+        '<small id="hyde-note"></small>';
+      L.DomEvent.disableClickPropagation(div);
+      return div;
+    };
+    fetch("data/overlays/manifest.json")
+      .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then((m) => {
+        overlay.manifest = m;
+        overlayBox.addTo(map);
+        document.getElementById("hyde-toggle").addEventListener("change", (e) => { overlay.on = e.target.checked; updateOverlay(); });
+        updateOverlay();
+      })
+      .catch(() => {}); // no overlays built: the control simply does not appear
+
+    function updateOverlay() {
+      if (!overlay.manifest) return;
+      const note = document.getElementById("hyde-note");
+      if (overlay.layer) { map.removeLayer(overlay.layer); overlay.layer = null; }
+      const snap = snapshots[requested];
+      const hy = snap && overlay.manifest.snapshots[String(snap.year)];
+      if (hy === undefined) {
+        note.textContent = overlay.on ? "No HYDE data close enough to " + (snap ? formatYear(snap.year) : "this period") + "." : "";
+        return;
+      }
+      if (!overlay.on) { note.textContent = "HYDE 3.5 grid: " + formatYear(hy) + ". Share of land used as cropland."; return; }
+      overlay.layer = L.imageOverlay("data/overlays/cropland_" + hy + ".png", overlay.manifest.bounds, { pane: "hyde", opacity: 0.9 }).addTo(map);
+      note.innerHTML = '<span class="swatch"></span> low → high<br>HYDE 3.5 grid shown: ' + formatYear(hy) +
+        ". Coarse model estimate (about 85 km cells), not a measurement; early centuries are least certain.";
     }
 
     slider.addEventListener("input", () => show(Number(slider.value)));

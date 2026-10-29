@@ -86,7 +86,7 @@ def main():
         share = np.clip(block_mean(share.astype(np.float32)), 0, 1) * (land_cells > 0.5)
         rgba = np.zeros(share.shape + (4,), dtype=np.uint8)
         rgba[..., :3] = GREEN
-        rgba[..., 3] = np.round(share * 200).astype(np.uint8)
+        rgba[..., 3] = np.round(np.sqrt(share) * 230).astype(np.uint8)
         Image.fromarray(rgba, "RGBA").save(OUT / f"cropland_{hy}.png", optimize=True)
         print(f"{hy}: max share {share.max():.2f}, {(OUT / f'cropland_{hy}.png').stat().st_size // 1024} KB")
     manifest = {"source": "HYDE 3.5 baseline, cropland share of cell; downsampled 4x", "license": "CC BY 4.0",

@@ -34,7 +34,9 @@ The files give **three different licenses** for HYDE 3.5:
 
 CC BY (3.0 or 4.0) allows republishing derived images with attribution and a note that we modified the data. **CC BY-NC would not work**: the project promises open reuse (GPL code, CC BY-SA text), and an NC-only layer could not be mixed into it or reused commercially downstream. Two metadata versions of one record differing on exactly this word suggests the NC one is an older or draft version, but that is a guess. Also, the metadata title is "for the Global Carbon Budget", which may be a different package from the main HYDE 3.5 release.
 
-**Rule:** Session 23 proceeds only if the *current* landing page (and ideally the dataset's author, Kees Klein Goldewijk, c.g.m.kleingoldewijk@uu.nl) confirms CC BY. Record the confirmed license, date and the exact package downloaded here. If it is NC or stays unclear: no-go for Session 23, go straight to Session 24 (sourced events). Attribution if CC BY: cite Klein Goldewijk et al. (HYDE 3.5), link the DOI, and label overlays "derived from HYDE 3.5, downsampled".
+**Resolved 2026-10-29:** the owner read the dataset landing page (doi.org/10.24416/UU01-F45D44) and its License field says *Creative Commons Attribution 4.0 International Public License*. The NC metadata file was therefore an older/other version. Session 23 may proceed. Keep the NC file's existence in mind: re-check the field when downloading, and note the downloaded package name here.
+
+*Original rule, kept for the record:* Session 23 proceeds only if the *current* landing page (and ideally the dataset's author, Kees Klein Goldewijk, c.g.m.kleingoldewijk@uu.nl) confirms CC BY. Record the confirmed license, date and the exact package downloaded here. If it is NC or stays unclear: no-go for Session 23, go straight to Session 24 (sourced events). Attribution if CC BY: cite Klein Goldewijk et al. (HYDE 3.5), link the DOI, and label overlays "derived from HYDE 3.5, downsampled".
 
 ### 2.3 What we will not claim
 - No precise local values. At 5 arc-minutes and with modelled allocation, a pixel is not a measurement; the UI shows no per-pixel numbers.

@@ -71,7 +71,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 - [x] **Session 18: Spatial lineage** — geopandas, equal-area (EPSG:6933), one snapshot at a time — 2026-10-29
   - Result: `pipeline/download_countries.py` (Natural Earth 110m, pinned) and `pipeline/make_lineage.py` write `data/lineage/<ADM0_A3>.json` for 176 countries × 14 snapshots (+ `index.json`), automatic and marked so. Iran at 500 BCE → Achaemenid Empire 99 %; Egypt 1914 → Egypt under the UK 98 %. `validate.py` checks the files; `build_site.py` copies them to `site/data/lineage/`. Method and limits in `docs/data-notes.md`. No UI yet (Session 19).
-- [ ] **Session 19: "Follow a country" mode**
+- [x] **Session 19: "Follow a country" mode** — 2026-10-29
+  - Result: `build_site.py` writes `site/data/countries.json` (176 outlines, 156 KB; the Pages workflow now downloads the Natural Earth file first). The side panel has a "Follow a country" selector: the country's outline stays on the map through all snapshots and the panel lists who held it at the slider's snapshot with shares; named states open their polity card. Egypt at 1914 → Egypt 98 %; Egypt at 500 BCE → Saharan pastoral nomads 45 %, Achaemenid Empire 44 %; Stop clears it; no console errors; `validate.py` passes. Not checked at phone width or visually (checked by script). 110m outlines: small countries and islands are missing. Automatic data, marked as approximate in the panel.
 - [ ] **Session 20: Curated lineages** — ~10 countries, sourced
 - [ ] **Session 21: Measuring border change** — area-over-time chart
 

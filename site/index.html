@@ -63,6 +63,13 @@
     #panel-toggle {
       position: absolute; top: 10px; right: 10px; z-index: 1000; font-size: 13px; padding: 4px 8px; cursor: pointer;
     }
+    #panel .follow { padding: 8px 12px; border-bottom: 1px solid #ddd; }
+    #panel .follow select { width: 100%; font: inherit; margin-top: 2px; }
+    #panel .follow .stop { float: right; font-size: 12px; }
+    #panel .follow small { color: #555; display: block; margin-top: 4px; }
+    #panel .power { display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit; padding: 3px 0; }
+    #panel button.power { cursor: pointer; }
+    #panel .power .bar { display: block; height: 6px; border-radius: 3px; margin-top: 2px; }
     #panel .cat { display: flex; align-items: center; gap: 6px; padding: 6px 12px 2px; font-weight: 600; cursor: pointer; }
     #panel .cat.empty { color: #888; }
     #panel .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333; }
@@ -486,7 +493,7 @@
         setHighlight(openIds);
         return;
       }
-      panel.innerHTML = '<header><b>In this period</b> <span class="count">' + currentList.length + '</span><div class="period">' +
+      panel.innerHTML = followHtml(snapshots[requested].year) + '<header><b>In this period</b> <span class="count">' + currentList.length + '</span><div class="period">' +
         formatYear(period.from) + " – " + formatYear(period.to) + "</div></header>" +
         CATEGORIES.map(([key, label, colour]) => {
           const items = currentList.filter((e) => e.category === key);
@@ -500,6 +507,68 @@
       setHighlight([]);
     }
 
+    // ---- Follow a country (data/lineage/<ISO>.json, outlines in countries.json) ----
+    let followed = null;     // ISO code of the country being followed, or null
+    let followData = null;   // its lineage file
+    let followLayer = null;
+    let countryIndex = {};
+    let countryShapes = {};
+    const lineageCache = new Map();
+    fetch("data/lineage/index.json").then((r) => r.json()).then((d) => { countryIndex = d; if (!openIds && !openPolity) renderPanel(); }).catch(() => {});
+    fetch("data/countries.json").then((r) => r.json()).then((d) => {
+      for (const f of d.features) countryShapes[f.properties.iso] = f;
+    }).catch(() => {});
+
+    async function follow(iso) {
+      followed = iso || null;
+      followData = null;
+      if (followLayer) { map.removeLayer(followLayer); followLayer = null; }
+      if (followed) {
+        const wanted = followed;
+        try {
+          if (!lineageCache.has(wanted)) lineageCache.set(wanted, fetch("data/lineage/" + wanted + ".json").then((r) => {
+            if (!r.ok) throw new Error("HTTP " + r.status);
+            return r.json();
+          }));
+          followData = await lineageCache.get(wanted);
+        } catch (error) {
+          lineageCache.delete(wanted);
+          followed = null;
+        }
+        if (followed !== wanted) { renderPanel(); return; }
+        const shape = countryShapes[wanted];
+        if (shape) {
+          followLayer = L.geoJSON(shape, { interactive: false, style: { color: "#111", weight: 3, fill: false } }).addTo(map);
+          followLayer.bringToFront();
+          map.fitBounds(followLayer.getBounds(), { maxZoom: 6, padding: [30, 30] });
+        }
+      }
+      closeCards();
+    }
+
+    function followHtml(year) {
+      let options = '<option value="">None</option>' + Object.entries(countryIndex)
+        .sort((a, b) => a[1].name.localeCompare(b[1].name))
+        .map(([iso, c]) => '<option value="' + iso + '"' + (iso === followed ? " selected" : "") + ">" + escapeHtml(c.name) + "</option>").join("");
+      let html = '<div class="follow">' + (followed ? '<button class="stop">Stop</button>' : "") +
+        "<b>Follow a country</b><select id=\"follow\" aria-label=\"Follow a country\">" + options + "</select>";
+      const snap = followData && followData.snapshots[String(snapshots[requested].year)];
+      if (snap) {
+        html += "<small>Who held " + escapeHtml(followData.name) + " as of " + formatYear(snapshots[requested].year) + ":</small>";
+        for (const s of snap) {
+          const label = s.other ? "Other (small shares)" : s.name || "Unnamed land";
+          const pct = (s.share * 100 < 1 ? "<1" : Math.round(s.share * 100)) + " %";
+          const polity = s.name ? polityFor({ NAME: s.name, SUBJECTO: s.subjecto }, year) : null;
+          const tag = polity ? "button" : "div";
+          html += "<" + tag + ' class="power"' + (polity ? ' data-polity="' + escapeHtml(polity.id) + '" data-name="' + escapeHtml(s.name) + '" data-subjecto="' + escapeHtml(s.subjecto || "") + '"' : "") + ">" +
+            escapeHtml(label) + '<span style="float:right">' + pct + '</span><span class="bar" style="width:' + Math.max(2, s.share * 100) +
+            "%;background:" + (s.other || !s.name ? "#bbb" : colourFor(s.subjecto || s.name)) + '"></span></' + tag + ">";
+        }
+        html += "<small>" + (followData.source === "automatic" ? "Automatic area match against simplified borders; approximate." : "Curated, see sources.") + "</small>";
+      }
+      return html + "</div>";
+    }
+
     function closeCards() {
       openIds = null;
       openPolity = null;
@@ -508,11 +577,18 @@
     }
 
     panel.addEventListener("change", (e) => {
+      if (e.target.id === "follow") { follow(e.target.value); return; }
       if (e.target.checked) enabled.add(e.target.value);
       else enabled.delete(e.target.value);
       renderEntries();
     });
     panel.addEventListener("click", (e) => {
+      if (e.target.closest(".stop")) { follow(null); return; }
+      const power = e.target.closest("[data-polity]");
+      if (power) {
+        openPolityCard(polityById.get(power.dataset.polity), { NAME: power.dataset.name, SUBJECTO: power.dataset.subjecto }, snapshots[requested].year);
+        return;
+      }
       const btn = e.target.closest(".item-btn");
       if (btn) openCards([btn.dataset.id], true);
       else if (window.innerWidth <= 600 && e.target.closest("header") && !e.target.closest(".back")) {

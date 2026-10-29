@@ -13,8 +13,34 @@ from pathlib import Path
 from build import build_entries, build_polities
 
 ROOT = Path(__file__).resolve().parent.parent
+COUNTRIES_IN = ROOT / "raw" / "countries" / "ne_110m_admin_0_countries.geojson"
 BORDERS_IN = ROOT / "data" / "borders"
 BORDERS_OUT = ROOT / "site" / "data" / "borders"
+
+
+def _round(coords):
+    if isinstance(coords[0], (int, float)):
+        return [round(c, 2) for c in coords]
+    return [_round(c) for c in coords]
+
+
+def build_countries() -> int:
+    """site/data/countries.json: outlines of the countries that have a lineage file, for "Follow a country"."""
+    index_path = ROOT / "data" / "lineage" / "index.json"
+    if not (COUNTRIES_IN.exists() and index_path.exists()):
+        print("No country outlines or lineage index; run download_countries.py and make_lineage.py to enable Follow a country")
+        return 0
+    index = json.loads(index_path.read_text(encoding="utf-8"))
+    features = []
+    for f in json.loads(COUNTRIES_IN.read_text(encoding="utf-8"))["features"]:
+        iso = f["properties"]["ADM0_A3"]
+        if iso in index:
+            geometry = {"type": f["geometry"]["type"], "coordinates": _round(f["geometry"]["coordinates"])}
+            features.append({"type": "Feature", "properties": {"iso": iso}, "geometry": geometry})
+    out = ROOT / "site" / "data" / "countries.json"
+    out.write_text(json.dumps({"type": "FeatureCollection", "features": features}, separators=(",", ":")), encoding="utf-8")
+    print(f"Wrote {len(features)} country outlines ({out.stat().st_size // 1024} KB)")
+    return len(features)
 
 
 def main() -> None:
@@ -36,6 +62,7 @@ def main() -> None:
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
     print(f"Wrote {build_entries()} entries to site/data/entries.json")
     print(f"Wrote {build_polities()} polities to site/data/polities.json")
+    build_countries()
 
 
 if __name__ == "__main__":

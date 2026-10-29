@@ -1,0 +1,100 @@
+{
+ "country": "TLS",
+ "name": "Timor-Leste",
+ "area_km2": 14711,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0486
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0486
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.0486
+   }
+  ],
+  "-500": [],
+  "-323": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0486
+   }
+  ],
+  "-1": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0956
+   }
+  ],
+  "400": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0956
+   }
+  ],
+  "800": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0486
+   }
+  ],
+  "1200": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0486
+   }
+  ],
+  "1500": [
+   {
+    "name": "Malaysian Islamic states",
+    "subjecto": "Malaysian Islamic states",
+    "share": 0.0486
+   }
+  ],
+  "1800": [
+   {
+    "name": "Dutch East Indies",
+    "subjecto": "Dutch East Indies",
+    "share": 0.0486
+   }
+  ],
+  "1914": [
+   {
+    "name": "Netherlands Indies",
+    "subjecto": "Netherlands Indies",
+    "share": 0.0486
+   }
+  ],
+  "1945": [
+   {
+    "name": "Indonesia",
+    "subjecto": "Indonesia",
+    "share": 0.0487
+   }
+  ],
+  "2010": [
+   {
+    "name": "Indonesia",
+    "subjecto": "Indonesia",
+    "share": 0.0486
+   }
+  ]
+ }
+}

@@ -1,0 +1,461 @@
+{
+ "country": "PAK",
+ "name": "Pakistan",
+ "area_km2": 874279,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Indus valley civilization",
+    "subjecto": "Indus valley civilization",
+    "share": 0.5384
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.4608
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Indus valley civilization",
+    "subjecto": "Indus valley civilization",
+    "share": 0.5384
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3346
+   },
+   {
+    "name": "Tibeto-Burmanese",
+    "subjecto": "Tibeto-Burmanese",
+    "share": 0.0775
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0486
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.497
+   },
+   {
+    "name": "Vedic Aryans",
+    "subjecto": "Vedic Aryans",
+    "share": 0.2149
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1604
+   },
+   {
+    "name": "Gandhara grave culture",
+    "subjecto": "Gandhara grave culture",
+    "share": 0.1196
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0057,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.5608
+   },
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.2745
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.07,
+    "carried": -1000
+   },
+   {
+    "name": "Gandhāra",
+    "subjecto": "Gandhāra",
+    "share": 0.0462
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.03,
+    "carried": -1000
+   },
+   {
+    "name": "Gandhara grave culture",
+    "subjecto": "Gandhara grave culture",
+    "share": 0.0125,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0057,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.7031
+   },
+   {
+    "name": "Hindu kingdoms and republics",
+    "subjecto": "Hindu kingdoms and republics",
+    "share": 0.1682
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0556
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0281,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0218,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0167,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0061,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.4737
+   },
+   {
+    "name": "Saka Kingdom",
+    "subjecto": "Saka Kingdom",
+    "share": 0.3934
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0556,
+    "carried": -323
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0221,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0218,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0167,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.015,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.6571
+   },
+   {
+    "name": "Gupta Empire",
+    "subjecto": "Gupta Empire",
+    "share": 0.2097
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0556,
+    "carried": -323
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0221,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0218,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0167,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.015,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.7435
+   },
+   {
+    "name": "Hindu states",
+    "subjecto": "Hindu states",
+    "share": 0.1578
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0452,
+    "carried": -323
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0154,
+    "carried": -1000
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0147,
+    "carried": -1000
+   },
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.0109,
+    "carried": 400
+   },
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.0104
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0012,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khwarazmian dynasty",
+    "subjecto": "Khwarazmian dynasty",
+    "share": 0.4186
+   },
+   {
+    "name": "Buyid dynasty",
+    "subjecto": "Buyid dynasty",
+    "share": 0.1509
+   },
+   {
+    "name": "Ghaznavid Emirate",
+    "subjecto": "Ghaznavid Emirate",
+    "share": 0.1404
+   },
+   {
+    "name": "Rajput kingdoms",
+    "subjecto": "Rajput kingdoms",
+    "share": 0.0992
+   },
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.0992
+   },
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.072
+   },
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.0179
+   }
+  ],
+  "1500": [
+   {
+    "name": "Islamic states",
+    "subjecto": "Islamic states",
+    "share": 0.3272
+   },
+   {
+    "name": "Timurid Emirates",
+    "subjecto": "Timurid Emirates",
+    "share": 0.296
+   },
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.1744
+   },
+   {
+    "name": "Rajastan",
+    "subjecto": "Rajastan",
+    "share": 0.1061
+   },
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.0959
+   }
+  ],
+  "1800": [
+   {
+    "name": "Sikhs",
+    "subjecto": "Sikhs",
+    "share": 0.3566
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.247
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.1669
+   },
+   {
+    "name": "Sindh",
+    "subjecto": "Sindh",
+    "share": 0.1443
+   },
+   {
+    "name": "Bahawalpur",
+    "subjecto": "Bahawalpur",
+    "share": 0.0536
+   },
+   {
+    "name": "Rajputs",
+    "subjecto": "Rajputs",
+    "share": 0.0295
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0014,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Raj",
+    "subjecto": "United Kingdom",
+    "share": 0.9779
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0115
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Pakistan",
+    "subjecto": "Pakistan",
+    "share": 0.9063
+   },
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.0711
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0112
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Pakistan",
+    "subjecto": "Pakistan",
+    "share": 0.9667
+   },
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.0121
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0115
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0091,
+    "other": true
+   }
+  ]
+ }
+}

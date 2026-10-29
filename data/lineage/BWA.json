@@ -1,0 +1,197 @@
+{
+ "country": "BWA",
+ "name": "Botswana",
+ "area_km2": 591917,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8145
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.1855
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8023
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.1855
+   },
+   {
+    "name": "Great Zimbabwe",
+    "subjecto": "Great Zimbabwe",
+    "share": 0.0122
+   }
+  ],
+  "1500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7949
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.1855
+   },
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.0196
+   }
+  ],
+  "1800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7492,
+    "carried": 1500
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.1849,
+    "carried": 1500
+   },
+   {
+    "name": "Rozwi",
+    "subjecto": "Rozwi",
+    "share": 0.0543
+   },
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.0115,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Botswana",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.964
+   },
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0178
+   },
+   {
+    "name": "German South-West Africa",
+    "subjecto": "German South-West Africa",
+    "share": 0.0169
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Botswana",
+    "subjecto": "United Kingdom",
+    "share": 0.9679
+   },
+   {
+    "name": "Namibia",
+    "subjecto": "Namibia",
+    "share": 0.0169
+   },
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom",
+    "share": 0.0123
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Botswana",
+    "subjecto": "Botswana",
+    "share": 0.9679
+   },
+   {
+    "name": "Namibia",
+    "subjecto": "Namibia",
+    "share": 0.0169
+   },
+   {
+    "name": "Zimbabwe",
+    "subjecto": "Zimbabwe",
+    "share": 0.0123
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ]
+ }
+}

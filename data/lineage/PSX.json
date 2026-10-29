@@ -1,0 +1,111 @@
+{
+ "country": "PSX",
+ "name": "Palestine",
+ "area_km2": 5035,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Canaan",
+    "subjecto": "Canaan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.6509
+   },
+   {
+    "name": "Judea",
+    "subjecto": "Roman Empire",
+    "share": 0.3491
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1945": [
+   {
+    "name": "Israel",
+    "subjecto": "Israel",
+    "share": 1.0
+   }
+  ],
+  "2010": [
+   {
+    "name": "Israel",
+    "subjecto": "Israel",
+    "share": 1.0
+   }
+  ]
+ }
+}

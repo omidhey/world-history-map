@@ -1,0 +1,175 @@
+{
+ "country": "BEN",
+ "name": "Benin",
+ "area_km2": 116997,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9875
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9875
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9875,
+    "carried": 400
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.99
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8485
+   },
+   {
+    "name": "Oyo",
+    "subjecto": "Oyo",
+    "share": 0.1433
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.6682,
+    "carried": 1500
+   },
+   {
+    "name": "Dahomey",
+    "subjecto": "Dahomey",
+    "share": 0.1884
+   },
+   {
+    "name": "Oyo",
+    "subjecto": "Oyo",
+    "share": 0.1353,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9478
+   },
+   {
+    "name": "Togoland",
+    "subjecto": "Togoland",
+    "share": 0.0249
+   },
+   {
+    "name": "Nigeria",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0182
+   }
+  ],
+  "1945": [
+   {
+    "name": "Benin",
+    "subjecto": "Benin",
+    "share": 0.917
+   },
+   {
+    "name": "Burkina Faso",
+    "subjecto": "Burkina Faso",
+    "share": 0.0308
+   },
+   {
+    "name": "Togo",
+    "subjecto": "Togo",
+    "share": 0.0249
+   },
+   {
+    "name": "Nigeria",
+    "subjecto": "United Kingdom",
+    "share": 0.0182
+   }
+  ],
+  "2010": [
+   {
+    "name": "Benin",
+    "subjecto": "Benin",
+    "share": 0.9312
+   },
+   {
+    "name": "Togo",
+    "subjecto": "Togo",
+    "share": 0.0249
+   },
+   {
+    "name": "Nigeria",
+    "subjecto": "Nigeria",
+    "share": 0.0182
+   },
+   {
+    "name": "Burkina Faso",
+    "subjecto": "Burkina Faso",
+    "share": 0.0166
+   }
+  ]
+ }
+}

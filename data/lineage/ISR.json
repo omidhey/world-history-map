@@ -1,0 +1,171 @@
+{
+ "country": "ISR",
+ "name": "Israel",
+ "area_km2": 23056,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9797
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Canaan",
+    "subjecto": "Canaan",
+    "share": 0.9665
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.0335
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.9988
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9836
+   },
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.0164,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.8352
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.1126,
+    "carried": -500
+   },
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.0164,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.4265
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.2884
+   },
+   {
+    "name": "Judea",
+    "subjecto": "Roman Empire",
+    "share": 0.2562
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9885
+   }
+  ],
+  "1945": [
+   {
+    "name": "Israel",
+    "subjecto": "Israel",
+    "share": 0.9309
+   },
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.0531
+   },
+   {
+    "name": "Lebanon",
+    "subjecto": "Lebanon",
+    "share": 0.0158
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Israel",
+    "subjecto": "Israel",
+    "share": 0.9309
+   },
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.0531
+   },
+   {
+    "name": "Lebanon",
+    "subjecto": "Lebanon",
+    "share": 0.0158
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ]
+ }
+}

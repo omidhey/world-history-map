@@ -1,0 +1,127 @@
+{
+ "country": "LSO",
+ "name": "Lesotho",
+ "area_km2": 27499,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8599,
+    "carried": 1500
+   },
+   {
+    "name": "Zulu",
+    "subjecto": "Zulu",
+    "share": 0.1401
+   }
+  ],
+  "1914": [
+   {
+    "name": "Lesotho",
+    "subjecto": "Lesotho",
+    "share": 0.9327
+   },
+   {
+    "name": "South Africa",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0673
+   }
+  ],
+  "1945": [
+   {
+    "name": "Lesotho",
+    "subjecto": "United Kingdom",
+    "share": 0.9327
+   },
+   {
+    "name": "South Africa",
+    "subjecto": "South Africa",
+    "share": 0.0673
+   }
+  ],
+  "2010": [
+   {
+    "name": "Lesotho",
+    "subjecto": "Lesotho",
+    "share": 0.9327
+   },
+   {
+    "name": "South Africa",
+    "subjecto": "South Africa",
+    "share": 0.0673
+   }
+  ]
+ }
+}

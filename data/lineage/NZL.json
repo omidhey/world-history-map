@@ -1,0 +1,106 @@
+{
+ "country": "NZL",
+ "name": "New Zealand",
+ "area_km2": 277668,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7935
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8104
+   }
+  ],
+  "-1000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7935
+   }
+  ],
+  "-500": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7935
+   }
+  ],
+  "-323": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7935
+   }
+  ],
+  "-1": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8012
+   }
+  ],
+  "400": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7939
+   }
+  ],
+  "800": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8104
+   }
+  ],
+  "1200": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8104
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maori",
+    "subjecto": "Maori",
+    "share": 0.8177
+   }
+  ],
+  "1800": [
+   {
+    "name": "Māori",
+    "subjecto": "Māori",
+    "share": 0.8219
+   }
+  ],
+  "1914": [
+   {
+    "name": "New Zealand",
+    "subjecto": "New Zealand",
+    "share": 0.8177
+   }
+  ],
+  "1945": [
+   {
+    "name": "New Zealand",
+    "subjecto": "New Zealand",
+    "share": 0.8177
+   }
+  ],
+  "2010": [
+   {
+    "name": "New Zealand",
+    "subjecto": "New Zealand",
+    "share": 0.8095
+   }
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "country": "IRL",
+ "name": "Ireland",
+ "area_km2": 58475,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8421
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8661
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.8706
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.8421,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Celts",
+    "subjecto": "Celts",
+    "share": 0.8421
+   }
+  ],
+  "-1": [
+   {
+    "name": "Celts",
+    "subjecto": "Celts",
+    "share": 0.8421,
+    "carried": -323
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0605
+   }
+  ],
+  "400": [
+   {
+    "name": "Celts",
+    "subjecto": "Celts",
+    "share": 0.8421,
+    "carried": -323
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0605
+   }
+  ],
+  "800": [
+   {
+    "name": "Irlanda",
+    "subjecto": "Irlanda",
+    "share": 0.8947
+   }
+  ],
+  "1200": [
+   {
+    "name": "Celtic kingdoms",
+    "subjecto": "Celtic kingdoms",
+    "share": 0.8661
+   }
+  ],
+  "1500": [
+   {
+    "name": "England",
+    "subjecto": "England",
+    "share": 0.9616
+   }
+  ],
+  "1800": [
+   {
+    "name": "Kingdom of Ireland",
+    "subjecto": "UK",
+    "share": 0.9547
+   }
+  ],
+  "1914": [
+   {
+    "name": "United Kingdom of Great Britain and Ireland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9546
+   }
+  ],
+  "1945": [
+   {
+    "name": "Ireland",
+    "subjecto": "Ireland",
+    "share": 0.9411
+   },
+   {
+    "name": "United Kingdom",
+    "subjecto": "United Kingdom",
+    "share": 0.0115
+   }
+  ],
+  "2010": [
+   {
+    "name": "Ireland",
+    "subjecto": "Ireland",
+    "share": 0.9578
+   },
+   {
+    "name": "United Kingdom",
+    "subjecto": "United Kingdom",
+    "share": 0.0115
+   }
+  ]
+ }
+}

@@ -1,0 +1,272 @@
+{
+ "country": "SDS",
+ "name": "S. Sudan",
+ "area_km2": 624899,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.5696
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.4304
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9606
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0394
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9062
+   },
+   {
+    "name": "Ethiopian highland farmers",
+    "subjecto": "Ethiopian highland farmers",
+    "share": 0.0908
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9062
+   },
+   {
+    "name": "Ethiopian highland farmers",
+    "subjecto": "Ethiopian highland farmers",
+    "share": 0.0908
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9062
+   },
+   {
+    "name": "Ethiopian highland farmers",
+    "subjecto": "Ethiopian highland farmers",
+    "share": 0.0908
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9062
+   },
+   {
+    "name": "Ethiopian highland farmers",
+    "subjecto": "Ethiopian highland farmers",
+    "share": 0.0908,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9062
+   },
+   {
+    "name": "Ethiopian highland farmers",
+    "subjecto": "Ethiopian highland farmers",
+    "share": 0.0908,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8689,
+    "carried": 400
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.862
+   },
+   {
+    "name": "Ethiopian highland farmers",
+    "subjecto": "Ethiopian highland farmers",
+    "share": 0.0843,
+    "carried": -323
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.0438
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8689
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.086
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.0421
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8607
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.086,
+    "carried": 1200
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.0238,
+    "carried": 1200
+   },
+   {
+    "name": "Funj",
+    "subjecto": "Funj",
+    "share": 0.0183
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0112,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8607,
+    "carried": 1500
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.086,
+    "carried": 1200
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.0238,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0295,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Anglo-Egyptian Sudan",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9905
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0095,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Sudan",
+    "subjecto": "United Kingdom",
+    "share": 0.9907
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Sudan",
+    "subjecto": "Sudan",
+    "share": 0.9885
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0115,
+    "other": true
+   }
+  ]
+ }
+}

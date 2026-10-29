@@ -128,6 +128,23 @@ round figures from Wikipedia, not yet checked against a second source.
 Known gaps: only 86 of about 1,200 names have a card; modern countries (Egypt, Ghana, Mali)
 have none yet.
 
+## Spatial lineage (Session 18, 2026-10-29)
+
+`pipeline/make_lineage.py` writes `data/lineage/<ADM0_A3>.json` (176 countries) plus `index.json`:
+for each of the 14 snapshots, the historical states covering the country, with their share of its
+area, largest first. Method: Natural Earth Admin-0 1:110m (public domain, pinned commit, via
+`download_countries.py`) against our simplified snapshots, both in EPSG:6933 (equal-area), one
+snapshot loaded at a time, overlapping parts of one state dissolved first. Countries are keyed by
+`ADM0_A3` because `ISO_A3` is -99 for France and Norway. Antarctica is skipped. States under 1 % of
+a country are summed into an `other` entry; unnamed land has `name: null`; pieces filled by
+`carry_forward.py` keep `carried: <year>`. Runs in about 35 s. Needs `pipeline/requirements-lineage.txt`
+(geopandas); the committed output means CI and Pages never need it.
+
+Limits: 110m outlines omit microstates and are coarse for small countries; shares are of the
+simplified snapshots; the source's overlapping polygons can make shares in one snapshot add up to
+slightly over 1; a few carried pieces look odd (France 400: 13 % "Manioc farmers", carried from
+323 BCE). Automatic results include noise; Session 20 adds curated overrides.
+
 ## Observations
 
 - **Unnamed polygons are common**, especially early on (113 of 138 at 3000 BCE, 148 of 291 in 1500).

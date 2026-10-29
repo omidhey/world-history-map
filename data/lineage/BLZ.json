@@ -1,0 +1,161 @@
+{
+ "country": "BLZ",
+ "name": "Belize",
+ "area_km2": 22043,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9095
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.9135
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9095
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9095
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.9095
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.9095
+   }
+  ],
+  "400": [
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.9095
+   }
+  ],
+  "800": [
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.9095
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.4776,
+    "carried": 800
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.4541
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0215
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.8295
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1133,
+    "carried": 800
+   }
+  ],
+  "1800": [
+   {
+    "name": "United Kingdom",
+    "subjecto": "UK",
+    "share": 0.9373
+   },
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.0201
+   }
+  ],
+  "1914": [
+   {
+    "name": "Belize",
+    "subjecto": "Belize",
+    "share": 0.9373
+   },
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.0178
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Belize",
+    "subjecto": "Belize",
+    "share": 0.9373
+   },
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.0178
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Belize",
+    "subjecto": "Belize",
+    "share": 0.9373
+   },
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.0178
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "country": "TGO",
+ "name": "Togo",
+ "area_km2": 60968,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9769
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9769
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9769
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9769
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9769
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9847
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9769
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9769
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9769,
+    "carried": 400
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9804
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0109
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9796
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7186,
+    "carried": 1500
+   },
+   {
+    "name": "Dahomey",
+    "subjecto": "Dahomey",
+    "share": 0.2484
+   },
+   {
+    "name": "Mossi States",
+    "subjecto": "Mossi States",
+    "share": 0.0182
+   }
+  ],
+  "1914": [
+   {
+    "name": "Togoland",
+    "subjecto": "Togoland",
+    "share": 0.9695
+   },
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.0218
+   }
+  ],
+  "1945": [
+   {
+    "name": "Togo",
+    "subjecto": "Togo",
+    "share": 0.9109
+   },
+   {
+    "name": "Gold Coast",
+    "subjecto": "United Kingdom",
+    "share": 0.0477
+   },
+   {
+    "name": "Benin",
+    "subjecto": "Benin",
+    "share": 0.0168
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.005,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Togo",
+    "subjecto": "Togo",
+    "share": 0.9109
+   },
+   {
+    "name": "Ghana",
+    "subjecto": "Ghana",
+    "share": 0.0477
+   },
+   {
+    "name": "Benin",
+    "subjecto": "Benin",
+    "share": 0.0168
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.005,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "country": "GEO",
+ "name": "Georgia",
+ "area_km2": 69032,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9714
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9741
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.9199
+   },
+   {
+    "name": "Urartu",
+    "subjecto": "Urartu",
+    "share": 0.0503
+   }
+  ],
+  "-500": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.863,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.1072
+   }
+  ],
+  "-323": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.863,
+    "carried": -1000
+   },
+   {
+    "name": "Colchis",
+    "subjecto": "Colchis",
+    "share": 0.1072
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0189
+   }
+  ],
+  "-1": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.6941,
+    "carried": -1000
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.2739
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0186
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.6938,
+    "carried": -1000
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.2737
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0077,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.9603
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.0281
+   }
+  ],
+  "1200": [
+   {
+    "name": "Georgia",
+    "subjecto": "Georgia",
+    "share": 0.6679
+   },
+   {
+    "name": "Cuman Khanates",
+    "subjecto": "Cuman Khanates",
+    "share": 0.258
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.0494
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.5098
+   },
+   {
+    "name": "Georgia",
+    "subjecto": "Georgia",
+    "share": 0.4333
+   },
+   {
+    "name": "Crimean Khanate",
+    "subjecto": "Ottoman Empire",
+    "share": 0.041
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.5129
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.4732
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Georgia",
+    "subjecto": "Georgia",
+    "share": 0.9643
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0212,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.986
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Georgia",
+    "subjecto": "Georgia",
+    "share": 0.9643
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0212,
+    "other": true
+   }
+  ]
+ }
+}

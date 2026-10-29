@@ -1,0 +1,260 @@
+{
+ "country": "ERI",
+ "name": "Eritrea",
+ "area_km2": 119269,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9909
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.6997
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2912
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5127
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.478
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5127
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4782
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5143
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4766
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4766,
+    "carried": -323
+   },
+   {
+    "name": "Axum",
+    "subjecto": "Axum",
+    "share": 0.2596
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2548
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4766,
+    "carried": -323
+   },
+   {
+    "name": "Axum",
+    "subjecto": "Axum",
+    "share": 0.2596
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.252
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4737,
+    "carried": -323
+   },
+   {
+    "name": "Axum",
+    "subjecto": "Axum",
+    "share": 0.2372
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.185,
+    "carried": 400
+   },
+   {
+    "name": "Axum",
+    "subjecto": "Axum",
+    "share": 0.0851,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0045,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.9835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.7175,
+    "carried": 1200
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.2658
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0059,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.3148
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.2806
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.2137,
+    "carried": 1200
+   },
+   {
+    "name": "Awsa",
+    "subjecto": "Awsa",
+    "share": 0.1705
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Eritrea",
+    "subjecto": "Italy",
+    "share": 0.913
+   },
+   {
+    "name": "Anglo-Egyptian Sudan",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0454
+   },
+   {
+    "name": "Abyssinia",
+    "subjecto": "Abyssinia",
+    "share": 0.0299
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Eritrea",
+    "subjecto": "United Kingdom",
+    "share": 0.913
+   },
+   {
+    "name": "Sudan",
+    "subjecto": "United Kingdom",
+    "share": 0.0454
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.0299
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Eritrea",
+    "subjecto": "Eritrea",
+    "share": 0.9122
+   },
+   {
+    "name": "Sudan",
+    "subjecto": "Sudan",
+    "share": 0.0454
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.0299
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "country": "TWN",
+ "name": "Taiwan",
+ "area_km2": 34369,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7404
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.8239
+   },
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7293,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2071
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7125,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0979
+   },
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.0781,
+    "carried": -2000
+   }
+  ],
+  "-500": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7125,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0979
+   },
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.0781,
+    "carried": -2000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7125,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1626
+   },
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.0781,
+    "carried": -2000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7125,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.098
+   },
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.0781,
+    "carried": -2000
+   }
+  ],
+  "400": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7124,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1626
+   },
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.0781,
+    "carried": -2000
+   }
+  ],
+  "800": [
+   {
+    "name": "Dapenkeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.7124,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1626
+   },
+   {
+    "name": "Dakapeng culture",
+    "subjecto": "Dakapeng culture",
+    "share": 0.0781,
+    "carried": -2000
+   }
+  ],
+  "1200": [
+   {
+    "name": "Taiwanese Tribes",
+    "subjecto": "Taiwanese Tribes",
+    "share": 0.8885
+   }
+  ],
+  "1500": [
+   {
+    "name": "Taiwanese Tribes",
+    "subjecto": "Taiwanese Tribes",
+    "share": 0.8885,
+    "carried": 1200
+   },
+   {
+    "name": "Taiwan",
+    "subjecto": "Taiwan",
+    "share": 0.8239
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.048
+   }
+  ],
+  "1800": [
+   {
+    "name": "Taiwan Prefecture (Qing)",
+    "subjecto": "Qing Empire",
+    "share": 0.9113
+   }
+  ],
+  "1914": [
+   {
+    "name": "Empire of Japan",
+    "subjecto": "Empire of Japan",
+    "share": 0.8491
+   }
+  ],
+  "1945": [
+   {
+    "name": "Taiwan",
+    "subjecto": "Taiwan",
+    "share": 0.8885
+   }
+  ],
+  "2010": [
+   {
+    "name": "Taiwan",
+    "subjecto": "Taiwan",
+    "share": 0.9113
+   }
+  ]
+ }
+}

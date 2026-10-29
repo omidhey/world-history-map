@@ -1,0 +1,127 @@
+{
+ "country": "DOM",
+ "name": "Dominican Rep.",
+ "area_km2": 48158,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7132
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.7698
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.7545
+   }
+  ],
+  "-500": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.7545
+   }
+  ],
+  "-323": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.7545
+   }
+  ],
+  "-1": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.8641
+   }
+  ],
+  "400": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.8697
+   }
+  ],
+  "800": [
+   {
+    "name": "Ciboney",
+    "subjecto": "Ciboney",
+    "share": 0.759
+   }
+  ],
+  "1200": [
+   {
+    "name": "Taino",
+    "subjecto": "Taino",
+    "share": 0.798
+   }
+  ],
+  "1500": [
+   {
+    "name": "Taino",
+    "subjecto": "Taino",
+    "share": 0.7547,
+    "carried": 1200
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.022
+   }
+  ],
+  "1800": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.7574
+   }
+  ],
+  "1914": [
+   {
+    "name": "Dominican Republic",
+    "subjecto": "Dominican Republic",
+    "share": 0.7086
+   },
+   {
+    "name": "Haiti",
+    "subjecto": "Haiti",
+    "share": 0.0136
+   }
+  ],
+  "1945": [
+   {
+    "name": "Dominican Republic",
+    "subjecto": "Dominican Republic",
+    "share": 0.7086
+   },
+   {
+    "name": "Haiti",
+    "subjecto": "Haiti",
+    "share": 0.0136
+   }
+  ],
+  "2010": [
+   {
+    "name": "Dominican Republic",
+    "subjecto": "Dominican Republic",
+    "share": 0.7086
+   },
+   {
+    "name": "Haiti",
+    "subjecto": "Haiti",
+    "share": 0.0136
+   }
+  ]
+ }
+}

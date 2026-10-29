@@ -1,0 +1,225 @@
+{
+ "country": "MKD",
+ "name": "North Macedonia",
+ "area_km2": 25062,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.5095
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.4402
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.0501
+   }
+  ],
+  "-500": [
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.4208
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.3461,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.2329,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.1964
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.8029
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.1363,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.0608,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.9004
+   },
+   {
+    "name": "Visigoths",
+    "subjecto": "Visigoths",
+    "share": 0.0996
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.8624
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.5452
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.4548
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.9995
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0005,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1914": [
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.8746
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0863
+   },
+   {
+    "name": "Albania",
+    "subjecto": "Albania",
+    "share": 0.0389
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.8397
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0863
+   },
+   {
+    "name": "Albania",
+    "subjecto": "Albania",
+    "share": 0.0738
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Macedonia",
+    "subjecto": "Macedonia",
+    "share": 0.7955
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0808
+   },
+   {
+    "name": "Albania",
+    "subjecto": "Albania",
+    "share": 0.0717
+   },
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.0519
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ]
+ }
+}

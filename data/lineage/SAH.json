@@ -1,0 +1,170 @@
+{
+ "country": "SAH",
+ "name": "W. Sahara",
+ "area_km2": 96669,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9752
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.0231
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.975
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.0233
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9979
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9979
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9979
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9979,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9942,
+    "carried": -323
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7131,
+    "carried": -323
+   },
+   {
+    "name": "Idrisid Caliphate",
+    "subjecto": "Idrisid Caliphate",
+    "share": 0.2811
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0037,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.9979
+   }
+  ],
+  "1500": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.9979,
+    "carried": 1200
+   }
+  ],
+  "1800": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.9979,
+    "carried": 1200
+   }
+  ],
+  "1914": [
+   {
+    "name": "Rio De Oro",
+    "subjecto": "Rio De Oro",
+    "share": 0.6114
+   },
+   {
+    "name": "Spanish Sahara",
+    "subjecto": "Spain",
+    "share": 0.3645
+   },
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.0198
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0015,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Western Sahara",
+    "subjecto": "Western Sahara",
+    "share": 0.9789
+   },
+   {
+    "name": "Mauritania",
+    "subjecto": "France",
+    "share": 0.0169
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0015,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Western Sahara",
+    "subjecto": "Western Sahara",
+    "share": 0.9789
+   },
+   {
+    "name": "Mauritania",
+    "subjecto": "Mauritania",
+    "share": 0.0169
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0015,
+    "other": true
+   }
+  ]
+ }
+}

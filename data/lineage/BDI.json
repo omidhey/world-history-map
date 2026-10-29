@@ -1,0 +1,134 @@
+{
+ "country": "BDI",
+ "name": "Burundi",
+ "area_km2": 26238,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Rift Valley States",
+    "subjecto": "Rift Valley States",
+    "share": 0.9537
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0463,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "German E. Africa (Tanganyika)",
+    "subjecto": "German Empire",
+    "share": 1.0
+   }
+  ],
+  "1945": [
+   {
+    "name": "Burundi",
+    "subjecto": "Burundi",
+    "share": 0.9155
+   },
+   {
+    "name": "Rwanda",
+    "subjecto": "Rwanda",
+    "share": 0.0833
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Burundi",
+    "subjecto": "Burundi",
+    "share": 0.9155
+   },
+   {
+    "name": "Rwanda",
+    "subjecto": "Rwanda",
+    "share": 0.0833
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ]
+ }
+}

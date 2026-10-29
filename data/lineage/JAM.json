@@ -1,0 +1,130 @@
+{
+ "country": "JAM",
+ "name": "Jamaica",
+ "area_km2": 12462,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.3567
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.3567
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.393
+   }
+  ],
+  "-500": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.393
+   }
+  ],
+  "-323": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.393
+   }
+  ],
+  "-1": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.5582
+   }
+  ],
+  "400": [
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.5582
+   }
+  ],
+  "800": [
+   {
+    "name": "Ciboney",
+    "subjecto": "Ciboney",
+    "share": 0.4761
+   }
+  ],
+  "1200": [
+   {
+    "name": "Taino",
+    "subjecto": "Taino",
+    "share": 0.3903
+   },
+   {
+    "name": "Ciboney",
+    "subjecto": "Ciboney",
+    "share": 0.0552,
+    "carried": 800
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0387
+   }
+  ],
+  "1500": [
+   {
+    "name": "Taino",
+    "subjecto": "Taino",
+    "share": 0.2969,
+    "carried": 1200
+   },
+   {
+    "name": "Ciboney",
+    "subjecto": "Ciboney",
+    "share": 0.0528,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "United Kingdom",
+    "subjecto": "UK",
+    "share": 0.3567
+   }
+  ],
+  "1914": [
+   {
+    "name": "United Kingdom of Great Britain and Ireland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.3567
+   }
+  ],
+  "1945": [
+   {
+    "name": "Jamaica (UK)",
+    "subjecto": "United Kingdom",
+    "share": 0.3567
+   }
+  ],
+  "2010": [
+   {
+    "name": "Jamaica",
+    "subjecto": "Jamaica",
+    "share": 0.3567
+   }
+  ]
+ }
+}

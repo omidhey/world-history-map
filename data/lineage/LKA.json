@@ -1,0 +1,111 @@
+{
+ "country": "LKA",
+ "name": "Sri Lanka",
+ "area_km2": 65358,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8211
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8211
+   }
+  ],
+  "-1000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8211
+   }
+  ],
+  "-500": [
+   {
+    "name": "Simhala",
+    "subjecto": "Simhala",
+    "share": 0.8211
+   }
+  ],
+  "-323": [
+   {
+    "name": "Simhala",
+    "subjecto": "Simhala",
+    "share": 0.8211
+   }
+  ],
+  "-1": [
+   {
+    "name": "Simhala",
+    "subjecto": "Simhala",
+    "share": 0.8649
+   }
+  ],
+  "400": [
+   {
+    "name": "Simhala",
+    "subjecto": "Simhala",
+    "share": 0.8649
+   }
+  ],
+  "800": [
+   {
+    "name": "Sinhalese kingdoms",
+    "subjecto": "Sinhalese kingdoms",
+    "share": 0.8211
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kingdom of Polonnaruwa",
+    "subjecto": "Kingdom of Polonnaruwa",
+    "share": 0.8211
+   }
+  ],
+  "1500": [
+   {
+    "name": "Sinhalese kingdoms",
+    "subjecto": "Sinhalese kingdoms",
+    "share": 0.8211
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ceylon (Dutch)",
+    "subjecto": "Netherlands",
+    "share": 0.569
+   },
+   {
+    "name": "Kandy",
+    "subjecto": "Kandy",
+    "share": 0.2896
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ceylon",
+    "subjecto": "Ceylon",
+    "share": 0.8211
+   }
+  ],
+  "1945": [
+   {
+    "name": "Sri Lanka",
+    "subjecto": "Sri Lanka",
+    "share": 0.8211
+   }
+  ],
+  "2010": [
+   {
+    "name": "Sri Lanka",
+    "subjecto": "Sri Lanka",
+    "share": 0.8765
+   }
+  ]
+ }
+}

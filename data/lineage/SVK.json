@@ -1,0 +1,207 @@
+{
+ "country": "SVK",
+ "name": "Slovakia",
+ "area_km2": 47070,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9082
+   },
+   {
+    "name": "Únětice",
+    "subjecto": "Únětice",
+    "share": 0.0918
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7118
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.2883
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7115,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.2885,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7115,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.2885,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.4703
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.2885,
+    "carried": -1000
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.2411,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.4363,
+    "carried": -1
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.2885,
+    "carried": -1000
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.2411,
+    "carried": -1000
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.034
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 1.0
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.014
+   }
+  ],
+  "1200": [
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.9983
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0017,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Imperial Hungary",
+    "subjecto": "Imperial Hungary",
+    "share": 0.8827
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.1173
+   }
+  ],
+  "1800": [
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 1.0
+   }
+  ],
+  "1914": [
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 1.0
+   }
+  ],
+  "1945": [
+   {
+    "name": "Czechoslovakia",
+    "subjecto": "Czechoslovakia",
+    "share": 0.9335
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0422
+   },
+   {
+    "name": "Austria",
+    "subjecto": "Austria",
+    "share": 0.0134
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.0109
+   }
+  ],
+  "2010": [
+   {
+    "name": "Slovakia",
+    "subjecto": "Slovakia",
+    "share": 0.9339
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0422
+   },
+   {
+    "name": "Austria",
+    "subjecto": "Austria",
+    "share": 0.0201
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ]
+ }
+}

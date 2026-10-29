@@ -1,0 +1,181 @@
+{
+ "country": "GRL",
+ "name": "Greenland",
+ "area_km2": 2207085,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9422
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8397
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0997
+   }
+  ],
+  "-1000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8402
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0999
+   }
+  ],
+  "-500": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8389
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.1007
+   }
+  ],
+  "-323": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8402
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0997
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8391
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0955
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0021,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8414
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0944
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0021,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8405
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0987
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8394
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0984
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.8837
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.057
+   }
+  ],
+  "1800": [
+   {
+    "name": "Denmark-Norway",
+    "subjecto": null,
+    "share": 0.9426
+   }
+  ],
+  "1914": [
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.94
+   }
+  ],
+  "1945": [
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.9394
+   }
+  ],
+  "2010": [
+   {
+    "name": "Greenland",
+    "subjecto": "Greenland",
+    "share": 0.9419
+   }
+  ]
+ }
+}

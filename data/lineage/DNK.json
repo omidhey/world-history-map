@@ -1,0 +1,154 @@
+{
+ "country": "DNK",
+ "name": "Denmark",
+ "area_km2": 42792,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.401
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.469
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4234
+   }
+  ],
+  "-500": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3914,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0776
+   }
+  ],
+  "-323": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3914,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3813,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1481
+   }
+  ],
+  "400": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3813,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1486
+   }
+  ],
+  "800": [
+   {
+    "name": "Danes",
+    "subjecto": "Danes",
+    "share": 0.6844
+   }
+  ],
+  "1200": [
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.4559
+   }
+  ],
+  "1500": [
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.5497
+   },
+   {
+    "name": "Denmark-Norway",
+    "subjecto": "Denmark-Norway",
+    "share": 0.0537
+   }
+  ],
+  "1800": [
+   {
+    "name": "Denmark-Norway",
+    "subjecto": null,
+    "share": 0.4704
+   }
+  ],
+  "1914": [
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.7865
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0037,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.4798
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.4798
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "country": "BHS",
+ "name": "Bahamas",
+ "area_km2": 15584,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [],
+  "-2000": [],
+  "-1000": [],
+  "-500": [],
+  "-323": [],
+  "-1": [],
+  "400": [],
+  "800": [],
+  "1200": [],
+  "1500": [],
+  "1800": [
+   {
+    "name": "Bahamas",
+    "subjecto": "Bahamas",
+    "share": 0.3017
+   }
+  ],
+  "1914": [
+   {
+    "name": "United Kingdom of Great Britain and Ireland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.3017
+   }
+  ],
+  "1945": [
+   {
+    "name": "Bahamas",
+    "subjecto": "Bahamas",
+    "share": 0.3017
+   }
+  ],
+  "2010": [
+   {
+    "name": "Bahamas",
+    "subjecto": "Bahamas",
+    "share": 0.3017
+   }
+  ]
+ }
+}

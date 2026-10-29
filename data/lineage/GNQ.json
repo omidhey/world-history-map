@@ -1,0 +1,132 @@
+{
+ "country": "GNQ",
+ "name": "Eq. Guinea",
+ "area_km2": 27118,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.8206
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.8206
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8206
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8206
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8206
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8206
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8433
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8206
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8846
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8391
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8207,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Equatorial Guinea",
+    "subjecto": "Equatorial Guinea",
+    "share": 0.6557
+   },
+   {
+    "name": "Kamerun",
+    "subjecto": "Kamerun",
+    "share": 0.1627
+   }
+  ],
+  "1945": [
+   {
+    "name": "Equatorial Guinea",
+    "subjecto": "Equatorial Guinea",
+    "share": 0.6557
+   },
+   {
+    "name": "Cameroon",
+    "subjecto": "Cameroon",
+    "share": 0.1353
+   },
+   {
+    "name": "Gabon",
+    "subjecto": "Gabon",
+    "share": 0.0247
+   }
+  ],
+  "2010": [
+   {
+    "name": "Equatorial Guinea",
+    "subjecto": "Equatorial Guinea",
+    "share": 0.7355
+   },
+   {
+    "name": "Cameroon",
+    "subjecto": "Cameroon",
+    "share": 0.1306
+   },
+   {
+    "name": "Gabon",
+    "subjecto": "Gabon",
+    "share": 0.0294
+   }
+  ]
+ }
+}

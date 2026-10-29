@@ -1,0 +1,246 @@
+{
+ "country": "NOR",
+ "name": "Norway",
+ "area_km2": 397236,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8252
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.5513
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.28
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4302
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.2953
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1099
+   }
+  ],
+  "-500": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4191,
+    "carried": -1000
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.2953
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1128
+   }
+  ],
+  "-323": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4191,
+    "carried": -1000
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.2953
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1051
+   }
+  ],
+  "-1": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4191,
+    "carried": -1000
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.2675
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1157
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4191,
+    "carried": -1000
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.2953
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1155
+   }
+  ],
+  "800": [
+   {
+    "name": "Northmen",
+    "subjecto": "Northmen",
+    "share": 0.5173
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.181
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1099
+   },
+   {
+    "name": "Danes",
+    "subjecto": "Danes",
+    "share": 0.0222
+   }
+  ],
+  "1200": [
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.5815
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.127
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1099
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.5453
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.1279
+   },
+   {
+    "name": "Denmark-Norway",
+    "subjecto": "Denmark-Norway",
+    "share": 0.1102
+   }
+  ],
+  "1800": [
+   {
+    "name": "Denmark-Norway",
+    "subjecto": null,
+    "share": 0.7745
+   },
+   {
+    "name": "Finnmark",
+    "subjecto": "Denmark-Norway",
+    "share": 0.0245
+   },
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.0183
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0007,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.8253
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0104,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.8253
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0104,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.808
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0104,
+    "other": true
+   }
+  ]
+ }
+}

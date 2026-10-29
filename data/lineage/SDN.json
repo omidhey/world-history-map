@@ -1,0 +1,408 @@
+{
+ "country": "SDN",
+ "name": "Sudan",
+ "area_km2": 1849844,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.928
+   },
+   {
+    "name": "Kerma",
+    "subjecto": "Kerma",
+    "share": 0.0444
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.0232
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8209
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.1112
+   },
+   {
+    "name": "Kerma",
+    "subjecto": "Kerma",
+    "share": 0.0444
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.0232
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.6956
+   },
+   {
+    "name": "Kush",
+    "subjecto": "Kush",
+    "share": 0.1643
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1301
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.6944
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.1415
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1301
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0239
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.552
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.2946
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1194
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0239
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.5382,
+    "carried": -323
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.3093
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1185
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0238
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0099,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.5374,
+    "carried": -323
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.3096
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1185
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0246
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4396,
+    "carried": -323
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.2853
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.1664
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0891,
+    "carried": 400
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0834
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.0184,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.4492
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.2758
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.1662
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0835
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.025
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.4492,
+    "carried": 1200
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.24,
+    "carried": 1200
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.088,
+    "carried": 1200
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.082
+   },
+   {
+    "name": "Funj",
+    "subjecto": "Funj",
+    "share": 0.0743
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.0223
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.0209,
+    "carried": 1200
+   },
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.0183
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2595,
+    "carried": 1200
+   },
+   {
+    "name": "Darfur",
+    "subjecto": "Darfur",
+    "share": 0.1861
+   },
+   {
+    "name": "Funj",
+    "subjecto": "Funj",
+    "share": 0.1857
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.117,
+    "carried": 1200
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.082,
+    "carried": 1500
+   },
+   {
+    "name": "Alwa",
+    "subjecto": "Alwa",
+    "share": 0.0758,
+    "carried": 1200
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0427
+   },
+   {
+    "name": "Funj",
+    "subjecto": "Funj",
+    "share": 0.0217,
+    "carried": 1500
+   },
+   {
+    "name": "Ifat",
+    "subjecto": "Ifat",
+    "share": 0.0152,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0136,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Anglo-Egyptian Sudan",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9888
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0109,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Sudan",
+    "subjecto": "United Kingdom",
+    "share": 0.9884
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0113,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Sudan",
+    "subjecto": "Sudan",
+    "share": 0.9887
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.011,
+    "other": true
+   }
+  ]
+ }
+}

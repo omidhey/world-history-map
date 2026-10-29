@@ -1,0 +1,240 @@
+{
+ "country": "AZE",
+ "name": "Azerbaijan",
+ "area_km2": 91133,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9765
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7422
+   },
+   {
+    "name": "Catacomb culture",
+    "subjecto": "Catacomb culture",
+    "share": 0.2368
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urartu",
+    "subjecto": "Urartu",
+    "share": 0.554
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.3994
+   },
+   {
+    "name": "state societies and Aramaean kingdoms",
+    "subjecto": "state societies and Aramaean kingdoms",
+    "share": 0.0194
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.5776
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.3994,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Atropatene",
+    "subjecto": "Atropatene",
+    "share": 0.4742
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.3962,
+    "carried": -1000
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.0771
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0294,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.6908
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.1964,
+    "carried": -1000
+   },
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.0828
+   }
+  ],
+  "400": [
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.7806
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.1964,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.5411
+   },
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.4354
+   }
+  ],
+  "1200": [
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.7144
+   },
+   {
+    "name": "Cuman Khanates",
+    "subjecto": "Cuman Khanates",
+    "share": 0.1475
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.1146
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.976
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0005,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.8562
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.1076
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0005,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Azerbaijan",
+    "subjecto": "Azerbaijan",
+    "share": 0.8573
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.0474
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.0389
+   },
+   {
+    "name": "Georgia",
+    "subjecto": "Georgia",
+    "share": 0.0242
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9332
+   },
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.0433
+   }
+  ],
+  "2010": [
+   {
+    "name": "Azerbaijan",
+    "subjecto": "Azerbaijan",
+    "share": 0.8573
+   },
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.0474
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.0389
+   },
+   {
+    "name": "Georgia",
+    "subjecto": "Georgia",
+    "share": 0.0242
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ]
+ }
+}

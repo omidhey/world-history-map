@@ -1,0 +1,135 @@
+{
+ "country": "NIC",
+ "name": "Nicaragua",
+ "area_km2": 129545,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9338
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.9338
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338,
+    "carried": -500
+   }
+  ],
+  "400": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338,
+    "carried": -500
+   }
+  ],
+  "800": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338,
+    "carried": -500
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338,
+    "carried": -500
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9338,
+    "carried": -500
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.8721
+   },
+   {
+    "name": "United Kingdom",
+    "subjecto": "UK",
+    "share": 0.06
+   }
+  ],
+  "1914": [
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.9158
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0141,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.9158
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0141,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.9017
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0154,
+    "other": true
+   }
+  ]
+ }
+}

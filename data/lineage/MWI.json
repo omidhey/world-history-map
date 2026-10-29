@@ -1,0 +1,157 @@
+{
+ "country": "MWI",
+ "name": "Malawi",
+ "area_km2": 111205,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9829,
+    "carried": 1500
+   },
+   {
+    "name": "Portuguese East Africa",
+    "subjecto": "Portuguese East Africa",
+    "share": 0.0171
+   }
+  ],
+  "1914": [
+   {
+    "name": "Malawi",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.8979
+   },
+   {
+    "name": "German E. Africa (Tanganyika)",
+    "subjecto": "German Empire",
+    "share": 0.0665
+   },
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0183
+   },
+   {
+    "name": "Mozambique",
+    "subjecto": "Portugal",
+    "share": 0.0172
+   }
+  ],
+  "1945": [
+   {
+    "name": "Nyasaland",
+    "subjecto": "United Kingdom",
+    "share": 0.8979
+   },
+   {
+    "name": "Tanzania, United Republic of",
+    "subjecto": "United Kingdom",
+    "share": 0.0665
+   },
+   {
+    "name": "Northern Rhodesia",
+    "subjecto": "United Kingdom",
+    "share": 0.0183
+   },
+   {
+    "name": "Mozambique (Portugal)",
+    "subjecto": "Portugal",
+    "share": 0.0172
+   }
+  ],
+  "2010": [
+   {
+    "name": "Malawi",
+    "subjecto": "Malawi",
+    "share": 0.9156
+   },
+   {
+    "name": "Tanzania, United Republic of",
+    "subjecto": "Tanzania, United Republic of",
+    "share": 0.0488
+   },
+   {
+    "name": "Zambia",
+    "subjecto": "Zambia",
+    "share": 0.0183
+   },
+   {
+    "name": "Mozambique",
+    "subjecto": "Mozambique",
+    "share": 0.0172
+   }
+  ]
+ }
+}

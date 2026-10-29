@@ -1,0 +1,167 @@
+{
+ "country": "NAM",
+ "name": "Namibia",
+ "area_km2": 825185,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9823
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9842
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9821
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9821
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9823
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9856
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9861
+   }
+  ],
+  "800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.6728
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.3146
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.6728
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.3146
+   }
+  ],
+  "1500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.6706
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.3156
+   }
+  ],
+  "1800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.6695,
+    "carried": 1500
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.3156,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "German South-West Africa",
+    "subjecto": "German South-West Africa",
+    "share": 0.9539
+   },
+   {
+    "name": "Angola",
+    "subjecto": "Portugal",
+    "share": 0.0181
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0142,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Namibia",
+    "subjecto": "Namibia",
+    "share": 0.9539
+   },
+   {
+    "name": "Angola (Portugal)",
+    "subjecto": "Portugal",
+    "share": 0.0181
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0142,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Namibia",
+    "subjecto": "Namibia",
+    "share": 0.9539
+   },
+   {
+    "name": "Angola",
+    "subjecto": "Angola",
+    "share": 0.0181
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0142,
+    "other": true
+   }
+  ]
+ }
+}

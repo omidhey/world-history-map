@@ -1,0 +1,169 @@
+{
+ "country": "PRY",
+ "name": "Paraguay",
+ "area_km2": 401247,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Paraguay",
+    "subjecto": "Spain",
+    "share": 0.8011
+   },
+   {
+    "name": "Viceroyalty of Peru",
+    "subjecto": "Spain",
+    "share": 0.1645
+   },
+   {
+    "name": "Viceroyalty of the Río de la Plata",
+    "subjecto": "Viceroyalty of the Río de la Plata",
+    "share": 0.0176
+   },
+   {
+    "name": "Viceroyalty of Brazil",
+    "subjecto": "Portugal",
+    "share": 0.0167
+   }
+  ],
+  "1914": [
+   {
+    "name": "Paraguay",
+    "subjecto": "Paraguay",
+    "share": 0.9693
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0176
+   },
+   {
+    "name": "Bolivia",
+    "subjecto": "Bolivia",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Paraguay",
+    "subjecto": "Paraguay",
+    "share": 0.9573
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0241
+   },
+   {
+    "name": "Bolivia",
+    "subjecto": "Bolivia",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Paraguay",
+    "subjecto": "Paraguay",
+    "share": 0.9573
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0241
+   },
+   {
+    "name": "Bolivia",
+    "subjecto": "Bolivia",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ]
+ }
+}

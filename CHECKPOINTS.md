@@ -69,7 +69,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 ## Phase 5: Follow a country through time → v0.5
 
-- [ ] **Session 18: Spatial lineage** — geopandas, equal-area (EPSG:6933), one snapshot at a time
+- [x] **Session 18: Spatial lineage** — geopandas, equal-area (EPSG:6933), one snapshot at a time — 2026-10-29
+  - Result: `pipeline/download_countries.py` (Natural Earth 110m, pinned) and `pipeline/make_lineage.py` write `data/lineage/<ADM0_A3>.json` for 176 countries × 14 snapshots (+ `index.json`), automatic and marked so. Iran at 500 BCE → Achaemenid Empire 99 %; Egypt 1914 → Egypt under the UK 98 %. `validate.py` checks the files; `build_site.py` copies them to `site/data/lineage/`. Method and limits in `docs/data-notes.md`. No UI yet (Session 19).
 - [ ] **Session 19: "Follow a country" mode**
 - [ ] **Session 20: Curated lineages** — ~10 countries, sourced
 - [ ] **Session 21: Measuring border change** — area-over-time chart

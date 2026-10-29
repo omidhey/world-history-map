@@ -1,0 +1,256 @@
+{
+ "country": "NER",
+ "name": "Niger",
+ "area_km2": 1181467,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8334
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.1666
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8278
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.1722
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9746
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9746
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9746
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9746,
+    "carried": -323
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9746,
+    "carried": -323
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9743,
+    "carried": -323
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.9474
+   },
+   {
+    "name": "Kanem",
+    "subjecto": "Kanem",
+    "share": 0.0257
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0254
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0015,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.674,
+    "carried": 1200
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.1938
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0664
+   },
+   {
+    "name": "Hausa States",
+    "subjecto": "Hausa States",
+    "share": 0.056
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.4201,
+    "carried": 1200
+   },
+   {
+    "name": "Air",
+    "subjecto": "Air",
+    "share": 0.1859
+   },
+   {
+    "name": "Hausa States",
+    "subjecto": "Hausa States",
+    "share": 0.1276
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.1203,
+    "carried": 1500
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.0661
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0479
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0185,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0137,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9903
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Niger",
+    "subjecto": "France",
+    "share": 0.978
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.022,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Niger",
+    "subjecto": "Niger",
+    "share": 0.9778
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0222,
+    "other": true
+   }
+  ]
+ }
+}

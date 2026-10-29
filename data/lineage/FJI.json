@@ -1,0 +1,58 @@
+{
+ "country": "FJI",
+ "name": "Fiji",
+ "area_km2": 19288,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [],
+  "-2000": [],
+  "-1000": [],
+  "-500": [],
+  "-323": [],
+  "-1": [],
+  "400": [],
+  "800": [],
+  "1200": [
+   {
+    "name": "Tuʻi Tonga Empire",
+    "subjecto": "Tuʻi Tonga Empire",
+    "share": 0.523
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tuʻi Tonga Empire",
+    "subjecto": "Tuʻi Tonga Empire",
+    "share": 0.523
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tuʻi Tonga Empire",
+    "subjecto": "Tuʻi Tonga Empire",
+    "share": 0.523
+   }
+  ],
+  "1914": [
+   {
+    "name": "Fiji",
+    "subjecto": "Fiji",
+    "share": 0.4874
+   }
+  ],
+  "1945": [
+   {
+    "name": "Fiji",
+    "subjecto": "Fiji",
+    "share": 0.4874
+   }
+  ],
+  "2010": [
+   {
+    "name": "Fiji",
+    "subjecto": "Fiji",
+    "share": 0.4874
+   }
+  ]
+ }
+}

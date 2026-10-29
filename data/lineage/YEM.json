@@ -1,0 +1,248 @@
+{
+ "country": "YEM",
+ "name": "Yemen",
+ "area_km2": 455758,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9591
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9638
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8468
+   },
+   {
+    "name": "Saba",
+    "subjecto": "Saba",
+    "share": 0.119
+   }
+  ],
+  "-500": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8468,
+    "carried": -1000
+   },
+   {
+    "name": "Saba",
+    "subjecto": "Saba",
+    "share": 0.119
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Qataban",
+    "subjecto": "Qataban",
+    "share": 0.5298
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.2193
+   },
+   {
+    "name": "Saba",
+    "subjecto": "Saba",
+    "share": 0.119
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.1063,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Himyarite Kingdom",
+    "subjecto": "Himyarite Kingdom",
+    "share": 0.6432
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.2236
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.1042,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0017,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Himyarite Kingdom",
+    "subjecto": "Himyarite Kingdom",
+    "share": 0.6465
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.2196
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.1042,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0017,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9638
+   }
+  ],
+  "1200": [
+   {
+    "name": "Yemen",
+    "subjecto": "Yemen",
+    "share": 0.4615
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.295
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.2162,
+    "carried": 800
+   }
+  ],
+  "1500": [
+   {
+    "name": "Yemen",
+    "subjecto": "Yemen",
+    "share": 0.3745
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.369
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.2258
+   }
+  ],
+  "1800": [
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.3686,
+    "carried": 1500
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.2258,
+    "carried": 1500
+   },
+   {
+    "name": "Yemen",
+    "subjecto": "Yemen",
+    "share": 0.2218,
+    "carried": 1500
+   },
+   {
+    "name": "Yemen",
+    "subjecto": "Yemen",
+    "share": 0.1527
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Protectorate",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.5541
+   },
+   {
+    "name": "Arabia (Nejd)",
+    "subjecto": "Arabia (Nejd)",
+    "share": 0.215
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.1982
+   }
+  ],
+  "1945": [
+   {
+    "name": "Yemen",
+    "subjecto": "Yemen",
+    "share": 0.8367
+   },
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.1177
+   },
+   {
+    "name": "Oman",
+    "subjecto": "Oman",
+    "share": 0.0136
+   }
+  ],
+  "2010": [
+   {
+    "name": "Yemen",
+    "subjecto": "Yemen",
+    "share": 0.8409
+   },
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.1177
+   },
+   {
+    "name": "Oman",
+    "subjecto": "Oman",
+    "share": 0.0136
+   }
+  ]
+ }
+}

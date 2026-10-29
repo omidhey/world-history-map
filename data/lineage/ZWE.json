@@ -1,0 +1,176 @@
+{
+ "country": "ZWE",
+ "name": "Zimbabwe",
+ "area_km2": 376273,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7222
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.2778
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.5868
+   },
+   {
+    "name": "Great Zimbabwe",
+    "subjecto": "Great Zimbabwe",
+    "share": 0.3715
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0417
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.6833
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.2929
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0238
+   }
+  ],
+  "1800": [
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.4602,
+    "carried": 1500
+   },
+   {
+    "name": "Rozwi",
+    "subjecto": "Rozwi",
+    "share": 0.3356
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.2042,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9887
+   },
+   {
+    "name": "Mozambique",
+    "subjecto": "Portugal",
+    "share": 0.0113
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom",
+    "share": 0.9704
+   },
+   {
+    "name": "Northern Rhodesia",
+    "subjecto": "United Kingdom",
+    "share": 0.0233
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Zimbabwe",
+    "subjecto": "Zimbabwe",
+    "share": 0.9721
+   },
+   {
+    "name": "Zambia",
+    "subjecto": "Zambia",
+    "share": 0.0233
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0046,
+    "other": true
+   }
+  ]
+ }
+}

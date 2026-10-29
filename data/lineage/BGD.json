@@ -1,0 +1,247 @@
+{
+ "country": "BGD",
+ "name": "Bangladesh",
+ "area_km2": 133758,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9998
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9998
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.5654
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.4172
+   }
+  ],
+  "-500": [
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.5652,
+    "carried": -1000
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.3986,
+    "carried": -1000
+   },
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.0186
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0173
+   }
+  ],
+  "-323": [
+   {
+    "name": "Magadha",
+    "subjecto": "Magadha",
+    "share": 0.8654
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.1164,
+    "carried": -1000
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.018,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.8672
+   },
+   {
+    "name": "Arakan",
+    "subjecto": "Arakan",
+    "share": 0.097
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.018,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0176,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Gupta Empire",
+    "subjecto": "Gupta Empire",
+    "share": 0.8654
+   },
+   {
+    "name": "Waithali (Arakan)",
+    "subjecto": "Waithali",
+    "share": 0.097
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.018,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0176,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Palas",
+    "subjecto": "Palas",
+    "share": 0.8638
+   },
+   {
+    "name": "Waithali (Arakan)",
+    "subjecto": "Waithali",
+    "share": 0.097
+   },
+   {
+    "name": "Rajput Clans and Small States",
+    "subjecto": "Rajput Clans and Small States",
+    "share": 0.0136
+   }
+  ],
+  "1200": [
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.8219
+   },
+   {
+    "name": "Bagan",
+    "subjecto": "Bagan",
+    "share": 0.1289
+   },
+   {
+    "name": "Rajput kingdoms",
+    "subjecto": "Rajput kingdoms",
+    "share": 0.0266
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bengal",
+    "subjecto": "Bengal",
+    "share": 0.8007
+   },
+   {
+    "name": "Arakan",
+    "subjecto": "Arakan",
+    "share": 0.1382
+   },
+   {
+    "name": "Burmese kingdoms",
+    "subjecto": "Burmese kingdoms",
+    "share": 0.0323
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bundelkhand",
+    "subjecto": "Bundelkhand",
+    "share": 0.9021
+   },
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.0592
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Raj",
+    "subjecto": "United Kingdom",
+    "share": 0.9713
+   }
+  ],
+  "1945": [
+   {
+    "name": "Bangladesh",
+    "subjecto": "Bangladesh",
+    "share": 0.8651
+   },
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.0829
+   },
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.0228
+   }
+  ],
+  "2010": [
+   {
+    "name": "Bangladesh",
+    "subjecto": "Bangladesh",
+    "share": 0.9112
+   },
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.0494
+   },
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.0102
+   }
+  ]
+ }
+}

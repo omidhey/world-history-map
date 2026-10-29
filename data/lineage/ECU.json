@@ -1,0 +1,242 @@
+{
+ "country": "ECU",
+ "name": "Ecuador",
+ "area_km2": 250737,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Valdivia",
+    "subjecto": "Valdivia",
+    "share": 0.5107
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.4724
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Valdivia",
+    "subjecto": "Valdivia",
+    "share": 0.5107
+   },
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.4724
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5064
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.4775
+   }
+  ],
+  "-500": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5064
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.4775
+   }
+  ],
+  "-323": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5085
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.4756
+   }
+  ],
+  "-1": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5084,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.475,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0073,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5084,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.475,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0073,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5084,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.475,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5084,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.475,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Inca Empire",
+    "subjecto": "Inca Empire",
+    "share": 0.4341
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2946,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1957,
+    "carried": -323
+   },
+   {
+    "name": "Shuar",
+    "subjecto": "Shuar",
+    "share": 0.058
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.9251
+   },
+   {
+    "name": "Shuar",
+    "subjecto": "Shuar",
+    "share": 0.058
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ecuador",
+    "subjecto": "Ecuador",
+    "share": 0.9637
+   },
+   {
+    "name": "Peru",
+    "subjecto": "Peru",
+    "share": 0.0135
+   },
+   {
+    "name": "Colombia",
+    "subjecto": "Colombia",
+    "share": 0.0106
+   }
+  ],
+  "1945": [
+   {
+    "name": "Ecuador",
+    "subjecto": "Ecuador",
+    "share": 0.9532
+   },
+   {
+    "name": "Peru",
+    "subjecto": "Peru",
+    "share": 0.0152
+   },
+   {
+    "name": "Colombia",
+    "subjecto": "Colombia",
+    "share": 0.0106
+   }
+  ],
+  "2010": [
+   {
+    "name": "Ecuador",
+    "subjecto": "Ecuador",
+    "share": 0.964
+   },
+   {
+    "name": "Peru",
+    "subjecto": "Peru",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0059,
+    "other": true
+   }
+  ]
+ }
+}

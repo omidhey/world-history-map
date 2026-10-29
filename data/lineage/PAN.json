@@ -1,0 +1,217 @@
+{
+ "country": "PAN",
+ "name": "Panama",
+ "area_km2": 75263,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8794
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.8794
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6611
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2305
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6611
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2305
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6611,
+    "carried": -500
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2288
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6571,
+    "carried": -500
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2181,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6571,
+    "carried": -500
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2181,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6571,
+    "carried": -500
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2181,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6571,
+    "carried": -500
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2181,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.6571,
+    "carried": -500
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2181,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0043,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.9014
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Panama",
+    "subjecto": "Panama",
+    "share": 0.8775
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Panama",
+    "subjecto": "Panama",
+    "share": 0.8775
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Panama",
+    "subjecto": "Panama",
+    "share": 0.8775
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ]
+ }
+}

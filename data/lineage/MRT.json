@@ -1,0 +1,224 @@
+{
+ "country": "MRT",
+ "name": "Mauritania",
+ "area_km2": 1052681,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.5152
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.4784
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.5174
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4762
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9936
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9936
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9936
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9936,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8194,
+    "carried": -323
+   },
+   {
+    "name": "Empire of Ghana",
+    "subjecto": "Empire of Ghana",
+    "share": 0.1733
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7958,
+    "carried": -323
+   },
+   {
+    "name": "Ghana",
+    "subjecto": "Ghana",
+    "share": 0.1335
+   },
+   {
+    "name": "Empire of Ghana",
+    "subjecto": "Empire of Ghana",
+    "share": 0.0604,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.004,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.8613
+   },
+   {
+    "name": "Ghana",
+    "subjecto": "Ghana",
+    "share": 0.1323
+   }
+  ],
+  "1500": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.6559,
+    "carried": 1200
+   },
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.3015
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0362
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.6399,
+    "carried": 1200
+   },
+   {
+    "name": "Kaarta",
+    "subjecto": "Kaarta",
+    "share": 0.1765
+   },
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.118,
+    "carried": 1500
+   },
+   {
+    "name": "Segu",
+    "subjecto": "Segu",
+    "share": 0.0591
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9857
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0068,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Mauritania",
+    "subjecto": "France",
+    "share": 0.9584
+   },
+   {
+    "name": "Mali",
+    "subjecto": "France",
+    "share": 0.0157
+   },
+   {
+    "name": "Senegal",
+    "subjecto": "France",
+    "share": 0.0116
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Mauritania",
+    "subjecto": "Mauritania",
+    "share": 0.9576
+   },
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.0165
+   },
+   {
+    "name": "Senegal",
+    "subjecto": "Senegal",
+    "share": 0.0116
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ]
+ }
+}

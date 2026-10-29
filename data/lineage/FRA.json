@@ -1,0 +1,304 @@
+{
+ "country": "FRA",
+ "name": "France",
+ "area_km2": 644868,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9662
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7634
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1279
+   },
+   {
+    "name": "Beaker",
+    "subjecto": "Beaker",
+    "share": 0.0737
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.8251
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0117,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.781,
+    "carried": -1000
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.0509
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0024,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.781,
+    "carried": -1000
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1305
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.0407,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0138,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.8398
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.8376
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279,
+    "carried": -323
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.8116
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279,
+    "carried": -323
+   },
+   {
+    "name": "Britany",
+    "subjecto": "Britany",
+    "share": 0.033
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0012,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kingdom of France",
+    "subjecto": "France",
+    "share": 0.3614
+   },
+   {
+    "name": "Angevin Empire",
+    "subjecto": "Angevin Empire",
+    "share": 0.23
+   },
+   {
+    "name": "Comté de Toulouse",
+    "subjecto": "France",
+    "share": 0.1372
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279,
+    "carried": -323
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.037
+   },
+   {
+    "name": "Britany",
+    "subjecto": "Britany",
+    "share": 0.0332
+   },
+   {
+    "name": "Burgandy",
+    "subjecto": "Burgandy",
+    "share": 0.0308
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0159,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.698
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1279,
+    "carried": -323
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.0995
+   },
+   {
+    "name": "Britany",
+    "subjecto": "Britany",
+    "share": 0.0251
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.819
+   },
+   {
+    "name": "Viceroyalty of Brazil",
+    "subjecto": "Portugal",
+    "share": 0.1196
+   },
+   {
+    "name": "Kingdom of Sardinia",
+    "subjecto": "France",
+    "share": 0.0151
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0125,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.8092
+   },
+   {
+    "name": "French Guiana",
+    "subjecto": "French Guiana",
+    "share": 0.1192
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0151
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0233,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.8291
+   },
+   {
+    "name": "French Guiana",
+    "subjecto": "French Guiana",
+    "share": 0.1192
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0192,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.832
+   },
+   {
+    "name": "French Guiana",
+    "subjecto": "French Guiana",
+    "share": 0.1192
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0187,
+    "other": true
+   }
+  ]
+ }
+}

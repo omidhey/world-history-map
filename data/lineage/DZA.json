@@ -1,0 +1,269 @@
+{
+ "country": "DZA",
+ "name": "Algeria",
+ "area_km2": 2318480,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9922
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9931
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7963
+   },
+   {
+    "name": "Berbers",
+    "subjecto": "Berbers",
+    "share": 0.1968
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8918
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.1013
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8918
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.1004
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8918,
+    "carried": -323
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.0715
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0299,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8918,
+    "carried": -323
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.0715
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0299,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8217,
+    "carried": -323
+   },
+   {
+    "name": "Aghlabid Emirate",
+    "subjecto": "Aghlabid Emirate",
+    "share": 0.1237
+   },
+   {
+    "name": "Idrisid Caliphate",
+    "subjecto": "Idrisid Caliphate",
+    "share": 0.0478
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.538
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.2447
+   },
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.1235
+   },
+   {
+    "name": "Ibadites",
+    "subjecto": "Ibadites",
+    "share": 0.0483
+   },
+   {
+    "name": "Almohad Caliphate",
+    "subjecto": "Almohad Caliphate",
+    "share": 0.0387
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.5379,
+    "carried": 1200
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.2447,
+    "carried": 1200
+   },
+   {
+    "name": "Zayyanid Caliphate",
+    "subjecto": "Zayyanid Caliphate",
+    "share": 0.1364
+   },
+   {
+    "name": "Ibadites",
+    "subjecto": "Ibadites",
+    "share": 0.0483,
+    "carried": 1200
+   },
+   {
+    "name": "Hafsid Caliphate",
+    "subjecto": "Hafsid Caliphate",
+    "share": 0.0255
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.4369,
+    "carried": 1200
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.1933,
+    "carried": 1200
+   },
+   {
+    "name": "Algiers",
+    "subjecto": "Ottoman Empire",
+    "share": 0.1842
+   },
+   {
+    "name": "Air",
+    "subjecto": "Air",
+    "share": 0.0841
+   },
+   {
+    "name": "Morocco",
+    "subjecto": "Morocco",
+    "share": 0.0597
+   },
+   {
+    "name": "Ibadites",
+    "subjecto": "Ibadites",
+    "share": 0.0333,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Algeria",
+    "subjecto": "France",
+    "share": 0.9861
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Algeria",
+    "subjecto": "France",
+    "share": 0.985
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0076,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Algeria",
+    "subjecto": "Algeria",
+    "share": 0.9855
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0078,
+    "other": true
+   }
+  ]
+ }
+}

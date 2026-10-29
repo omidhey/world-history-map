@@ -1,0 +1,300 @@
+{
+ "country": "ARG",
+ "name": "Argentina",
+ "area_km2": 2784385,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9904
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.9884
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.5646
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3177
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.079
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0281
+   }
+  ],
+  "-500": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.5646
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3177
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.079
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0281
+   }
+  ],
+  "-323": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.5646
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3177
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.079
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0282
+   }
+  ],
+  "-1": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.5627
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3177
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0785
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0304
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.5627
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3177
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0785
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0304
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.566
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3177
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.077
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0282
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.566
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3149
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0701
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0282
+   },
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.0112
+   }
+  ],
+  "1500": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.5634
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3018
+   },
+   {
+    "name": "Inca Empire",
+    "subjecto": "Inca Empire",
+    "share": 0.0561
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0382
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0296
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of the Río de la Plata",
+    "subjecto": "Viceroyalty of the Río de la Plata",
+    "share": 0.7724
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.1835
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.0267
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0078,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.9802
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0117,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.9812
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.011,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.9815
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0106,
+    "other": true
+   }
+  ]
+ }
+}

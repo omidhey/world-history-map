@@ -1,0 +1,250 @@
+{
+ "country": "VEN",
+ "name": "Venezuela",
+ "area_km2": 908470,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9775
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.8022
+   },
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.1784
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5961
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2976
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   }
+  ],
+  "-500": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5961
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2976
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   }
+  ],
+  "-323": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5961
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2974
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   }
+  ],
+  "-1": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5937,
+    "carried": -323
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2969
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5937,
+    "carried": -323
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2969
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5937,
+    "carried": -323
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2969
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5937,
+    "carried": -323
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2969
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.5937,
+    "carried": -323
+   },
+   {
+    "name": "Caribbean hunter-gatherers",
+    "subjecto": "Caribbean hunter-gatherers",
+    "share": 0.2969
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.9802
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Venezuela",
+    "subjecto": "Venezuela",
+    "share": 0.9689
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0126,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Venezuela",
+    "subjecto": "Venezuela",
+    "share": 0.9689
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0126,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Venezuela",
+    "subjecto": "Venezuela",
+    "share": 0.9702
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0112,
+    "other": true
+   }
+  ]
+ }
+}

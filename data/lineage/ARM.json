@@ -1,0 +1,206 @@
+{
+ "country": "ARM",
+ "name": "Armenia",
+ "area_km2": 28644,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urartu",
+    "subjecto": "Urartu",
+    "share": 0.9012
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0988
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9129
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0871,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.4997
+   },
+   {
+    "name": "Atropatene",
+    "subjecto": "Atropatene",
+    "share": 0.2435
+   },
+   {
+    "name": "Colchis",
+    "subjecto": "Colchis",
+    "share": 0.1715
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0853,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.9483
+   },
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.0517
+   }
+  ],
+  "400": [
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9039
+   },
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.0961
+   }
+  ],
+  "1200": [
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.9712
+   },
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.0216
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.9123
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.0628
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0249
+   }
+  ],
+  "1914": [
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.9196
+   },
+   {
+    "name": "Azerbaijan",
+    "subjecto": "Azerbaijan",
+    "share": 0.064
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.0137
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9626
+   },
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.0249
+   },
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.0125
+   }
+  ],
+  "2010": [
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.9196
+   },
+   {
+    "name": "Azerbaijan",
+    "subjecto": "Azerbaijan",
+    "share": 0.064
+   },
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.0137
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ]
+ }
+}

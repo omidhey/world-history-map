@@ -1,0 +1,384 @@
+{
+ "country": "POL",
+ "name": "Poland",
+ "area_km2": 310356,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9842
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9842
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.6514
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.2757
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0572
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.441
+   },
+   {
+    "name": "Pomeranian culture ",
+    "subjecto": "Pomeranian culture ",
+    "share": 0.1349
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1253
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1047,
+    "carried": -1000
+   },
+   {
+    "name": "Western Masurian culture",
+    "subjecto": "Western Masurian culture",
+    "share": 0.0975
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0428,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.04,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.441
+   },
+   {
+    "name": "Pomeranian culture ",
+    "subjecto": "Pomeranian culture ",
+    "share": 0.1349
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1253
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1047,
+    "carried": -1000
+   },
+   {
+    "name": "Western Masurian culture",
+    "subjecto": "Western Masurian culture",
+    "share": 0.0975
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0428,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.04,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.4314
+   },
+   {
+    "name": "Pomeranian culture ",
+    "subjecto": "Pomeranian culture ",
+    "share": 0.1383
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1253
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0954,
+    "carried": -1000
+   },
+   {
+    "name": "Western Masurian culture",
+    "subjecto": "Western Masurian culture",
+    "share": 0.092
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0428,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0379,
+    "carried": -1000
+   },
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.0115
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0075,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.4314,
+    "carried": -1
+   },
+   {
+    "name": "Pomeranian culture ",
+    "subjecto": "Pomeranian culture ",
+    "share": 0.1325,
+    "carried": -1
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1253,
+    "carried": -1
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0954,
+    "carried": -1000
+   },
+   {
+    "name": "Western Masurian culture",
+    "subjecto": "Western Masurian culture",
+    "share": 0.092,
+    "carried": -1
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0428,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0379,
+    "carried": -1000
+   },
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.0115,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0157,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.8882
+   },
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.0955
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.6679
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.1512,
+    "carried": 800
+   },
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.0716,
+    "carried": 800
+   },
+   {
+    "name": "Principality of Galicia-Volhynia",
+    "subjecto": "Principality of Galicia-Volhynia",
+    "share": 0.0553
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0368
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0015,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Poland-Lithuania",
+    "subjecto": "Poland-Lithuania",
+    "share": 0.6845
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.2172
+   },
+   {
+    "name": "Teutonic Knights",
+    "subjecto": "Teutonic Knights",
+    "share": 0.055
+   },
+   {
+    "name": "Imperial Hungary",
+    "subjecto": "Imperial Hungary",
+    "share": 0.0257
+   }
+  ],
+  "1800": [
+   {
+    "name": "Prussia",
+    "subjecto": "Prussia",
+    "share": 0.7529
+   },
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 0.1658
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.0517
+   },
+   {
+    "name": "Saxony",
+    "subjecto": "Saxony",
+    "share": 0.0107
+   }
+  ],
+  "1914": [
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.4626
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.3959
+   },
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.1226
+   }
+  ],
+  "1945": [
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.9703
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0129,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.9598
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0191,
+    "other": true
+   }
+  ]
+ }
+}

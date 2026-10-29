@@ -1,0 +1,158 @@
+{
+ "country": "KOS",
+ "name": "Kosovo",
+ "area_km2": 11232,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.5229
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.4771
+   }
+  ],
+  "-500": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.5229,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.4771
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.4771,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.522,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.478,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 1.0
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.903
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.097
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 1.0
+   }
+  ],
+  "1914": [
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.9955
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0045,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.9996
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0004,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.99
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.01,
+    "other": true
+   }
+  ]
+ }
+}

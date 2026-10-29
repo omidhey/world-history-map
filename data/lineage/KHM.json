@@ -1,0 +1,195 @@
+{
+ "country": "KHM",
+ "name": "Cambodia",
+ "area_km2": 182252,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9996
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9996
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9996
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9996,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9996,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9951,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9951,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0045,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Chen-La",
+    "subjecto": "Chen-La",
+    "share": 0.9582
+   },
+   {
+    "name": "Rajput Clans and Small States",
+    "subjecto": "Rajput Clans and Small States",
+    "share": 0.0414
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khmer Empire",
+    "subjecto": "Khmer Empire",
+    "share": 0.9996
+   }
+  ],
+  "1500": [
+   {
+    "name": "Cambodia",
+    "subjecto": "Cambodia",
+    "share": 0.5934
+   },
+   {
+    "name": "Ayutthaya",
+    "subjecto": "Ayutthaya",
+    "share": 0.3909
+   },
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.0105
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Cambodia",
+    "subjecto": "Cambodia",
+    "share": 0.9614
+   },
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.0203
+   },
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.0153
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French Indochina",
+    "subjecto": "France",
+    "share": 0.9795
+   },
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.0156
+   }
+  ],
+  "1945": [
+   {
+    "name": "Cambodia",
+    "subjecto": "France",
+    "share": 0.9471
+   },
+   {
+    "name": "Cochin China",
+    "subjecto": "France",
+    "share": 0.0164
+   },
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.0156
+   },
+   {
+    "name": "Annam",
+    "subjecto": "France",
+    "share": 0.0135
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Cambodia",
+    "subjecto": "Cambodia",
+    "share": 0.9488
+   },
+   {
+    "name": "Vietnam",
+    "subjecto": "Vietnam",
+    "share": 0.0282
+   },
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.0156
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ]
+ }
+}

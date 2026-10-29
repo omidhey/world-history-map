@@ -1,0 +1,258 @@
+{
+ "country": "SWE",
+ "name": "Sweden",
+ "area_km2": 450712,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9823
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.5223
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.4638
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.5417
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4417
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.5408
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4417,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.5408
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4417,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.5379
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.4407,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0078,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.5338
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3203,
+    "carried": -1000
+   },
+   {
+    "name": "Geats",
+    "subjecto": "Geats",
+    "share": 0.061
+   },
+   {
+    "name": "Swedes",
+    "subjecto": "Swedes",
+    "share": 0.055
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0123,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.6405
+   },
+   {
+    "name": "Swedes and Goths",
+    "subjecto": "Swedes and Goths",
+    "share": 0.2171
+   },
+   {
+    "name": "Danes",
+    "subjecto": "Danes",
+    "share": 0.0949
+   },
+   {
+    "name": "Northmen",
+    "subjecto": "Northmen",
+    "share": 0.0345
+   }
+  ],
+  "1200": [
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.3955
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.2189
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.1618
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.1563
+   },
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.048
+   }
+  ],
+  "1500": [
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.8836
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.0927
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0037,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.969
+   },
+   {
+    "name": "Denmark-Norway",
+    "subjecto": null,
+    "share": 0.017
+   }
+  ],
+  "1914": [
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.9597
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.0229
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.9587
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.0229
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.9621
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.0229
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "country": "MDG",
+ "name": "Madagascar",
+ "area_km2": 589284,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Hunters-gatherers",
+    "subjecto": "Hunters-gatherers",
+    "share": 0.9719
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Hunters-gatherers",
+    "subjecto": "Hunters-gatherers",
+    "share": 0.9719,
+    "carried": -3000
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9688
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9688
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9688
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.95
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.95
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Malagasy",
+    "subjecto": "Malagasy",
+    "share": 0.9724
+   }
+  ],
+  "1200": [
+   {
+    "name": "Madagascar",
+    "subjecto": "Madagascar",
+    "share": 0.7254
+   },
+   {
+    "name": "Merina Kingdom",
+    "subjecto": "Merina Kingdom",
+    "share": 0.2478
+   }
+  ],
+  "1500": [
+   {
+    "name": "Madagascar",
+    "subjecto": "Madagascar",
+    "share": 0.7254
+   },
+   {
+    "name": "Merina Kingdom",
+    "subjecto": "Merina Kingdom",
+    "share": 0.2478
+   }
+  ],
+  "1800": [
+   {
+    "name": "Madagascar",
+    "subjecto": "Madagascar",
+    "share": 0.7226
+   },
+   {
+    "name": "Merina Kingdom",
+    "subjecto": "Merina Kingdom",
+    "share": 0.2506
+   }
+  ],
+  "1914": [
+   {
+    "name": "Madagascar (France)",
+    "subjecto": "France",
+    "share": 0.9732
+   }
+  ],
+  "1945": [
+   {
+    "name": "Madagascar (France)",
+    "subjecto": "France",
+    "share": 0.9732
+   }
+  ],
+  "2010": [
+   {
+    "name": "Madagascar",
+    "subjecto": "Madagascar",
+    "share": 0.972
+   }
+  ]
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "country": "ISL",
+ "name": "Iceland",
+ "area_km2": 107885,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7632
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8268
+   }
+  ],
+  "-1000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7632
+   }
+  ],
+  "-500": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7887
+   }
+  ],
+  "-323": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7632
+   }
+  ],
+  "-1": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8239
+   }
+  ],
+  "400": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8186
+   }
+  ],
+  "800": [
+   {
+    "name": "Northmen",
+    "subjecto": "Northmen",
+    "share": 0.8372
+   }
+  ],
+  "1200": [
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.8529
+   }
+  ],
+  "1500": [
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.7926
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Denmark-Norway",
+    "subjecto": null,
+    "share": 0.8578
+   }
+  ],
+  "1914": [
+   {
+    "name": "Iceland",
+    "subjecto": "Iceland",
+    "share": 0.8581
+   }
+  ],
+  "1945": [
+   {
+    "name": "Iceland",
+    "subjecto": "Iceland",
+    "share": 0.8581
+   }
+  ],
+  "2010": [
+   {
+    "name": "Iceland",
+    "subjecto": "Iceland",
+    "share": 0.8343
+   }
+  ]
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "country": "MDA",
+ "name": "Moldova",
+ "area_km2": 32326,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Catacomb culture",
+    "subjecto": "Catacomb culture",
+    "share": 0.8292
+   },
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.1657,
+    "carried": -3000
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Hunnic Empire",
+    "subjecto": "Hunnic Empire",
+    "share": 0.5935
+   },
+   {
+    "name": "Ostrogoths",
+    "subjecto": "Hunnic Empire",
+    "share": 0.2952
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.1113,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.9843
+   },
+   {
+    "name": "Magyars",
+    "subjecto": "Khazars",
+    "share": 0.9706
+   },
+   {
+    "name": "Bulgars",
+    "subjecto": "Bulgars",
+    "share": 0.0314
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0201
+   },
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.0184
+   }
+  ],
+  "1200": [
+   {
+    "name": "Principality of Galicia-Volhynia",
+    "subjecto": "Principality of Galicia-Volhynia",
+    "share": 0.9615
+   },
+   {
+    "name": "Bulgars",
+    "subjecto": "Bulgars",
+    "share": 0.0294,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0119,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Poland-Lithuania",
+    "subjecto": "Poland-Lithuania",
+    "share": 0.9896
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0104
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.8929
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.1071
+   }
+  ],
+  "1914": [
+   {
+    "name": "Romania",
+    "subjecto": "Romania",
+    "share": 0.9193
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.0807
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9449
+   },
+   {
+    "name": "Romania",
+    "subjecto": "Romania",
+    "share": 0.0551
+   }
+  ],
+  "2010": [
+   {
+    "name": "Moldova",
+    "subjecto": "Moldova",
+    "share": 0.8928
+   },
+   {
+    "name": "Ukraine",
+    "subjecto": "Ukraine",
+    "share": 0.0791
+   },
+   {
+    "name": "Romania",
+    "subjecto": "Romania",
+    "share": 0.0281
+   }
+  ]
+ }
+}

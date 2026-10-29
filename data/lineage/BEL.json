@@ -1,0 +1,173 @@
+{
+ "country": "BEL",
+ "name": "Belgium",
+ "area_km2": 30134,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.9811
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.8088
+   },
+   {
+    "name": "Kingdom of France",
+    "subjecto": "France",
+    "share": 0.1645
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Austrian Netherlands",
+    "subjecto": "Habsburg Austria",
+    "share": 0.9258
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0368
+   },
+   {
+    "name": "Prussia",
+    "subjecto": "Prussia",
+    "share": 0.0121
+   },
+   {
+    "name": "Batavian Republic",
+    "subjecto": null,
+    "share": 0.0107
+   }
+  ],
+  "1914": [
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.9258
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0368
+   },
+   {
+    "name": "Netherlands",
+    "subjecto": "Netherlands",
+    "share": 0.0119
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0109
+   }
+  ],
+  "1945": [
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.9258
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0368
+   },
+   {
+    "name": "Netherlands",
+    "subjecto": "Netherlands",
+    "share": 0.0119
+   },
+   {
+    "name": "Germany (UK)",
+    "subjecto": "United Kingdom",
+    "share": 0.0109
+   }
+  ],
+  "2010": [
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.9258
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0368
+   },
+   {
+    "name": "Netherlands",
+    "subjecto": "Netherlands",
+    "share": 0.0119
+   },
+   {
+    "name": "Germany",
+    "subjecto": "Germany",
+    "share": 0.0109
+   }
+  ]
+ }
+}

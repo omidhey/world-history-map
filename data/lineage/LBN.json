@@ -1,0 +1,143 @@
+{
+ "country": "LBN",
+ "name": "Lebanon",
+ "area_km2": 10088,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.6537
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.3012
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Canaan",
+    "subjecto": "Canaan",
+    "share": 0.695
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.3012
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.5787
+   },
+   {
+    "name": "Hittites",
+    "subjecto": "Hittites",
+    "share": 0.3821
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9428
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.8557
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.8649
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.9428
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9428
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.9834
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.9427
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9428
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.897
+   }
+  ],
+  "1945": [
+   {
+    "name": "Lebanon",
+    "subjecto": "Lebanon",
+    "share": 0.7433
+   },
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.2453
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Lebanon",
+    "subjecto": "Lebanon",
+    "share": 0.7433
+   },
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.2453
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ]
+ }
+}

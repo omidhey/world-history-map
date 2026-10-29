@@ -1,0 +1,168 @@
+{
+ "country": "SOL",
+ "name": "Somaliland",
+ "area_km2": 167473,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9902
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9863
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9863
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9863
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9902
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9863
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9863
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9851
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9851,
+    "carried": 400
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9851
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8707
+   },
+   {
+    "name": "Adal",
+    "subjecto": "Adal",
+    "share": 0.1138
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8707,
+    "carried": 1500
+   },
+   {
+    "name": "Adal",
+    "subjecto": "Adal",
+    "share": 0.1138,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Italian Somaliland",
+    "subjecto": "Italy",
+    "share": 0.9044
+   },
+   {
+    "name": "British Somaliland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0611
+   },
+   {
+    "name": "Abyssinia",
+    "subjecto": "Abyssinia",
+    "share": 0.0187
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0063,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "British Somaliland",
+    "subjecto": "United Kingdom",
+    "share": 0.9613
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.0187
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0063,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Somalia",
+    "subjecto": "Somalia",
+    "share": 0.9613
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.0187
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0063,
+    "other": true
+   }
+  ]
+ }
+}

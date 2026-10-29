@@ -1,0 +1,194 @@
+{
+ "country": "GIN",
+ "name": "Guinea",
+ "area_km2": 239565,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9779
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9778
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9778
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9778
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9779
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9771
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9742
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9778
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9731,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9641
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0084,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.6422
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2363,
+    "carried": 1200
+   },
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.0867
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0099,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.641,
+    "carried": 1500
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.186,
+    "carried": 1200
+   },
+   {
+    "name": "Segu",
+    "subjecto": "Segu",
+    "share": 0.1114
+   },
+   {
+    "name": "Kaarta",
+    "subjecto": "Kaarta",
+    "share": 0.0189
+   },
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.0158,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9694
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0089,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Guinea",
+    "subjecto": "France",
+    "share": 0.961
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0173,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Guinea",
+    "subjecto": "Guinea",
+    "share": 0.9612
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0171,
+    "other": true
+   }
+  ]
+ }
+}

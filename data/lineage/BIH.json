@@ -1,0 +1,189 @@
+{
+ "country": "BIH",
+ "name": "Bosnia and Herz.",
+ "area_km2": 50617,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.9946
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0054,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.9946
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.9946,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0054,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.9946,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0054,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.6859
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.6218
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.3782
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.7938
+   },
+   {
+    "name": "Croatia",
+    "subjecto": "Croatia",
+    "share": 0.1353
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0709
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.533
+   },
+   {
+    "name": "Imperial Hungary",
+    "subjecto": "Imperial Hungary",
+    "share": 0.467
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9928
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.9486
+   },
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.0429
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 1.0
+   }
+  ],
+  "2010": [
+   {
+    "name": "Bosnia and Herzegovina",
+    "subjecto": "Bosnia and Herzegovina",
+    "share": 0.9663
+   },
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.0209
+   },
+   {
+    "name": "Croatia",
+    "subjecto": "Croatia",
+    "share": 0.0127
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ]
+ }
+}

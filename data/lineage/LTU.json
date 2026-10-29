@@ -1,0 +1,220 @@
+{
+ "country": "LTU",
+ "name": "Lithuania",
+ "area_km2": 63820,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.7174
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1595
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1221
+   }
+  ],
+  "-323": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.7065
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1595
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.133
+   }
+  ],
+  "-1": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.7176
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1593
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1221
+   }
+  ],
+  "400": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.7176,
+    "carried": -1
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1593,
+    "carried": -1
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.1221,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.6492
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.3295
+   },
+   {
+    "name": "Ests",
+    "subjecto": "Ests",
+    "share": 0.0216
+   }
+  ],
+  "1200": [
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.6485,
+    "carried": 800
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.2475,
+    "carried": 800
+   },
+   {
+    "name": "Other Rus Principalities",
+    "subjecto": "Other Rus Principalities",
+    "share": 0.0527
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.029
+   },
+   {
+    "name": "Ests",
+    "subjecto": "Ests",
+    "share": 0.0213,
+    "carried": 800
+   }
+  ],
+  "1500": [
+   {
+    "name": "Poland-Lithuania",
+    "subjecto": "Poland-Lithuania",
+    "share": 0.903
+   },
+   {
+    "name": "Teutonic Knights",
+    "subjecto": "Teutonic Knights",
+    "share": 0.097
+   }
+  ],
+  "1800": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.9551
+   },
+   {
+    "name": "Prussia",
+    "subjecto": "Prussia",
+    "share": 0.0449
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9304
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0696
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9945
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0055,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Lithuania",
+    "subjecto": "Lithuania",
+    "share": 0.9526
+   },
+   {
+    "name": "Byelarus",
+    "subjecto": "Byelarus",
+    "share": 0.0386
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0088,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "country": "PRK",
+ "name": "North Korea",
+ "area_km2": 125588,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9499
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.9089
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0423
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.5329
+   },
+   {
+    "name": "Paleo-Koreans",
+    "subjecto": "Paleo-Koreans",
+    "share": 0.4226
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.5293,
+    "carried": -1000
+   },
+   {
+    "name": "Paleo-Koreans",
+    "subjecto": "Paleo-Koreans",
+    "share": 0.4148,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.5293,
+    "carried": -1000
+   },
+   {
+    "name": "Paleo-Koreans",
+    "subjecto": "Paleo-Koreans",
+    "share": 0.4148,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0079,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Koguryo",
+    "subjecto": "Koguryo",
+    "share": 0.8678
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.0777,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0052,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Koguryo",
+    "subjecto": "Koguryo",
+    "share": 0.6471
+   },
+   {
+    "name": "Sixteen Kingdoms",
+    "subjecto": "Sixteen Kingdoms",
+    "share": 0.2262
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.0777,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Parhae",
+    "subjecto": "Parhae",
+    "share": 0.5871
+   },
+   {
+    "name": "Silia",
+    "subjecto": "Silia",
+    "share": 0.3631
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Goryeo",
+    "subjecto": "Goryeo",
+    "share": 0.6936
+   },
+   {
+    "name": "Liao",
+    "subjecto": "Liao",
+    "share": 0.2552
+   }
+  ],
+  "1500": [
+   {
+    "name": "Korea",
+    "subjecto": "Korea",
+    "share": 0.4879
+   },
+   {
+    "name": "Ming Chinese Empire",
+    "subjecto": "Ming Chinese Empire",
+    "share": 0.4628
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Korea",
+    "subjecto": "Korea",
+    "share": 0.9163
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.0347
+   }
+  ],
+  "1914": [
+   {
+    "name": "Empire of Japan",
+    "subjecto": "Empire of Japan",
+    "share": 0.8956
+   },
+   {
+    "name": "Manchu Empire",
+    "subjecto": "Manchu Empire",
+    "share": 0.0452
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Korea (USSR)",
+    "subjecto": "USSR",
+    "share": 0.9345
+   },
+   {
+    "name": "Manchuria",
+    "subjecto": "Manchuria",
+    "share": 0.0452
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0073,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Korea, Democratic People's Republic of",
+    "subjecto": "Korea, Democratic People's Republic of",
+    "share": 0.9432
+   },
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.0375
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0115,
+    "other": true
+   }
+  ]
+ }
+}

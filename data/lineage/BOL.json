@@ -1,0 +1,310 @@
+{
+ "country": "BOL",
+ "name": "Bolivia",
+ "area_km2": 1085182,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.7927
+   },
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.1752
+   },
+   {
+    "name": "Chinchorro culture",
+    "subjecto": "Chinchorro culture",
+    "share": 0.0321
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.3439
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0796
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.3439
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0796
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.3411
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0782
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.3411,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0782
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.3411,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0782
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2696,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.105
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0519
+   }
+  ],
+  "1200": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4614
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.2696,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   },
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.105
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.0519
+   }
+  ],
+  "1500": [
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.4483
+   },
+   {
+    "name": "Inca Empire",
+    "subjecto": "Inca Empire",
+    "share": 0.2566
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.183,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.1121
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of Peru",
+    "subjecto": "Spain",
+    "share": 0.9907
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Bolivia",
+    "subjecto": "Bolivia",
+    "share": 0.9776
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.0106
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0118,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Bolivia",
+    "subjecto": "Bolivia",
+    "share": 0.983
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0167,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Bolivia",
+    "subjecto": "Bolivia",
+    "share": 0.9847
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0149,
+    "other": true
+   }
+  ]
+ }
+}

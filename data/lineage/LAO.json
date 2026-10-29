@@ -1,0 +1,279 @@
+{
+ "country": "LAO",
+ "name": "Laos",
+ "area_km2": 229035,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.99
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.01
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.99,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.01,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.99,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.01,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.8564,
+    "carried": -1000
+   },
+   {
+    "name": "Han",
+    "subjecto": "Han",
+    "share": 0.1337
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.01,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.8564,
+    "carried": -1000
+   },
+   {
+    "name": "Jin",
+    "subjecto": "Jin",
+    "share": 0.1337
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.01,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Rajput Clans and Small States",
+    "subjecto": "Rajput Clans and Small States",
+    "share": 0.4761
+   },
+   {
+    "name": "Nan Chao",
+    "subjecto": "Nan Chao",
+    "share": 0.3354
+   },
+   {
+    "name": "Tang Empire",
+    "subjecto": "Tang Empire",
+    "share": 0.0991
+   },
+   {
+    "name": "Chen-La",
+    "subjecto": "Chen-La",
+    "share": 0.058
+   },
+   {
+    "name": "Champa",
+    "subjecto": "Champa",
+    "share": 0.0312
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Harapunchai",
+    "subjecto": "Harapunchai",
+    "share": 0.4055
+   },
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.24
+   },
+   {
+    "name": "Khmer Empire",
+    "subjecto": "Khmer Empire",
+    "share": 0.2073
+   },
+   {
+    "name": "Nan Chao",
+    "subjecto": "Nan Chao",
+    "share": 0.1171
+   },
+   {
+    "name": "Champa City States",
+    "subjecto": "Champa City States",
+    "share": 0.0301
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ayutthaya",
+    "subjecto": "Ayutthaya",
+    "share": 0.3833
+   },
+   {
+    "name": "Laos",
+    "subjecto": "Laos",
+    "share": 0.3373
+   },
+   {
+    "name": "Ming Chinese Empire",
+    "subjecto": "Ming Chinese Empire",
+    "share": 0.1789
+   },
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.1005
+   }
+  ],
+  "1800": [
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.9382
+   },
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.0529
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0089,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French Indochina",
+    "subjecto": "France",
+    "share": 0.9841
+   },
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.0157
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Laos",
+    "subjecto": "France",
+    "share": 0.9143
+   },
+   {
+    "name": "Annam",
+    "subjecto": "France",
+    "share": 0.0377
+   },
+   {
+    "name": "Tonkin",
+    "subjecto": "France",
+    "share": 0.0163
+   },
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.0157
+   },
+   {
+    "name": "Cambodia",
+    "subjecto": "France",
+    "share": 0.0155
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Laos",
+    "subjecto": "Laos",
+    "share": 0.9156
+   },
+   {
+    "name": "Vietnam",
+    "subjecto": "Vietnam",
+    "share": 0.0524
+   },
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.0159
+   },
+   {
+    "name": "Cambodia",
+    "subjecto": "Cambodia",
+    "share": 0.0156
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ]
+ }
+}

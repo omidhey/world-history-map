@@ -1,0 +1,227 @@
+{
+ "country": "UGA",
+ "name": "Uganda",
+ "area_km2": 245760,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8788
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1212
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8788
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1212
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8788
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1212
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8788
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1212
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8788
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1212
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8831
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1169
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1169,
+    "carried": 400
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8831
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1169
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.8831
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1169
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.5498,
+    "carried": 1500
+   },
+   {
+    "name": "Rift Valley States",
+    "subjecto": "Rift Valley States",
+    "share": 0.3332
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1169,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Uganda",
+    "subjecto": "Uganda",
+    "share": 0.9423
+   },
+   {
+    "name": "Belgian Congo",
+    "subjecto": "Belgium",
+    "share": 0.0216
+   },
+   {
+    "name": "British East Africa",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0195
+   },
+   {
+    "name": "Anglo-Egyptian Sudan",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Uganda",
+    "subjecto": "United Kingdom",
+    "share": 0.9193
+   },
+   {
+    "name": "Kenya",
+    "subjecto": "United Kingdom",
+    "share": 0.0369
+   },
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.0216
+   },
+   {
+    "name": "Sudan",
+    "subjecto": "United Kingdom",
+    "share": 0.0212
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Uganda",
+    "subjecto": "Uganda",
+    "share": 0.9261
+   },
+   {
+    "name": "Kenya",
+    "subjecto": "Kenya",
+    "share": 0.0356
+   },
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.0216
+   },
+   {
+    "name": "Sudan",
+    "subjecto": "Sudan",
+    "share": 0.0157
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ]
+ }
+}

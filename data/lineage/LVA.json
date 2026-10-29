@@ -1,0 +1,231 @@
+{
+ "country": "LVA",
+ "name": "Latvia",
+ "area_km2": 63921,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9453
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9453
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.9453
+   }
+  ],
+  "-500": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.5103
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3248,
+    "carried": -1000
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1444
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0014,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.5103
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3248,
+    "carried": -1000
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1444
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0014,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.4992
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3248,
+    "carried": -1000
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1401
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0014,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.4771,
+    "carried": -1
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.3248,
+    "carried": -1000
+   },
+   {
+    "name": "Curonians",
+    "subjecto": "Curonians",
+    "share": 0.1368,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0067,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.6669
+   },
+   {
+    "name": "Ests",
+    "subjecto": "Ests",
+    "share": 0.275
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0294
+   }
+  ],
+  "1200": [
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.6317,
+    "carried": 800
+   },
+   {
+    "name": "Ests",
+    "subjecto": "Ests",
+    "share": 0.2665,
+    "carried": 800
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0296,
+    "carried": 800
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0176
+   }
+  ],
+  "1500": [
+   {
+    "name": "Teutonic Knights",
+    "subjecto": "Teutonic Knights",
+    "share": 0.8701
+   },
+   {
+    "name": "Poland-Lithuania",
+    "subjecto": "Poland-Lithuania",
+    "share": 0.0733
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.9317
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9317
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9453
+   }
+  ],
+  "2010": [
+   {
+    "name": "Latvia",
+    "subjecto": "Latvia",
+    "share": 0.8569
+   },
+   {
+    "name": "Lithuania",
+    "subjecto": "Lithuania",
+    "share": 0.0515
+   },
+   {
+    "name": "Russia",
+    "subjecto": "Russia",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0033,
+    "other": true
+   }
+  ]
+ }
+}

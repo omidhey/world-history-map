@@ -1,0 +1,589 @@
+{
+ "country": "RUS",
+ "name": "Russia",
+ "area_km2": 17020588,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8822
+   },
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.0502
+   },
+   {
+    "name": "Afanasevo",
+    "subjecto": "Afanasevo",
+    "share": 0.044
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.4227
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2143
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.2105
+   },
+   {
+    "name": "Andronovo",
+    "subjecto": "Andronovo",
+    "share": 0.0511
+   },
+   {
+    "name": "Afanasevo",
+    "subjecto": "Afanasevo",
+    "share": 0.044
+   },
+   {
+    "name": "Catacomb culture",
+    "subjecto": "Catacomb culture",
+    "share": 0.0293
+   },
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.023,
+    "carried": -3000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0101,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.4153
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.2013
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0949
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0857
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0658
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0517
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0473
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.015,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.4153
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.2014
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0949
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0857,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.064,
+    "carried": -1000
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0517
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.036,
+    "carried": -1000
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0159,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.4151
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.2007
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0949,
+    "carried": -500
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0857,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0615,
+    "carried": -1000
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0517
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.036,
+    "carried": -1000
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0188,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.415
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.1975
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0841,
+    "carried": -1000
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0733,
+    "carried": -500
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0613,
+    "carried": -1000
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0508
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0359,
+    "carried": -1000
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.0233
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0213,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.4154
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.2014
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0741,
+    "carried": -1000
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0704,
+    "carried": -500
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0515
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0359,
+    "carried": -1000
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.0305
+   },
+   {
+    "name": "Hunnic Empire",
+    "subjecto": "Hunnic Empire",
+    "share": 0.0257
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0226,
+    "carried": -1000
+   },
+   {
+    "name": "Caucasian Alans",
+    "subjecto": "Hunnic Empire",
+    "share": 0.0158
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0115,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0233,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.3283
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.1227
+   },
+   {
+    "name": "Tungus",
+    "subjecto": "Tungus",
+    "share": 0.1156
+   },
+   {
+    "name": "Permians",
+    "subjecto": "Permians",
+    "share": 0.0601
+   },
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.0567
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.052
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0488,
+    "carried": -1000
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0329,
+    "carried": -500
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0325
+   },
+   {
+    "name": "Uyghurs",
+    "subjecto": "Uyghurs",
+    "share": 0.0252
+   },
+   {
+    "name": "Bashkirs",
+    "subjecto": "Bashkirs",
+    "share": 0.0168
+   },
+   {
+    "name": "Volga Bulgars",
+    "subjecto": "Volga Bulgars",
+    "share": 0.016
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.0134,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0555,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.3332
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.1775
+   },
+   {
+    "name": "Mongol Empire",
+    "subjecto": "Mongol Empire",
+    "share": 0.144
+   },
+   {
+    "name": "Cuman Khanates",
+    "subjecto": "Cuman Khanates",
+    "share": 0.0721
+   },
+   {
+    "name": "Tungusic Tribes",
+    "subjecto": "Tungusic Tribes",
+    "share": 0.0582
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0516
+   },
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.0327
+   },
+   {
+    "name": "Volga Bulgars",
+    "subjecto": "Volga Bulgars",
+    "share": 0.0285
+   },
+   {
+    "name": "Principality of Novgorod",
+    "subjecto": "Principality of Novgorod",
+    "share": 0.0211
+   },
+   {
+    "name": "Other Rus Principalities",
+    "subjecto": "Other Rus Principalities",
+    "share": 0.0192
+   },
+   {
+    "name": "Principality of Vladimir-Suzdal",
+    "subjecto": "Principality of Vladimir-Suzdal",
+    "share": 0.019
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.01
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Siberians",
+    "subjecto": "Siberians",
+    "share": 0.476
+   },
+   {
+    "name": "Grand Duchy of Moscow",
+    "subjecto": "Grand Duchy of Moscow",
+    "share": 0.1626
+   },
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.1288
+   },
+   {
+    "name": "Golden Horde",
+    "subjecto": "Golden Horde",
+    "share": 0.0514
+   },
+   {
+    "name": "Oirat Confederation",
+    "subjecto": "Oirat Confederation",
+    "share": 0.0509
+   },
+   {
+    "name": "Khanate of Sibir",
+    "subjecto": "Khanate of Sibir",
+    "share": 0.0375
+   },
+   {
+    "name": "White Horde",
+    "subjecto": "White Horde",
+    "share": 0.0318
+   },
+   {
+    "name": "Crimean Khanate",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0142
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0231,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.8937
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.065
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0166,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9722
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0057,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9762
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Russia",
+    "subjecto": "Russia",
+    "share": 0.9726
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0042,
+    "other": true
+   }
+  ]
+ }
+}

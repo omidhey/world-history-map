@@ -1,0 +1,356 @@
+{
+ "country": "MMR",
+ "name": "Myanmar",
+ "area_km2": 679599,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9801
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.8501
+   },
+   {
+    "name": "Thai",
+    "subjecto": "Thai",
+    "share": 0.0844
+   },
+   {
+    "name": "Tibeto-Burmanese",
+    "subjecto": "Tibeto-Burmanese",
+    "share": 0.0367
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.506
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.4686
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.5027,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.4682,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.5027,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.4682,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.4942,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.4572,
+    "carried": -1000
+   },
+   {
+    "name": "Arakan",
+    "subjecto": "Arakan",
+    "share": 0.0113
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0124,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.4942,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.4572,
+    "carried": -1000
+   },
+   {
+    "name": "Waithali (Arakan)",
+    "subjecto": "Waithali",
+    "share": 0.0113
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0123,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Rajput Clans and Small States",
+    "subjecto": "Rajput Clans and Small States",
+    "share": 0.4493
+   },
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.1728
+   },
+   {
+    "name": "Pyu state",
+    "subjecto": "Pyu state",
+    "share": 0.1509
+   },
+   {
+    "name": "Mon state",
+    "subjecto": "Mon state",
+    "share": 0.1478
+   },
+   {
+    "name": "Dvaravati",
+    "subjecto": "Dvaravati",
+    "share": 0.0284
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.021
+   },
+   {
+    "name": "Waithali (Arakan)",
+    "subjecto": "Waithali",
+    "share": 0.0113
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0005,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bagan",
+    "subjecto": "Bagan",
+    "share": 0.3962
+   },
+   {
+    "name": "Pyu state",
+    "subjecto": "Pyu state",
+    "share": 0.1509
+   },
+   {
+    "name": "Mon state",
+    "subjecto": "Mon state",
+    "share": 0.1464
+   },
+   {
+    "name": "Kamarupa",
+    "subjecto": "Kamarupa",
+    "share": 0.1049
+   },
+   {
+    "name": "Harapunchai",
+    "subjecto": "Harapunchai",
+    "share": 0.0967
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.0294
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.0272
+   },
+   {
+    "name": "Khmer Empire",
+    "subjecto": "Khmer Empire",
+    "share": 0.0214
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Burmese kingdoms",
+    "subjecto": "Burmese kingdoms",
+    "share": 0.7662
+   },
+   {
+    "name": "Ayutthaya",
+    "subjecto": "Ayutthaya",
+    "share": 0.091
+   },
+   {
+    "name": "Pegu",
+    "subjecto": "Pegu",
+    "share": 0.0835
+   },
+   {
+    "name": "Ming Chinese Empire",
+    "subjecto": "Ming Chinese Empire",
+    "share": 0.0219
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0135,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.7301
+   },
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.1515
+   },
+   {
+    "name": "Arakan",
+    "subjecto": "Arakan",
+    "share": 0.0805
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.0124
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0007,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Raj",
+    "subjecto": "United Kingdom",
+    "share": 0.9427
+   },
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.0144
+   },
+   {
+    "name": "Manchu Empire",
+    "subjecto": "Manchu Empire",
+    "share": 0.0125
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.9382
+   },
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.0144
+   },
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.0123
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.944
+   },
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.0122
+   },
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.0117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ]
+ }
+}

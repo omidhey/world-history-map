@@ -1,0 +1,258 @@
+{
+ "country": "ESP",
+ "name": "Spain",
+ "area_km2": 502229,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9758
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9457
+   },
+   {
+    "name": "Beaker",
+    "subjecto": "Beaker",
+    "share": 0.0311
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Celtiberians",
+    "subjecto": "Celtiberians",
+    "share": 0.9204
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0568
+   }
+  ],
+  "-500": [
+   {
+    "name": "Celtiberians",
+    "subjecto": "Celtiberians",
+    "share": 0.7696,
+    "carried": -1000
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.15
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0512,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0033,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Celtiberians",
+    "subjecto": "Celtiberians",
+    "share": 0.6527,
+    "carried": -1000
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.2668
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0507,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0058,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.9762
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.9758
+   }
+  ],
+  "800": [
+   {
+    "name": "Emirate of Córdoba",
+    "subjecto": "Emirate of Córdoba",
+    "share": 0.7975
+   },
+   {
+    "name": "Asturias",
+    "subjecto": "Asturias",
+    "share": 0.1409
+   },
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.0394
+   }
+  ],
+  "1200": [
+   {
+    "name": "Almohad Caliphate",
+    "subjecto": "Almohad Caliphate",
+    "share": 0.6053
+   },
+   {
+    "name": "León",
+    "subjecto": "León",
+    "share": 0.1582
+   },
+   {
+    "name": "Castilla",
+    "subjecto": "Castilla",
+    "share": 0.0831
+   },
+   {
+    "name": "Aragón",
+    "subjecto": "Aragón",
+    "share": 0.0591
+   },
+   {
+    "name": "Navarre",
+    "subjecto": "Navarre",
+    "share": 0.0577
+   },
+   {
+    "name": "Portugal",
+    "subjecto": "Portugal",
+    "share": 0.0133
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Castille",
+    "subjecto": "Castille",
+    "share": 0.6925
+   },
+   {
+    "name": "Aragón",
+    "subjecto": "Aragón",
+    "share": 0.2496
+   },
+   {
+    "name": "Navarre",
+    "subjecto": "Navarre",
+    "share": 0.0243
+   },
+   {
+    "name": "Portugal",
+    "subjecto": "Portugal",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0012,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.9585
+   },
+   {
+    "name": "Portugal",
+    "subjecto": "Portugal",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.9637
+   },
+   {
+    "name": "Portugal",
+    "subjecto": "Portugal",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.964
+   },
+   {
+    "name": "Portugal",
+    "subjecto": "Portugal",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0021,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.9587
+   },
+   {
+    "name": "Portugal",
+    "subjecto": "Portugal",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0021,
+    "other": true
+   }
+  ]
+ }
+}

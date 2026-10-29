@@ -1,0 +1,161 @@
+{
+ "country": "BGR",
+ "name": "Bulgaria",
+ "area_km2": 110215,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.992
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9879
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.9921
+   }
+  ],
+  "-500": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.7881,
+    "carried": -1000
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.071
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.6885
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.3036,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.6743
+   },
+   {
+    "name": "Odrysian Kingdom",
+    "subjecto": "Roman Empire",
+    "share": 0.3152
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.992
+   }
+  ],
+  "800": [
+   {
+    "name": "Bulgars",
+    "subjecto": "Bulgars",
+    "share": 0.5569
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.4796
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.2707
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.2279
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.7471
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.2436
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.992
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.992
+   }
+  ],
+  "1914": [
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.9821
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0087,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.9775
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0127,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.9781
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0122,
+    "other": true
+   }
+  ]
+ }
+}

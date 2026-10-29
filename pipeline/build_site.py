@@ -26,6 +26,13 @@ def main() -> None:
     for snapshot in manifest["snapshots"]:
         shutil.copy2(BORDERS_IN / snapshot["file"], BORDERS_OUT / snapshot["file"])
     shutil.copy2(BORDERS_IN / "manifest.json", BORDERS_OUT / "manifest.json")
+    lineage_in = ROOT / "data" / "lineage"
+    if lineage_in.exists():
+        lineage_out = ROOT / "site" / "data" / "lineage"
+        if lineage_out.exists():
+            shutil.rmtree(lineage_out)
+        shutil.copytree(lineage_in, lineage_out)
+        print(f"Copied {len(list(lineage_in.glob('*.json')))} lineage files to {lineage_out}")
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
     print(f"Wrote {build_entries()} entries to site/data/entries.json")
     print(f"Wrote {build_polities()} polities to site/data/polities.json")

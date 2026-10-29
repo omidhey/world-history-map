@@ -1,0 +1,269 @@
+{
+ "country": "FIN",
+ "name": "Finland",
+ "area_km2": 341262,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9783
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.7353
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2386
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.4021
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.3357
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2375
+   }
+  ],
+  "-500": [
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.4018
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.3357
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2375,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.4018
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.3357
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2375,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.3975
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.3357
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2375,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.4023
+   },
+   {
+    "name": "Saami",
+    "subjecto": "Saami",
+    "share": 0.3357
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2375,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Finns",
+    "subjecto": "Finns",
+    "share": 0.6164
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.3365
+   },
+   {
+    "name": "Karelians",
+    "subjecto": "Karelians",
+    "share": 0.0287
+   }
+  ],
+  "1200": [
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.4777
+   },
+   {
+    "name": "Finno-Ugric taiga hunter-gatherers",
+    "subjecto": "Finno-Ugric taiga hunter-gatherers",
+    "share": 0.366
+   },
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.1268
+   }
+  ],
+  "1500": [
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.7637
+   },
+   {
+    "name": "Sámi",
+    "subjecto": "Sámi",
+    "share": 0.2092
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0054,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Sweden",
+    "subjecto": "Sweden",
+    "share": 0.8859
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.0555
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0147,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Finland",
+    "subjecto": "Finland",
+    "share": 0.9422
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.0244
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0116,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Finland",
+    "subjecto": "Finland",
+    "share": 0.9422
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.0244
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0116,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Finland",
+    "subjecto": "Finland",
+    "share": 0.9396
+   },
+   {
+    "name": "Norway",
+    "subjecto": "Norway",
+    "share": 0.0244
+   },
+   {
+    "name": "Russia",
+    "subjecto": "Russia",
+    "share": 0.0115
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ]
+ }
+}

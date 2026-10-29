@@ -1,0 +1,170 @@
+{
+ "country": "LUX",
+ "name": "Luxembourg",
+ "area_km2": 2416,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Luxembourg",
+    "subjecto": "Luxembourg",
+    "share": 0.4789
+   },
+   {
+    "name": "Austrian Netherlands",
+    "subjecto": "Habsburg Austria",
+    "share": 0.4551
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0596
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.4551
+   },
+   {
+    "name": "Luxembourg",
+    "subjecto": "Luxembourg",
+    "share": 0.4294
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0661
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0494
+   }
+  ],
+  "1945": [
+   {
+    "name": "Luxembourg",
+    "subjecto": "Luxembourg",
+    "share": 0.4636
+   },
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.4551
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0596
+   },
+   {
+    "name": "Germany (France)",
+    "subjecto": "France",
+    "share": 0.0217
+   }
+  ],
+  "2010": [
+   {
+    "name": "Luxembourg",
+    "subjecto": "Luxembourg",
+    "share": 0.4789
+   },
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.4551
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0596
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ]
+ }
+}

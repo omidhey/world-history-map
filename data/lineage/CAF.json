@@ -1,0 +1,202 @@
+{
+ "country": "CAF",
+ "name": "Central African Rep.",
+ "area_km2": 621832,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9615
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0385
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9664
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0336
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.4808
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.4808
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.4808
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.4808
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.4808
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192,
+    "carried": 400
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.4808
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.4808
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5192
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.4808
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.4808,
+    "carried": 1500
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.4637,
+    "carried": 1500
+   },
+   {
+    "name": "Bagirmi",
+    "subjecto": "Bagirmi",
+    "share": 0.0555
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.7567
+   },
+   {
+    "name": "Kamerun",
+    "subjecto": "Kamerun",
+    "share": 0.2328
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0105,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Central African Republic",
+    "subjecto": "Central African Republic",
+    "share": 0.9737
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0263,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Central African Republic",
+    "subjecto": "Central African Republic",
+    "share": 0.9732
+   },
+   {
+    "name": "Chad",
+    "subjecto": "Chad",
+    "share": 0.0104
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0164,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "country": "CRI",
+ "name": "Costa Rica",
+ "area_km2": 53830,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9356
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.9356
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356,
+    "carried": -500
+   }
+  ],
+  "400": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356,
+    "carried": -500
+   }
+  ],
+  "800": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356,
+    "carried": -500
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9356,
+    "carried": -500
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9192,
+    "carried": -500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0438
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.9551
+   },
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.0164
+   }
+  ],
+  "1914": [
+   {
+    "name": "Costa Rica",
+    "subjecto": "Costa Rica",
+    "share": 0.9428
+   },
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.0224
+   },
+   {
+    "name": "Panama",
+    "subjecto": "Panama",
+    "share": 0.0164
+   }
+  ],
+  "1945": [
+   {
+    "name": "Costa Rica",
+    "subjecto": "Costa Rica",
+    "share": 0.9428
+   },
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.0224
+   },
+   {
+    "name": "Panama",
+    "subjecto": "Panama",
+    "share": 0.0164
+   }
+  ],
+  "2010": [
+   {
+    "name": "Costa Rica",
+    "subjecto": "Costa Rica",
+    "share": 0.9428
+   },
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.0224
+   },
+   {
+    "name": "Panama",
+    "subjecto": "Panama",
+    "share": 0.0164
+   }
+  ]
+ }
+}

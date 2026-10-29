@@ -1,0 +1,129 @@
+{
+ "country": "BRN",
+ "name": "Brunei",
+ "area_km2": 10699,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.8253
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.8253
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.8253
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.8253
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.8253,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.7931,
+    "carried": -500
+   }
+  ],
+  "400": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.7931,
+    "carried": -500
+   }
+  ],
+  "800": [
+   {
+    "name": "Malay",
+    "subjecto": "Malay",
+    "share": 0.7931
+   }
+  ],
+  "1200": [
+   {
+    "name": "Malays",
+    "subjecto": "Malays",
+    "share": 0.7931
+   }
+  ],
+  "1500": [
+   {
+    "name": "Malaysian Islamic states",
+    "subjecto": "Malaysian Islamic states",
+    "share": 0.7931
+   }
+  ],
+  "1800": [
+   {
+    "name": "Brunei",
+    "subjecto": "Brunei",
+    "share": 0.4393
+   },
+   {
+    "name": "Malaya",
+    "subjecto": "Malaya",
+    "share": 0.3325
+   }
+  ],
+  "1914": [
+   {
+    "name": "Brunei",
+    "subjecto": "Brunei",
+    "share": 0.4393
+   },
+   {
+    "name": "Malaya",
+    "subjecto": "Malaya",
+    "share": 0.3573
+   }
+  ],
+  "1945": [
+   {
+    "name": "Brunei",
+    "subjecto": "Brunei",
+    "share": 0.4393
+   },
+   {
+    "name": "Malaysia",
+    "subjecto": "Malaysia",
+    "share": 0.3573
+   }
+  ],
+  "2010": [
+   {
+    "name": "Brunei",
+    "subjecto": "Brunei",
+    "share": 0.4393
+   },
+   {
+    "name": "Malaysia",
+    "subjecto": "Malaysia",
+    "share": 0.3325
+   }
+  ]
+ }
+}

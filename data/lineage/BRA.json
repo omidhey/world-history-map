@@ -1,0 +1,321 @@
+{
+ "country": "BRA",
+ "name": "Brazil",
+ "area_km2": 8508161,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9892
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.979
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.4683
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3545
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1398
+   },
+   {
+    "name": "Shellfish gatherers",
+    "subjecto": "Shellfish gatherers",
+    "share": 0.0169
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.4683
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3545
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1398
+   },
+   {
+    "name": "Shellfish gatherers",
+    "subjecto": "Shellfish gatherers",
+    "share": 0.0169
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.4683
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3544
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1399
+   },
+   {
+    "name": "Shellfish gatherers",
+    "subjecto": "Shellfish gatherers",
+    "share": 0.017
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.4683
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3545
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1398,
+    "carried": -323
+   },
+   {
+    "name": "Shellfish gatherers",
+    "subjecto": "Shellfish gatherers",
+    "share": 0.0172
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.4683
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.3547
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1398,
+    "carried": -323
+   },
+   {
+    "name": "Shellfish gatherers",
+    "subjecto": "Shellfish gatherers",
+    "share": 0.0172
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Tupis",
+    "subjecto": "Tupis",
+    "share": 0.3457
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.3429
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.1475
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1375,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0153,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tupis",
+    "subjecto": "Tupis",
+    "share": 0.3455,
+    "carried": 800
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.343
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.1474
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1375,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0155,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tupis",
+    "subjecto": "Tupis",
+    "share": 0.3455,
+    "carried": 800
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.343
+   },
+   {
+    "name": "Savanna hunter-gatherers",
+    "subjecto": "Savanna hunter-gatherers",
+    "share": 0.1472
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.1375,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.016,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of Brazil",
+    "subjecto": "Portugal",
+    "share": 0.9358
+   },
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.039
+   },
+   {
+    "name": "Viceroyalty of Peru",
+    "subjecto": "Spain",
+    "share": 0.0105
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.9813
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0082,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.981
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.9811
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0078,
+    "other": true
+   }
+  ]
+ }
+}

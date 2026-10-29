@@ -1,0 +1,218 @@
+{
+ "country": "TJK",
+ "name": "Tajikistan",
+ "area_km2": 138024,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7352
+   },
+   {
+    "name": "Oxus",
+    "subjecto": "Oxus",
+    "share": 0.2469
+   },
+   {
+    "name": "Tibeto-Burmanese",
+    "subjecto": "Tibeto-Burmanese",
+    "share": 0.0179
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.8168
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1833,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.604,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.2127
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1833,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.604,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.2127,
+    "carried": -323
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1833,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.604,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.2127,
+    "carried": -323
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1833,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.8112
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1655,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0233,
+    "carried": -500
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.9885
+   },
+   {
+    "name": "Timurid Emirates",
+    "subjecto": "Timurid Emirates",
+    "share": 0.0115
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.6893
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.3107
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9724
+   },
+   {
+    "name": "Xinjiang",
+    "subjecto": "Xinjiang",
+    "share": 0.0171
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0105
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9724
+   },
+   {
+    "name": "Xinjiang",
+    "subjecto": "Xinjiang",
+    "share": 0.0171
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0105
+   }
+  ],
+  "2010": [
+   {
+    "name": "Tajikistan",
+    "subjecto": "Tajikistan",
+    "share": 0.92
+   },
+   {
+    "name": "Uzbekistan",
+    "subjecto": "Uzbekistan",
+    "share": 0.054
+   },
+   {
+    "name": "Kyrgyzstan",
+    "subjecto": "Kyrgyzstan",
+    "share": 0.0192
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0067,
+    "other": true
+   }
+  ]
+ }
+}

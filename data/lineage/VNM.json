@@ -1,0 +1,288 @@
+{
+ "country": "VNM",
+ "name": "Vietnam",
+ "area_km2": 336019,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9446
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.8141
+   },
+   {
+    "name": "Thai",
+    "subjecto": "Thai",
+    "share": 0.1354
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9132
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0311
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9132,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0311,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9132,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0311,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.5016,
+    "carried": -1000
+   },
+   {
+    "name": "Han",
+    "subjecto": "Han",
+    "share": 0.4302
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.4959,
+    "carried": -1000
+   },
+   {
+    "name": "Jin",
+    "subjecto": "Jin",
+    "share": 0.4302
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0068,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Champa",
+    "subjecto": "Champa",
+    "share": 0.2947
+   },
+   {
+    "name": "Nan Chao",
+    "subjecto": "Nan Chao",
+    "share": 0.2363
+   },
+   {
+    "name": "Tang Empire",
+    "subjecto": "Tang Empire",
+    "share": 0.2301
+   },
+   {
+    "name": "Chen-La",
+    "subjecto": "Chen-La",
+    "share": 0.175
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0051,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Champa City States",
+    "subjecto": "Champa City States",
+    "share": 0.2972
+   },
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.2763
+   },
+   {
+    "name": "Nan Chao",
+    "subjecto": "Nan Chao",
+    "share": 0.1875
+   },
+   {
+    "name": "Khmer Empire",
+    "subjecto": "Khmer Empire",
+    "share": 0.175
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0084,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.4811
+   },
+   {
+    "name": "Ming Chinese Empire",
+    "subjecto": "Ming Chinese Empire",
+    "share": 0.2144
+   },
+   {
+    "name": "Cambodia",
+    "subjecto": "Cambodia",
+    "share": 0.1612
+   },
+   {
+    "name": "Champa",
+    "subjecto": "Champa",
+    "share": 0.0883
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Đại Việt",
+    "subjecto": "Đại Việt",
+    "share": 0.8163
+   },
+   {
+    "name": "Cochin China",
+    "subjecto": "Cochin China",
+    "share": 0.102
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.0178
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0168,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French Indochina",
+    "subjecto": "France",
+    "share": 0.932
+   },
+   {
+    "name": "Manchu Empire",
+    "subjecto": "Manchu Empire",
+    "share": 0.0152
+   }
+  ],
+  "1945": [
+   {
+    "name": "Annam",
+    "subjecto": "France",
+    "share": 0.4099
+   },
+   {
+    "name": "Tonkin",
+    "subjecto": "France",
+    "share": 0.333
+   },
+   {
+    "name": "Cochin China",
+    "subjecto": "France",
+    "share": 0.1796
+   },
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.0178
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0129,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Vietnam",
+    "subjecto": "Vietnam",
+    "share": 0.9187
+   },
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.0178
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0132,
+    "other": true
+   }
+  ]
+ }
+}

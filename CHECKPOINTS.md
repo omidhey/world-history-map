@@ -80,7 +80,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 ## Phase 6: Environment (could have) → v0.6
 
-- [ ] **Session 22: Research and decide** — `docs/environment-decision.md`
+- [x] **Session 22: Research and decide** — `docs/environment-decision.md` — 2026-10-29
+  - Result: `docs/environment-decision.md` written. HYDE 3.5 (10,000 BCE–2025, 5 arc-minute) chosen as the one source; plan is a single cropland overlay labelled "model estimate"; no climate layer, no per-pixel values, no causation claims. **Open:** HYDE's license and exact time steps could not be read (landing page blocked bots), so Session 23 starts by checking them in a normal browser; if the terms don't allow derived images, skip to Session 24. Docs only; nothing run.
 - [ ] **Session 23: One overlay** — one HYDE variable as PNG overlays
 - [ ] **Session 24: Environmental events**
 

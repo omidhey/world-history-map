@@ -1,0 +1,298 @@
+{
+ "country": "CHN",
+ "name": "China",
+ "area_km2": 9409565,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_China",
+  "https://en.wikipedia.org/wiki/Han_dynasty",
+  "https://en.wikipedia.org/wiki/Qing_dynasty"
+ ],
+ "note": "Shares are of today's territory, which includes Tibet and Xinjiang; much of that land was not under the dynasty named for China proper.",
+ "notes": {
+  "-500": "Zhou states (Spring and Autumn period).",
+  "-323": "Warring States period; Qin was rising.",
+  "-1": "Han dynasty.",
+  "400": "Jin dynasty and the Sixteen Kingdoms.",
+  "800": "Tang dynasty and the Tibetan Empire.",
+  "1200": "Song dynasty with Jurchen, Liao and Xixia neighbours on the north.",
+  "1500": "Ming dynasty.",
+  "1800": "Qing dynasty.",
+  "1914": "Republic of China had replaced the Qing in 1912; the snapshot labels it Manchu Empire.",
+  "1945": "Republic of China."
+ },
+ "snapshots": {
+  "-3000": [],
+  "-2000": [
+   {
+    "name": "Thai",
+    "subjecto": "Thai",
+    "share": 0.3937
+   },
+   {
+    "name": "Tibeto-Burmanese",
+    "subjecto": "Tibeto-Burmanese",
+    "share": 0.1301
+   },
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.0609
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0594
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.325
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.207
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.1719
+   },
+   {
+    "name": "Zhoa",
+    "subjecto": "Zhoa",
+    "share": 0.1247
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0528
+   }
+  ],
+  "-500": [
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.325
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.207
+   },
+   {
+    "name": "Zhou states",
+    "subjecto": "Zhou states",
+    "share": 0.1658
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.1494
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0528
+   }
+  ],
+  "-323": [
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2825
+   },
+   {
+    "name": "Zhou states",
+    "subjecto": "Zhou states",
+    "share": 0.1991
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.1979
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.0811
+   },
+   {
+    "name": "Qin",
+    "subjecto": "Qin",
+    "share": 0.0625
+   }
+  ],
+  "-1": [
+   {
+    "name": "Han",
+    "subjecto": "Han",
+    "share": 0.4083
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2635
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.1642
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0551
+   }
+  ],
+  "400": [
+   {
+    "name": "Jin",
+    "subjecto": "Jin",
+    "share": 0.2816
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2634
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.1307
+   },
+   {
+    "name": "Sixteen Kingdoms",
+    "subjecto": "Sixteen Kingdoms",
+    "share": 0.1109
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.0555
+   }
+  ],
+  "800": [
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.3917
+   },
+   {
+    "name": "Tang Empire",
+    "subjecto": "Tang Empire",
+    "share": 0.3308
+   },
+   {
+    "name": "Uyghurs",
+    "subjecto": "Uyghurs",
+    "share": 0.1737
+   }
+  ],
+  "1200": [
+   {
+    "name": "Song Empire",
+    "subjecto": "Song Empire",
+    "share": 0.3181
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.2205
+   },
+   {
+    "name": "Mongol Empire",
+    "subjecto": "Mongol Empire",
+    "share": 0.1508
+   },
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.1014
+   },
+   {
+    "name": "Xixia",
+    "subjecto": "Xixia",
+    "share": 0.0793
+   },
+   {
+    "name": "Liao",
+    "subjecto": "Liao",
+    "share": 0.0766
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ming Chinese Empire",
+    "subjecto": "Ming Chinese Empire",
+    "share": 0.4212
+   },
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.3872
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1792
+   }
+  ],
+  "1800": [
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.9717
+   }
+  ],
+  "1914": [
+   {
+    "name": "Manchu Empire",
+    "subjecto": "Manchu Empire",
+    "share": 0.6949
+   },
+   {
+    "name": "Xinjiang",
+    "subjecto": "Xinjiang",
+    "share": 0.1703
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1195
+   }
+  ],
+  "1945": [
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.5771
+   },
+   {
+    "name": "Xinjiang",
+    "subjecto": "Xinjiang",
+    "share": 0.1703
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1196
+   },
+   {
+    "name": "Manchuria",
+    "subjecto": "Manchuria",
+    "share": 0.1173
+   }
+  ],
+  "2010": [
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.9842
+   }
+  ]
+ }
+}

@@ -192,31 +192,50 @@ def check_rulers() -> tuple[int, list[str]]:
 
 
 def check_lineage() -> tuple[int, list[str]]:
-    """Each data/lineage/<ISO>.json: snapshot years exist in the manifest, every share is in (0, 1]."""
-    folder = ROOT / "data" / "lineage"
-    if not folder.exists():
-        return 0, []
+    """Each data/lineage/<ISO>.json and data/lineage_curated/<ISO>.json: snapshot years exist in the manifest,
+    every share is in (0, 1]. Curated files also need source URLs and state names that exist in that snapshot."""
     manifest = json.loads((ROOT / "data" / "borders" / "manifest.json").read_text(encoding="utf-8"))
     years = {str(s["year"]) for s in manifest["snapshots"]}
+    files = {str(s["year"]): s["file"] for s in manifest["snapshots"]}
+    names_cache: dict[str, set] = {}
     problems, count = [], 0
-    for path in sorted(folder.glob("*.json")):
-        if path.name == "index.json":
+    for folder_name in ("lineage", "lineage_curated"):
+        folder = ROOT / "data" / folder_name
+        curated = folder_name == "lineage_curated"
+        if not folder.exists():
             continue
-        count += 1
-        name = f"data/lineage/{path.name}"
-        try:
-            record = json.loads(path.read_text(encoding="utf-8"))
-        except json.JSONDecodeError as error:
-            problems.append(f"{name}: not valid JSON ({error})")
-            continue
-        if record.get("country") != path.stem:
-            problems.append(f"{name}: country '{record.get('country')}' must equal the file name")
-        for year, entries in record.get("snapshots", {}).items():
-            if year not in years:
-                problems.append(f"{name}: snapshot {year} is not in data/borders/manifest.json")
-            for entry in entries:
-                if not 0 < entry.get("share", 0) <= 1.0001:
-                    problems.append(f"{name}: {year}: share {entry.get('share')} for '{entry.get('name')}' is not in (0, 1]")
+        for path in sorted(folder.glob("*.json")):
+            if path.name == "index.json":
+                continue
+            count += 1
+            name = f"data/{folder_name}/{path.name}"
+            try:
+                record = json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError as error:
+                problems.append(f"{name}: not valid JSON ({error})")
+                continue
+            if record.get("country") != path.stem:
+                problems.append(f"{name}: country '{record.get('country')}' must equal the file name")
+            if curated:
+                if record.get("source") != "curated":
+                    problems.append(f"{name}: source must be 'curated'")
+                if not any(str(u).startswith("http") for u in record.get("sources", [])):
+                    problems.append(f"{name}: needs at least one source URL")
+                for year in record.get("notes", {}):
+                    if year not in record.get("snapshots", {}):
+                        problems.append(f"{name}: note for {year}, which has no snapshot")
+            for year, entries in record.get("snapshots", {}).items():
+                if year not in years:
+                    problems.append(f"{name}: snapshot {year} is not in data/borders/manifest.json")
+                    continue
+                if curated and year not in names_cache:
+                    geo = json.loads((ROOT / "data" / "borders" / files[year]).read_text(encoding="utf-8"))
+                    names_cache[year] = {f["properties"].get("NAME") for f in geo["features"]}
+                for entry in entries:
+                    if not 0 < entry.get("share", 0) <= 1.0001:
+                        problems.append(f"{name}: {year}: share {entry.get('share')} for '{entry.get('name')}' is not in (0, 1]")
+                    if curated and entry.get("name") not in names_cache[year]:
+                        problems.append(f"{name}: {year}: '{entry.get('name')}' is not a state name in that snapshot")
     return count, problems
 
 

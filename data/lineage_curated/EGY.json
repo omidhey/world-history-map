@@ -1,0 +1,232 @@
+{
+ "country": "EGY",
+ "name": "Egypt",
+ "area_km2": 997208,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Egypt",
+  "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+  "https://en.wikipedia.org/wiki/Muhammad_Ali_dynasty"
+ ],
+ "note": "The large share held by nomads is desert west and east of the Nile, where no state governed in practice.",
+ "notes": {
+  "-500": "Conquered by Persia in 525 BCE (27th dynasty).",
+  "-323": "Taken by Alexander in 332 BCE; the Ptolemies followed.",
+  "-1": "Roman province since 30 BCE.",
+  "800": "Under the Abbasid governors.",
+  "1200": "Fatimid rule until 1171, then the Ayyubids; the snapshot shows the Fatimid label.",
+  "1500": "Mamluk sultanate (1250-1517).",
+  "1800": "Ottoman province, in practice ruled by Muhammad Ali from 1805.",
+  "1914": "A British protectorate was declared in December 1914."
+ },
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.2761
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.0455
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.6565
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.2761
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.0456
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.6443
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.2602
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4481
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4379
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0567
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.043
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.4869
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3789
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0567
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.496
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3407
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0576
+   },
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.0563
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.5582
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3407
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0571
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.6868
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.1511
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.1473
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.61
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2325
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.1427
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.6091
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2325
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.1426
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.6958
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2215
+   },
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.0621
+   }
+  ],
+  "1914": [
+   {
+    "name": "Egypt",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9818
+   }
+  ],
+  "1945": [
+   {
+    "name": "Egypt",
+    "subjecto": "United Kingdom",
+    "share": 0.9813
+   }
+  ],
+  "2010": [
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.981
+   }
+  ]
+ }
+}

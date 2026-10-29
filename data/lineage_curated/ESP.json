@@ -1,0 +1,162 @@
+{
+ "country": "ESP",
+ "name": "Spain",
+ "area_km2": 502229,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Spain",
+  "https://en.wikipedia.org/wiki/Hispania",
+  "https://en.wikipedia.org/wiki/Al-Andalus"
+ ],
+ "notes": {
+  "-323": "Iberian peoples with Carthaginian influence on the south coast.",
+  "-1": "Roman Hispania.",
+  "800": "Umayyad Emirate of Cordoba; Christian Asturias in the north.",
+  "1200": "Almohad Caliphate in the south; Christian kingdoms of Leon, Castile, Aragon and Navarre.",
+  "1500": "Crowns of Castile and Aragon, united by marriage in 1469.",
+  "1800": "Kingdom of Spain."
+ },
+ "snapshots": {
+  "-3000": [],
+  "-2000": [],
+  "-1000": [
+   {
+    "name": "Celtiberians",
+    "subjecto": "Celtiberians",
+    "share": 0.9204
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0568
+   }
+  ],
+  "-500": [
+   {
+    "name": "Celtiberians",
+    "subjecto": "Celtiberians",
+    "share": 0.7696
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.15
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0512
+   }
+  ],
+  "-323": [
+   {
+    "name": "Celtiberians",
+    "subjecto": "Celtiberians",
+    "share": 0.6527
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.2668
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.0507
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.9762
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.9758
+   }
+  ],
+  "800": [
+   {
+    "name": "Emirate of Córdoba",
+    "subjecto": "Emirate of Córdoba",
+    "share": 0.7975
+   },
+   {
+    "name": "Asturias",
+    "subjecto": "Asturias",
+    "share": 0.1409
+   }
+  ],
+  "1200": [
+   {
+    "name": "Almohad Caliphate",
+    "subjecto": "Almohad Caliphate",
+    "share": 0.6053
+   },
+   {
+    "name": "León",
+    "subjecto": "León",
+    "share": 0.1582
+   },
+   {
+    "name": "Castilla",
+    "subjecto": "Castilla",
+    "share": 0.0831
+   },
+   {
+    "name": "Aragón",
+    "subjecto": "Aragón",
+    "share": 0.0591
+   },
+   {
+    "name": "Navarre",
+    "subjecto": "Navarre",
+    "share": 0.0577
+   }
+  ],
+  "1500": [
+   {
+    "name": "Castille",
+    "subjecto": "Castille",
+    "share": 0.6925
+   },
+   {
+    "name": "Aragón",
+    "subjecto": "Aragón",
+    "share": 0.2496
+   }
+  ],
+  "1800": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.9585
+   }
+  ],
+  "1914": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.9637
+   }
+  ],
+  "1945": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.964
+   }
+  ],
+  "2010": [
+   {
+    "name": "Spain",
+    "subjecto": "Spain",
+    "share": 0.9587
+   }
+  ]
+ }
+}

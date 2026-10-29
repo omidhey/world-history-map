@@ -1,0 +1,135 @@
+{
+  "_about": "Hand-written choices for make_curated_lineage.py. min_share: holders below it are dropped (default 0.04). drop: names removed in every snapshot. renormalise: rescale kept shares to sum to 1. notes: year -> one short sentence. Notes and sources are written from memory of the linked articles and not yet reviewed.",
+  "EGY": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Egypt", "https://en.wikipedia.org/wiki/Egypt_(Roman_province)", "https://en.wikipedia.org/wiki/Muhammad_Ali_dynasty"],
+    "note": "The large share held by nomads is desert west and east of the Nile, where no state governed in practice.",
+    "notes": {
+      "-500": "Conquered by Persia in 525 BCE (27th dynasty).",
+      "-323": "Taken by Alexander in 332 BCE; the Ptolemies followed.",
+      "-1": "Roman province since 30 BCE.",
+      "800": "Under the Abbasid governors.",
+      "1200": "Fatimid rule until 1171, then the Ayyubids; the snapshot shows the Fatimid label.",
+      "1500": "Mamluk sultanate (1250-1517).",
+      "1800": "Ottoman province, in practice ruled by Muhammad Ali from 1805.",
+      "1914": "A British protectorate was declared in December 1914."
+    }
+  },
+  "IRN": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Iran", "https://en.wikipedia.org/wiki/Achaemenid_Empire", "https://en.wikipedia.org/wiki/Sasanian_Empire"],
+    "notes": {
+      "-500": "Heart of the Achaemenid Empire.",
+      "-323": "Conquered by Alexander 330-329 BCE.",
+      "-1": "Parthian (Arsacid) rule.",
+      "400": "Sasanian Empire; the snapshot labels it Persia.",
+      "800": "Abbasid caliphate after the Arab conquest.",
+      "1200": "Buyid and Ghaznavid dynasties.",
+      "1500": "Turkoman and Timurid successor states; the Safavids took power in 1501."
+    }
+  },
+  "IRQ": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Iraq", "https://en.wikipedia.org/wiki/Abbasid_Caliphate", "https://en.wikipedia.org/wiki/Mandatory_Iraq"],
+    "min_share": 0.05,
+    "notes": {
+      "-1000": "Assyria in the north, Babylonia in the south.",
+      "-500": "Achaemenid Empire (Babylon taken 539 BCE).",
+      "800": "Seat of the Abbasid caliphate (Baghdad founded 762).",
+      "1914": "Ottoman provinces; a British mandate followed after the First World War.",
+      "1945": "Kingdom of Iraq."
+    }
+  },
+  "TUR": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Turkey", "https://en.wikipedia.org/wiki/Byzantine_Empire", "https://en.wikipedia.org/wiki/Ottoman_Empire"],
+    "notes": {
+      "-2000": "Anatolian tribes and the rise of the Hittites.",
+      "-500": "Achaemenid satrapies.",
+      "-323": "Alexander's conquest of Anatolia, 334-333 BCE.",
+      "-1": "Roman provinces and client kingdoms.",
+      "1200": "Byzantine Empire; the Seljuk Sultanate of Rum held the interior, which this snapshot does not show.",
+      "1500": "Ottoman Empire.",
+      "1945": "Republic of Turkey (1923)."
+    }
+  },
+  "GRC": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Greece", "https://en.wikipedia.org/wiki/Ancient_Greece", "https://en.wikipedia.org/wiki/Ottoman_Greece"],
+    "min_share": 0.03,
+    "drop": ["Odrysian Kingdom"],
+    "notes": {
+      "-500": "Independent city-states such as Athens and Sparta.",
+      "-323": "Macedonian hegemony under Alexander's empire.",
+      "-1": "Roman provinces after 146 BCE.",
+      "800": "Byzantine Empire, with Slavic settlement.",
+      "1500": "Ottoman rule; the Venetians held some islands.",
+      "1914": "Greece after the Balkan Wars (1912-13)."
+    }
+  },
+  "ITA": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Italy", "https://en.wikipedia.org/wiki/Roman_Empire", "https://en.wikipedia.org/wiki/Italian_unification"],
+    "min_share": 0.05,
+    "notes": {
+      "-500": "Etruscans, Greek colonies in the south and Rome as a small republic.",
+      "-1": "Roman Empire.",
+      "400": "Western Roman Empire.",
+      "800": "Carolingian north, Lombard duchies, the Papal States and Byzantine southern lands.",
+      "1200": "Fragmented between the Holy Roman Empire, the Papacy and southern kingdoms.",
+      "1800": "Many separate states before unification (1861).",
+      "1914": "Kingdom of Italy."
+    }
+  },
+  "FRA": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_France", "https://en.wikipedia.org/wiki/Roman_Gaul", "https://en.wikipedia.org/wiki/French_Guiana"],
+    "min_share": 0.03,
+    "drop": ["Manioc farmers", "Viceroyalty of Brazil", "French Guiana"],
+    "renormalise": true,
+    "note": "Shares are of mainland France only. The country outline also contains French Guiana (about 13 % of its area), which the automatic match labels 'Manioc farmers' and 'French Guiana'; it is left out here.",
+    "notes": {
+      "-500": "Gaulish (Celtic) peoples; Greek colony at Massalia.",
+      "-1": "Roman Gaul after Caesar's conquest (58-50 BCE).",
+      "800": "Carolingian Empire under Charlemagne.",
+      "1200": "Royal domain of the French kings alongside the Angevin lands and the County of Toulouse.",
+      "1500": "Kingdom of France.",
+      "1914": "French Third Republic."
+    }
+  },
+  "ESP": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_Spain", "https://en.wikipedia.org/wiki/Hispania", "https://en.wikipedia.org/wiki/Al-Andalus"],
+    "min_share": 0.05,
+    "notes": {
+      "-323": "Iberian peoples with Carthaginian influence on the south coast.",
+      "-1": "Roman Hispania.",
+      "800": "Umayyad Emirate of Cordoba; Christian Asturias in the north.",
+      "1200": "Almohad Caliphate in the south; Christian kingdoms of Leon, Castile, Aragon and Navarre.",
+      "1500": "Crowns of Castile and Aragon, united by marriage in 1469.",
+      "1800": "Kingdom of Spain."
+    }
+  },
+  "CHN": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_China", "https://en.wikipedia.org/wiki/Han_dynasty", "https://en.wikipedia.org/wiki/Qing_dynasty"],
+    "min_share": 0.05,
+    "note": "Shares are of today's territory, which includes Tibet and Xinjiang; much of that land was not under the dynasty named for China proper.",
+    "notes": {
+      "-500": "Zhou states (Spring and Autumn period).",
+      "-323": "Warring States period; Qin was rising.",
+      "-1": "Han dynasty.",
+      "400": "Jin dynasty and the Sixteen Kingdoms.",
+      "800": "Tang dynasty and the Tibetan Empire.",
+      "1200": "Song dynasty with Jurchen, Liao and Xixia neighbours on the north.",
+      "1500": "Ming dynasty.",
+      "1800": "Qing dynasty.",
+      "1914": "Republic of China had replaced the Qing in 1912; the snapshot labels it Manchu Empire.",
+      "1945": "Republic of China."
+    }
+  },
+  "IND": {
+    "sources": ["https://en.wikipedia.org/wiki/History_of_India", "https://en.wikipedia.org/wiki/Gupta_Empire", "https://en.wikipedia.org/wiki/Company_rule_in_India"],
+    "min_share": 0.06,
+    "notes": {
+      "-1000": "Vedic period in the north, Dravidian-speaking peoples in the south.",
+      "-323": "Magadha (Nanda dynasty) ahead of the Mauryan Empire (from about 321 BCE).",
+      "400": "Gupta Empire.",
+      "800": "Pratihara, Rashtrakuta and Pala dynasties.",
+      "1200": "Delhi Sultanate in the north; Rajput kingdoms and the Chola Empire.",
+      "1800": "Maratha Confederacy and many regional states beside the British East India Company.",
+      "1914": "British Raj."
+    }
+  }
+}

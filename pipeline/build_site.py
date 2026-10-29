@@ -59,6 +59,17 @@ def main() -> None:
             shutil.rmtree(lineage_out)
         shutil.copytree(lineage_in, lineage_out)
         print(f"Copied {len(list(lineage_in.glob('*.json')))} lineage files to {lineage_out}")
+        curated_in = ROOT / "data" / "lineage_curated"
+        curated = sorted(curated_in.glob("*.json")) if curated_in.exists() else []
+        if curated:
+            index_out = lineage_out / "index.json"
+            index = json.loads(index_out.read_text(encoding="utf-8"))
+            for path in curated:
+                shutil.copy2(path, lineage_out / path.name)
+                if path.stem in index:
+                    index[path.stem]["curated"] = True
+            index_out.write_text(json.dumps(index, indent=1, ensure_ascii=False), encoding="utf-8")
+            print(f"Overlaid {len(curated)} curated lineage files")
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
     print(f"Wrote {build_entries()} entries to site/data/entries.json")
     print(f"Wrote {build_polities()} polities to site/data/polities.json")

@@ -1,0 +1,260 @@
+{
+ "country": "IND",
+ "name": "India",
+ "area_km2": 3142772,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_India",
+  "https://en.wikipedia.org/wiki/Gupta_Empire",
+  "https://en.wikipedia.org/wiki/Company_rule_in_India"
+ ],
+ "notes": {
+  "-1000": "Vedic period in the north, Dravidian-speaking peoples in the south.",
+  "-323": "Magadha (Nanda dynasty) ahead of the Mauryan Empire (from about 321 BCE).",
+  "400": "Gupta Empire.",
+  "800": "Pratihara, Rashtrakuta and Pala dynasties.",
+  "1200": "Delhi Sultanate in the north; Rajput kingdoms and the Chola Empire.",
+  "1800": "Maratha Confederacy and many regional states beside the British East India Company.",
+  "1914": "British Raj."
+ },
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0956
+   },
+   {
+    "name": "Indus valley civilization",
+    "subjecto": "Indus valley civilization",
+    "share": 0.0929
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.7784
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0963
+   },
+   {
+    "name": "Indus valley civilization",
+    "subjecto": "Indus valley civilization",
+    "share": 0.0927
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.6385
+   },
+   {
+    "name": "Vedic Aryans",
+    "subjecto": "Vedic Aryans",
+    "share": 0.2569
+   }
+  ],
+  "-500": [
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.3734
+   },
+   {
+    "name": "Iron Age megalith cultures",
+    "subjecto": "Iron Age megalith cultures",
+    "share": 0.2985
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0642
+   },
+   {
+    "name": "Magadha",
+    "subjecto": "Magadha",
+    "share": 0.06
+   }
+  ],
+  "-323": [
+   {
+    "name": "Hindu kingdoms and republics",
+    "subjecto": "Hindu kingdoms and republics",
+    "share": 0.4365
+   },
+   {
+    "name": "Magadha",
+    "subjecto": "Magadha",
+    "share": 0.3637
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0632
+   }
+  ],
+  "-1": [
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.3245
+   },
+   {
+    "name": "Saka Kingdom",
+    "subjecto": "Saka Kingdom",
+    "share": 0.2756
+   },
+   {
+    "name": "Satavahanihara",
+    "subjecto": "Satavahanihara",
+    "share": 0.2008
+   },
+   {
+    "name": "Kalinga",
+    "subjecto": "Kalinga",
+    "share": 0.0989
+   }
+  ],
+  "400": [
+   {
+    "name": "Gupta Empire",
+    "subjecto": "Gupta Empire",
+    "share": 0.6794
+   },
+   {
+    "name": "Satavahanihara",
+    "subjecto": "Satavahanihara",
+    "share": 0.1542
+   },
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.0652
+   }
+  ],
+  "800": [
+   {
+    "name": "Hindu states",
+    "subjecto": "Hindu states",
+    "share": 0.2295
+   },
+   {
+    "name": "Gurjara Pratihara",
+    "subjecto": "Gurjara Pratihara",
+    "share": 0.2165
+   },
+   {
+    "name": "Rashtrakuta state",
+    "subjecto": "Rashtrakuta state",
+    "share": 0.1574
+   },
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.1528
+   },
+   {
+    "name": "Palas",
+    "subjecto": "Palas",
+    "share": 0.0965
+   }
+  ],
+  "1200": [
+   {
+    "name": "Rajput kingdoms",
+    "subjecto": "Rajput kingdoms",
+    "share": 0.5384
+   },
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.2829
+   },
+   {
+    "name": "Chola Empire",
+    "subjecto": "Chola Empire",
+    "share": 0.0808
+   }
+  ],
+  "1500": [
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.2067
+   },
+   {
+    "name": "Islamic states",
+    "subjecto": "Islamic states",
+    "share": 0.1612
+   },
+   {
+    "name": "Rajastan",
+    "subjecto": "Rajastan",
+    "share": 0.1326
+   },
+   {
+    "name": "Vijayanagara",
+    "subjecto": "Vijayanagara",
+    "share": 0.1299
+   },
+   {
+    "name": "Bengal",
+    "subjecto": "Bengal",
+    "share": 0.1037
+   },
+   {
+    "name": "Ahmadnagar",
+    "subjecto": "Ahmadnagar",
+    "share": 0.0729
+   }
+  ],
+  "1800": [
+   {
+    "name": "Maratha Confederacy",
+    "subjecto": "Maratha Confederacy",
+    "share": 0.323
+   },
+   {
+    "name": "Rajputs",
+    "subjecto": "Rajputs",
+    "share": 0.1685
+   },
+   {
+    "name": "Bundelkhand",
+    "subjecto": "Bundelkhand",
+    "share": 0.1248
+   },
+   {
+    "name": "Nizam's Dominions",
+    "subjecto": "Nizam's Dominions",
+    "share": 0.0621
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Raj",
+    "subjecto": "United Kingdom",
+    "share": 0.9906
+   }
+  ],
+  "1945": [
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.9823
+   }
+  ],
+  "2010": [
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.982
+   }
+  ]
+ }
+}

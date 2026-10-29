@@ -1,0 +1,250 @@
+{
+ "country": "ITA",
+ "name": "Italy",
+ "area_km2": 315116,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Italy",
+  "https://en.wikipedia.org/wiki/Roman_Empire",
+  "https://en.wikipedia.org/wiki/Italian_unification"
+ ],
+ "notes": {
+  "-500": "Etruscans, Greek colonies in the south and Rome as a small republic.",
+  "-1": "Roman Empire.",
+  "400": "Western Roman Empire.",
+  "800": "Carolingian north, Lombard duchies, the Papal States and Byzantine southern lands.",
+  "1200": "Fragmented between the Holy Roman Empire, the Papacy and southern kingdoms.",
+  "1800": "Many separate states before unification (1861).",
+  "1914": "Kingdom of Italy."
+ },
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Hunters-gatherers",
+    "subjecto": "Hunters-gatherers",
+    "share": 0.0634
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Hunters-gatherers",
+    "subjecto": "Hunters-gatherers",
+    "share": 0.0634
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.6911
+   },
+   {
+    "name": "Hunters-gatherers",
+    "subjecto": "Hunters-gatherers",
+    "share": 0.0634
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.4066
+   },
+   {
+    "name": "Etrurians",
+    "subjecto": "Etrurians",
+    "share": 0.1195
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.1152
+   },
+   {
+    "name": "Boii",
+    "subjecto": "Boii",
+    "share": 0.1043
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0829
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.3298
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.1475
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0858
+   },
+   {
+    "name": "Boii",
+    "subjecto": "Boii",
+    "share": 0.0677
+   },
+   {
+    "name": "Etrurians",
+    "subjecto": "Etrurians",
+    "share": 0.065
+   },
+   {
+    "name": "Sabines",
+    "subjecto": "Sabines",
+    "share": 0.0547
+   },
+   {
+    "name": "Rome",
+    "subjecto": "Rome",
+    "share": 0.0527
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.8458
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.8463
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.4898
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.1731
+   },
+   {
+    "name": "Lombard duchies",
+    "subjecto": "Lombard duchies",
+    "share": 0.1416
+   },
+   {
+    "name": "Papal States",
+    "subjecto": "Papal States",
+    "share": 0.0908
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.4317
+   },
+   {
+    "name": "Duchy of Benevento",
+    "subjecto": "Duchy of Benevento",
+    "share": 0.1373
+   },
+   {
+    "name": "Papal States",
+    "subjecto": "Papal States",
+    "share": 0.0915
+   },
+   {
+    "name": "Sardinia",
+    "subjecto": "Sardinia",
+    "share": 0.0634
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.0613
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.3203
+   },
+   {
+    "name": "Aragón",
+    "subjecto": "Aragón",
+    "share": 0.2764
+   },
+   {
+    "name": "Papal States",
+    "subjecto": "Papal States",
+    "share": 0.124
+   },
+   {
+    "name": "Venice",
+    "subjecto": "Venice",
+    "share": 0.1178
+   }
+  ],
+  "1800": [
+   {
+    "name": "Kingdom of the Two Sicilies",
+    "subjecto": "Kingdom of the Two Sicilies",
+    "share": 0.2077
+   },
+   {
+    "name": "Kingdom of Sardinia",
+    "subjecto": "France",
+    "share": 0.165
+   },
+   {
+    "name": "Papal States",
+    "subjecto": "Papal States",
+    "share": 0.1265
+   },
+   {
+    "name": "Venetia",
+    "subjecto": "Venetia",
+    "share": 0.0858
+   },
+   {
+    "name": "Tuscany",
+    "subjecto": "Tuscany",
+    "share": 0.0795
+   },
+   {
+    "name": "Lombardy",
+    "subjecto": "Lombardy",
+    "share": 0.0682
+   }
+  ],
+  "1914": [
+   {
+    "name": "Kingdom of Italy",
+    "subjecto": "Italy",
+    "share": 0.7943
+   }
+  ],
+  "1945": [
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.8337
+   }
+  ],
+  "2010": [
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.8451
+   }
+  ]
+ }
+}

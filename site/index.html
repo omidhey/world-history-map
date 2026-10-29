@@ -549,7 +549,7 @@
     function followHtml(year) {
       let options = '<option value="">None</option>' + Object.entries(countryIndex)
         .sort((a, b) => a[1].name.localeCompare(b[1].name))
-        .map(([iso, c]) => '<option value="' + iso + '"' + (iso === followed ? " selected" : "") + ">" + escapeHtml(c.name) + "</option>").join("");
+        .map(([iso, c]) => '<option value="' + iso + '"' + (iso === followed ? " selected" : "") + ">" + escapeHtml(c.name) + (c.curated ? " ★" : "") + "</option>").join("");
       let html = '<div class="follow">' + (followed ? '<button class="stop">Stop</button>' : "") +
         "<b>Follow a country</b><select id=\"follow\" aria-label=\"Follow a country\">" + options + "</select>";
       const snap = followData && followData.snapshots[String(snapshots[requested].year)];
@@ -564,7 +564,16 @@
             escapeHtml(label) + '<span style="float:right">' + pct + '</span><span class="bar" style="width:' + Math.max(2, s.share * 100) +
             "%;background:" + (s.other || !s.name ? "#bbb" : colourFor(s.subjecto || s.name)) + '"></span></' + tag + ">";
         }
-        html += "<small>" + (followData.source === "automatic" ? "Automatic area match against simplified borders; approximate." : "Curated, see sources.") + "</small>";
+        const note = followData.notes && followData.notes[String(snapshots[requested].year)];
+        if (note) html += "<small>" + escapeHtml(note) + "</small>";
+        if (followData.source === "automatic") {
+          html += "<small>Automatic area match against simplified borders; approximate.</small>";
+        } else {
+          if (followData.note) html += "<small>" + escapeHtml(followData.note) + "</small>";
+          html += "<small>★ Curated: holders chosen by hand, shares from the area match. Notes are unreviewed.</small>" +
+            "<details><summary>Sources</summary><ul>" + (followData.sources || []).map((u) =>
+              '<li><a href="' + escapeHtml(u) + '" target="_blank" rel="noopener">' + escapeHtml(u.replace(/^https?:\/\//, "")) + "</a></li>").join("") + "</ul></details>";
+        }
       }
       return html + "</div>";
     }

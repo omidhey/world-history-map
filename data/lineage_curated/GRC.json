@@ -1,0 +1,132 @@
+{
+ "country": "GRC",
+ "name": "Greece",
+ "area_km2": 131993,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Greece",
+  "https://en.wikipedia.org/wiki/Ancient_Greece",
+  "https://en.wikipedia.org/wiki/Ottoman_Greece"
+ ],
+ "notes": {
+  "-500": "Independent city-states such as Athens and Sparta.",
+  "-323": "Macedonian hegemony under Alexander's empire.",
+  "-1": "Roman provinces after 146 BCE.",
+  "800": "Byzantine Empire, with Slavic settlement.",
+  "1500": "Ottoman rule; the Venetians held some islands.",
+  "1914": "Greece after the Balkan Wars (1912-13)."
+ },
+ "snapshots": {
+  "-3000": [],
+  "-2000": [],
+  "-1000": [
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.7095
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.0823
+   }
+  ],
+  "-500": [
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.6551
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.6885
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.7269
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.5026
+   },
+   {
+    "name": "Visigoths",
+    "subjecto": "Visigoths",
+    "share": 0.2357
+   }
+  ],
+  "800": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.7732
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0904
+   }
+  ],
+  "1200": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.5712
+   },
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.1777
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7337
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7716
+   }
+  ],
+  "1914": [
+   {
+    "name": "Greece",
+    "subjecto": "Greece",
+    "share": 0.6717
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0779
+   }
+  ],
+  "1945": [
+   {
+    "name": "Greece",
+    "subjecto": "Greece",
+    "share": 0.7162
+   }
+  ],
+  "2010": [
+   {
+    "name": "Greece",
+    "subjecto": "Greece",
+    "share": 0.7395
+   }
+  ]
+ }
+}

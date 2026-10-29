@@ -239,6 +239,30 @@ def check_lineage() -> tuple[int, list[str]]:
     return count, problems
 
 
+def check_areas() -> tuple[int, list[str]]:
+    """data/areas/areas.json: polity ids exist, years are snapshot years, numbers are whole and not negative."""
+    path = ROOT / "data" / "areas" / "areas.json"
+    if not path.exists():
+        return 0, []
+    manifest = json.loads((ROOT / "data" / "borders" / "manifest.json").read_text(encoding="utf-8"))
+    years = {str(s["year"]) for s in manifest["snapshots"]}
+    polities = {p.stem for p in (ROOT / "data" / "polities").glob("*.json")}
+    problems = []
+    areas = json.loads(path.read_text(encoding="utf-8"))
+    for polity, by_year in areas.items():
+        if polity not in polities:
+            problems.append(f"data/areas/areas.json: '{polity}' is not a polity")
+        for year, entry in by_year.items():
+            if year not in years:
+                problems.append(f"data/areas/areas.json: {polity}: {year} is not a snapshot year")
+            for key in ("area_km2", "carried_km2", "gained_km2", "lost_km2"):
+                if key in entry and (not isinstance(entry[key], int) or entry[key] < 0):
+                    problems.append(f"data/areas/areas.json: {polity}: {year}: {key} must be a whole number >= 0")
+            if "area_km2" not in entry:
+                problems.append(f"data/areas/areas.json: {polity}: {year}: area_km2 is missing")
+    return len(areas), problems
+
+
 def main() -> int:
     validator = Draft202012Validator(json.loads(SCHEMA.read_text(encoding="utf-8")))
     problems = []
@@ -273,10 +297,12 @@ def main() -> int:
     problems += ruler_problems
     lineage_count, lineage_problems = check_lineage()
     problems += lineage_problems
+    area_count, area_problems = check_areas()
+    problems += area_problems
 
     for problem in problems:
         print(problem)
-    print(f"Checked {len(files)} entries and {polity_count} polities and {ruler_count} dynasties and rulers and {lineage_count} lineages: {len(problems)} problem(s).")
+    print(f"Checked {len(files)} entries and {polity_count} polities and {ruler_count} dynasties and rulers and {lineage_count} lineages and {area_count} area series:{len(problems)} problem(s).")
     return 1 if problems else 0
 
 

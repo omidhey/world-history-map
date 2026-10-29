@@ -70,6 +70,10 @@ def main() -> None:
                     index[path.stem]["curated"] = True
             index_out.write_text(json.dumps(index, indent=1, ensure_ascii=False), encoding="utf-8")
             print(f"Overlaid {len(curated)} curated lineage files")
+    areas_in = ROOT / "data" / "areas" / "areas.json"
+    if areas_in.exists():
+        shutil.copy2(areas_in, ROOT / "site" / "data" / "areas.json")
+        print("Copied areas.json")
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
     print(f"Wrote {build_entries()} entries to site/data/entries.json")
     print(f"Wrote {build_polities()} polities to site/data/polities.json")

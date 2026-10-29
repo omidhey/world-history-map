@@ -29,6 +29,13 @@
     #ticks span.current { color: #000; font-weight: bold; }
     #timeline { background: #fafafa; border-top: 1px solid #ccc; padding: 4px 16px; font-size: 11px; color: #444; }
     #timeline[hidden] { display: none; }
+    #panel svg.area { width: 100%; height: auto; display: block; margin: 4px 0; }
+    #panel svg.area path { fill: none; stroke-width: 2; }
+    #panel svg.area .recorded { stroke: #6250d6; }
+    #panel svg.area .carried { stroke: #6250d6; opacity: 0.4; stroke-dasharray: 4 3; }
+    #panel svg.area .pt { fill: #6250d6; cursor: pointer; }
+    #panel svg.area .pt.now { fill: #c00; }
+    #panel svg.area text { font-size: 9px; fill: #444; }
     #timeline svg { display: block; width: 100%; }
     #timeline .dyn { fill: #6250d6; opacity: 0.55; cursor: pointer; }
     #timeline .dyn.now { opacity: 1; }
@@ -337,6 +344,40 @@
     });
     window.addEventListener("resize", renderTimeline);
 
+    // ---- Territory over time (data/areas/areas.json, made by pipeline/make_areas.py) ----
+    let areaData = {};
+    const fmtKm = (n) => n >= 1e6 ? (n / 1e6).toFixed(2) + " M km²" : Math.round(n).toLocaleString("en") + " km²";
+
+    function areaHtml(polity) {
+      const series = areaData[polity.id];
+      const years = series ? Object.keys(series).map(Number).sort((a, b) => a - b) : [];
+      if (years.length < 2) return "";
+      const now = snapshots[requested].year;
+      const W = 300, H = 120, L = 6, R = 6, T = 8, B = 18;
+      const total = (y) => series[y].area_km2 + series[y].carried_km2;
+      const max = Math.max(...years.map(total), 1);
+      const lo = years[0], span = Math.max(1, years[years.length - 1] - lo);
+      const px = (y) => L + ((y - lo) / span) * (W - L - R);
+      const py = (v) => T + (1 - v / max) * (H - T - B);
+      const line = (f) => years.map((y, i) => (i ? "L" : "M") + px(y).toFixed(1) + " " + py(f(y)).toFixed(1)).join(" ");
+      let svg = '<svg class="area" viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Territory of ' + escapeHtml(polity.name) + ' by snapshot">' +
+        '<path d="' + line(total) + '" class="carried"/><path d="' + line((y) => series[y].area_km2) + '" class="recorded"/>';
+      for (const y of years) {
+        svg += '<circle data-year="' + y + '" class="pt' + (y === now ? " now" : "") + '" cx="' + px(y).toFixed(1) + '" cy="' + py(series[y].area_km2).toFixed(1) +
+          '" r="4"><title>' + escapeHtml(formatYear(y) + ": " + fmtKm(series[y].area_km2) + (series[y].carried_km2 ? " + " + fmtKm(series[y].carried_km2) + " last recorded" : "")) + "</title></circle>";
+      }
+      svg += '<text x="' + L + '" y="' + (H - 4) + '">' + formatYear(years[0]) + '</text><text x="' + (W - R) + '" y="' + (H - 4) + '" text-anchor="end">' +
+        formatYear(years[years.length - 1]) + '</text><text x="' + L + '" y="8">' + fmtKm(max) + "</text></svg>";
+      const cur = series[now];
+      let change = "";
+      if (cur) {
+        change = fmtKm(cur.area_km2) + " in " + formatYear(now) + (cur.carried_km2 ? " (+ " + fmtKm(cur.carried_km2) + " last recorded)" : "");
+        if (cur.gained_km2 !== undefined) change += ". Since the previous snapshot: +" + fmtKm(cur.gained_km2) + ", −" + fmtKm(cur.lost_km2) + ".";
+      } else change = "Not on the map in " + formatYear(now) + ".";
+      return '<details open><summary>Territory over time</summary>' + svg + "<small>" + change +
+        " Click a point to go to that snapshot. Areas are approximate; a state that split is shown as lost land.</small></details>";
+    }
+
     function polityCardHtml(polity, p, year) {
       const edit = suggestEditUrl("correct-entry.yml", "[Correction] polity " + polity.id, { entry: polity.id });
       const border = suggestEditUrl("border-error.yml", "[Border] " + polity.name + ", " + formatYear(year), {
@@ -352,6 +393,7 @@
         html += '<div class="disputed"><b>Disputed.</b> Sources disagree:<ul>' + polity.claims.map((c) =>
           "<li>" + c.field + ": " + formatYear(c.value) + (c.note ? " — " + escapeHtml(c.note) : "") + "</li>").join("") + "</ul></div>";
       }
+      html += areaHtml(polity);
       html += reignsHtml(polity, year);
       if (polity.links && polity.links.wikipedia) html += "<p>" + link(polity.links.wikipedia, "Wikipedia") + "</p>";
       html += "<b>Sources</b><ul>" + (polity.sources || []).map(sourceItem).join("") + "</ul><small>" +
@@ -593,6 +635,12 @@
     });
     panel.addEventListener("click", (e) => {
       if (e.target.closest(".stop")) { follow(null); return; }
+      const pt = e.target.closest("circle[data-year]");
+      if (pt) {
+        const i = snapshots.findIndex((s) => s.year === Number(pt.dataset.year));
+        if (i >= 0 && i !== requested) show(i);
+        return;
+      }
       const power = e.target.closest("[data-polity]");
       if (power) {
         openPolityCard(polityById.get(power.dataset.polity), { NAME: power.dataset.name, SUBJECTO: power.dataset.subjecto }, snapshots[requested].year);
@@ -676,6 +724,13 @@
       })
       .then((data) => { rulerData = data; if (openPolity) renderPanel(); })
       .catch((error) => console.warn("Could not load rulers (" + error.message + ")"));
+    fetch("data/areas.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then((data) => { areaData = data; if (openPolity) renderPanel(); })
+      .catch((error) => console.warn("Could not load areas (" + error.message + ")"));
     let currentLayer = null;
     let requested = -1;
     const cache = new Map(); // year -> Promise<GeoJSON>

@@ -164,3 +164,9 @@ reviewed against them; contributors can correct them through the usual review pa
   in 3000 BCE and 1500, every feature is 3 in 2010. So "dashed = uncertain" currently marks whole
   eras rather than single borders.
 - File names: upstream uses `world_bc323.geojson` for BCE; ours keep the sign (`world_-323.geojson`).
+
+## Territory over time (Session 21)
+
+`pipeline/make_areas.py` (geopandas, EPSG:6933, one snapshot at a time) writes `data/areas/areas.json`: for each of the 86 polities and each snapshot where land carries one of its `border_names`, the area in whole km² (`area_km2` recorded, `carried_km2` carried forward by `carry_forward.py`), and, when the polity is on the map in the previous snapshot too, `gained_km2` / `lost_km2` (geometry difference). `validate.py` checks it; `build_site.py` copies it to `site/data/areas.json`; state cards show the chart.
+
+Limits: only 14 snapshots, so most states have 2-5 points (the Roman Empire has 1 BCE and 400 CE; the 400 CE snapshot labels the halves "Western Roman Empire" and a Byzantine name, so the Empire "loses" its land). A state that split or was renamed shows as lost land. Areas come from simplified, approximate borders. Gained/lost are numbers only, with no map overlay.

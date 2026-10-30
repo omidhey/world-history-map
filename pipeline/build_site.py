@@ -74,13 +74,6 @@ def main() -> None:
     if areas_in.exists():
         shutil.copy2(areas_in, ROOT / "site" / "data" / "areas.json")
         print("Copied areas.json")
-    overlays_in = ROOT / "data" / "overlays"
-    if overlays_in.exists():
-        overlays_out = ROOT / "site" / "data" / "overlays"
-        if overlays_out.exists():
-            shutil.rmtree(overlays_out)
-        shutil.copytree(overlays_in, overlays_out)
-        print("Copied cropland overlays")
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
     print(f"Wrote {build_entries()} entries to site/data/entries.json")
     print(f"Wrote {build_polities()} polities to site/data/polities.json")

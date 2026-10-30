@@ -428,9 +428,10 @@
       ["ruler", "Rulers", "#008300"],
       ["dynasty", "Dynasties", "#6250d6"],
       ["culture", "Cultures", "#e34948"],
+      ["event", "Environmental events", "#7a5c3e"],
     ];
     const SINGULAR = { philosopher: "Philosopher", scientist: "Scientist", writer: "Writer", work: "Work",
-                       invention: "Invention", ruler: "Ruler", dynasty: "Dynasty", culture: "Culture" };
+                       invention: "Invention", ruler: "Ruler", dynasty: "Dynasty", culture: "Culture", event: "Environmental event" };
     const categoryColour = Object.fromEntries(CATEGORIES.map(([key, , colour]) => [key, colour]));
     const enabled = new Set(CATEGORIES.map(([key]) => key));
     let entries = [];

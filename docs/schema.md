@@ -1,6 +1,6 @@
 # Record format
 
-Every person, work, invention, ruler, dynasty or culture is one JSON file in
+Every person, work, invention, ruler, dynasty, culture or environmental event is one JSON file in
 `data/entries/`, named after its `id` (`data/entries/socrates.json`). The machine-readable
 version of this page is [pipeline/entry.schema.json](../pipeline/entry.schema.json);
 [pipeline/validate.py](../pipeline/validate.py) checks it on every pull request.
@@ -31,9 +31,9 @@ version of this page is [pipeline/entry.schema.json](../pipeline/entry.schema.js
 | `id` | yes | Stable identifier: lowercase words joined by hyphens (`cyrus-the-great`). Equals the file name. Never change it once merged. |
 | `wikidata` | no | Wikidata item, e.g. `Q913`. Each item may appear in only one record. |
 | `name` | yes | Common English name. |
-| `category` | yes | One of `philosopher`, `scientist`, `writer`, `work`, `invention`, `ruler`, `dynasty`, `culture`. |
-| `start` | yes | Integer year, see "Years" below. People: birth. Dynasties and cultures: beginning. Works: composition or first version. Inventions: first known date. |
-| `end` | no | Integer year. People: death. Dynasties and cultures: end. Works: completion, if composed over years. Leave out when there is none. |
+| `category` | yes | One of `philosopher`, `scientist`, `writer`, `work`, `invention`, `ruler`, `dynasty`, `culture`, `event` (environmental event: eruption, climate episode, drought). |
+| `start` | yes | Integer year, see "Years" below. People: birth. Dynasties and cultures: beginning. Works: composition or first version. Inventions: first known date. Events: onset. |
+| `end` | no | Integer year. People: death. Dynasties and cultures: end. Works: completion, if composed over years. Events: end of the episode. Leave out when there is none (one-off eruptions). |
 | `date_precision` | yes | How exact the dates are: `day`, `year`, `circa` (within a few years), `decade`, `century`. |
 | `location` | yes | `lat`, `lon` (decimal degrees) and `place` (a name). The place most associated with the subject: where a person worked, a capital, where a work was written or an invention first made. |
 | `summary` | yes | One or two sentences (20–400 characters) **in your own words**. Licensed CC BY-SA 4.0. |

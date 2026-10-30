@@ -170,3 +170,7 @@ reviewed against them; contributors can correct them through the usual review pa
 `pipeline/make_areas.py` (geopandas, EPSG:6933, one snapshot at a time) writes `data/areas/areas.json`: for each of the 86 polities and each snapshot where land carries one of its `border_names`, the area in whole km² (`area_km2` recorded, `carried_km2` carried forward by `carry_forward.py`), and, when the polity is on the map in the previous snapshot too, `gained_km2` / `lost_km2` (geometry difference). `validate.py` checks it; `build_site.py` copies it to `site/data/areas.json`; state cards show the chart.
 
 Limits: only 14 snapshots, so most states have 2-5 points (the Roman Empire has 1 BCE and 400 CE; the 400 CE snapshot labels the halves "Western Roman Empire" and a Byzantine name, so the Empire "loses" its land). A state that split or was renamed shows as lost land. Areas come from simplified, approximate borders. Gained/lost are numbers only, with no map overlay.
+
+## Environmental events (Session 24)
+
+Category `event`: 12 hand-written records of eruptions, droughts and climate episodes (list in `CHECKPOINTS.md`). Rules from `docs/environment-decision.md` 2.5: at least one scholarly source, honest date precision, disputed dates as `claims`, and summaries say what happened, not what it caused. Not included: the Persian Gulf shoreline (no confirmable dates) and Ilopango's TBJ eruption (its date was revised to 539/540 CE in 2019; see the 536 record). Dates are unreviewed by a specialist.

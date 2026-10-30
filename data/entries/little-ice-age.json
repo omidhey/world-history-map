@@ -1,0 +1,40 @@
+{
+  "id": "little-ice-age",
+  "name": "Little Ice Age",
+  "category": "event",
+  "start": 1300,
+  "end": 1850,
+  "date_precision": "century",
+  "location": {
+    "lat": 52.0,
+    "lon": 5.0,
+    "place": "Europe and the North Atlantic"
+  },
+  "summary": "Interval of cooler conditions recorded especially in the North Atlantic region. Start and end dates vary by author and region.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_Ice_Age"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Little_Ice_Age",
+    "https://doi.org/10.1038/s41586-019-1401-2"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1300,
+      "note": "Start placed around 1300 by some authors.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Little_Ice_Age"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1450,
+      "note": "Start placed around 1450 by others.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Little_Ice_Age"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vesuvius-eruption-79",
+  "name": "Eruption of Vesuvius in 79 CE",
+  "category": "event",
+  "start": 79,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.82,
+    "lon": 14.43,
+    "place": "Mount Vesuvius, Italy"
+  },
+  "summary": "Eruption that buried Pompeii, Herculaneum and other towns under ash and pumice. It is known from the volcanic deposits and from Pliny the Younger's letters.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_CE"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_CE",
+    "Pliny the Younger, Letters 6.16 and 6.20"
+  ],
+  "disputed": false
+}

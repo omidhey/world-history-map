@@ -1,0 +1,22 @@
+{
+  "id": "4-2-kiloyear-event",
+  "name": "4.2-kiloyear event",
+  "category": "event",
+  "start": -2200,
+  "end": -1900,
+  "date_precision": "century",
+  "location": {
+    "lat": 33.0,
+    "lon": 44.0,
+    "place": "Mesopotamia and the Near East"
+  },
+  "summary": "Climate episode of drier conditions recorded in several regions around 2200 BCE and lasting up to about three centuries. How widespread it was is still discussed.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/4.2-kiloyear_event"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/4.2-kiloyear_event",
+    "https://doi.org/10.1126/science.261.5124.995"
+  ],
+  "disputed": false
+}

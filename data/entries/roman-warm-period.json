@@ -1,0 +1,22 @@
+{
+  "id": "roman-warm-period",
+  "name": "Roman Warm Period",
+  "category": "event",
+  "start": -250,
+  "end": 400,
+  "date_precision": "century",
+  "location": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Europe and the Mediterranean"
+  },
+  "summary": "Interval of generally warm conditions reconstructed for Europe and the North Atlantic from tree rings and other proxies, from about the 3rd century BCE to the 4th century CE.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_Warm_Period"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Roman_Warm_Period",
+    "https://doi.org/10.1126/science.1197175"
+  ],
+  "disputed": false
+}

@@ -5,13 +5,13 @@ Findings are **flags for review, not errors**: a long lifespan can be right, and
 one name can be two people. Nothing is deleted automatically. To fix one, open the record,
 check a source, and send a pull request (see [CONTRIBUTING.md](../CONTRIBUTING.md)).
 
-Records checked: **1455**.
+Records checked: **1467**.
 
 | Check | Flags |
 |---|---:|
 | Possible duplicates | 0 |
 | Suspicious coordinates | 6 |
-| Low-precision dates (century, decade, circa) | 114 |
+| Low-precision dates (century, decade, circa) | 121 |
 | Outliers and thin records | 12 |
 
 ## Possible duplicates
@@ -33,6 +33,7 @@ None found.
 |---|---:|---:|---:|
 | culture | 2 | 2 | 100% |
 | dynasty | 2 | 0 | 0% |
+| event | 12 | 7 | 58% |
 | invention | 3 | 3 | 100% |
 | philosopher | 421 | 26 | 6% |
 | ruler | 4 | 4 | 100% |
@@ -42,7 +43,9 @@ None found.
 
 Records a contributor with a good source could pin to an exact year:
 
+- [`4-2-kiloyear-event`](../data/entries/4-2-kiloyear-event.json): 2200 BCE to 1900 BCE (century)
 - [`aeneid`](../data/entries/aeneid.json): 50 BCE (century)
+- [`african-humid-period-ends`](../data/entries/african-humid-period-ends.json): 3650 BCE to 750 BCE (century)
 - [`al-khwarizmi`](../data/entries/al-khwarizmi.json): 780 CE to 850 CE (circa)
 - [`alcmaeon-of-croton`](../data/entries/alcmaeon-of-croton.json): 600 BCE to 500 BCE (century)
 - [`andal`](../data/entries/andal.json): 800 CE to 900 CE (century)
@@ -95,17 +98,21 @@ Records a contributor with a good source could pin to an exact year:
 - [`juvenal`](../data/entries/juvenal.json): 55 CE to 200 CE (century)
 - [`kumarila-bhatta`](../data/entries/kumarila-bhatta.json): 700 CE to 700 CE (century)
 - [`laozi`](../data/entries/laozi.json): 571 BCE to 471 BCE (century)
+- [`late-bronze-age-drought`](../data/entries/late-bronze-age-drought.json): 1200 BCE to 850 BCE (century)
 - [`le-roman-de-la-rose`](../data/entries/le-roman-de-la-rose.json): 1300 CE (century)
 - [`leucippus`](../data/entries/leucippus.json): 500 BCE to 500 BCE (century)
+- [`little-ice-age`](../data/entries/little-ice-age.json): 1300 CE to 1850 CE (century)
 - [`longus`](../data/entries/longus.json): 200 CE to 200 CE (century)
 - [`mahabharata`](../data/entries/mahabharata.json): 1500 BCE (century)
 - [`mansa-musa`](../data/entries/mansa-musa.json): 1280 CE to 1337 CE (circa)
 - [`marie-de-france`](../data/entries/marie-de-france.json): 1101 CE to 1300 CE (century)
 - [`maya-civilization`](../data/entries/maya-civilization.json): 2000 BCE to 1697 CE (century)
+- [`medieval-climate-anomaly`](../data/entries/medieval-climate-anomaly.json): 950 CE to 1250 CE (century)
 - [`meditations`](../data/entries/meditations.json): 200 CE (century)
 - [`menander`](../data/entries/menander.json): 340 BCE to 290 BCE (decade)
 - [`meng-haoran`](../data/entries/meng-haoran.json): 690 CE to 740 CE (century)
 - [`metamorphoses`](../data/entries/metamorphoses.json): 1 CE (decade)
+- [`minoan-eruption-of-thera`](../data/entries/minoan-eruption-of-thera.json): 1600 BCE (circa)
 - [`moses-ibn-ezra`](../data/entries/moses-ibn-ezra.json): 1058 CE to 1139 CE (decade)
 - [`murasaki-shikibu`](../data/entries/murasaki-shikibu.json): 973 CE to 1014 CE (circa)
 - [`nimbarkacharya`](../data/entries/nimbarkacharya.json): 1162 CE to 1300 CE (century)
@@ -127,6 +134,7 @@ Records a contributor with a good source could pin to an exact year:
 - [`pythagoras`](../data/entries/pythagoras.json): 582 BCE to 490 BCE (century)
 - [`ramcharitmanas`](../data/entries/ramcharitmanas.json): 1600 CE (century)
 - [`records-of-the-grand-historian`](../data/entries/records-of-the-grand-historian.json): 90 BCE (decade)
+- [`roman-warm-period`](../data/entries/roman-warm-period.json): 250 BCE to 400 CE (century)
 - [`rubaiyat-of-omar-khayyam`](../data/entries/rubaiyat-of-omar-khayyam.json): 1100 CE (decade)
 - [`sahih-al-bukhari`](../data/entries/sahih-al-bukhari.json): 900 CE (century)
 - [`sappho`](../data/entries/sappho.json): 650 BCE to 570 BCE (century)

@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/omidhey/world-history-map/blob/main/pipeline/entry.schema.json",
   "title": "Entry",
-  "description": "One person, work, invention, ruler, dynasty or culture. Documented in docs/schema.md; extra checks (year 0, start after end, duplicate ids) live in pipeline/validate.py.",
+  "description": "One person, work, invention, ruler, dynasty, culture or environmental event. Documented in docs/schema.md; extra checks (year 0, start after end, duplicate ids) live in pipeline/validate.py.",
   "type": "object",
   "additionalProperties": false,
   "required": ["id", "name", "category", "start", "date_precision", "location", "summary", "sources"],
@@ -19,7 +19,7 @@
     },
     "name": { "type": "string", "minLength": 1, "maxLength": 200 },
     "category": {
-      "enum": ["philosopher", "scientist", "writer", "work", "invention", "ruler", "dynasty", "culture"]
+      "enum": ["philosopher", "scientist", "writer", "work", "invention", "ruler", "dynasty", "culture", "event"]
     },
     "start": {
       "type": "integer",

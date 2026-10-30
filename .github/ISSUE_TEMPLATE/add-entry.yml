@@ -1,4 +1,4 @@
-name: Add a person, work or invention
+name: Add a person, work, invention or environmental event
 description: Suggest something new for the map. No coding needed.
 title: "[Add] "
 labels: ["needs-review"]
@@ -19,7 +19,7 @@ body:
     id: category
     attributes:
       label: Category
-      options: [philosopher, scientist, writer, work, invention, ruler, dynasty, culture]
+      options: [philosopher, scientist, writer, work, invention, ruler, dynasty, culture, event]
     validations:
       required: true
   - type: input

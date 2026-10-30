@@ -1,0 +1,22 @@
+{
+  "id": "tambora-eruption-1815",
+  "name": "Eruption of Mount Tambora and the Year Without a Summer",
+  "category": "event",
+  "start": 1815,
+  "end": 1816,
+  "date_precision": "year",
+  "location": {
+    "lat": -8.25,
+    "lon": 118.0,
+    "place": "Sumbawa, Indonesia"
+  },
+  "summary": "Eruption of April 1815, one of the largest in recorded history; cold, wet weather in 1816 was reported across Europe and North America.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora",
+    "https://doi.org/10.1191/0309133303pp379ra"
+  ],
+  "disputed": false
+}

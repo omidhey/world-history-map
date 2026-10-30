@@ -1,0 +1,39 @@
+{
+  "id": "minoan-eruption-of-thera",
+  "name": "Minoan eruption of Thera (Santorini)",
+  "category": "event",
+  "start": -1600,
+  "date_precision": "circa",
+  "location": {
+    "lat": 36.4,
+    "lon": 25.4,
+    "place": "Santorini, Aegean Sea"
+  },
+  "summary": "Large volcanic eruption that buried the Bronze Age town of Akrotiri on Santorini. Radiocarbon and archaeological dating give different years.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Minoan_eruption"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Minoan_eruption",
+    "https://centaur.reading.ac.uk/40229/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": -1611,
+      "note": "Radiocarbon dating points to the late 17th century BCE (Manning et al. 2014).",
+      "sources": [
+        "https://centaur.reading.ac.uk/40229/"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -1500,
+      "note": "The conventional archaeological date, from Aegean and Egyptian pottery sequences, falls in the 16th century BCE or later.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Minoan_eruption"
+      ]
+    }
+  ]
+}

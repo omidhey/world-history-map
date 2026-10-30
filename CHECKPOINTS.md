@@ -91,7 +91,8 @@ Legend: `[x]` done · `[~]` partly done (see note) · `[ ]` not started
 
 ## Phase 7: Engineering quality → v1.0
 
-- [ ] **Session 25: Code and tests** — JS modules, pytest
+- [x] **Session 25: Code and tests** — JS modules, pytest — 2026-10-30
+  - Result: the 680-line inline script is now ES modules in `site/js/` (`main.js` entry; `util.js`, `categories.js` pure; `state.js` holds shared state; map, style, polities, rulers/timeline, areas, cards, panel, follow). No bundler, no behaviour change. `pytest` (`tests/`, 34 tests: year rules and BCE handling, disputed claims, real-data validation, lineage shares on hand-built geometries, HYDE helpers, carry-forward) and 7 `node --test` tests for the pure JS. Breaking the year-0 rule makes a test fail. `validate.yml` has a new `tests` job (geopandas tests skip in CI). Checked in the browser: slider, entry card, Follow Egypt, Ancient Egypt card with territory chart and timeline, no console errors; phone width not checked. `site/js/package.json` (`type: module`) only exists so node can import the files.
 - [ ] **Session 26: Performance** — TopoJSON, `docs/performance.md`
 - [ ] **Session 27: Search and shareable links** — Fuse.js, URL state
 - [ ] **Session 28: Release v1.0 and open data** — About page, contributors, tag, Zenodo DOI

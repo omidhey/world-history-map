@@ -1,9 +1,10 @@
 {
   "name": "world-history-map",
   "private": true,
-  "description": "Tooling only: mapshaper is used by pipeline/download_borders.py to simplify border files.",
+  "description": "Tooling only: mapshaper simplifies and converts border files; topojson-client is copied to site/vendor/.",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "mapshaper": "0.7.90"
+    "mapshaper": "0.7.90",
+    "topojson-client": "3.1.0"
   }
 }

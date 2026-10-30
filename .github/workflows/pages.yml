@@ -41,6 +41,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install mapshaper (converts borders to TopoJSON)
+        run: npm ci
       - name: Download country outlines
         run: python pipeline/download_countries.py
       - name: Build site data

@@ -16,11 +16,11 @@ const slider = document.getElementById("slider");
 const ticksEl = document.getElementById("ticks");
 
 let currentLayer = null;
-const cache = new Map(); // year -> Promise<GeoJSON>
+const cache = new Map(); // year -> Promise<GeoJSON> (files are TopoJSON; converted once on load)
 
 function loadYear(year, file) {
   if (!cache.has(year)) {
-    const request = getJson(DATA + file);
+    const request = getJson(DATA + file).then((topology) => topojson.feature(topology, Object.values(topology.objects)[0]));
     request.catch(() => cache.delete(year)); // allow a retry after a failed load
     cache.set(year, request);
   }

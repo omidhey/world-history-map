@@ -8,6 +8,8 @@ The GitHub Pages workflow runs the same script before publishing site/.
 
 import json
 import shutil
+import subprocess
+import sys
 from pathlib import Path
 
 from build import build_entries, build_polities
@@ -43,15 +45,38 @@ def build_countries() -> int:
     return len(features)
 
 
+def find_mapshaper() -> list[str]:
+    # Not imported from download_borders.py: that pulls in shapely, which the Pages workflow does not install.
+    local = ROOT / "node_modules" / ".bin" / ("mapshaper.cmd" if sys.platform == "win32" else "mapshaper")
+    if local.exists():
+        return [str(local)]
+    npx = shutil.which("npx")
+    if npx is None:
+        sys.exit("mapshaper not found. Install Node.js, then run `npm ci` in the repository root.")
+    return [npx, "--no-install", "mapshaper"]
+
+
+def to_topojson(mapshaper: list[str], source: Path, out_dir: Path) -> str:
+    """Write source (GeoJSON) as TopoJSON next to the page; shared borders are stored once. Returns the new file name."""
+    name = source.stem + ".topo.json"
+    subprocess.run(
+        mapshaper + [str(source), "-o", str(out_dir / name), "format=topojson", "quantization=100000"],
+        check=True,
+        capture_output=True,
+    )
+    return name
+
+
 def main() -> None:
     if BORDERS_OUT.exists():
         shutil.rmtree(BORDERS_OUT)
     BORDERS_OUT.mkdir(parents=True)
 
     manifest = json.loads((BORDERS_IN / "manifest.json").read_text(encoding="utf-8"))
+    mapshaper = find_mapshaper()
     for snapshot in manifest["snapshots"]:
-        shutil.copy2(BORDERS_IN / snapshot["file"], BORDERS_OUT / snapshot["file"])
-    shutil.copy2(BORDERS_IN / "manifest.json", BORDERS_OUT / "manifest.json")
+        snapshot["file"] = to_topojson(mapshaper, BORDERS_IN / snapshot["file"], BORDERS_OUT)
+    (BORDERS_OUT / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     lineage_in = ROOT / "data" / "lineage"
     if lineage_in.exists():
         lineage_out = ROOT / "site" / "data" / "lineage"

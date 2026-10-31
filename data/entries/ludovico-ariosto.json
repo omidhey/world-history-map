@@ -1,0 +1,23 @@
+{
+  "id": "ludovico-ariosto",
+  "wikidata": "Q48900",
+  "name": "Ludovico Ariosto",
+  "category": "writer",
+  "start": 1474,
+  "end": 1533,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.7,
+    "lon": 10.63,
+    "place": "Reggio Emilia"
+  },
+  "summary": "Italian poet (1474–1533), born in Reggio Emilia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Ariosto"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48900",
+    "https://en.wikipedia.org/wiki/Ludovico_Ariosto"
+  ],
+  "disputed": false
+}

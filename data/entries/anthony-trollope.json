@@ -1,0 +1,23 @@
+{
+  "id": "anthony-trollope",
+  "wikidata": "Q318399",
+  "name": "Anthony Trollope",
+  "category": "writer",
+  "start": 1815,
+  "end": 1882,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English novelist of the Victorian period (1815-1882), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Trollope"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q318399",
+    "https://en.wikipedia.org/wiki/Anthony_Trollope"
+  ],
+  "disputed": false
+}

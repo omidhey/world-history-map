@@ -1,0 +1,23 @@
+{
+  "id": "hipparchus",
+  "wikidata": "Q159905",
+  "name": "Hipparchus",
+  "category": "scientist",
+  "start": -190,
+  "end": -120,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.43,
+    "lon": 29.72,
+    "place": "Nicaea"
+  },
+  "summary": "2nd century Greek astronomer, geographer and mathematician, born in Nicaea. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hipparchus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q159905",
+    "https://en.wikipedia.org/wiki/Hipparchus"
+  ],
+  "disputed": false
+}

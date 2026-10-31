@@ -1,0 +1,23 @@
+{
+  "id": "yun-dong-ju",
+  "wikidata": "Q625089",
+  "name": "Yun Dong-ju",
+  "category": "writer",
+  "start": 1917,
+  "end": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.77,
+    "lon": 129.42,
+    "place": "Longjing"
+  },
+  "summary": "Korean poet (1917–1945), born in Longjing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yun_Tongju"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q625089",
+    "https://en.wikipedia.org/wiki/Yun_Tongju"
+  ],
+  "disputed": false
+}

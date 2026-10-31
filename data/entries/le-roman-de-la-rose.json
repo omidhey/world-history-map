@@ -1,0 +1,22 @@
+{
+  "id": "le-roman-de-la-rose",
+  "wikidata": "Q642211",
+  "name": "Le Roman de la Rose",
+  "category": "work",
+  "start": 1300,
+  "date_precision": "century",
+  "location": {
+    "lat": 47.89,
+    "lon": 2.51,
+    "place": "Lorris"
+  },
+  "summary": "Medieval French poem by Guillaume de Lorris and Jean de Meun by Guillaume de Lorris, Jean de Meun, associated with Lorris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_de_la_Rose"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q642211",
+    "https://en.wikipedia.org/wiki/Roman_de_la_Rose"
+  ],
+  "disputed": false
+}

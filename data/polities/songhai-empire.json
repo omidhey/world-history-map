@@ -1,0 +1,26 @@
+{
+  "id": "songhai-empire",
+  "wikidata": "Q202687",
+  "name": "Songhai Empire",
+  "border_names": [
+    "Songhai"
+  ],
+  "type": "empire",
+  "start": 1464,
+  "end": 1591,
+  "date_precision": "year",
+  "capital": {
+    "lat": 16.27,
+    "lon": -0.04,
+    "place": "Gao"
+  },
+  "summary": "Largest West African empire of its time, controlling the Niger trade routes until a Moroccan invasion in 1591.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Songhai_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q202687",
+    "https://en.wikipedia.org/wiki/Songhai_Empire"
+  ],
+  "disputed": false
+}

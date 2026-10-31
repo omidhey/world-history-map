@@ -1,0 +1,41 @@
+{
+  "id": "african-humid-period-ends",
+  "name": "End of the African Humid Period (drying of the Sahara)",
+  "category": "event",
+  "start": -3650,
+  "end": -750,
+  "date_precision": "century",
+  "location": {
+    "lat": 23.0,
+    "lon": 12.0,
+    "place": "Sahara"
+  },
+  "summary": "Period when the monsoon weakened and the green, lake-dotted Sahara turned to desert. Researchers disagree on whether the change was abrupt or gradual.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/African_humid_period"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/African_humid_period",
+    "https://doi.org/10.1016/S0277-3791(99)00081-5",
+    "https://doi.org/10.1126/science.1154913"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": -3500,
+      "note": "Abrupt end of the humid period about 5,500 years ago (deMenocal et al. 2000).",
+      "sources": [
+        "https://doi.org/10.1016/S0277-3791(99)00081-5"
+      ]
+    },
+    {
+      "field": "end",
+      "value": -750,
+      "note": "Gradual drying, with the modern desert in place by about 2,700 years ago (Kröpelin et al. 2008, Lake Yoa, Chad).",
+      "sources": [
+        "https://doi.org/10.1126/science.1154913"
+      ]
+    }
+  ]
+}

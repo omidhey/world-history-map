@@ -1,0 +1,23 @@
+{
+  "id": "joseph-black",
+  "wikidata": "Q272512",
+  "name": "Joseph Black",
+  "category": "scientist",
+  "start": 1728,
+  "end": 1799,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.84,
+    "lon": -0.58,
+    "place": "Bordeaux"
+  },
+  "summary": "Scottish physicist and chemist (1728–1799), born in Bordeaux. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Black"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q272512",
+    "https://en.wikipedia.org/wiki/Joseph_Black"
+  ],
+  "disputed": false
+}

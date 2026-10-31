@@ -1,0 +1,141 @@
+{
+ "country": "URY",
+ "name": "Uruguay",
+ "area_km2": 176879,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.995
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.995
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.995
+   }
+  ],
+  "-500": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.995
+   }
+  ],
+  "-323": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.995
+   }
+  ],
+  "-1": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.9995
+   }
+  ],
+  "400": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.9995
+   }
+  ],
+  "800": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.995
+   }
+  ],
+  "1200": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.9995
+   }
+  ],
+  "1500": [
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.9995
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of the Río de la Plata",
+    "subjecto": "Viceroyalty of the Río de la Plata",
+    "share": 0.9505
+   },
+   {
+    "name": "Viceroyalty of Brazil",
+    "subjecto": "Portugal",
+    "share": 0.0456
+   }
+  ],
+  "1914": [
+   {
+    "name": "Uruguay",
+    "subjecto": "Uruguay",
+    "share": 0.9183
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.0518
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0257
+   }
+  ],
+  "1945": [
+   {
+    "name": "Uruguay",
+    "subjecto": "Uruguay",
+    "share": 0.9262
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.052
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0177
+   }
+  ],
+  "2010": [
+   {
+    "name": "Uruguay",
+    "subjecto": "Uruguay",
+    "share": 0.9262
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.052
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0176
+   }
+  ]
+ }
+}

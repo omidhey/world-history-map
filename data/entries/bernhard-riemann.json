@@ -1,0 +1,23 @@
+{
+  "id": "bernhard-riemann",
+  "wikidata": "Q42299",
+  "name": "Bernhard Riemann",
+  "category": "scientist",
+  "start": 1826,
+  "end": 1866,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.04,
+    "lon": 11.06,
+    "place": "Breselenz"
+  },
+  "summary": "German mathematician (1826–1866), born in Breselenz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Riemann"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42299",
+    "https://en.wikipedia.org/wiki/Bernhard_Riemann"
+  ],
+  "disputed": false
+}

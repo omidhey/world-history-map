@@ -1,0 +1,19 @@
+{
+  "id": "narseh",
+  "wikidata": "Q264903",
+  "name": "Narseh",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 293,
+  "end": 302,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narseh"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q264903",
+    "https://en.wikipedia.org/wiki/Narseh"
+  ],
+  "disputed": false
+}

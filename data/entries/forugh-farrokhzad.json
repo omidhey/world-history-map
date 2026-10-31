@@ -1,0 +1,23 @@
+{
+  "id": "forugh-farrokhzad",
+  "wikidata": "Q464394",
+  "name": "Forugh Farrokhzad",
+  "category": "writer",
+  "start": 1935,
+  "end": 1967,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.69,
+    "lon": 51.39,
+    "place": "Tehran"
+  },
+  "summary": "Iranian poet (1935-1967), born in Tehran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Forugh_Farrokhzad"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q464394",
+    "https://en.wikipedia.org/wiki/Forugh_Farrokhzad"
+  ],
+  "disputed": false
+}

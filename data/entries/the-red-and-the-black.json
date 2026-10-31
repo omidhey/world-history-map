@@ -1,0 +1,22 @@
+{
+  "id": "the-red-and-the-black",
+  "wikidata": "Q192649",
+  "name": "The Red and the Black",
+  "category": "work",
+  "start": 1830,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.19,
+    "lon": 5.73,
+    "place": "Grenoble"
+  },
+  "summary": "French novel by Stendhal (1830), associated with Grenoble. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192649",
+    "https://en.wikipedia.org/wiki/The_Red_and_the_Black"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ama-ata-aidoo",
+  "wikidata": "Q298224",
+  "name": "Ama Ata Aidoo",
+  "category": "writer",
+  "start": 1942,
+  "end": 2023,
+  "date_precision": "day",
+  "location": {
+    "lat": 5.37,
+    "lon": -1.09,
+    "place": "Abeadzi Kyiakor"
+  },
+  "summary": "Ghanaian author, writer, politician, and academic (1942–2023), born in Abeadzi Kyiakor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ama_Ata_Aidoo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q298224",
+    "https://en.wikipedia.org/wiki/Ama_Ata_Aidoo"
+  ],
+  "disputed": false
+}

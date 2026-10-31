@@ -1,0 +1,19 @@
+{
+  "id": "emperor-gaozong-of-tang",
+  "wikidata": "Q9703",
+  "name": "Emperor Gaozong of Tang",
+  "polity": "tang-empire",
+  "title": "Emperor",
+  "dynasty": "tang-imperial-house",
+  "start": 649,
+  "end": 683,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Gaozong_of_Tang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9703",
+    "https://en.wikipedia.org/wiki/Emperor_Gaozong_of_Tang"
+  ],
+  "disputed": false
+}

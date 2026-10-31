@@ -1,0 +1,23 @@
+{
+  "id": "john-milton",
+  "wikidata": "Q79759",
+  "name": "John Milton",
+  "category": "writer",
+  "start": 1608,
+  "end": 1674,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.09,
+    "place": "Cheapside"
+  },
+  "summary": "English poet and civil servant (1608–1674), born in Cheapside. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Milton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q79759",
+    "https://en.wikipedia.org/wiki/John_Milton"
+  ],
+  "disputed": false
+}

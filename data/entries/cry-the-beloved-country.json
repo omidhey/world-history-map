@@ -1,0 +1,22 @@
+{
+  "id": "cry-the-beloved-country",
+  "wikidata": "Q2916551",
+  "name": "Cry, the Beloved Country",
+  "category": "work",
+  "start": 1948,
+  "date_precision": "year",
+  "location": {
+    "lat": -29.6,
+    "lon": 30.38,
+    "place": "Pietermaritzburg"
+  },
+  "summary": "1948 novel by Alan Paton, associated with Pietermaritzburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2916551",
+    "https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country"
+  ],
+  "disputed": false
+}

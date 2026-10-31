@@ -1,0 +1,26 @@
+{
+  "id": "ussr",
+  "wikidata": "Q15180",
+  "name": "Soviet Union",
+  "border_names": [
+    "USSR"
+  ],
+  "type": "republic",
+  "start": 1922,
+  "end": 1991,
+  "date_precision": "year",
+  "capital": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "One-party federal state created after the Russian Revolution, a superpower of the Cold War that dissolved into fifteen republics in 1991.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Soviet_Union"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q15180",
+    "https://en.wikipedia.org/wiki/Soviet_Union"
+  ],
+  "disputed": false
+}

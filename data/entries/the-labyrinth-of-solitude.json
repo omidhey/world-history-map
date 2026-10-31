@@ -1,0 +1,22 @@
+{
+  "id": "the-labyrinth-of-solitude",
+  "wikidata": "Q645470",
+  "name": "The Labyrinth of Solitude",
+  "category": "work",
+  "start": 1950,
+  "date_precision": "year",
+  "location": {
+    "lat": 19.38,
+    "lon": -99.19,
+    "place": "Mixcoac"
+  },
+  "summary": "Collection of essays by Octavio Paz, associated with Mixcoac. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Labyrinth_of_Solitude"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q645470",
+    "https://en.wikipedia.org/wiki/The_Labyrinth_of_Solitude"
+  ],
+  "disputed": false
+}

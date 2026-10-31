@@ -1,0 +1,22 @@
+{
+  "id": "nineteen-eighty-four",
+  "wikidata": "Q208460",
+  "name": "Nineteen Eighty-Four",
+  "category": "work",
+  "start": 1949,
+  "date_precision": "year",
+  "location": {
+    "lat": 26.65,
+    "lon": 84.92,
+    "place": "Motihari"
+  },
+  "summary": "1949 dystopian social science fiction novel by George Orwell, associated with Motihari. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q208460",
+    "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+  ],
+  "disputed": false
+}

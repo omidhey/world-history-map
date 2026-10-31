@@ -1,0 +1,19 @@
+{
+  "id": "henry-iv-of-france",
+  "wikidata": "Q936976",
+  "name": "Henry IV of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-bourbon",
+  "start": 1589,
+  "end": 1610,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_IV_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q936976",
+    "https://en.wikipedia.org/wiki/Henry_IV_of_France"
+  ],
+  "disputed": false
+}

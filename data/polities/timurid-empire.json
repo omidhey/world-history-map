@@ -1,0 +1,26 @@
+{
+  "id": "timurid-empire",
+  "wikidata": "Q484195",
+  "name": "Timurid Empire",
+  "border_names": [
+    "Timurid Emirates"
+  ],
+  "type": "empire",
+  "start": 1370,
+  "end": 1507,
+  "date_precision": "year",
+  "capital": {
+    "lat": 39.65,
+    "lon": 66.96,
+    "place": "Samarkand"
+  },
+  "summary": "Central Asian empire created by Timur, whose successors made Samarkand and Herat centres of astronomy, architecture and painting.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Timurid_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q484195",
+    "https://en.wikipedia.org/wiki/Timurid_Empire"
+  ],
+  "disputed": false
+}

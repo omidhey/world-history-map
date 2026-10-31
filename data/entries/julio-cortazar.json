@@ -1,0 +1,23 @@
+{
+  "id": "julio-cortazar",
+  "wikidata": "Q174210",
+  "name": "Julio Cortázar",
+  "category": "writer",
+  "start": 1914,
+  "end": 1984,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.85,
+    "lon": 4.35,
+    "place": "Brussels"
+  },
+  "summary": "Argentine writer and translator (1914–1984), born in Brussels. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_Cortázar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q174210",
+    "https://en.wikipedia.org/wiki/Julio_Cortázar"
+  ],
+  "disputed": false
+}

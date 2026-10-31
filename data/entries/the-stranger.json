@@ -1,0 +1,22 @@
+{
+  "id": "the-stranger",
+  "wikidata": "Q163297",
+  "name": "The Stranger",
+  "category": "work",
+  "start": 1942,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.68,
+    "lon": 7.75,
+    "place": "Dréan"
+  },
+  "summary": "1942 novel by Albert Camus, associated with Dréan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q163297",
+    "https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)"
+  ],
+  "disputed": false
+}

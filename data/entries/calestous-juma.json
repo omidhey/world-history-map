@@ -1,0 +1,23 @@
+{
+  "id": "calestous-juma",
+  "wikidata": "Q5019535",
+  "name": "Calestous Juma",
+  "category": "scientist",
+  "start": 1953,
+  "end": 2017,
+  "date_precision": "day",
+  "location": {
+    "lat": 0.46,
+    "lon": 34.11,
+    "place": "Busia"
+  },
+  "summary": "Kenyan academic (1953–2017), born in Busia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Calestous_Juma"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5019535",
+    "https://en.wikipedia.org/wiki/Calestous_Juma"
+  ],
+  "disputed": false
+}

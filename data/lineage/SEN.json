@@ -1,0 +1,220 @@
+{
+ "country": "SEN",
+ "name": "Senegal",
+ "area_km2": 194401,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9623
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9621
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5943
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3665
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5721
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4026
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5723
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4026
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5721
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4026,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5699
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4021,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0004,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5721
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5689,
+    "carried": 400
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4021,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0036,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.449
+   },
+   {
+    "name": "Takrur",
+    "subjecto": "Takrur",
+    "share": 0.3384
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.1453
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.8457
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1318,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.6869,
+    "carried": 1500
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1312,
+    "carried": 1200
+   },
+   {
+    "name": "Senegal",
+    "subjecto": "Senegal",
+    "share": 0.0819
+   },
+   {
+    "name": "Kaarta",
+    "subjecto": "Kaarta",
+    "share": 0.0703
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0075,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9615
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Senegal",
+    "subjecto": "France",
+    "share": 0.9634
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Senegal",
+    "subjecto": "Senegal",
+    "share": 0.9634
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ]
+ }
+}

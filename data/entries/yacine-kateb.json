@@ -1,0 +1,23 @@
+{
+  "id": "yacine-kateb",
+  "wikidata": "Q379962",
+  "name": "Yacine Kateb",
+  "category": "writer",
+  "start": 1929,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.37,
+    "lon": 6.61,
+    "place": "Constantine"
+  },
+  "summary": "Algerian writer (1929-1989), born in Constantine. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kateb_Yacine"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379962",
+    "https://en.wikipedia.org/wiki/Kateb_Yacine"
+  ],
+  "disputed": false
+}

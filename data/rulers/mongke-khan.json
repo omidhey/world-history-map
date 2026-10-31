@@ -1,0 +1,19 @@
+{
+  "id": "mongke-khan",
+  "wikidata": "Q7521",
+  "name": "Möngke Khan",
+  "polity": "mongol-empire",
+  "title": "Great Khan",
+  "dynasty": "borjigin-dynasty",
+  "start": 1251,
+  "end": 1259,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7521",
+    "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+  ],
+  "disputed": false
+}

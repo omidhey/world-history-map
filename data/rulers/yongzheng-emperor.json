@@ -1,0 +1,19 @@
+{
+  "id": "yongzheng-emperor",
+  "wikidata": "Q317839",
+  "name": "Yongzheng Emperor",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1722,
+  "end": 1735,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yongzheng_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q317839",
+    "https://en.wikipedia.org/wiki/Yongzheng_Emperor"
+  ],
+  "disputed": false
+}

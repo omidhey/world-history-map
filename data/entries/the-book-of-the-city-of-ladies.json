@@ -1,0 +1,22 @@
+{
+  "id": "the-book-of-the-city-of-ladies",
+  "wikidata": "Q1479512",
+  "name": "The Book of the City of Ladies",
+  "category": "work",
+  "start": 1405,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.44,
+    "lon": 12.33,
+    "place": "Venice"
+  },
+  "summary": "Novel by Christine de Pizan, associated with Venice. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Book_of_the_City_of_Ladies"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1479512",
+    "https://en.wikipedia.org/wiki/The_Book_of_the_City_of_Ladies"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dom-casmurro",
+  "wikidata": "Q1236531",
+  "name": "Dom Casmurro",
+  "category": "work",
+  "start": 1899,
+  "date_precision": "year",
+  "location": {
+    "lat": -22.91,
+    "lon": -43.21,
+    "place": "Rio de Janeiro"
+  },
+  "summary": "1899 novel by Joaquim Maria Machado de Assis, associated with Rio de Janeiro. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dom_Casmurro"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1236531",
+    "https://en.wikipedia.org/wiki/Dom_Casmurro"
+  ],
+  "disputed": false
+}

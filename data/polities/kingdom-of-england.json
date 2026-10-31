@@ -1,0 +1,26 @@
+{
+  "id": "kingdom-of-england",
+  "wikidata": "Q179876",
+  "name": "Kingdom of England",
+  "border_names": [
+    "England"
+  ],
+  "type": "kingdom",
+  "start": 927,
+  "end": 1707,
+  "date_precision": "year",
+  "capital": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "Monarchy covering most of the island of Great Britain's south, which merged with Scotland in 1707 to form Great Britain.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179876",
+    "https://en.wikipedia.org/wiki/Kingdom_of_England"
+  ],
+  "disputed": false
+}

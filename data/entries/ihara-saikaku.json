@@ -1,0 +1,23 @@
+{
+  "id": "ihara-saikaku",
+  "wikidata": "Q352561",
+  "name": "Ihara Saikaku",
+  "category": "writer",
+  "start": 1642,
+  "end": 1693,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.96,
+    "lon": 135.29,
+    "place": "Nakatsu"
+  },
+  "summary": "Japanese writer, born in Nakatsu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ihara_Saikaku"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q352561",
+    "https://en.wikipedia.org/wiki/Ihara_Saikaku"
+  ],
+  "disputed": false
+}

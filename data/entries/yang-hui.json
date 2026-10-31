@@ -1,0 +1,23 @@
+{
+  "id": "yang-hui",
+  "wikidata": "Q574521",
+  "name": "Yang Hui",
+  "category": "scientist",
+  "start": 1238,
+  "end": 1298,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.25,
+    "lon": 120.17,
+    "place": "Hangzhou"
+  },
+  "summary": "Chinese mathematician, born in Hangzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yang_Hui"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q574521",
+    "https://en.wikipedia.org/wiki/Yang_Hui"
+  ],
+  "disputed": false
+}

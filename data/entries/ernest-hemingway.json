@@ -1,0 +1,23 @@
+{
+  "id": "ernest-hemingway",
+  "wikidata": "Q23434",
+  "name": "Ernest Hemingway",
+  "category": "writer",
+  "start": 1899,
+  "end": 1961,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": -87.79,
+    "place": "Oak Park"
+  },
+  "summary": "American author and journalist (1899–1961), born in Oak Park. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q23434",
+    "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+  ],
+  "disputed": false
+}

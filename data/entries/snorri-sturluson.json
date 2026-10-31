@@ -1,0 +1,23 @@
+{
+  "id": "snorri-sturluson",
+  "wikidata": "Q102323",
+  "name": "Snorri Sturluson",
+  "category": "writer",
+  "start": 1179,
+  "end": 1241,
+  "date_precision": "year",
+  "location": {
+    "lat": 65.22,
+    "lon": -21.83,
+    "place": "Hvammur"
+  },
+  "summary": "Icelandic historian, poet and politician (AD 1179–1241), born in Hvammur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q102323",
+    "https://en.wikipedia.org/wiki/Snorri_Sturluson"
+  ],
+  "disputed": false
+}

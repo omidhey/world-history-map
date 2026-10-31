@@ -1,0 +1,26 @@
+{
+  "id": "bornu-empire",
+  "wikidata": "Q1139762",
+  "name": "Kanem–Bornu Empire",
+  "border_names": [
+    "Kanem-Bornu"
+  ],
+  "type": "empire",
+  "start": 1380,
+  "end": 1893,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 13.0,
+    "lon": 11.0,
+    "place": "Ngazargamu"
+  },
+  "summary": "Sahelian empire around Lake Chad that moved its centre west to Bornu and lasted, in changing forms, for over a thousand years counting Kanem.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornu_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1139762",
+    "https://en.wikipedia.org/wiki/Bornu_Empire"
+  ],
+  "disputed": false
+}

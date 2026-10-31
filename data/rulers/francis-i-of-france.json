@@ -1,0 +1,19 @@
+{
+  "id": "francis-i-of-france",
+  "wikidata": "Q129857",
+  "name": "Francis I of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-valois",
+  "start": 1515,
+  "end": 1547,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_I_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129857",
+    "https://en.wikipedia.org/wiki/Francis_I_of_France"
+  ],
+  "disputed": false
+}

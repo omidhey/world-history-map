@@ -1,0 +1,23 @@
+{
+  "id": "john-napier",
+  "wikidata": "Q159592",
+  "name": "John Napier",
+  "category": "scientist",
+  "start": 1550,
+  "end": 1617,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.93,
+    "lon": -3.21,
+    "place": "Merchiston Tower"
+  },
+  "summary": "Scottish mathematician, physicist, and astronomer (1550–1617), born in Merchiston Tower. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Napier"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q159592",
+    "https://en.wikipedia.org/wiki/John_Napier"
+  ],
+  "disputed": false
+}

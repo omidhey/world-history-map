@@ -1,0 +1,23 @@
+{
+  "id": "zhu-shijie",
+  "wikidata": "Q198126",
+  "name": "Zhu Shijie",
+  "category": "scientist",
+  "start": 1249,
+  "end": 1314,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.9,
+    "lon": 116.41,
+    "place": "Beijing"
+  },
+  "summary": "Mathematician of Yuan dynasty (during the reign of Temür Khan), inventor of Chinese quaternion, Si yuan shu (四元術) and stacking technique Duo ji shu (垛積術), born in Beijing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhu_Shijie"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q198126",
+    "https://en.wikipedia.org/wiki/Zhu_Shijie"
+  ],
+  "disputed": false
+}

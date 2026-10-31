@@ -1,0 +1,23 @@
+{
+  "id": "susumu-tonegawa",
+  "wikidata": "Q108602",
+  "name": "Susumu Tonegawa",
+  "category": "scientist",
+  "start": 1939,
+  "end": 2026,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.18,
+    "lon": 136.91,
+    "place": "Nagoya"
+  },
+  "summary": "Japanese biologist, neuroscientist (1939–2026), born in Nagoya. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Susumu_Tonegawa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q108602",
+    "https://en.wikipedia.org/wiki/Susumu_Tonegawa"
+  ],
+  "disputed": false
+}

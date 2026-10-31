@@ -1,0 +1,23 @@
+{
+  "id": "mario-molina",
+  "wikidata": "Q19045",
+  "name": "Mario Molina",
+  "category": "scientist",
+  "start": 1943,
+  "end": 2020,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.35,
+    "lon": -99.14,
+    "place": "Mexico City"
+  },
+  "summary": "Mexican chemical engineer (1943–2020), born in Mexico City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Molina"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q19045",
+    "https://en.wikipedia.org/wiki/Mario_Molina"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dead-souls",
+  "wikidata": "Q647379",
+  "name": "Dead Souls",
+  "category": "work",
+  "start": 1842,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.03,
+    "lon": 33.95,
+    "place": "Velyki Sorochyntsi"
+  },
+  "summary": "1842 novel by Nikolai Gogol, associated with Velyki Sorochyntsi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dead_Souls"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q647379",
+    "https://en.wikipedia.org/wiki/Dead_Souls"
+  ],
+  "disputed": false
+}

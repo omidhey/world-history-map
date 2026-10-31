@@ -1,0 +1,23 @@
+{
+  "id": "jan-baptist-van-helmont",
+  "wikidata": "Q294169",
+  "name": "Jan Baptist van Helmont",
+  "category": "scientist",
+  "start": 1577,
+  "end": 1644,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.85,
+    "lon": 4.35,
+    "place": "Brussels"
+  },
+  "summary": "Chemist, physiologist, and physician from the Spanish Low Countries, born in Brussels. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Baptist_van_Helmont"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q294169",
+    "https://en.wikipedia.org/wiki/Jan_Baptist_van_Helmont"
+  ],
+  "disputed": false
+}

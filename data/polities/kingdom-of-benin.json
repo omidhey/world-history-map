@@ -1,0 +1,26 @@
+{
+  "id": "kingdom-of-benin",
+  "wikidata": "Q171203",
+  "name": "Kingdom of Benin",
+  "border_names": [
+    "Kingdom of Benin"
+  ],
+  "type": "kingdom",
+  "start": 1180,
+  "end": 1897,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 6.34,
+    "lon": 5.63,
+    "place": "Benin City"
+  },
+  "summary": "Edo kingdom of the Guinea forest, famous for its bronze plaques and ruled by an oba until the British expedition of 1897.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Benin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q171203",
+    "https://en.wikipedia.org/wiki/Kingdom_of_Benin"
+  ],
+  "disputed": false
+}

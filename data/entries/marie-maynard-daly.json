@@ -1,0 +1,23 @@
+{
+  "id": "marie-maynard-daly",
+  "wikidata": "Q15848288",
+  "name": "Marie Maynard Daly",
+  "category": "scientist",
+  "start": 1921,
+  "end": 2003,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.71,
+    "lon": -73.83,
+    "place": "Queens"
+  },
+  "summary": "American biochemist (1921–2003), born in Queens. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Maynard_Daly"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q15848288",
+    "https://en.wikipedia.org/wiki/Marie_Maynard_Daly"
+  ],
+  "disputed": false
+}

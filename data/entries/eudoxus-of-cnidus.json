@@ -1,0 +1,23 @@
+{
+  "id": "eudoxus-of-cnidus",
+  "wikidata": "Q185150",
+  "name": "Eudoxus of Cnidus",
+  "category": "scientist",
+  "start": -408,
+  "end": -355,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.69,
+    "lon": 27.38,
+    "place": "Knidos"
+  },
+  "summary": "Greek astronomer and mathematician (c.408–c.355 BC), born in Knidos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eudoxus_of_Cnidus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185150",
+    "https://en.wikipedia.org/wiki/Eudoxus_of_Cnidus"
+  ],
+  "disputed": false
+}

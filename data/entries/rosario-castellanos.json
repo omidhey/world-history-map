@@ -1,0 +1,41 @@
+{
+  "id": "rosario-castellanos",
+  "wikidata": "Q260862",
+  "name": "Rosario Castellanos",
+  "category": "writer",
+  "start": 1925,
+  "end": 1974,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.35,
+    "lon": -99.14,
+    "place": "Mexico City"
+  },
+  "summary": "Mexican writer (1925-1974), born in Mexico City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosario_Castellanos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q260862",
+    "https://en.wikipedia.org/wiki/Rosario_Castellanos"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1924,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q260862"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1925,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q260862"
+      ]
+    }
+  ]
+}

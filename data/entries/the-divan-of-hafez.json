@@ -1,0 +1,22 @@
+{
+  "id": "the-divan-of-hafez",
+  "wikidata": "Q5939273",
+  "name": "The Divān of Hafez",
+  "category": "work",
+  "start": 1368,
+  "date_precision": "year",
+  "location": {
+    "lat": 29.61,
+    "lon": 52.53,
+    "place": "Shiraz"
+  },
+  "summary": "Collection of Classical Persian Poems written by Hafez, associated with Shiraz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Divân_of_Hafez"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5939273",
+    "https://en.wikipedia.org/wiki/The_Divân_of_Hafez"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "philip-iv-of-france",
+  "wikidata": "Q130969",
+  "name": "Philip IV of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-capet",
+  "start": 1285,
+  "end": 1314,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q130969",
+    "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+  ],
+  "disputed": false
+}

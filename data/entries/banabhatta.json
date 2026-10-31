@@ -1,0 +1,23 @@
+{
+  "id": "banabhatta",
+  "wikidata": "Q171202",
+  "name": "Bāṇabhaṭṭa",
+  "category": "writer",
+  "start": 585,
+  "end": 650,
+  "date_precision": "year",
+  "location": {
+    "lat": 27.03,
+    "lon": 79.92,
+    "place": "Kannauj"
+  },
+  "summary": "Asthana Kavi in the court of King Harsha and pioneer of complex ornate Sanskrit prose style., died in Kannauj. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bāṇabhaṭṭa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q171202",
+    "https://en.wikipedia.org/wiki/Bāṇabhaṭṭa"
+  ],
+  "disputed": false
+}

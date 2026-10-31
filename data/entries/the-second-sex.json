@@ -1,0 +1,22 @@
+{
+  "id": "the-second-sex",
+  "wikidata": "Q470098",
+  "name": "The Second Sex",
+  "category": "work",
+  "start": 1949,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.85,
+    "lon": 2.33,
+    "place": "6th arrondissement of Paris"
+  },
+  "summary": "Essay by Simone de Beauvoir, associated with 6th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Second_Sex"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q470098",
+    "https://en.wikipedia.org/wiki/The_Second_Sex"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "juan-rulfo",
+  "wikidata": "Q200661",
+  "name": "Juan Rulfo",
+  "category": "writer",
+  "start": 1917,
+  "end": 1986,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.85,
+    "lon": -103.6,
+    "place": "Sayula Municipality"
+  },
+  "summary": "Mexican writer (1917–1986), born in Sayula Municipality. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Rulfo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q200661",
+    "https://en.wikipedia.org/wiki/Juan_Rulfo"
+  ],
+  "disputed": false
+}

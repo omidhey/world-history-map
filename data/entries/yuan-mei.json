@@ -1,0 +1,23 @@
+{
+  "id": "yuan-mei",
+  "wikidata": "Q147220",
+  "name": "Yuan Mei",
+  "category": "writer",
+  "start": 1716,
+  "end": 1797,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.25,
+    "lon": 120.17,
+    "place": "Hangzhou"
+  },
+  "summary": "Poet, essayist, scholar of the Qing Dynasty (1716-1797), born in Hangzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuan_Mei"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q147220",
+    "https://en.wikipedia.org/wiki/Yuan_Mei"
+  ],
+  "disputed": false
+}

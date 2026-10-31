@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About - World History Map</title>
+  <style>
+    body { margin: 0; font-family: system-ui, sans-serif; line-height: 1.5; color: #222; background: #fafafa; }
+    main { max-width: 46rem; margin: 0 auto; padding: 16px; }
+    h1 { font-size: 1.6rem; margin: 0.5em 0 0.3em; }
+    h2 { font-size: 1.15rem; margin: 1.6em 0 0.3em; }
+    a { color: #335; }
+    table { border-collapse: collapse; width: 100%; font-size: 0.9rem; display: block; overflow-x: auto; }
+    th, td { text-align: left; padding: 4px 10px 4px 0; border-bottom: 1px solid #ddd; vertical-align: top; }
+    code { background: #eee; padding: 0 3px; }
+    #contributors { columns: 2; padding-left: 1.2em; }
+    @media (max-width: 600px) { #contributors { columns: 1; } }
+  </style>
+</head>
+<body>
+<main>
+  <p><a href="./">&larr; Back to the map</a></p>
+  <h1>About the World History Map</h1>
+  <p>An open, community-edited map of the world from about 3000 BCE to today. Move the slider
+  to see borders at 14 moments, and explore the people, works, inventions and environmental
+  events of each period. Click a state to see its dynasties and rulers, or follow one modern
+  country through time. Every record cites a source, and every change is reviewed before it
+  goes live.</p>
+
+  <h2>Sources and licenses</h2>
+  <table>
+    <tr><th>What</th><th>Source</th><th>License</th></tr>
+    <tr><td>Historical borders</td><td><a href="https://github.com/aourednik/historical-basemaps">historical-basemaps</a>, A. Ourednik</td><td>GPL-3.0</td></tr>
+    <tr><td>Modern country outlines (Follow a country)</td><td><a href="https://www.naturalearthdata.com">Natural Earth</a> 110m</td><td>Public domain</td></tr>
+    <tr><td>People, works (imported facts)</td><td><a href="https://www.wikidata.org">Wikidata</a></td><td>CC0</td></tr>
+    <tr><td>Summaries, states, rulers, events, lineage notes</td><td>Contributors, each with cited sources</td><td>CC BY-SA 4.0</td></tr>
+    <tr><td>Code</td><td><a href="https://github.com/omidhey/world-history-map">GitHub repository</a></td><td>GPL-3.0-or-later</td></tr>
+    <tr><td>Libraries</td><td>Leaflet (BSD-2), topojson-client (ISC), Fuse.js (Apache-2.0)</td><td>as listed</td></tr>
+  </table>
+
+  <h2>Known limitations</h2>
+  <ul>
+    <li><strong>Borders are approximate.</strong> There are only 14 snapshots, so a state can appear or vanish between two of them. Dashed outlines are the least certain; purple outlines are sourced corrections (<a href="https://github.com/omidhey/world-history-map/blob/main/docs/vanished-realms.md">details</a>).</li>
+    <li><strong>Land with no named realm</strong> is shown pale and keeps its last recorded realm; many early areas have none.</li>
+    <li><strong>Follow a country</strong> uses 110 m outlines, so small countries and islands are missing. Shares are an automatic area match; only ten countries have curated, sourced notes (marked with a star).</li>
+    <li><strong>Rulers, dynasties and curated lineage notes</strong> cover a limited set of states, and many reign years and notes were entered from secondary sources and are not yet independently reviewed.</li>
+    <li><strong>Coverage is uneven.</strong> Imported lists favour people with many Wikipedia articles, which skews towards Europe; this is being corrected through curated lists and contributions.</li>
+    <li><strong>Disputed dates</strong> (for example the Thera eruption) are shown as disputed, not decided. Environmental events are described, never explained by cause.</li>
+    <li>The data quality report lists open flags: <a href="https://github.com/omidhey/world-history-map/blob/main/docs/data-quality.md">data-quality.md</a>.</li>
+  </ul>
+
+  <h2>How to cite</h2>
+  <p>World History Map contributors. <em>World History Map</em>, version 1.0.0.
+  <a href="https://github.com/omidhey/world-history-map">github.com/omidhey/world-history-map</a>.
+  Each tagged release is archived on Zenodo with its own DOI; see
+  <a href="https://github.com/omidhey/world-history-map/blob/main/CITATION.cff">CITATION.cff</a>.</p>
+
+  <h2>Help improve it</h2>
+  <p>Suggest an addition or correction without any coding using the
+  <a href="https://github.com/omidhey/world-history-map/issues/new/choose">issue forms</a>.
+  Read the <a href="https://github.com/omidhey/world-history-map/blob/main/docs/content-policy.md">content policy</a>
+  first: no source, no merge.</p>
+
+  <h2>Contributors</h2>
+  <ul id="contributors"><li>Loading&hellip;</li></ul>
+  <p><small>Generated from git history. People who suggested changes through issues are credited there.</small></p>
+</main>
+<script>
+  fetch("data/contributors.json").then(function (r) { return r.json(); }).then(function (people) {
+    var list = document.getElementById("contributors");
+    list.textContent = "";
+    people.forEach(function (p) {
+      var li = document.createElement("li");
+      li.textContent = p.name + " (" + p.commits + " commits)";
+      list.appendChild(li);
+    });
+  }).catch(function () {
+    document.getElementById("contributors").innerHTML =
+      '<li><a href="https://github.com/omidhey/world-history-map/graphs/contributors">See GitHub</a></li>';
+  });
+</script>
+</body>
+</html>

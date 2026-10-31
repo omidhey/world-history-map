@@ -1,0 +1,241 @@
+{
+ "country": "GRC",
+ "name": "Greece",
+ "area_km2": 131993,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.6795
+   },
+   {
+    "name": "Minoan",
+    "subjecto": "Minoan",
+    "share": 0.0159
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.6795
+   },
+   {
+    "name": "Minoan",
+    "subjecto": "Minoan",
+    "share": 0.0159
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.7095
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.0823
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0037,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.6551
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.6885
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.7269
+   },
+   {
+    "name": "Odrysian Kingdom",
+    "subjecto": "Roman Empire",
+    "share": 0.0525
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.5026
+   },
+   {
+    "name": "Visigoths",
+    "subjecto": "Visigoths",
+    "share": 0.2357
+   }
+  ],
+  "800": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.7732
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0904
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.5712
+   },
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.1777
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7337
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.0159,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7716
+   }
+  ],
+  "1914": [
+   {
+    "name": "Greece",
+    "subjecto": "Greece",
+    "share": 0.6717
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0779
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0149,
+    "carried": 1800
+   },
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0026,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Greece",
+    "subjecto": "Greece",
+    "share": 0.7162
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0128
+   },
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.012
+   },
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Greece",
+    "subjecto": "Greece",
+    "share": 0.7395
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0127
+   },
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.0121
+   },
+   {
+    "name": "Macedonia",
+    "subjecto": "Macedonia",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ]
+ }
+}

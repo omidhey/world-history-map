@@ -1,0 +1,23 @@
+{
+  "id": "cesar-vallejo",
+  "wikidata": "Q222744",
+  "name": "César Vallejo",
+  "category": "writer",
+  "start": 1892,
+  "end": 1938,
+  "date_precision": "day",
+  "location": {
+    "lat": -8.15,
+    "lon": -78.18,
+    "place": "Santiago de Chuco"
+  },
+  "summary": "Peruvian writer, born in Santiago de Chuco. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/César_Vallejo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q222744",
+    "https://en.wikipedia.org/wiki/César_Vallejo"
+  ],
+  "disputed": false
+}

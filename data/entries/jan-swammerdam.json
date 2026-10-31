@@ -1,0 +1,23 @@
+{
+  "id": "jan-swammerdam",
+  "wikidata": "Q336794",
+  "name": "Jan Swammerdam",
+  "category": "scientist",
+  "start": 1637,
+  "end": 1680,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.37,
+    "lon": 4.88,
+    "place": "Amsterdam"
+  },
+  "summary": "Dutch entomologist and beekeeper (1637-1680), born in Amsterdam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Swammerdam"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q336794",
+    "https://en.wikipedia.org/wiki/Jan_Swammerdam"
+  ],
+  "disputed": false
+}

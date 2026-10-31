@@ -1,0 +1,23 @@
+{
+  "id": "titus-livius",
+  "wikidata": "Q2039",
+  "name": "Titus Livius",
+  "category": "writer",
+  "start": -59,
+  "end": 17,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.41,
+    "lon": 11.87,
+    "place": "Patavium"
+  },
+  "summary": "Roman historian (59 BC – AD 17), born in Patavium. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Livy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2039",
+    "https://en.wikipedia.org/wiki/Livy"
+  ],
+  "disputed": false
+}

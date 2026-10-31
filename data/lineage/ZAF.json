@@ -1,0 +1,194 @@
+{
+ "country": "ZAF",
+ "name": "South Africa",
+ "area_km2": 1216329,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9941
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9941
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9941
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9941
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9938
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9941
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9954
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0007,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9941
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9766
+   },
+   {
+    "name": "Great Zimbabwe",
+    "subjecto": "Great Zimbabwe",
+    "share": 0.0195
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8982
+   },
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.0991
+   }
+  ],
+  "1800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.6146,
+    "carried": 1500
+   },
+   {
+    "name": "Dutch settlements",
+    "subjecto": "Dutch settlements",
+    "share": 0.1051
+   },
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.0991,
+    "carried": 1500
+   },
+   {
+    "name": "Zulu",
+    "subjecto": "Zulu",
+    "share": 0.0766
+   },
+   {
+    "name": "Cape Colony",
+    "subjecto": "Netherlands",
+    "share": 0.058
+   },
+   {
+    "name": "Xhosa",
+    "subjecto": "Xhosa",
+    "share": 0.0421
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "South Africa",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9739
+   },
+   {
+    "name": "Botswana",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0101
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "South Africa",
+    "subjecto": "South Africa",
+    "share": 0.9739
+   },
+   {
+    "name": "Botswana",
+    "subjecto": "United Kingdom",
+    "share": 0.0101
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "South Africa",
+    "subjecto": "South Africa",
+    "share": 0.9739
+   },
+   {
+    "name": "Botswana",
+    "subjecto": "Botswana",
+    "share": 0.0101
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bjornstjerne-bjornson",
+  "wikidata": "Q46405",
+  "name": "Bjørnstjerne Bjørnson",
+  "category": "writer",
+  "start": 1832,
+  "end": 1910,
+  "date_precision": "day",
+  "location": {
+    "lat": 62.58,
+    "lon": 10.29,
+    "place": "Kvikne"
+  },
+  "summary": "Norwegian writer (1832–1910), born in Kvikne. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q46405",
+    "https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson"
+  ],
+  "disputed": false
+}

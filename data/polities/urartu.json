@@ -1,0 +1,26 @@
+{
+  "id": "urartu",
+  "wikidata": "Q185068",
+  "name": "Urartu",
+  "border_names": [
+    "Urartu"
+  ],
+  "type": "kingdom",
+  "start": -860,
+  "end": -590,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 38.5,
+    "lon": 43.34,
+    "place": "Tushpa"
+  },
+  "summary": "Iron Age kingdom around Lake Van in the Armenian highlands, known for fortresses and irrigation works and for its wars with Assyria.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Urartu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q185068",
+    "https://en.wikipedia.org/wiki/Urartu"
+  ],
+  "disputed": false
+}

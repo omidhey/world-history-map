@@ -1,0 +1,22 @@
+{
+  "id": "novum-organum",
+  "wikidata": "Q585046",
+  "name": "Novum Organum",
+  "category": "work",
+  "start": 1620,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.12,
+    "place": "York House, Strand"
+  },
+  "summary": "Book by Francis Bacon, associated with York House, Strand. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Novum_Organum"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q585046",
+    "https://en.wikipedia.org/wiki/Novum_Organum"
+  ],
+  "disputed": false
+}

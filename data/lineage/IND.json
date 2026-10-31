@@ -1,0 +1,540 @@
+{
+ "country": "IND",
+ "name": "India",
+ "area_km2": 3142772,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8047
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0956
+   },
+   {
+    "name": "Indus valley civilization",
+    "subjecto": "Indus valley civilization",
+    "share": 0.0929
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.7784
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0963
+   },
+   {
+    "name": "Indus valley civilization",
+    "subjecto": "Indus valley civilization",
+    "share": 0.0927
+   },
+   {
+    "name": "Tibeto-Burmanese",
+    "subjecto": "Tibeto-Burmanese",
+    "share": 0.0263
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.6385
+   },
+   {
+    "name": "Vedic Aryans",
+    "subjecto": "Vedic Aryans",
+    "share": 0.2569
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0541
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.045
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.3734
+   },
+   {
+    "name": "Iron Age megalith cultures",
+    "subjecto": "Iron Age megalith cultures",
+    "share": 0.2985
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.0642,
+    "carried": -1000
+   },
+   {
+    "name": "Magadha",
+    "subjecto": "Magadha",
+    "share": 0.06
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0541,
+    "carried": -1000
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.045,
+    "carried": -1000
+   },
+   {
+    "name": "Pancala",
+    "subjecto": "Pancala",
+    "share": 0.0231
+   },
+   {
+    "name": "Kuru",
+    "subjecto": "Kuru",
+    "share": 0.0228
+   },
+   {
+    "name": "Avanti",
+    "subjecto": "Avanti",
+    "share": 0.0182
+   },
+   {
+    "name": "Surasena",
+    "subjecto": "Surasena",
+    "share": 0.0158
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0204,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Hindu kingdoms and republics",
+    "subjecto": "Hindu kingdoms and republics",
+    "share": 0.4365
+   },
+   {
+    "name": "Magadha",
+    "subjecto": "Magadha",
+    "share": 0.3637
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0632
+   },
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.049
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0299,
+    "carried": -1000
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.0295,
+    "carried": -1000
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.016,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.3245
+   },
+   {
+    "name": "Saka Kingdom",
+    "subjecto": "Saka Kingdom",
+    "share": 0.2756
+   },
+   {
+    "name": "Satavahanihara",
+    "subjecto": "Satavahanihara",
+    "share": 0.2008
+   },
+   {
+    "name": "Kalinga",
+    "subjecto": "Kalinga",
+    "share": 0.0989
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.0295,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0291,
+    "carried": -1000
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0278,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Gupta Empire",
+    "subjecto": "Gupta Empire",
+    "share": 0.6794
+   },
+   {
+    "name": "Satavahanihara",
+    "subjecto": "Satavahanihara",
+    "share": 0.1542
+   },
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.0652
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.0295,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0291,
+    "carried": -1000
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0278,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0103,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Hindu states",
+    "subjecto": "Hindu states",
+    "share": 0.2295
+   },
+   {
+    "name": "Gurjara Pratihara",
+    "subjecto": "Gurjara Pratihara",
+    "share": 0.2165
+   },
+   {
+    "name": "Rashtrakuta state",
+    "subjecto": "Rashtrakuta state",
+    "share": 0.1574
+   },
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.1528
+   },
+   {
+    "name": "Palas",
+    "subjecto": "Palas",
+    "share": 0.0965
+   },
+   {
+    "name": "Pallava state",
+    "subjecto": "Pallava state",
+    "share": 0.0403
+   },
+   {
+    "name": "Chauhans",
+    "subjecto": "Chauhans",
+    "share": 0.0385
+   },
+   {
+    "name": "Vallabhi",
+    "subjecto": "Vallabhi",
+    "share": 0.0295
+   },
+   {
+    "name": "Pandya state",
+    "subjecto": "Pandya state",
+    "share": 0.0119
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0201,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Rajput kingdoms",
+    "subjecto": "Rajput kingdoms",
+    "share": 0.5384
+   },
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.2829
+   },
+   {
+    "name": "Chola Empire",
+    "subjecto": "Chola Empire",
+    "share": 0.0808
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.0322
+   },
+   {
+    "name": "Bhutan",
+    "subjecto": "Bhutan",
+    "share": 0.0209
+   },
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.0128
+   },
+   {
+    "name": "Buyid dynasty",
+    "subjecto": "Buyid dynasty",
+    "share": 0.0125
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0153,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.2067
+   },
+   {
+    "name": "Islamic states",
+    "subjecto": "Islamic states",
+    "share": 0.1612
+   },
+   {
+    "name": "Rajastan",
+    "subjecto": "Rajastan",
+    "share": 0.1326
+   },
+   {
+    "name": "Vijayanagara",
+    "subjecto": "Vijayanagara",
+    "share": 0.1299
+   },
+   {
+    "name": "Bengal",
+    "subjecto": "Bengal",
+    "share": 0.1037
+   },
+   {
+    "name": "Ahmadnagar",
+    "subjecto": "Ahmadnagar",
+    "share": 0.0729
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.0544
+   },
+   {
+    "name": "Burmese kingdoms",
+    "subjecto": "Burmese kingdoms",
+    "share": 0.041
+   },
+   {
+    "name": "Bijapur",
+    "subjecto": "Bijapur",
+    "share": 0.0289
+   },
+   {
+    "name": "Orissa",
+    "subjecto": "Orissa",
+    "share": 0.0282
+   },
+   {
+    "name": "Golkonda",
+    "subjecto": "Golkonda",
+    "share": 0.0239
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0117,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Maratha Confederacy",
+    "subjecto": "Maratha Confederacy",
+    "share": 0.323
+   },
+   {
+    "name": "Rajputs",
+    "subjecto": "Rajputs",
+    "share": 0.1685
+   },
+   {
+    "name": "Bundelkhand",
+    "subjecto": "Bundelkhand",
+    "share": 0.1248
+   },
+   {
+    "name": "Nizam's Dominions",
+    "subjecto": "Nizam's Dominions",
+    "share": 0.0621
+   },
+   {
+    "name": "Sikhs",
+    "subjecto": "Sikhs",
+    "share": 0.0579
+   },
+   {
+    "name": "Burma",
+    "subjecto": "Burma",
+    "share": 0.0447
+   },
+   {
+    "name": "Circars",
+    "subjecto": "Circars",
+    "share": 0.0411
+   },
+   {
+    "name": "Mysore",
+    "subjecto": "Mysore",
+    "share": 0.0377
+   },
+   {
+    "name": "Carnatic",
+    "subjecto": "Carnatic",
+    "share": 0.0291
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.0286
+   },
+   {
+    "name": "Nepal",
+    "subjecto": "Nepal",
+    "share": 0.0187
+   },
+   {
+    "name": "Oudh",
+    "subjecto": "Oudh",
+    "share": 0.0148
+   },
+   {
+    "name": "Ambur",
+    "subjecto": "Ambur",
+    "share": 0.0101
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0335,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Raj",
+    "subjecto": "United Kingdom",
+    "share": 0.9906
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.9823
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.013,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.982
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0115,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "halide-edib-adivar",
+  "wikidata": "Q234289",
+  "name": "Halide Edib Adıvar",
+  "category": "writer",
+  "start": 1884,
+  "end": 1964,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.96,
+    "place": "Istanbul"
+  },
+  "summary": "Turkish social reformer and statesperson (1884–1964), born in Istanbul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Halide_Edib_Adıvar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q234289",
+    "https://en.wikipedia.org/wiki/Halide_Edib_Adıvar"
+  ],
+  "disputed": false
+}

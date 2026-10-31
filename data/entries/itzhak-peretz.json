@@ -1,0 +1,23 @@
+{
+  "id": "itzhak-peretz",
+  "wikidata": "Q425644",
+  "name": "Itzhak Peretz",
+  "category": "writer",
+  "start": 1852,
+  "end": 1915,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.72,
+    "lon": 23.26,
+    "place": "Zamość"
+  },
+  "summary": "Yiddish language author and playwright (1852–1915), born in Zamość. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/I._L._Peretz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q425644",
+    "https://en.wikipedia.org/wiki/I._L._Peretz"
+  ],
+  "disputed": false
+}

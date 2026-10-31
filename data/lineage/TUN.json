@@ -1,0 +1,212 @@
+{
+ "country": "TUN",
+ "name": "Tunisia",
+ "area_km2": 156279,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.943
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.943
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Berbers",
+    "subjecto": "Berbers",
+    "share": 0.9218
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0212
+   }
+  ],
+  "-500": [
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.6767
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2663
+   }
+  ],
+  "-323": [
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.6767
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2663
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.57
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2663,
+    "carried": -323
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.1067,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.57
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2663,
+    "carried": -323
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.1067,
+    "carried": -323
+   }
+  ],
+  "800": [
+   {
+    "name": "Aghlabid Emirate",
+    "subjecto": "Aghlabid Emirate",
+    "share": 0.8622
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0808,
+    "carried": -323
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.8622
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.0808
+   }
+  ],
+  "1500": [
+   {
+    "name": "Hafsid Caliphate",
+    "subjecto": "Hafsid Caliphate",
+    "share": 0.867
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.0808,
+    "carried": 1200
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tunis",
+    "subjecto": "Ottoman Empire",
+    "share": 0.5735
+   },
+   {
+    "name": "Hafsid Caliphate",
+    "subjecto": "Hafsid Caliphate",
+    "share": 0.2795,
+    "carried": 1500
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.0808,
+    "carried": 1200
+   },
+   {
+    "name": "Algiers",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0218
+   }
+  ],
+  "1914": [
+   {
+    "name": "Tunisia",
+    "subjecto": "Tunisia",
+    "share": 0.9302
+   },
+   {
+    "name": "Algeria",
+    "subjecto": "France",
+    "share": 0.018
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Tunisia",
+    "subjecto": "France",
+    "share": 0.9302
+   },
+   {
+    "name": "Algeria",
+    "subjecto": "France",
+    "share": 0.018
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Tunisia",
+    "subjecto": "Tunisia",
+    "share": 0.9432
+   },
+   {
+    "name": "Algeria",
+    "subjecto": "Algeria",
+    "share": 0.018
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ]
+ }
+}

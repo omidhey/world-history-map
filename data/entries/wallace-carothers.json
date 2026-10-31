@@ -1,0 +1,23 @@
+{
+  "id": "wallace-carothers",
+  "wikidata": "Q333724",
+  "name": "Wallace Carothers",
+  "category": "scientist",
+  "start": 1896,
+  "end": 1937,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.81,
+    "lon": -91.1,
+    "place": "Burlington"
+  },
+  "summary": "American organic chemist (1896–1937), born in Burlington. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace_Carothers"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q333724",
+    "https://en.wikipedia.org/wiki/Wallace_Carothers"
+  ],
+  "disputed": false
+}

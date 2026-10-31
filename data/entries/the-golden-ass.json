@@ -1,0 +1,22 @@
+{
+  "id": "the-golden-ass",
+  "wikidata": "Q1044767",
+  "name": "The Golden Ass",
+  "category": "work",
+  "start": 101,
+  "date_precision": "century",
+  "location": {
+    "lat": 36.08,
+    "lon": 7.9,
+    "place": "Madauros"
+  },
+  "summary": "Ancient Roman novel by Apuleius, associated with Madauros. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Golden_Ass"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1044767",
+    "https://en.wikipedia.org/wiki/The_Golden_Ass"
+  ],
+  "disputed": false
+}

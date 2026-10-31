@@ -27,6 +27,22 @@
     }
     #ticks span { cursor: pointer; }
     #ticks span.current { color: #000; font-weight: bold; }
+    #timeline { background: #fafafa; border-top: 1px solid #ccc; padding: 4px 16px; font-size: 11px; color: #444; }
+    #timeline[hidden] { display: none; }
+    #panel svg.area { width: 100%; height: auto; display: block; margin: 4px 0; }
+    #panel svg.area path { fill: none; stroke-width: 2; }
+    #panel svg.area .recorded { stroke: #6250d6; }
+    #panel svg.area .carried { stroke: #6250d6; opacity: 0.4; stroke-dasharray: 4 3; }
+    #panel svg.area .pt { fill: #6250d6; cursor: pointer; }
+    #panel svg.area .pt.now { fill: #c00; }
+    #panel svg.area text { font-size: 9px; fill: #444; }
+    #timeline svg { display: block; width: 100%; }
+    #timeline .dyn { fill: #6250d6; opacity: 0.55; cursor: pointer; }
+    #timeline .dyn.now { opacity: 1; }
+    #timeline .rul { fill: #008300; opacity: 0.5; cursor: pointer; }
+    #timeline .rul.now { opacity: 1; }
+    #timeline .marker { stroke: #c00; stroke-width: 2; }
+    #timeline text { font-size: 10px; fill: #444; }
     footer {
       padding: 4px 16px 6px; background: #fafafa; font-size: 12px; color: #555;
     }
@@ -43,8 +59,23 @@
     #main { flex: 1; display: flex; min-height: 0; }
     #map-wrap { flex: 1; position: relative; min-width: 0; }
     #map-wrap #map { position: absolute; inset: 0; }
+    #side { width: 320px; flex: none; display: flex; flex-direction: column; position: relative; min-height: 0; border-left: 1px solid #ccc; background: #fff; }
+    #side:has(#panel.collapsed) { display: none; }
+    #search-bar { display: flex; gap: 6px; padding: 6px 8px; background: #fafafa; border-bottom: 1px solid #ddd; }
+    #search { flex: 1; min-width: 0; font: inherit; font-size: 13px; padding: 4px 6px; }
+    #copy-link { font-size: 12px; cursor: pointer; }
+    #search-results {
+      position: absolute; top: 40px; left: 8px; right: 8px; z-index: 2000; max-height: 60vh; overflow-y: auto;
+      background: #fff; border: 1px solid #999; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25); font-size: 13px;
+    }
+    #search-results[hidden] { display: none; }
+    #search-results button { display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit; padding: 5px 8px; cursor: pointer; }
+    #search-results button.active, #search-results button:hover { background: #eef3fa; }
+    #search-results .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333; }
+    #search-results small { display: block; color: #555; margin-left: 17px; }
+    #search-results .none { padding: 8px; color: #555; }
     #panel {
-      width: 320px; flex: none; overflow-y: auto; background: #fff; border-left: 1px solid #ccc;
+      flex: 1; min-height: 0; overflow-y: auto; background: #fff;
       font-size: 13px; color: #222;
     }
     #panel.collapsed { display: none; }
@@ -54,6 +85,13 @@
     #panel-toggle {
       position: absolute; top: 10px; right: 10px; z-index: 1000; font-size: 13px; padding: 4px 8px; cursor: pointer;
     }
+    #panel .follow { padding: 8px 12px; border-bottom: 1px solid #ddd; }
+    #panel .follow select { width: 100%; font: inherit; margin-top: 2px; }
+    #panel .follow .stop { float: right; font-size: 12px; }
+    #panel .follow small { color: #555; display: block; margin-top: 4px; }
+    #panel .power { display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit; padding: 3px 0; }
+    #panel button.power { cursor: pointer; }
+    #panel .power .bar { display: block; height: 6px; border-radius: 3px; margin-top: 2px; }
     #panel .cat { display: flex; align-items: center; gap: 6px; padding: 6px 12px 2px; font-weight: 600; cursor: pointer; }
     #panel .cat.empty { color: #888; }
     #panel .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333; }
@@ -77,14 +115,22 @@
       border-radius: 4px; text-decoration: none;
     }
     #panel .card a { word-break: break-word; }
+    #panel .card details { margin: 6px 0; }
+    #panel .card summary { cursor: pointer; font-weight: bold; }
+    #panel .card ul.reigns { list-style: none; padding-left: 0; }
+    #panel .card ul.reigns li { padding: 2px 6px; border-left: 3px solid transparent; }
+    #panel .card ul.reigns li.now { background: #eef6ff; border-left-color: #2a6fb0; }
+    #panel .card ul.reigns small { display: block; }
     .leaflet-tooltip.entry { font-size: 13px; }
     .leaflet-tooltip.entry small { color: #555; }
     @media (max-width: 600px) {
       #title { left: 50px; right: 10px; font-size: 14px; }
       #main { flex-direction: column; }
-      #panel { width: auto; max-height: 45vh; border-left: 0; border-top: 1px solid #ccc; }
-      #panel.sheet-closed { max-height: 40px; overflow: hidden; }
+      #side { width: auto; max-height: 45vh; border-left: 0; border-top: 1px solid #ccc; }
+      #side:has(#panel.sheet-closed) { max-height: 40px; overflow: hidden; }
+      #side:has(#panel.sheet-closed) #search-bar { display: none; }
       #panel-toggle { display: none; }
+      #follow { min-height: 32px; font-size: 14px; }
       #ticks { display: none; } /* 14 labels do not fit on a phone; the title shows the year */
     }
   </style>
@@ -96,8 +142,16 @@
       <div id="map"></div>
       <button id="panel-toggle" aria-label="Show or hide the side panel">Panel</button>
     </div>
-    <aside id="panel" aria-label="Entries in this period"></aside>
+    <div id="side">
+      <div id="search-bar">
+        <input id="search" type="search" placeholder="Search people, works, states…" autocomplete="off" aria-label="Search entries and states">
+        <button id="copy-link" type="button" title="Copy a link to this view">Copy link</button>
+      </div>
+      <div id="search-results" role="listbox" hidden></div>
+      <aside id="panel" aria-label="Entries in this period"></aside>
+    </div>
   </div>
+  <div id="timeline" role="img" hidden></div>
   <div id="controls">
     <button id="prev" title="Previous snapshot" aria-label="Previous snapshot">‹</button>
     <input id="slider" type="range" min="0" max="0" value="0" step="1" aria-label="Year">
@@ -109,393 +163,15 @@
     by A. Ourednik (GPL-3.0). Borders are approximate; dashed outlines are the least certain;
     purple outlines are <a href="https://github.com/omidhey/world-history-map/blob/main/docs/vanished-realms.md">sourced corrections</a>;
     pale areas keep their last recorded realm where the source names none.
-    · Map: <a href="https://leafletjs.com">Leaflet</a>
+    · Map: <a href="https://leafletjs.com">Leaflet</a>, <a href="https://github.com/topojson/topojson-client">topojson-client</a>, <a href="https://www.fusejs.io">Fuse.js</a>
     · <a href="https://github.com/omidhey/world-history-map">Source on GitHub</a>
     (<a href="https://github.com/omidhey/world-history-map#licensing">code GPL-3.0, text CC BY-SA 4.0</a>)
+    · <a href="about.html">About, sources and limitations</a>
     · <a id="suggest-addition" href="https://github.com/omidhey/world-history-map/issues/new?template=add-entry.yml">Suggest an addition</a>
   </footer>
 
   <script src="vendor/leaflet/leaflet.js"></script>
-  <script>
-    const DATA = "data/borders/";
-    const REPO = "https://github.com/omidhey/world-history-map";
-    const titleEl = document.getElementById("title");
-    const slider = document.getElementById("slider");
-    const ticksEl = document.getElementById("ticks");
-
-    const map = L.map("map", { worldCopyJump: true, preferCanvas: true }).setView([30, 20], 2);
-    map.attributionControl.setPrefix(false); // credits live in the footer
-
-    // Years are integers, negative = BCE, no year 0.
-    function formatYear(year) {
-      return year < 0 ? -year + " BCE" : year + " CE";
-    }
-
-    // Stable colour per ruling power: the same SUBJECTO hashes to the same hue in every snapshot.
-    function hashString(text) {
-      let hash = 2166136261; // FNV-1a
-      for (let i = 0; i < text.length; i++) {
-        hash ^= text.charCodeAt(i);
-        hash = Math.imul(hash, 16777619);
-      }
-      return hash >>> 0;
-    }
-    function colourFor(subjecto) {
-      const hash = hashString(subjecto);
-      const hue = hash % 360;
-      const saturation = 45 + ((hash >>> 9) % 25); // 45–69 %
-      const lightness = 55 + ((hash >>> 17) % 15); // 55–69 %
-      return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
-    }
-
-    function style(feature) {
-      const p = feature.properties;
-      const owner = p.SUBJECTO || p.NAME;
-      const uncertain = p.BORDERPRECISION === 1;
-      if (p.CARRIED !== undefined) {
-        // Source has no realm here this year; keep the last recorded holder's colour, lighter (pipeline/carry_forward.py).
-        return { color: "#777", weight: 0.4, opacity: 0.7, dashArray: "2 4",
-                 fillColor: colourFor(owner), fillOpacity: 0.35 };
-      }
-      if (p.OVERRIDE) {
-        // Corrected by this project (data/borders/overrides.json): outlined so it is not mistaken for upstream data.
-        return { color: "#6a2c91", weight: 1.6, opacity: 1, dashArray: "4 3",
-                 fillColor: colourFor(owner), fillOpacity: 0.7 };
-      }
-      return {
-        color: "#444",
-        weight: owner ? 0.8 : 0.4,
-        opacity: uncertain ? 0.6 : 0.9,
-        dashArray: uncertain ? "3 3" : null,
-        fillColor: owner ? colourFor(owner) : "#e9e4d4", // unnamed land: neutral
-        fillOpacity: owner ? (uncertain ? 0.55 : 0.8) : 0.6,
-      };
-    }
-
-    function escapeHtml(text) {
-      return String(text).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-    }
-
-    function tooltipHtml(p, year) {
-      if (p.CARRIED !== undefined) {
-        return "<small>Last recorded here (" + formatYear(p.CARRIED) + ")</small><br><b>" + escapeHtml(p.NAME) + "</b>" +
-          '<div class="note">The source records no realm here in ' + formatYear(year) +
-          ". The land keeps the colour of its last recorded holder; it may have ended or changed hands since.</div>";
-      }
-      let html = "<b>" + escapeHtml(p.NAME) + "</b>";
-      if (p.SUBJECTO && p.SUBJECTO !== p.NAME) html += "<br><small>under " + escapeHtml(p.SUBJECTO) + "</small>";
-      if (p.BORDERPRECISION === 1) html += "<br><small>border approximate</small>";
-      if (p.OVERRIDE) {
-        html += '<div class="note"><b>Corrected by this project.</b> ' + escapeHtml(p.NOTE) + "</div>";
-      }
-      return html;
-    }
-
-    // "Suggest an edit" without a backend: a GitHub issue form pre-filled through URL parameters.
-    // Keys are the field ids in .github/ISSUE_TEMPLATE/<template>.
-    const ISSUES = REPO + "/issues/new";
-    function suggestEditUrl(template, title, fields) {
-      const params = new URLSearchParams({ template, title, ...fields });
-      return ISSUES + "?" + params.toString();
-    }
-
-    function popupHtml(p, year) {
-      const name = p.NAME || "unnamed land";
-      const url = suggestEditUrl("border-error.yml", "[Border] " + name + ", " + formatYear(year), {
-        year: formatYear(year),
-        realm: p.SUBJECTO && p.SUBJECTO !== p.NAME ? name + " (under " + p.SUBJECTO + ")" : name,
-      });
-      return "<b>" + escapeHtml(name) + "</b><br><small>Borders as of " + formatYear(year) + "</small><br>" +
-        '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">Report a border error</a>';
-    }
-
-    function highlight(event) {
-      event.target.setStyle({ weight: 2.5, color: "#000", opacity: 1 });
-      event.target.bringToFront();
-    }
-
-    let snapshots = [];
-
-    // ---- Entries (data/entries/ merged into data/entries.json by pipeline/build.py) ----
-    // Fixed category order and colours (validated categorical palette; filtering never repaints).
-    const CATEGORIES = [
-      ["philosopher", "Philosophers", "#2a78d6"],
-      ["scientist", "Scientists", "#eb6834"],
-      ["writer", "Writers", "#1baf7a"],
-      ["work", "Works", "#eda100"],
-      ["invention", "Inventions", "#e87ba4"],
-      ["ruler", "Rulers", "#008300"],
-      ["dynasty", "Dynasties", "#6250d6"],
-      ["culture", "Cultures", "#e34948"],
-    ];
-    const SINGULAR = { philosopher: "Philosopher", scientist: "Scientist", writer: "Writer", work: "Work",
-                       invention: "Invention", ruler: "Ruler", dynasty: "Dynasty", culture: "Culture" };
-    const categoryColour = Object.fromEntries(CATEGORIES.map(([key, , colour]) => [key, colour]));
-    const enabled = new Set(CATEGORIES.map(([key]) => key));
-    let entries = [];
-
-    map.createPane("entries").style.zIndex = 450; // above the border polygons, below tooltips and popups
-    const entriesLayer = L.layerGroup().addTo(map);
-
-    // The period a snapshot stands for: from its year up to the year before the next snapshot.
-    function periodOf(index) {
-      const from = snapshots[index].year;
-      const next = snapshots[index + 1];
-      let to = next ? next.year - 1 : new Date().getFullYear();
-      if (to === 0) to = -1; // there is no year 0
-      return { from, to };
-    }
-
-    // People, dynasties and cultures show while they lived or lasted; works and inventions
-    // without an end year show in the period they appeared. Disputed records use the
-    // widest range of their competing claims (span, from pipeline/build.py).
-    function inPeriod(entry, { from, to }) {
-      const [start, end] = entry.span || [entry.start, entry.end !== undefined ? entry.end : entry.start];
-      return start <= to && end >= from;
-    }
-
-    function formatDates(entry) {
-      const approx = entry.date_precision === "day" || entry.date_precision === "year" ? "" : "c. ";
-      let text = approx + formatYear(entry.start);
-      if (entry.end !== undefined && entry.end !== entry.start) text += " – " + approx + formatYear(entry.end);
-      return text + (entry.disputed ? " (disputed)" : "");
-    }
-
-    function link(url, text) {
-      return '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + text + "</a>";
-    }
-
-    function sourceItem(src) {
-      return "<li>" + (/^https?:\/\//.test(src) ? link(src, escapeHtml(src.replace(/^https?:\/\/(www\.)?/, ""))) : escapeHtml(src)) + "</li>";
-    }
-
-    function cardHtml(entry) {
-      const edit = suggestEditUrl("correct-entry.yml", "[Correction] " + entry.id, { entry: entry.id });
-      let html = '<div class="card"><h2>' + escapeHtml(entry.name) + "</h2><small>" +
-        SINGULAR[entry.category] + " · " + escapeHtml(formatDates(entry)) + " · " +
-        escapeHtml(entry.location.place) + "</small><p>" + escapeHtml(entry.summary) + "</p>";
-      if (entry.claims) {
-        html += '<div class="disputed"><b>Disputed.</b> Sources disagree:<ul>' + entry.claims.map((c) =>
-          "<li>" + c.field + ": " + formatYear(c.value) + (c.note ? " — " + escapeHtml(c.note) : "") + "</li>").join("") + "</ul></div>";
-      }
-      if (entry.links && entry.links.wikipedia) html += "<p>" + link(entry.links.wikipedia, "Wikipedia") + "</p>";
-      html += "<b>Sources</b><ul>" + (entry.sources || []).map(sourceItem).join("") + "</ul><small>" +
-        link(REPO + "/blob/main/data/entries/" + encodeURIComponent(entry.id) + ".json", "View record on GitHub") +
-        '</small><br><a class="edit" href="' + escapeHtml(edit) + '" target="_blank" rel="noopener">Suggest an edit</a></div>';
-      return html;
-    }
-
-    // ---- Side panel: category toggles with the period's entries, or the open card(s) ----
-    const panel = document.getElementById("panel");
-    let openIds = null;      // ids of the card(s) shown, or null for the list
-    let currentList = [];
-    const markerById = new Map();
-    let highlighted = [];
-
-    function setHighlight(ids) {
-      for (const marker of highlighted) marker.setStyle({ color: "#fff", weight: 2 });
-      highlighted = [];
-      for (const id of ids || []) {
-        const marker = markerById.get(id);
-        if (!marker) continue;
-        marker.setStyle({ color: "#000", weight: 4 });
-        marker.bringToFront();
-        highlighted.push(marker);
-      }
-    }
-
-    function openCards(ids, centre) {
-      openIds = ids;
-      const first = entries.find((e) => e.id === ids[0]);
-      if (centre && first) map.setView([first.location.lat, first.location.lon], Math.max(map.getZoom(), 4));
-      panel.classList.remove("sheet-closed");
-      renderPanel();
-    }
-
-    function renderPanel() {
-      if (!snapshots.length || requested < 0) return;
-      const period = periodOf(requested);
-      if (openIds) {
-        const shown = openIds.map((id) => entries.find((e) => e.id === id)).filter(Boolean);
-        panel.innerHTML = '<header><button class="back">← All entries</button></header>' + shown.map(cardHtml).join("");
-        panel.querySelector(".back").addEventListener("click", closeCards);
-        setHighlight(openIds);
-        return;
-      }
-      panel.innerHTML = '<header><b>In this period</b> <span class="count">' + currentList.length + '</span><div class="period">' +
-        formatYear(period.from) + " – " + formatYear(period.to) + "</div></header>" +
-        CATEGORIES.map(([key, label, colour]) => {
-          const items = currentList.filter((e) => e.category === key);
-          return '<label class="cat' + (items.length ? "" : " empty") + '"><input type="checkbox" value="' + key + '"' +
-            (enabled.has(key) ? " checked" : "") + '><span class="dot" style="background:' + colour + '"></span>' + label +
-            '<span class="count">' + items.length + "</span></label>" +
-            (enabled.has(key) ? items.map((e) =>
-              '<button class="item-btn" data-id="' + escapeHtml(e.id) + '"><b>' + escapeHtml(e.name) + "</b><small>" +
-              escapeHtml(formatDates(e)) + "</small></button>").join("") : "");
-        }).join("");
-      setHighlight([]);
-    }
-
-    function closeCards() {
-      openIds = null;
-      renderPanel();
-      renderEntries();
-    }
-
-    panel.addEventListener("change", (e) => {
-      if (e.target.checked) enabled.add(e.target.value);
-      else enabled.delete(e.target.value);
-      renderEntries();
-    });
-    panel.addEventListener("click", (e) => {
-      const btn = e.target.closest(".item-btn");
-      if (btn) openCards([btn.dataset.id], true);
-      else if (window.innerWidth <= 600 && e.target.closest("header") && !e.target.closest(".back")) {
-        panel.classList.toggle("sheet-closed");
-      }
-    });
-    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && openIds) closeCards(); });
-    document.getElementById("panel-toggle").addEventListener("click", () => {
-      panel.classList.toggle("collapsed");
-      map.invalidateSize();
-    });
-    if (window.innerWidth <= 600) panel.classList.add("sheet-closed");
-
-    function renderEntries() {
-      entriesLayer.clearLayers();
-      markerById.clear();
-      highlighted = [];
-      if (requested < 0 || !snapshots.length) return;
-      currentList = entries.filter((e) => inPeriod(e, periodOf(requested)))
-        .sort((a, b) => a.start - b.start || a.id.localeCompare(b.id));
-      if (openIds) openIds = openIds.filter((id) => currentList.some((e) => e.id === id));
-      if (openIds && !openIds.length) openIds = null;
-
-      // One marker per place, so records at the same spot (e.g. Athens) stay clickable.
-      const byPlace = new Map();
-      for (const entry of currentList) {
-        if (!enabled.has(entry.category)) continue;
-        const key = entry.location.lat + "," + entry.location.lon;
-        if (!byPlace.has(key)) byPlace.set(key, []);
-        byPlace.get(key).push(entry);
-      }
-      for (const group of byPlace.values()) {
-        const first = group[0];
-        const marker = L.circleMarker([first.location.lat, first.location.lon], {
-          pane: "entries", radius: group.length > 1 ? 8 : 6,
-          color: "#fff", weight: 2, opacity: 1, fillColor: categoryColour[first.category], fillOpacity: 1,
-        });
-        marker.bindTooltip(
-          group.map((e) => "<b>" + escapeHtml(e.name) + "</b> <small>" + escapeHtml(formatDates(e)) + "</small>").join("<br>"),
-          { className: "entry", direction: "top", offset: [0, -6] }
-        );
-        const ids = group.map((e) => e.id);
-        marker.on("click", () => openCards(ids, false));
-        group.forEach((e) => markerById.set(e.id, marker));
-        entriesLayer.addLayer(marker);
-      }
-      renderPanel();
-    }
-
-    fetch("data/entries.json")
-      .then((response) => {
-        if (!response.ok) throw new Error("HTTP " + response.status);
-        return response.json();
-      })
-      .then((data) => {
-        entries = data;
-        renderEntries();
-      })
-      .catch((error) => {
-        panel.textContent = "Could not load entries (" + error.message + ")";
-      });
-    let currentLayer = null;
-    let requested = -1;
-    const cache = new Map(); // year -> Promise<GeoJSON>
-
-    function loadYear(year, file) {
-      if (!cache.has(year)) {
-        const request = fetch(DATA + file).then((response) => {
-          if (!response.ok) throw new Error("HTTP " + response.status);
-          return response.json();
-        });
-        request.catch(() => cache.delete(year)); // allow a retry after a failed load
-        cache.set(year, request);
-      }
-      return cache.get(year);
-    }
-
-    async function show(index) {
-      requested = index;
-      const { year, file } = snapshots[index];
-      slider.value = index;
-      titleEl.textContent = "Borders as of " + formatYear(year) + " …";
-      renderEntries();
-      ticksEl.querySelectorAll("span").forEach((s, i) => s.classList.toggle("current", i === index));
-
-      let geojson;
-      try {
-        geojson = await loadYear(year, file);
-      } catch (error) {
-        titleEl.textContent = "Could not load " + formatYear(year) + " (" + error.message + ")";
-        return;
-      }
-      if (requested !== index) return; // the slider moved on while this file was loading
-
-      const layer = L.geoJSON(geojson, {
-        style,
-        onEachFeature: (feature, layer) => {
-          layer.bindPopup(popupHtml(feature.properties, year), { className: "polity" });
-          if (!feature.properties.NAME) return; // unnamed land: no tooltip
-          layer.bindTooltip(tooltipHtml(feature.properties, year), { sticky: true, className: "polity" });
-          layer.on({ mouseover: highlight, mouseout: (e) => layer.setStyle(style(feature)) });
-        },
-      }).addTo(map);
-      if (currentLayer) map.removeLayer(currentLayer);
-      currentLayer = layer;
-      titleEl.textContent = "Borders as of " + formatYear(year);
-
-      // Warm the cache for the neighbours so sliding feels instant.
-      for (const n of [index - 1, index + 1]) {
-        if (snapshots[n]) loadYear(snapshots[n].year, snapshots[n].file).catch(() => {});
-      }
-    }
-
-    function step(delta) {
-      const index = Math.min(snapshots.length - 1, Math.max(0, Number(slider.value) + delta));
-      if (index !== requested) show(index);
-    }
-
-    slider.addEventListener("input", () => show(Number(slider.value)));
-    document.getElementById("prev").addEventListener("click", () => step(-1));
-    document.getElementById("next").addEventListener("click", () => step(1));
-    document.addEventListener("keydown", (e) => {
-      if (e.target === slider) return; // the range input handles its own arrow keys
-      if (e.key === "ArrowLeft") step(-1);
-      if (e.key === "ArrowRight") step(1);
-    });
-
-    fetch(DATA + "manifest.json")
-      .then((response) => {
-        if (!response.ok) throw new Error("HTTP " + response.status);
-        return response.json();
-      })
-      .then((manifest) => {
-        snapshots = manifest.snapshots;
-        slider.max = snapshots.length - 1;
-        snapshots.forEach(({ year }, i) => {
-          const tick = document.createElement("span");
-          tick.textContent = year < 0 ? -year + " BCE" : year;
-          tick.addEventListener("click", () => show(i));
-          ticksEl.appendChild(tick);
-        });
-        const start = snapshots.findIndex((s) => s.year === 1500);
-        show(start >= 0 ? start : 0);
-      })
-      .catch((error) => {
-        titleEl.textContent =
-          "Could not load borders (" + error.message + "). Run pipeline/build_site.py, then start the page with run_site.bat.";
-      });
-  </script>
+  <script src="vendor/topojson/topojson-client.min.js"></script>
+  <script type="module" src="js/main.js"></script>
 </body>
 </html>

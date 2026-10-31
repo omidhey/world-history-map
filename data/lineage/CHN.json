@@ -1,0 +1,560 @@
+{
+ "country": "CHN",
+ "name": "China",
+ "area_km2": 9409565,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9867
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Thai",
+    "subjecto": "Thai",
+    "share": 0.3937
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2922
+   },
+   {
+    "name": "Tibeto-Burmanese",
+    "subjecto": "Tibeto-Burmanese",
+    "share": 0.1301
+   },
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.0609
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0594
+   },
+   {
+    "name": "Xia",
+    "subjecto": "Xia",
+    "share": 0.027
+   },
+   {
+    "name": "Andronovo",
+    "subjecto": "Andronovo",
+    "share": 0.0148
+   },
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.0135
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0063,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.325
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.207
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.1719
+   },
+   {
+    "name": "Zhoa",
+    "subjecto": "Zhoa",
+    "share": 0.1247
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0528
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0391
+   },
+   {
+    "name": "Wu",
+    "subjecto": "Wu",
+    "share": 0.0235
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0186
+   },
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.0135
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0129
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0035,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.325,
+    "carried": -1000
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.207
+   },
+   {
+    "name": "Zhou states",
+    "subjecto": "Zhou states",
+    "share": 0.1658
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.1494,
+    "carried": -1000
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0528,
+    "carried": -1000
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0391,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0186,
+    "carried": -1000
+   },
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.0135
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0129,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0076,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2825,
+    "carried": -1000
+   },
+   {
+    "name": "Zhou states",
+    "subjecto": "Zhou states",
+    "share": 0.1991
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.1979,
+    "carried": -500
+   },
+   {
+    "name": "Sinic",
+    "subjecto": "Sinic",
+    "share": 0.0811,
+    "carried": -1000
+   },
+   {
+    "name": "Qin",
+    "subjecto": "Qin",
+    "share": 0.0625
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.038,
+    "carried": -1000
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0374
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.037,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0174,
+    "carried": -1000
+   },
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.0135
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0129,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0106,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Han",
+    "subjecto": "Han",
+    "share": 0.4083
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2635,
+    "carried": -1000
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.1642
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0551,
+    "carried": -500
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0374,
+    "carried": -323
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0189,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0174,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0287,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Jin",
+    "subjecto": "Jin",
+    "share": 0.2816
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2634,
+    "carried": -1000
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.1307,
+    "carried": -1
+   },
+   {
+    "name": "Sixteen Kingdoms",
+    "subjecto": "Sixteen Kingdoms",
+    "share": 0.1109
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.0555
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.0374,
+    "carried": -323
+   },
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.0319,
+    "carried": -500
+   },
+   {
+    "name": "Burmese",
+    "subjecto": "Burmese",
+    "share": 0.0189,
+    "carried": -1000
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0171,
+    "carried": -1000
+   },
+   {
+    "name": "Northern Liang",
+    "subjecto": "Northern Liang",
+    "share": 0.017
+   },
+   {
+    "name": "Paleo-Siberian hunter-gatherers",
+    "subjecto": "Paleo-Siberian hunter-gatherers",
+    "share": 0.0135
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0153,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.3917
+   },
+   {
+    "name": "Tang Empire",
+    "subjecto": "Tang Empire",
+    "share": 0.3308
+   },
+   {
+    "name": "Uyghurs",
+    "subjecto": "Uyghurs",
+    "share": 0.1737
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.0258,
+    "carried": 400
+   },
+   {
+    "name": "Nan Chao",
+    "subjecto": "Nan Chao",
+    "share": 0.025
+   },
+   {
+    "name": "Tungus",
+    "subjecto": "Tungus",
+    "share": 0.0156
+   },
+   {
+    "name": "Parhae",
+    "subjecto": "Parhae",
+    "share": 0.0134
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0173,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Song Empire",
+    "subjecto": "Song Empire",
+    "share": 0.3181
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.2205
+   },
+   {
+    "name": "Mongol Empire",
+    "subjecto": "Mongol Empire",
+    "share": 0.1508
+   },
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.1014
+   },
+   {
+    "name": "Xixia",
+    "subjecto": "Xixia",
+    "share": 0.0793
+   },
+   {
+    "name": "Liao",
+    "subjecto": "Liao",
+    "share": 0.0766
+   },
+   {
+    "name": "Nan Chao",
+    "subjecto": "Nan Chao",
+    "share": 0.0333
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0134,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ming Chinese Empire",
+    "subjecto": "Ming Chinese Empire",
+    "share": 0.4212
+   },
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.3872
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1792
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0057,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.9717
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0214,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Manchu Empire",
+    "subjecto": "Manchu Empire",
+    "share": 0.6949
+   },
+   {
+    "name": "Xinjiang",
+    "subjecto": "Xinjiang",
+    "share": 0.1703
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1195
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0087,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.5771
+   },
+   {
+    "name": "Xinjiang",
+    "subjecto": "Xinjiang",
+    "share": 0.1703
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1196
+   },
+   {
+    "name": "Manchuria",
+    "subjecto": "Manchuria",
+    "share": 0.1173
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0089,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.9842
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0088,
+    "other": true
+   }
+  ]
+ }
+}

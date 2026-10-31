@@ -1,0 +1,41 @@
+{
+ "country": "QAT",
+ "name": "Qatar",
+ "area_km2": 11328,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [],
+  "-2000": [],
+  "-1000": [],
+  "-500": [],
+  "-323": [],
+  "-1": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7059
+   }
+  ],
+  "400": [],
+  "800": [],
+  "1200": [],
+  "1500": [
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.5216
+   }
+  ],
+  "1800": [
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.5216,
+    "carried": 1500
+   }
+  ],
+  "1914": [],
+  "1945": [],
+  "2010": []
+ }
+}

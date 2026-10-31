@@ -1,0 +1,40 @@
+{
+  "id": "crime-and-punishment",
+  "wikidata": "Q165318",
+  "name": "Crime and Punishment",
+  "category": "work",
+  "start": 1866,
+  "date_precision": "year",
+  "location": {
+    "lat": 55.78,
+    "lon": 37.61,
+    "place": "Mariinsky Hospital for the Poor"
+  },
+  "summary": "1866 Russian-language novel by Dostoyevsky by Fyodor Dostoyevsky, associated with Mariinsky Hospital for the Poor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Crime_and_Punishment"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q165318",
+    "https://en.wikipedia.org/wiki/Crime_and_Punishment"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1866,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q165318"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1886,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q165318"
+      ]
+    }
+  ]
+}

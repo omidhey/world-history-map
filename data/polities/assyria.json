@@ -1,0 +1,26 @@
+{
+  "id": "assyria",
+  "wikidata": "Q41137",
+  "name": "Assyria",
+  "border_names": [
+    "Assyria"
+  ],
+  "type": "empire",
+  "start": -2025,
+  "end": -609,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 35.46,
+    "lon": 43.26,
+    "place": "Assur"
+  },
+  "summary": "Mesopotamian kingdom on the upper Tigris that became the largest empire of its time in the 9th–7th centuries BCE, known for its army and for deporting conquered peoples.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Assyria"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41137",
+    "https://en.wikipedia.org/wiki/Assyria"
+  ],
+  "disputed": false
+}

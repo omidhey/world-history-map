@@ -1,0 +1,23 @@
+{
+  "id": "juvenal",
+  "wikidata": "Q193800",
+  "name": "Juvenal",
+  "category": "writer",
+  "start": 55,
+  "end": 200,
+  "date_precision": "century",
+  "location": {
+    "lat": 41.48,
+    "lon": 13.71,
+    "place": "Aquino"
+  },
+  "summary": "Early 2nd century Roman poet, born in Aquino. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Juvenal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193800",
+    "https://en.wikipedia.org/wiki/Juvenal"
+  ],
+  "disputed": false
+}

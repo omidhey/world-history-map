@@ -1,0 +1,23 @@
+{
+  "id": "euclid",
+  "wikidata": "Q8747",
+  "name": "Euclid",
+  "category": "scientist",
+  "start": -333,
+  "end": -285,
+  "date_precision": "century",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "Ancient Greek mathematician (fl. 300 BC), died in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Euclid"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8747",
+    "https://en.wikipedia.org/wiki/Euclid"
+  ],
+  "disputed": false
+}

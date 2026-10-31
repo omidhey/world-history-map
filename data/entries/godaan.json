@@ -1,0 +1,22 @@
+{
+  "id": "godaan",
+  "wikidata": "Q904382",
+  "name": "Godaan",
+  "category": "work",
+  "start": 1936,
+  "date_precision": "year",
+  "location": {
+    "lat": 25.32,
+    "lon": 83.01,
+    "place": "Varanasi"
+  },
+  "summary": "Novel by Munshi Premchand, associated with Varanasi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Godaan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q904382",
+    "https://en.wikipedia.org/wiki/Godaan"
+  ],
+  "disputed": false
+}

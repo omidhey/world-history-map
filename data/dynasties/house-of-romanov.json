@@ -1,0 +1,18 @@
+{
+  "id": "house-of-romanov",
+  "wikidata": "Q112707",
+  "name": "House of Romanov",
+  "polity": "russian-empire",
+  "start": 1721,
+  "end": 1917,
+  "date_precision": "year",
+  "summary": "Dynasty that ruled Russia from 1613; here its emperors from the proclamation of the empire in 1721 to the revolution of 1917.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Romanov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q112707",
+    "https://en.wikipedia.org/wiki/House_of_Romanov"
+  ],
+  "disputed": false
+}

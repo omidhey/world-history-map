@@ -1,0 +1,22 @@
+{
+  "id": "so-long-a-letter",
+  "wikidata": "Q7549373",
+  "name": "So Long a Letter",
+  "category": "work",
+  "start": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.67,
+    "lon": -17.43,
+    "place": "Dakar"
+  },
+  "summary": "1981 novel by Mariama Bâ, associated with Dakar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7549373",
+    "https://en.wikipedia.org/wiki/So_Long_a_Letter"
+  ],
+  "disputed": false
+}

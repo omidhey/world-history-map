@@ -1,0 +1,22 @@
+{
+  "id": "gitanjali",
+  "wikidata": "Q2358930",
+  "name": "Gitanjali",
+  "category": "work",
+  "start": 1908,
+  "date_precision": "year",
+  "location": {
+    "lat": 22.57,
+    "lon": 88.37,
+    "place": "Kolkata"
+  },
+  "summary": "Collection of poems by Rabindranath Tagore, associated with Kolkata. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gitanjali"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2358930",
+    "https://en.wikipedia.org/wiki/Gitanjali"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "varahamihira",
+  "wikidata": "Q858348",
+  "name": "Varāhamihira",
+  "category": "scientist",
+  "start": 505,
+  "end": 587,
+  "date_precision": "century",
+  "location": {
+    "lat": 23.18,
+    "lon": 75.78,
+    "place": "Ujjain"
+  },
+  "summary": "6th-century Hindu polymath, author of Brihat samhita, born in Ujjain. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Varāhamihira"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q858348",
+    "https://en.wikipedia.org/wiki/Varāhamihira"
+  ],
+  "disputed": false
+}

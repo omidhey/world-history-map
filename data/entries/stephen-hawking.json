@@ -1,0 +1,23 @@
+{
+  "id": "stephen-hawking",
+  "wikidata": "Q17714",
+  "name": "Stephen Hawking",
+  "category": "scientist",
+  "start": 1942,
+  "end": 2018,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.75,
+    "lon": -1.26,
+    "place": "Oxford"
+  },
+  "summary": "British theoretical physicist, cosmologist and author (1942–2018), born in Oxford. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q17714",
+    "https://en.wikipedia.org/wiki/Stephen_Hawking"
+  ],
+  "disputed": false
+}

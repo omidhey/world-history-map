@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-dobzhansky",
+  "wikidata": "Q246731",
+  "name": "Theodosius Dobzhansky",
+  "category": "scientist",
+  "start": 1900,
+  "end": 1975,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.98,
+    "lon": 28.84,
+    "place": "Nemyriv"
+  },
+  "summary": "Geneticist and evolutionary biologist (1900-1975), born in Nemyriv. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodosius_Dobzhansky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q246731",
+    "https://en.wikipedia.org/wiki/Theodosius_Dobzhansky"
+  ],
+  "disputed": false
+}

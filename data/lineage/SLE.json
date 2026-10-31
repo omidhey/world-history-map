@@ -1,0 +1,168 @@
+{
+ "country": "SLE",
+ "name": "Sierra Leone",
+ "area_km2": 75982,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.896
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.896
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.896
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.896
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.896
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9331
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.896
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8803,
+    "carried": 400
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0155
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9331
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.905,
+    "carried": 1500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0281
+   }
+  ],
+  "1914": [
+   {
+    "name": "Sierra Leone",
+    "subjecto": "Sierra Leone",
+    "share": 0.8528
+   },
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.0658
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Sierra Leone",
+    "subjecto": "United Kingdom",
+    "share": 0.8528
+   },
+   {
+    "name": "Guinea",
+    "subjecto": "France",
+    "share": 0.0658
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Sierra Leone",
+    "subjecto": "Sierra Leone",
+    "share": 0.8528
+   },
+   {
+    "name": "Guinea",
+    "subjecto": "Guinea",
+    "share": 0.0658
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ]
+ }
+}

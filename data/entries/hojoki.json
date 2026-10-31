@@ -1,0 +1,22 @@
+{
+  "id": "hojoki",
+  "wikidata": "Q636364",
+  "name": "Hōjōki",
+  "category": "work",
+  "start": 1212,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 135.77,
+    "place": "Heian-kyō"
+  },
+  "summary": "Short work of the early Kamakura period (1185–1333) in Japan by Kamo no Chōmei, associated with Heian-kyō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hōjōki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q636364",
+    "https://en.wikipedia.org/wiki/Hōjōki"
+  ],
+  "disputed": false
+}

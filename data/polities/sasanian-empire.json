@@ -1,0 +1,26 @@
+{
+  "id": "sasanian-empire",
+  "wikidata": "Q83891",
+  "name": "Sasanian Empire",
+  "border_names": [
+    "Persia"
+  ],
+  "type": "empire",
+  "start": 224,
+  "end": 651,
+  "date_precision": "year",
+  "capital": {
+    "lat": 33.09,
+    "lon": 44.58,
+    "place": "Ctesiphon"
+  },
+  "summary": "Last pre-Islamic Persian empire, a state-backed Zoroastrian rival of Rome and Byzantium until the Arab conquests.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sasanian_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83891",
+    "https://en.wikipedia.org/wiki/Sasanian_Empire"
+  ],
+  "disputed": false
+}

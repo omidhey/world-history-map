@@ -1,0 +1,22 @@
+{
+  "id": "book-of-han",
+  "wikidata": "Q846905",
+  "name": "Book of Han",
+  "category": "work",
+  "start": 200,
+  "date_precision": "century",
+  "location": {
+    "lat": 34.33,
+    "lon": 108.71,
+    "place": "Xianyang"
+  },
+  "summary": "Official history of China's Western Han dynasty, finished under the Eastern Han in the year 111 by Ban Gu, associated with Xianyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Book_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q846905",
+    "https://en.wikipedia.org/wiki/Book_of_Han"
+  ],
+  "disputed": false
+}

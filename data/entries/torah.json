@@ -1,0 +1,22 @@
+{
+  "id": "torah",
+  "wikidata": "Q34990",
+  "name": "Torah",
+  "category": "work",
+  "start": -1300,
+  "date_precision": "century",
+  "location": {
+    "lat": 29.85,
+    "lon": 31.33,
+    "place": "Helwan"
+  },
+  "summary": "First five books of the Hebrew Bible by Moses, associated with Helwan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Torah"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34990",
+    "https://en.wikipedia.org/wiki/Torah"
+  ],
+  "disputed": false
+}

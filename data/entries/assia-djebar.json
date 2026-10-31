@@ -1,0 +1,23 @@
+{
+  "id": "assia-djebar",
+  "wikidata": "Q157313",
+  "name": "Assia Djebar",
+  "category": "writer",
+  "start": 1936,
+  "end": 2015,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.61,
+    "lon": 2.19,
+    "place": "Cherchell"
+  },
+  "summary": "French Algerian writer, translator and film director (1936-2015), born in Cherchell. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Assia_Djebar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q157313",
+    "https://en.wikipedia.org/wiki/Assia_Djebar"
+  ],
+  "disputed": false
+}

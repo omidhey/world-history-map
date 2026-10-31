@@ -1,0 +1,22 @@
+{
+  "id": "the-hour-of-the-star",
+  "wikidata": "Q7740489",
+  "name": "The Hour of the Star",
+  "category": "work",
+  "start": 1977,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.21,
+    "lon": 29.36,
+    "place": "Chechelnyk"
+  },
+  "summary": "1977 novel by Clarice Lispector, associated with Chechelnyk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Hour_of_the_Star"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7740489",
+    "https://en.wikipedia.org/wiki/The_Hour_of_the_Star"
+  ],
+  "disputed": false
+}

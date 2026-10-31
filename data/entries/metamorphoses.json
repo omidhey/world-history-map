@@ -1,0 +1,22 @@
+{
+  "id": "metamorphoses",
+  "wikidata": "Q184742",
+  "name": "Metamorphoses",
+  "category": "work",
+  "start": 1,
+  "date_precision": "decade",
+  "location": {
+    "lat": 42.05,
+    "lon": 13.93,
+    "place": "Sulmona"
+  },
+  "summary": "Narrative poem by Ovid, associated with Sulmona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Metamorphoses"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184742",
+    "https://en.wikipedia.org/wiki/Metamorphoses"
+  ],
+  "disputed": false
+}

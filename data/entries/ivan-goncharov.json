@@ -1,0 +1,23 @@
+{
+  "id": "ivan-goncharov",
+  "wikidata": "Q189665",
+  "name": "Ivan Goncharov",
+  "category": "writer",
+  "start": 1812,
+  "end": 1891,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.32,
+    "lon": 48.37,
+    "place": "Ulyanovsk"
+  },
+  "summary": "Russian novelist and official (1812–1891), born in Ulyanovsk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Goncharov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189665",
+    "https://en.wikipedia.org/wiki/Ivan_Goncharov"
+  ],
+  "disputed": false
+}

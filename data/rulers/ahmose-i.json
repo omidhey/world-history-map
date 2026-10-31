@@ -1,0 +1,19 @@
+{
+  "id": "ahmose-i",
+  "wikidata": "Q7222",
+  "name": "Ahmose I",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "eighteenth-dynasty-of-egypt",
+  "start": -1550,
+  "end": -1525,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmose_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7222",
+    "https://en.wikipedia.org/wiki/Ahmose_I"
+  ],
+  "disputed": false
+}

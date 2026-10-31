@@ -1,0 +1,23 @@
+{
+  "id": "pablo-neruda",
+  "wikidata": "Q34189",
+  "name": "Pablo Neruda",
+  "category": "writer",
+  "start": 1904,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": -36.15,
+    "lon": -71.83,
+    "place": "Parral"
+  },
+  "summary": "Chilean poet and politician (1904-1973), born in Parral. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Neruda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34189",
+    "https://en.wikipedia.org/wiki/Pablo_Neruda"
+  ],
+  "disputed": false
+}

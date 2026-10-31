@@ -1,0 +1,23 @@
+{
+  "id": "lope-de-vega",
+  "wikidata": "Q165257",
+  "name": "Lope de Vega",
+  "category": "writer",
+  "start": 1562,
+  "end": 1635,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.42,
+    "lon": -3.7,
+    "place": "Madrid"
+  },
+  "summary": "Spanish playwright and poet (1562-1635), born in Madrid. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lope_de_Vega"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q165257",
+    "https://en.wikipedia.org/wiki/Lope_de_Vega"
+  ],
+  "disputed": false
+}

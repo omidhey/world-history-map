@@ -1,0 +1,19 @@
+{
+  "id": "peter-the-great",
+  "wikidata": "Q8479",
+  "name": "Peter the Great",
+  "polity": "russian-empire",
+  "title": "Emperor",
+  "dynasty": "house-of-romanov",
+  "start": 1721,
+  "end": 1725,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8479",
+    "https://en.wikipedia.org/wiki/Peter_the_Great"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kush",
+  "wikidata": "Q241790",
+  "name": "Kingdom of Kush",
+  "border_names": [
+    "Kush"
+  ],
+  "type": "kingdom",
+  "start": -1070,
+  "end": 350,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 18.53,
+    "lon": 31.83,
+    "place": "Napata"
+  },
+  "summary": "Nubian kingdom south of Egypt, centred first at Napata and later Meroë. Its kings ruled Egypt as the 25th dynasty in the 8th century BCE.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Kush"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q241790",
+    "https://en.wikipedia.org/wiki/Kingdom_of_Kush"
+  ],
+  "disputed": false
+}

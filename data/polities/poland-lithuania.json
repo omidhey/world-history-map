@@ -1,0 +1,26 @@
+{
+  "id": "poland-lithuania",
+  "wikidata": "Q172107",
+  "name": "Polish–Lithuanian Commonwealth",
+  "border_names": [
+    "Poland-Lithuania"
+  ],
+  "type": "state",
+  "start": 1569,
+  "end": 1795,
+  "date_precision": "year",
+  "capital": {
+    "lat": 52.23,
+    "lon": 21.01,
+    "place": "Warsaw"
+  },
+  "summary": "Large union of Poland and Lithuania with an elected king and a powerful noble parliament, partitioned out of existence by its neighbours.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172107",
+    "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+  ],
+  "disputed": false
+}

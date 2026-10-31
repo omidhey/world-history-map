@@ -1,0 +1,26 @@
+{
+  "id": "abbasid-caliphate",
+  "wikidata": "Q12536",
+  "name": "Abbasid Caliphate",
+  "border_names": [
+    "Abbasid Caliphate"
+  ],
+  "type": "caliphate",
+  "start": 750,
+  "end": 1258,
+  "date_precision": "year",
+  "capital": {
+    "lat": 33.31,
+    "lon": 44.36,
+    "place": "Baghdad"
+  },
+  "summary": "Islamic caliphate ruled from Baghdad, a centre of learning and trade, whose real power faded long before the Mongols took Baghdad in 1258.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12536",
+    "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+  ],
+  "disputed": false
+}

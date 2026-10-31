@@ -1,0 +1,22 @@
+{
+  "id": "odes",
+  "wikidata": "Q943884",
+  "name": "Odes",
+  "category": "work",
+  "start": -23,
+  "date_precision": "century",
+  "location": {
+    "lat": 40.97,
+    "lon": 15.82,
+    "place": "Venosa"
+  },
+  "summary": "Literary work by Horace, associated with Venosa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Odes_(Horace)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q943884",
+    "https://en.wikipedia.org/wiki/Odes_(Horace)"
+  ],
+  "disputed": false
+}

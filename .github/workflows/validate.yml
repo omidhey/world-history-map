@@ -22,3 +22,20 @@ jobs:
         run: pip install jsonschema==4.25.1
       - name: Validate records
         run: python pipeline/validate.py
+
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install test dependencies
+        run: pip install jsonschema==4.25.1 shapely==2.2.0 pytest
+      - name: Python tests (lineage tests are skipped without geopandas)
+        run: python -m pytest -q
+      - name: JavaScript tests
+        run: node --test tests/js/*.test.mjs

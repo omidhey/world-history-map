@@ -1,0 +1,23 @@
+{
+  "id": "ben-jonson",
+  "wikidata": "Q193857",
+  "name": "Ben Jonson",
+  "category": "writer",
+  "start": 1572,
+  "end": 1637,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.5,
+    "lon": -0.13,
+    "place": "Westminster"
+  },
+  "summary": "English playwright, poet, and actor (1572-1637), born in Westminster. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Jonson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193857",
+    "https://en.wikipedia.org/wiki/Ben_Jonson"
+  ],
+  "disputed": false
+}

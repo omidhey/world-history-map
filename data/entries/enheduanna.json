@@ -1,0 +1,23 @@
+{
+  "id": "enheduanna",
+  "wikidata": "Q232505",
+  "name": "Enheduanna",
+  "category": "writer",
+  "start": -2300,
+  "end": -2300,
+  "date_precision": "century",
+  "location": {
+    "lat": 33.1,
+    "lon": 44.1,
+    "place": "Akkadian Empire"
+  },
+  "summary": "Akkadian princess; Sumerian high priestess of Nanna at Ur; poet and philosopher, born in Akkadian Empire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Enheduanna"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q232505",
+    "https://en.wikipedia.org/wiki/Enheduanna"
+  ],
+  "disputed": false
+}

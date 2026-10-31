@@ -1,0 +1,23 @@
+{
+  "id": "elie-wiesel",
+  "wikidata": "Q18391",
+  "name": "Elie Wiesel",
+  "category": "writer",
+  "start": 1928,
+  "end": 2016,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.93,
+    "lon": 23.89,
+    "place": "Sighetu Marmației"
+  },
+  "summary": "Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928–2016), born in Sighetu Marmației. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elie_Wiesel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q18391",
+    "https://en.wikipedia.org/wiki/Elie_Wiesel"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdul-hamid-ii",
+  "wikidata": "Q134817",
+  "name": "Abdul Hamid II",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1876,
+  "end": 1909,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdul_Hamid_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q134817",
+    "https://en.wikipedia.org/wiki/Abdul_Hamid_II"
+  ],
+  "disputed": false
+}

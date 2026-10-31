@@ -1,0 +1,23 @@
+{
+  "id": "laura-bassi",
+  "wikidata": "Q541652",
+  "name": "Laura Bassi",
+  "category": "scientist",
+  "start": 1711,
+  "end": 1778,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.49,
+    "lon": 11.34,
+    "place": "Bologna"
+  },
+  "summary": "Italian physicist (1711-1778), born in Bologna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Bassi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q541652",
+    "https://en.wikipedia.org/wiki/Laura_Bassi"
+  ],
+  "disputed": false
+}

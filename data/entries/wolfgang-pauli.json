@@ -1,0 +1,23 @@
+{
+  "id": "wolfgang-pauli",
+  "wikidata": "Q65989",
+  "name": "Wolfgang Pauli",
+  "category": "scientist",
+  "start": 1900,
+  "end": 1958,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Physicist, Nobel prize winner (1900–1958), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Pauli"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q65989",
+    "https://en.wikipedia.org/wiki/Wolfgang_Pauli"
+  ],
+  "disputed": false
+}

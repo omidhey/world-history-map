@@ -1,0 +1,23 @@
+{
+  "id": "henrik-ibsen",
+  "wikidata": "Q36661",
+  "name": "Henrik Ibsen",
+  "category": "writer",
+  "start": 1828,
+  "end": 1906,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.21,
+    "lon": 9.55,
+    "place": "Stockmanngården"
+  },
+  "summary": "Norwegian playwright and theatre director (1828–1906), born in Stockmanngården. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Ibsen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36661",
+    "https://en.wikipedia.org/wiki/Henrik_Ibsen"
+  ],
+  "disputed": false
+}

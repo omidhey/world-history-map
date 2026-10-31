@@ -1,0 +1,23 @@
+{
+  "id": "hedy-lamarr",
+  "wikidata": "Q49034",
+  "name": "Hedy Lamarr",
+  "category": "scientist",
+  "start": 1914,
+  "end": 2000,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian-American actress and co-inventor of an early technique for spread spectrum communications and frequency hopping (1914-2000), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q49034",
+    "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+  ],
+  "disputed": false
+}

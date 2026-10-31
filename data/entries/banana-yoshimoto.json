@@ -1,0 +1,22 @@
+{
+  "id": "banana-yoshimoto",
+  "wikidata": "Q238970",
+  "name": "Banana Yoshimoto",
+  "category": "writer",
+  "start": 1964,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.71,
+    "lon": 139.75,
+    "place": "Bunkyō-ku"
+  },
+  "summary": "Japanese writer, born in Bunkyō-ku. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Banana_Yoshimoto"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q238970",
+    "https://en.wikipedia.org/wiki/Banana_Yoshimoto"
+  ],
+  "disputed": false
+}

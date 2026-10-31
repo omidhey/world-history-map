@@ -1,0 +1,23 @@
+{
+  "id": "yoshida-kenko",
+  "wikidata": "Q372772",
+  "name": "Yoshida Kenkō",
+  "category": "writer",
+  "start": 1283,
+  "end": 1350,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Kyoto"
+  },
+  "summary": "Japanese writer, born in Kyoto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshida_Kenkō"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q372772",
+    "https://en.wikipedia.org/wiki/Yoshida_Kenkō"
+  ],
+  "disputed": false
+}

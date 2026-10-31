@@ -1,0 +1,206 @@
+{
+ "country": "GHA",
+ "name": "Ghana",
+ "area_km2": 243469,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9915
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9915
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9915
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9915
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9915
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9913
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9893
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9915
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9893,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9839
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0049,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.796
+   },
+   {
+    "name": "Akan",
+    "subjecto": "Akan",
+    "share": 0.1683
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0221,
+    "carried": 1200
+   },
+   {
+    "name": "Mossi States",
+    "subjecto": "Mossi States",
+    "share": 0.01
+   }
+  ],
+  "1800": [
+   {
+    "name": "Asante",
+    "subjecto": "Asante",
+    "share": 0.424
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.3657,
+    "carried": 1500
+   },
+   {
+    "name": "Mossi States",
+    "subjecto": "Mossi States",
+    "share": 0.0976
+   },
+   {
+    "name": "Dahomey",
+    "subjecto": "Dahomey",
+    "share": 0.0795
+   },
+   {
+    "name": "Akan",
+    "subjecto": "Akan",
+    "share": 0.0118,
+    "carried": 1500
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0111,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Gold Coast",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.7883
+   },
+   {
+    "name": "Togoland",
+    "subjecto": "Togoland",
+    "share": 0.1764
+   },
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.0241
+   }
+  ],
+  "1945": [
+   {
+    "name": "Gold Coast",
+    "subjecto": "United Kingdom",
+    "share": 0.9574
+   },
+   {
+    "name": "Burkina Faso",
+    "subjecto": "Burkina Faso",
+    "share": 0.0126
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0191,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Ghana",
+    "subjecto": "Ghana",
+    "share": 0.952
+   },
+   {
+    "name": "Burkina Faso",
+    "subjecto": "Burkina Faso",
+    "share": 0.018
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0191,
+    "other": true
+   }
+  ]
+ }
+}

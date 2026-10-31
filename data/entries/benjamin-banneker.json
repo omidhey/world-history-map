@@ -1,0 +1,23 @@
+{
+  "id": "benjamin-banneker",
+  "wikidata": "Q557600",
+  "name": "Benjamin Banneker",
+  "category": "scientist",
+  "start": 1731,
+  "end": 1806,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.4,
+    "lon": -76.6,
+    "place": "Baltimore County"
+  },
+  "summary": "Free African American scientist, surveyor, almanac author and farmer (1731–1806), born in Baltimore County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q557600",
+    "https://en.wikipedia.org/wiki/Benjamin_Banneker"
+  ],
+  "disputed": false
+}

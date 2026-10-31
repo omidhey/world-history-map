@@ -1,0 +1,23 @@
+{
+  "id": "andreas-vesalius",
+  "wikidata": "Q170267",
+  "name": "Andreas Vesalius",
+  "category": "scientist",
+  "start": 1514,
+  "end": 1564,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.84,
+    "lon": 4.35,
+    "place": "Mont aux Potences - Galgenberg"
+  },
+  "summary": "Flemish anatomist, physician and author (1514–1564), born in Mont aux Potences - Galgenberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Vesalius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170267",
+    "https://en.wikipedia.org/wiki/Andreas_Vesalius"
+  ],
+  "disputed": false
+}

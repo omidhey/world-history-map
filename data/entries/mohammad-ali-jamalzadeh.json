@@ -1,0 +1,23 @@
+{
+  "id": "mohammad-ali-jamalzadeh",
+  "wikidata": "Q1393111",
+  "name": "Mohammad-Ali Jamalzadeh",
+  "category": "writer",
+  "start": 1892,
+  "end": 1997,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.65,
+    "lon": 51.67,
+    "place": "Isfahan"
+  },
+  "summary": "Iranian writer (1892-1997), born in Isfahan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohammad-Ali_Jamalzadeh"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1393111",
+    "https://en.wikipedia.org/wiki/Mohammad-Ali_Jamalzadeh"
+  ],
+  "disputed": false
+}

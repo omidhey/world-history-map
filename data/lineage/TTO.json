@@ -1,0 +1,154 @@
+{
+ "country": "TTO",
+ "name": "Trinidad and Tobago",
+ "area_km2": 7739,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.3594
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.3649
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.2635,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0561
+   }
+  ],
+  "-500": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.2635,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0561
+   }
+  ],
+  "-323": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1574,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0979
+   }
+  ],
+  "-1": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2221
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1574,
+    "carried": -2000
+   }
+  ],
+  "400": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2221
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1574,
+    "carried": -2000
+   }
+  ],
+  "800": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2571
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1022,
+    "carried": -2000
+   }
+  ],
+  "1200": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2571
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1022,
+    "carried": -2000
+   }
+  ],
+  "1500": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2571
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1022,
+    "carried": -2000
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.3649
+   }
+  ],
+  "1914": [
+   {
+    "name": "United Kingdom of Great Britain and Ireland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.3594
+   }
+  ],
+  "1945": [
+   {
+    "name": "Trinidad",
+    "subjecto": "Trinidad",
+    "share": 0.3594
+   }
+  ],
+  "2010": [
+   {
+    "name": "Trinidad",
+    "subjecto": "Trinidad",
+    "share": 0.3594
+   }
+  ]
+ }
+}

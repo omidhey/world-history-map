@@ -1,0 +1,21 @@
+{
+  "id": "xiongnu",
+  "wikidata": "Q188836",
+  "name": "Xiongnu",
+  "border_names": [
+    "Xiongnu"
+  ],
+  "type": "confederation",
+  "start": -209,
+  "end": 93,
+  "date_precision": "circa",
+  "summary": "Powerful confederation of steppe nomads north of China, whose rivalry with the Han dynasty helped shape the early Silk Road.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xiongnu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188836",
+    "https://en.wikipedia.org/wiki/Xiongnu"
+  ],
+  "disputed": false
+}

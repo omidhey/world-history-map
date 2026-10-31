@@ -1,0 +1,18 @@
+{
+  "id": "flavian-dynasty",
+  "wikidata": "Q200565",
+  "name": "Flavian dynasty",
+  "polity": "roman-empire",
+  "start": 69,
+  "end": 96,
+  "date_precision": "year",
+  "summary": "Three emperors who restored order after the civil wars of 69 CE and built the Colosseum.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Flavian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q200565",
+    "https://en.wikipedia.org/wiki/Flavian_dynasty"
+  ],
+  "disputed": false
+}

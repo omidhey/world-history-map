@@ -1,0 +1,23 @@
+{
+  "id": "kamo-no-chomei",
+  "wikidata": "Q291329",
+  "name": "Kamo no Chōmei",
+  "category": "writer",
+  "start": 1155,
+  "end": 1216,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 135.77,
+    "place": "Heian-kyō"
+  },
+  "summary": "Japanese poet, born in Heian-kyō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamo_no_Chōmei"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q291329",
+    "https://en.wikipedia.org/wiki/Kamo_no_Chōmei"
+  ],
+  "disputed": false
+}

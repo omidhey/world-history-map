@@ -1,0 +1,22 @@
+{
+  "id": "frankenstein-or-the-modern-prometheus",
+  "wikidata": "Q150827",
+  "name": "Frankenstein; or, The Modern Prometheus",
+  "category": "work",
+  "start": 1818,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.53,
+    "lon": -0.13,
+    "place": "Somers Town"
+  },
+  "summary": "1818 novel by Mary Shelley, associated with Somers Town. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Frankenstein"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q150827",
+    "https://en.wikipedia.org/wiki/Frankenstein"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "saba",
+  "wikidata": "Q216068",
+  "name": "Kingdom of Saba",
+  "border_names": [
+    "Saba"
+  ],
+  "type": "kingdom",
+  "start": -1000,
+  "end": 275,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 15.43,
+    "lon": 45.33,
+    "place": "Marib"
+  },
+  "summary": "South Arabian kingdom that grew rich on the incense trade and on the Marib dam, remembered in tradition through the queen of Sheba.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabaeans"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q216068",
+    "https://en.wikipedia.org/wiki/Sabaeans"
+  ],
+  "disputed": false
+}

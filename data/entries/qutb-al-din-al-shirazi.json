@@ -1,0 +1,23 @@
+{
+  "id": "qutb-al-din-al-shirazi",
+  "wikidata": "Q729903",
+  "name": "Qutb al-Din al-Shirazi",
+  "category": "scientist",
+  "start": 1236,
+  "end": 1311,
+  "date_precision": "year",
+  "location": {
+    "lat": 29.62,
+    "lon": 51.65,
+    "place": "Kazerun"
+  },
+  "summary": "Persian philosopher and scientist, born in Kazerun. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qutb_al-Din_al-Shirazi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q729903",
+    "https://en.wikipedia.org/wiki/Qutb_al-Din_al-Shirazi"
+  ],
+  "disputed": false
+}

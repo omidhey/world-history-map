@@ -1,0 +1,23 @@
+{
+  "id": "muhammad-ibn-jarir-al-tabari",
+  "wikidata": "Q192124",
+  "name": "Muhammad ibn Jarir al-Tabari",
+  "category": "writer",
+  "start": 839,
+  "end": 922,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.47,
+    "lon": 52.35,
+    "place": "Amol"
+  },
+  "summary": "Iranian scholar, historian and commentator on the Qur'an (839–923), born in Amol. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Tabari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192124",
+    "https://en.wikipedia.org/wiki/Al-Tabari"
+  ],
+  "disputed": false
+}

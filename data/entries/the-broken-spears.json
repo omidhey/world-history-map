@@ -1,0 +1,22 @@
+{
+  "id": "the-broken-spears",
+  "wikidata": "Q1747956",
+  "name": "The Broken Spears",
+  "category": "work",
+  "start": 1959,
+  "date_precision": "year",
+  "location": {
+    "lat": 19.35,
+    "lon": -99.14,
+    "place": "Mexico City"
+  },
+  "summary": "Non-fiction work by Miguel León Portilla, associated with Mexico City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Broken_Spears"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1747956",
+    "https://en.wikipedia.org/wiki/The_Broken_Spears"
+  ],
+  "disputed": false
+}

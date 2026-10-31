@@ -1,0 +1,22 @@
+{
+  "id": "the-grapes-of-wrath",
+  "wikidata": "Q215983",
+  "name": "The Grapes of Wrath",
+  "category": "work",
+  "start": 1939,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.68,
+    "lon": -121.66,
+    "place": "Salinas"
+  },
+  "summary": "1939 novel by John Steinbeck, associated with Salinas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q215983",
+    "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "namik-kemal",
+  "wikidata": "Q337500",
+  "name": "Nâmık Kemâl",
+  "category": "writer",
+  "start": 1840,
+  "end": 1888,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.98,
+    "lon": 27.52,
+    "place": "Tekirdağ"
+  },
+  "summary": "Ottoman writer (1840-1888), born in Tekirdağ. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Namık_Kemal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q337500",
+    "https://en.wikipedia.org/wiki/Namık_Kemal"
+  ],
+  "disputed": false
+}

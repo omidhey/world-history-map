@@ -1,0 +1,23 @@
+{
+  "id": "ctesibius",
+  "wikidata": "Q41766",
+  "name": "Ctesibius",
+  "category": "scientist",
+  "start": -284,
+  "end": -221,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "Greek inventor and mathematician, born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ctesibius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41766",
+    "https://en.wikipedia.org/wiki/Ctesibius"
+  ],
+  "disputed": false
+}

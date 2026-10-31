@@ -1,0 +1,19 @@
+{
+  "id": "philip-ii-of-france",
+  "wikidata": "Q34428",
+  "name": "Philip II of France",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-capet",
+  "start": 1180,
+  "end": 1223,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_II_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34428",
+    "https://en.wikipedia.org/wiki/Philip_II_of_France"
+  ],
+  "disputed": false
+}

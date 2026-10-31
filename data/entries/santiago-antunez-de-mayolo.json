@@ -1,0 +1,23 @@
+{
+  "id": "santiago-antunez-de-mayolo",
+  "wikidata": "Q9074221",
+  "name": "Santiago Antúnez de Mayolo",
+  "category": "scientist",
+  "start": 1887,
+  "end": 1967,
+  "date_precision": "day",
+  "location": {
+    "lat": -9.8,
+    "lon": -77.68,
+    "place": "Huacllan District"
+  },
+  "summary": "Peruvian engineer, physicist and mathematician (1887-1967), born in Huacllan District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Antúnez_de_Mayolo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9074221",
+    "https://en.wikipedia.org/wiki/Santiago_Antúnez_de_Mayolo"
+  ],
+  "disputed": false
+}

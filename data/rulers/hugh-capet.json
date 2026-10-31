@@ -1,0 +1,19 @@
+{
+  "id": "hugh-capet",
+  "wikidata": "Q159575",
+  "name": "Hugh Capet",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-capet",
+  "start": 987,
+  "end": 996,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Capet"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q159575",
+    "https://en.wikipedia.org/wiki/Hugh_Capet"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "al-battani",
+  "wikidata": "Q11079",
+  "name": "Al-Battani",
+  "category": "scientist",
+  "start": 858,
+  "end": 930,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.87,
+    "lon": 39.02,
+    "place": "Harran"
+  },
+  "summary": "Islamic astronomer and mathematician (died 929), born in Harran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Battani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11079",
+    "https://en.wikipedia.org/wiki/Al-Battani"
+  ],
+  "disputed": false
+}

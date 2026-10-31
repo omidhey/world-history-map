@@ -1,0 +1,23 @@
+{
+  "id": "theon-of-alexandria",
+  "wikidata": "Q354384",
+  "name": "Theon of Alexandria",
+  "category": "scientist",
+  "start": 335,
+  "end": 400,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Roman Empire"
+  },
+  "summary": "Ancient Greek scholar, born in Roman Empire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Theon_of_Alexandria"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q354384",
+    "https://en.wikipedia.org/wiki/Theon_of_Alexandria"
+  ],
+  "disputed": false
+}

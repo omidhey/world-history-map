@@ -1,0 +1,22 @@
+{
+  "id": "fathers-and-sons",
+  "wikidata": "Q29424",
+  "name": "Fathers and Sons",
+  "category": "work",
+  "start": 1862,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.97,
+    "lon": 36.07,
+    "place": "Oryol"
+  },
+  "summary": "1862 novel by Ivan Turgenev, associated with Oryol. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q29424",
+    "https://en.wikipedia.org/wiki/Fathers_and_Sons_(novel)"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "leonhard-euler",
+  "wikidata": "Q7604",
+  "name": "Leonhard Euler",
+  "category": "scientist",
+  "start": 1707,
+  "end": 1783,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.56,
+    "lon": 7.59,
+    "place": "Basel"
+  },
+  "summary": "Swiss mathematician, physicist, and engineer (1707–1783), born in Basel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7604",
+    "https://en.wikipedia.org/wiki/Leonhard_Euler"
+  ],
+  "disputed": false
+}

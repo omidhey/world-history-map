@@ -1,0 +1,22 @@
+{
+  "id": "great-expectations",
+  "wikidata": "Q219552",
+  "name": "Great Expectations",
+  "category": "work",
+  "start": 1861,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.8,
+    "lon": -1.09,
+    "place": "Landport"
+  },
+  "summary": "1861 novel by Charles Dickens, associated with Landport. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Expectations"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q219552",
+    "https://en.wikipedia.org/wiki/Great_Expectations"
+  ],
+  "disputed": false
+}

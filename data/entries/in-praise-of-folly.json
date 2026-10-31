@@ -1,0 +1,22 @@
+{
+  "id": "in-praise-of-folly",
+  "wikidata": "Q569869",
+  "name": "In Praise of Folly",
+  "category": "work",
+  "start": 1511,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.92,
+    "lon": 4.48,
+    "place": "Rotterdam"
+  },
+  "summary": "1509 essay by Desiderius Erasmus, associated with Rotterdam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/In_Praise_of_Folly"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q569869",
+    "https://en.wikipedia.org/wiki/In_Praise_of_Folly"
+  ],
+  "disputed": false
+}

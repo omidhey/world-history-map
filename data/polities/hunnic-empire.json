@@ -1,0 +1,21 @@
+{
+  "id": "hunnic-empire",
+  "wikidata": "Q45813",
+  "name": "Hunnic Empire",
+  "border_names": [
+    "Hunnic Empire"
+  ],
+  "type": "empire",
+  "start": 370,
+  "end": 469,
+  "date_precision": "circa",
+  "summary": "Steppe empire that reached Europe in the 4th century and under Attila raided both halves of the Roman Empire before breaking up soon after his death.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Huns"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45813",
+    "https://en.wikipedia.org/wiki/Huns"
+  ],
+  "disputed": false
+}

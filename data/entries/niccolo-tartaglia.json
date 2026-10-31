@@ -1,0 +1,23 @@
+{
+  "id": "niccolo-tartaglia",
+  "wikidata": "Q201543",
+  "name": "Niccolò Tartaglia",
+  "category": "scientist",
+  "start": 1499,
+  "end": 1557,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.54,
+    "lon": 10.22,
+    "place": "Brescia"
+  },
+  "summary": "Italian mathematician (1499–1557), born in Brescia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolo_Tartaglia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q201543",
+    "https://en.wikipedia.org/wiki/Nicolo_Tartaglia"
+  ],
+  "disputed": false
+}

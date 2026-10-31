@@ -1,0 +1,18 @@
+{
+  "id": "western-han",
+  "wikidata": "Q7209",
+  "name": "Western Han",
+  "polity": "han-dynasty",
+  "start": -202,
+  "end": 9,
+  "date_precision": "year",
+  "summary": "First phase of the Han, with its capital at Chang'an, ending when Wang Mang took the throne.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7209",
+    "https://en.wikipedia.org/wiki/Western_Han"
+  ],
+  "disputed": false
+}

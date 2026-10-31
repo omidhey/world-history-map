@@ -1,0 +1,23 @@
+{
+  "id": "niels-henrik-abel",
+  "wikidata": "Q124115",
+  "name": "Niels Henrik Abel",
+  "category": "scientist",
+  "start": 1802,
+  "end": 1829,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.17,
+    "lon": 5.83,
+    "place": "Finnøy"
+  },
+  "summary": "Norwegian mathematician (1802–1829), born in Finnøy. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Henrik_Abel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q124115",
+    "https://en.wikipedia.org/wiki/Niels_Henrik_Abel"
+  ],
+  "disputed": false
+}

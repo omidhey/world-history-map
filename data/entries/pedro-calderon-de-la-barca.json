@@ -1,0 +1,23 @@
+{
+  "id": "pedro-calderon-de-la-barca",
+  "wikidata": "Q170800",
+  "name": "Pedro Calderón de la Barca",
+  "category": "writer",
+  "start": 1600,
+  "end": 1681,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.42,
+    "lon": -3.7,
+    "place": "Madrid"
+  },
+  "summary": "Spanish dramatist (1600-1681), born in Madrid. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170800",
+    "https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca"
+  ],
+  "disputed": false
+}

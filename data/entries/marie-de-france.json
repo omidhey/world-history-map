@@ -1,0 +1,23 @@
+{
+  "id": "marie-de-france",
+  "wikidata": "Q5617",
+  "name": "Marie de France",
+  "category": "writer",
+  "start": 1101,
+  "end": 1300,
+  "date_precision": "century",
+  "location": {
+    "lat": 48,
+    "lon": -3,
+    "place": "Brittany"
+  },
+  "summary": "Medieval poet, born in Brittany. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie_de_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5617",
+    "https://en.wikipedia.org/wiki/Marie_de_France"
+  ],
+  "disputed": false
+}

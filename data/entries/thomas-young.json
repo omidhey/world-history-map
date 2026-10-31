@@ -1,0 +1,23 @@
+{
+  "id": "thomas-young",
+  "wikidata": "Q25820",
+  "name": "Thomas Young",
+  "category": "scientist",
+  "start": 1773,
+  "end": 1829,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.02,
+    "lon": -3.26,
+    "place": "Milverton"
+  },
+  "summary": "English polymath (1773-1829), born in Milverton. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Young_(scientist)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q25820",
+    "https://en.wikipedia.org/wiki/Thomas_Young_(scientist)"
+  ],
+  "disputed": false
+}

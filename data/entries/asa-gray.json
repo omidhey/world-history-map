@@ -1,0 +1,23 @@
+{
+  "id": "asa-gray",
+  "wikidata": "Q347356",
+  "name": "Asa Gray",
+  "category": "scientist",
+  "start": 1810,
+  "end": 1888,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.0,
+    "lon": -75.31,
+    "place": "Paris"
+  },
+  "summary": "American botanist (1810–1888), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asa_Gray"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q347356",
+    "https://en.wikipedia.org/wiki/Asa_Gray"
+  ],
+  "disputed": false
+}

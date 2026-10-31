@@ -1,0 +1,22 @@
+{
+  "id": "yu-hua",
+  "wikidata": "Q379520",
+  "name": "Yu Hua",
+  "category": "writer",
+  "start": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.25,
+    "lon": 120.17,
+    "place": "Hangzhou"
+  },
+  "summary": "Chinese writer (1960–), born in Hangzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yu_Hua"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379520",
+    "https://en.wikipedia.org/wiki/Yu_Hua"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tang-xianzu",
+  "wikidata": "Q945333",
+  "name": "Tang Xianzu",
+  "category": "writer",
+  "start": 1550,
+  "end": 1616,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.98,
+    "lon": 116.36,
+    "place": "Linchuan District"
+  },
+  "summary": "Chinese playwright (1550-1616), born in Linchuan District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tang_Xianzu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q945333",
+    "https://en.wikipedia.org/wiki/Tang_Xianzu"
+  ],
+  "disputed": false
+}

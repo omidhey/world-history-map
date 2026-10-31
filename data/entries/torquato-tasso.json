@@ -1,0 +1,23 @@
+{
+  "id": "torquato-tasso",
+  "wikidata": "Q168962",
+  "name": "Torquato Tasso",
+  "category": "writer",
+  "start": 1544,
+  "end": 1595,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.63,
+    "lon": 14.37,
+    "place": "Sorrento"
+  },
+  "summary": "Italian poet (1544–1595), born in Sorrento. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Torquato_Tasso"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q168962",
+    "https://en.wikipedia.org/wiki/Torquato_Tasso"
+  ],
+  "disputed": false
+}

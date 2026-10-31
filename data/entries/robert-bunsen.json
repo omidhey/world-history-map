@@ -1,0 +1,23 @@
+{
+  "id": "robert-bunsen",
+  "wikidata": "Q71031",
+  "name": "Robert Bunsen",
+  "category": "scientist",
+  "start": 1811,
+  "end": 1899,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.53,
+    "lon": 9.94,
+    "place": "Göttingen"
+  },
+  "summary": "German chemist (1811-1899), born in Göttingen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bunsen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q71031",
+    "https://en.wikipedia.org/wiki/Robert_Bunsen"
+  ],
+  "disputed": false
+}

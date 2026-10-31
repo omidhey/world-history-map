@@ -1,0 +1,26 @@
+{
+  "id": "republic-of-venice",
+  "wikidata": "Q4948",
+  "name": "Republic of Venice",
+  "border_names": [
+    "Venice"
+  ],
+  "type": "republic",
+  "start": 697,
+  "end": 1797,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 45.44,
+    "lon": 12.32,
+    "place": "Venice"
+  },
+  "summary": "Maritime republic in a lagoon at the head of the Adriatic, run by an elected doge and merchant families, which dominated Mediterranean trade for centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4948",
+    "https://en.wikipedia.org/wiki/Republic_of_Venice"
+  ],
+  "disputed": false
+}

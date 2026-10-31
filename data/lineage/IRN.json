@@ -1,0 +1,273 @@
+{
+ "country": "IRN",
+ "name": "Iran",
+ "area_km2": 1617723,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7582
+   },
+   {
+    "name": "Elam",
+    "subjecto": "Elam",
+    "share": 0.173
+   },
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.0463
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0123,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7274
+   },
+   {
+    "name": "Elam",
+    "subjecto": "Elam",
+    "share": 0.173
+   },
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.0475
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.0222
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0211,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.45
+   },
+   {
+    "name": "Elam",
+    "subjecto": "Elam",
+    "share": 0.25
+   },
+   {
+    "name": "state societies and Aramaean kingdoms",
+    "subjecto": "state societies and Aramaean kingdoms",
+    "share": 0.2009
+   },
+   {
+    "name": "Babylonia",
+    "subjecto": "Babylonia",
+    "share": 0.039
+   },
+   {
+    "name": "Urartu",
+    "subjecto": "Urartu",
+    "share": 0.0344
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0044,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9897
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.9139
+   },
+   {
+    "name": "Atropatene",
+    "subjecto": "Atropatene",
+    "share": 0.0768
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.9027
+   },
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.0776
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0107,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.9079
+   },
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.0776
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9777
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0145,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.83
+   },
+   {
+    "name": "Ghaznavid Emirate",
+    "subjecto": "Ghaznavid Emirate",
+    "share": 0.1315
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.0269
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.6459
+   },
+   {
+    "name": "Timurid Emirates",
+    "subjecto": "Timurid Emirates",
+    "share": 0.3276
+   },
+   {
+    "name": "Islamic states",
+    "subjecto": "Islamic states",
+    "share": 0.0166
+   }
+  ],
+  "1800": [
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.911
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0516
+   },
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.0243
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0026,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.9799
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.011,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.9799
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.011,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.9804
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0091,
+    "other": true
+   }
+  ]
+ }
+}

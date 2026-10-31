@@ -1,0 +1,22 @@
+{
+  "id": "the-travels-of-marco-polo",
+  "wikidata": "Q654562",
+  "name": "The Travels of Marco Polo",
+  "category": "work",
+  "start": 1298,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.72,
+    "lon": 10.4,
+    "place": "Pisa"
+  },
+  "summary": "13th-century travelogue written down by Rustichello da Pisa from stories told by Marco Polo by Rustichello da Pisa, Marco Polo, associated with Pisa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q654562",
+    "https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo"
+  ],
+  "disputed": false
+}

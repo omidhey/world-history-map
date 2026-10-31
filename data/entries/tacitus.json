@@ -1,0 +1,23 @@
+{
+  "id": "tacitus",
+  "wikidata": "Q2161",
+  "name": "Tacitus",
+  "category": "writer",
+  "start": 55,
+  "end": 120,
+  "date_precision": "year",
+  "location": {
+    "lat": 44,
+    "lon": 4,
+    "place": "Gallia Narbonensis"
+  },
+  "summary": "Roman historian and senator (c. 56 – c. 120), born in Gallia Narbonensis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tacitus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2161",
+    "https://en.wikipedia.org/wiki/Tacitus"
+  ],
+  "disputed": false
+}

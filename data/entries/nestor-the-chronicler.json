@@ -1,0 +1,23 @@
+{
+  "id": "nestor-the-chronicler",
+  "wikidata": "Q320935",
+  "name": "Nestor the Chronicler",
+  "category": "writer",
+  "start": 1056,
+  "end": 1114,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.45,
+    "lon": 30.52,
+    "place": "Kyiv"
+  },
+  "summary": "Saint and chronicler of Kievan Rus', born in Kyiv. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nestor_the_Chronicler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q320935",
+    "https://en.wikipedia.org/wiki/Nestor_the_Chronicler"
+  ],
+  "disputed": false
+}

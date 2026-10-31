@@ -1,0 +1,23 @@
+{
+  "id": "ban-gu",
+  "wikidata": "Q439681",
+  "name": "Ban Gu",
+  "category": "writer",
+  "start": 32,
+  "end": 92,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.33,
+    "lon": 108.71,
+    "place": "Xianyang"
+  },
+  "summary": "Chinese historian, politician and poet (AD 32–92), born in Xianyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ban_Gu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q439681",
+    "https://en.wikipedia.org/wiki/Ban_Gu"
+  ],
+  "disputed": false
+}

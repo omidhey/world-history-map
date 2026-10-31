@@ -1,0 +1,18 @@
+{
+  "id": "severan-dynasty",
+  "wikidata": "Q321219",
+  "name": "Severan dynasty",
+  "polity": "roman-empire",
+  "start": 193,
+  "end": 235,
+  "date_precision": "year",
+  "summary": "Family from Leptis Magna in Africa that relied on the army and ended in the crisis of the third century.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Severan_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q321219",
+    "https://en.wikipedia.org/wiki/Severan_dynasty"
+  ],
+  "disputed": false
+}

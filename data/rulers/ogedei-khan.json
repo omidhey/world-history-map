@@ -1,0 +1,19 @@
+{
+  "id": "ogedei-khan",
+  "wikidata": "Q7519",
+  "name": "Ögedei Khan",
+  "polity": "mongol-empire",
+  "title": "Great Khan",
+  "dynasty": "borjigin-dynasty",
+  "start": 1229,
+  "end": 1241,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7519",
+    "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+  ],
+  "disputed": false
+}

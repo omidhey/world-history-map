@@ -1,0 +1,23 @@
+{
+  "id": "zora-neale-hurston",
+  "wikidata": "Q220480",
+  "name": "Zora Neale Hurston",
+  "category": "writer",
+  "start": 1891,
+  "end": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.56,
+    "lon": -85.67,
+    "place": "Notasulga"
+  },
+  "summary": "African American folklorist, novelist, short story writer, and Civic Rights advocate (1891–1960), born in Notasulga. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q220480",
+    "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
+  ],
+  "disputed": false
+}

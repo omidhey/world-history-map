@@ -1,0 +1,26 @@
+{
+  "id": "babylonia",
+  "wikidata": "Q47690",
+  "name": "Babylonia",
+  "border_names": [
+    "Babylonia"
+  ],
+  "type": "kingdom",
+  "start": -1894,
+  "end": -539,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 32.54,
+    "lon": 44.42,
+    "place": "Babylon"
+  },
+  "summary": "Akkadian-speaking state of southern Mesopotamia, famous for the law code of Hammurabi and for the later Neo-Babylonian empire of Nebuchadnezzar II.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Babylonia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47690",
+    "https://en.wikipedia.org/wiki/Babylonia"
+  ],
+  "disputed": false
+}

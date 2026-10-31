@@ -1,0 +1,23 @@
+{
+  "id": "edwin-hubble",
+  "wikidata": "Q43027",
+  "name": "Edwin Hubble",
+  "category": "scientist",
+  "start": 1889,
+  "end": 1953,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.34,
+    "lon": -92.91,
+    "place": "Marshfield"
+  },
+  "summary": "American astronomer (1889–1953), born in Marshfield. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Hubble"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43027",
+    "https://en.wikipedia.org/wiki/Edwin_Hubble"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "canto-general",
+  "wikidata": "Q1033840",
+  "name": "Canto General",
+  "category": "work",
+  "start": 1950,
+  "date_precision": "year",
+  "location": {
+    "lat": -36.15,
+    "lon": -71.83,
+    "place": "Parral"
+  },
+  "summary": "1950 poetry collection by Pablo Neruda, associated with Parral. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Canto_General"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1033840",
+    "https://en.wikipedia.org/wiki/Canto_General"
+  ],
+  "disputed": false
+}

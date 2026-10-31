@@ -1,0 +1,244 @@
+{
+ "country": "BLR",
+ "name": "Belarus",
+ "area_km2": 208932,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.9821
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0179
+   }
+  ],
+  "-500": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.4957
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.2246
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.1829
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.0938
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.4999
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.2246
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.1829
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.0896
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.4957
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.2246
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.1829
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.0938
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Brushed Pottery culture",
+    "subjecto": "Brushed Pottery culture",
+    "share": 0.4957,
+    "carried": -1
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.2246,
+    "carried": -1
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.1829,
+    "carried": -1
+   },
+   {
+    "name": "Eastern Masurian culture",
+    "subjecto": "Eastern Masurian culture",
+    "share": 0.0938,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Other Rus Principalities",
+    "subjecto": "Other Rus Principalities",
+    "share": 0.7789
+   },
+   {
+    "name": "Principality of Galicia-Volhynia",
+    "subjecto": "Principality of Galicia-Volhynia",
+    "share": 0.1254
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0713,
+    "carried": 800
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.0205
+   }
+  ],
+  "1500": [
+   {
+    "name": "Poland-Lithuania",
+    "subjecto": "Poland-Lithuania",
+    "share": 0.9916
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0084,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.9976
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0024,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 1.0
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9914
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Byelarus",
+    "subjecto": "Byelarus",
+    "share": 0.9717
+   },
+   {
+    "name": "Russia",
+    "subjecto": "Russia",
+    "share": 0.0108
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0176,
+    "other": true
+   }
+  ]
+ }
+}

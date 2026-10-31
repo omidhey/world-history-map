@@ -1,0 +1,23 @@
+{
+  "id": "jules-verne",
+  "wikidata": "Q33977",
+  "name": "Jules Verne",
+  "category": "writer",
+  "start": 1828,
+  "end": 1905,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.22,
+    "lon": -1.55,
+    "place": "Nantes"
+  },
+  "summary": "French writer (1828–1905), born in Nantes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jules_Verne"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q33977",
+    "https://en.wikipedia.org/wiki/Jules_Verne"
+  ],
+  "disputed": false
+}

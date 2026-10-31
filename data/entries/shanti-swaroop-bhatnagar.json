@@ -1,0 +1,23 @@
+{
+  "id": "shanti-swaroop-bhatnagar",
+  "wikidata": "Q3595877",
+  "name": "Shanti Swaroop Bhatnagar",
+  "category": "scientist",
+  "start": 1894,
+  "end": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.48,
+    "lon": 72.91,
+    "place": "Bhera"
+  },
+  "summary": "Indian chemist (1894–1955), born in Bhera. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shanti_Swarup_Bhatnagar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3595877",
+    "https://en.wikipedia.org/wiki/Shanti_Swarup_Bhatnagar"
+  ],
+  "disputed": false
+}

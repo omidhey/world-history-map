@@ -1,0 +1,23 @@
+{
+  "id": "william-makepeace-thackeray",
+  "wikidata": "Q167768",
+  "name": "William Makepeace Thackeray",
+  "category": "writer",
+  "start": 1811,
+  "end": 1863,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.57,
+    "lon": 88.37,
+    "place": "Kolkata"
+  },
+  "summary": "British novelist (1811–1863), born in Kolkata. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q167768",
+    "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray"
+  ],
+  "disputed": false
+}

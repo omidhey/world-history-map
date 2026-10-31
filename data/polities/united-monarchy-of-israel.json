@@ -1,0 +1,26 @@
+{
+  "id": "united-monarchy-of-israel",
+  "wikidata": "Q3185305",
+  "name": "Kingdom of David and Solomon",
+  "border_names": [
+    "Kingdom of David and Solomon"
+  ],
+  "type": "kingdom",
+  "start": -1047,
+  "end": -930,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 31.78,
+    "lon": 35.22,
+    "place": "Jerusalem"
+  },
+  "summary": "Biblical kingdom of Israel under Saul, David and Solomon. Historians disagree on how large and how unified it really was.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/United_Monarchy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3185305",
+    "https://en.wikipedia.org/wiki/United_Monarchy"
+  ],
+  "disputed": false
+}

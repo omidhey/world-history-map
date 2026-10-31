@@ -1,0 +1,23 @@
+{
+  "id": "cesar-lattes",
+  "wikidata": "Q283146",
+  "name": "César Lattes",
+  "category": "scientist",
+  "start": 1924,
+  "end": 2005,
+  "date_precision": "day",
+  "location": {
+    "lat": -25.43,
+    "lon": -49.27,
+    "place": "Curitiba"
+  },
+  "summary": "Brazilian physicist, researcher and university teacher (1924–2005), born in Curitiba. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/César_Lattes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q283146",
+    "https://en.wikipedia.org/wiki/César_Lattes"
+  ],
+  "disputed": false
+}

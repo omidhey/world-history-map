@@ -1,0 +1,23 @@
+{
+  "id": "hieronymus-fabricius",
+  "wikidata": "Q435296",
+  "name": "Hieronymus Fabricius",
+  "category": "scientist",
+  "start": 1533,
+  "end": 1619,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.74,
+    "lon": 11.87,
+    "place": "Acquapendente"
+  },
+  "summary": "Italian physician, anatomist and surgeon (1533–1619), born in Acquapendente. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hieronymus_Fabricius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q435296",
+    "https://en.wikipedia.org/wiki/Hieronymus_Fabricius"
+  ],
+  "disputed": false
+}

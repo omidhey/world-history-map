@@ -1,0 +1,22 @@
+{
+  "id": "the-war-of-the-end-of-the-world",
+  "wikidata": "Q1194969",
+  "name": "The War of the End of the World",
+  "category": "work",
+  "start": 1982,
+  "date_precision": "year",
+  "location": {
+    "lat": -16.4,
+    "lon": -71.54,
+    "place": "Arequipa"
+  },
+  "summary": "Novel by Mario Vargas Llosa, associated with Arequipa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_War_of_the_End_of_the_World"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1194969",
+    "https://en.wikipedia.org/wiki/The_War_of_the_End_of_the_World"
+  ],
+  "disputed": false
+}

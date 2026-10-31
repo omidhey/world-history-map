@@ -1,0 +1,23 @@
+{
+  "id": "dambudzo-marechera",
+  "wikidata": "Q727484",
+  "name": "Dambudzo Marechera",
+  "category": "writer",
+  "start": 1952,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": -18.54,
+    "lon": 32.12,
+    "place": "Rusape"
+  },
+  "summary": "Zimbabwean writer (1952-1987), born in Rusape. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dambudzo_Marechera"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q727484",
+    "https://en.wikipedia.org/wiki/Dambudzo_Marechera"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theocritus",
+  "wikidata": "Q219484",
+  "name": "Theocritus",
+  "category": "writer",
+  "start": -400,
+  "end": -260,
+  "date_precision": "century",
+  "location": {
+    "lat": 37.08,
+    "lon": 15.28,
+    "place": "Syracuse"
+  },
+  "summary": "3rd-century BCE Greek poet, born in Syracuse. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Theocritus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q219484",
+    "https://en.wikipedia.org/wiki/Theocritus"
+  ],
+  "disputed": false
+}

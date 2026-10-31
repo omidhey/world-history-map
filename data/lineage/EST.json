@@ -1,0 +1,182 @@
+{
+ "country": "EST",
+ "name": "Estonia",
+ "area_km2": 44668,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9027
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9027
+   }
+  ],
+  "-1000": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.9027
+   }
+  ],
+  "-500": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.9027,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.9027,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.8996,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.8996,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Ests",
+    "subjecto": "Ests",
+    "share": 0.3308
+   },
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.2528
+   },
+   {
+    "name": "Rus' Khaganate",
+    "subjecto": "Rus' Khaganate",
+    "share": 0.0227
+   }
+  ],
+  "1200": [
+   {
+    "name": "Ests",
+    "subjecto": "Ests",
+    "share": 0.2744,
+    "carried": 800
+   },
+   {
+    "name": "Baltic tribes",
+    "subjecto": "Baltic tribes",
+    "share": 0.2475,
+    "carried": 800
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2448
+   },
+   {
+    "name": "Principality of Novgorod",
+    "subjecto": "Principality of Novgorod",
+    "share": 0.1186
+   }
+  ],
+  "1500": [
+   {
+    "name": "Teutonic Knights",
+    "subjecto": "Teutonic Knights",
+    "share": 0.8815
+   },
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.0158
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.8996
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9005
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9005
+   }
+  ],
+  "2010": [
+   {
+    "name": "Estonia",
+    "subjecto": "Estonia",
+    "share": 0.823
+   },
+   {
+    "name": "Latvia",
+    "subjecto": "Latvia",
+    "share": 0.0573
+   },
+   {
+    "name": "Russia",
+    "subjecto": "Russia",
+    "share": 0.0503
+   }
+  ]
+ }
+}

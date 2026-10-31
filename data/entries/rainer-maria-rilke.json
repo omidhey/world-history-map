@@ -1,0 +1,23 @@
+{
+  "id": "rainer-maria-rilke",
+  "wikidata": "Q76483",
+  "name": "Rainer Maria Rilke",
+  "category": "writer",
+  "start": 1875,
+  "end": 1926,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.09,
+    "lon": 14.42,
+    "place": "Prague"
+  },
+  "summary": "Austrian poet and writer (1875–1926), born in Prague. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76483",
+    "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+  ],
+  "disputed": false
+}

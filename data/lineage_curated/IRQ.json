@@ -1,0 +1,223 @@
+{
+ "country": "IRQ",
+ "name": "Iraq",
+ "area_km2": 437295,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Iraq",
+  "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+  "https://en.wikipedia.org/wiki/Mandatory_Iraq"
+ ],
+ "notes": {
+  "-1000": "Assyria in the north, Babylonia in the south.",
+  "-500": "Achaemenid Empire (Babylon taken 539 BCE).",
+  "800": "Seat of the Abbasid caliphate (Baghdad founded 762).",
+  "1914": "Ottoman provinces; a British mandate followed after the First World War.",
+  "1945": "Kingdom of Iraq."
+ },
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.569
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.2517
+   },
+   {
+    "name": "Hurrian Kingdoms",
+    "subjecto": "Hurrian Kingdoms",
+    "share": 0.1043
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.0711
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.575
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.2517
+   },
+   {
+    "name": "Hurrian Kingdoms",
+    "subjecto": "Hurrian Kingdoms",
+    "share": 0.098
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.0714
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.4322
+   },
+   {
+    "name": "Assyria",
+    "subjecto": "Assyria",
+    "share": 0.3236
+   },
+   {
+    "name": "Babylonia",
+    "subjecto": "Babylonia",
+    "share": 0.1528
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0866
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.7877
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1263
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0866
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.7835
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1263
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0866
+   }
+  ],
+  "-1": [
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.7545
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1141
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0862
+   }
+  ],
+  "400": [
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.7865
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1146
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0862
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.8111
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.1861
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.7799
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.22
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7706
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.22
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7706
+   },
+   {
+    "name": "Arabia (Nejd)",
+    "subjecto": "Arabia (Nejd)",
+    "share": 0.22
+   }
+  ],
+  "1945": [
+   {
+    "name": "Iraq",
+    "subjecto": "Iraq",
+    "share": 0.9751
+   }
+  ],
+  "2010": [
+   {
+    "name": "Iraq",
+    "subjecto": "Iraq",
+    "share": 0.9737
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "luis-walter-alvarez",
+  "wikidata": "Q178344",
+  "name": "Luis Walter Alvarez",
+  "category": "scientist",
+  "start": 1911,
+  "end": 1988,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.77,
+    "lon": -122.42,
+    "place": "San Francisco"
+  },
+  "summary": "American experimental physicist, inventor, and professor (1911–1988), born in San Francisco. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Walter_Alvarez"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q178344",
+    "https://en.wikipedia.org/wiki/Luis_Walter_Alvarez"
+  ],
+  "disputed": false
+}

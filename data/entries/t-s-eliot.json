@@ -1,0 +1,23 @@
+{
+  "id": "t-s-eliot",
+  "wikidata": "Q37767",
+  "name": "T. S. Eliot",
+  "category": "writer",
+  "start": 1888,
+  "end": 1965,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.63,
+    "lon": -90.2,
+    "place": "St. Louis"
+  },
+  "summary": "US-British poet (1888–1965), born in St. Louis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/T._S._Eliot"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37767",
+    "https://en.wikipedia.org/wiki/T._S._Eliot"
+  ],
+  "disputed": false
+}

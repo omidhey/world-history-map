@@ -1,0 +1,19 @@
+{
+  "id": "cyrus-the-great",
+  "wikidata": "Q8423",
+  "name": "Cyrus the Great",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -559,
+  "end": -530,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8423",
+    "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+  ],
+  "disputed": false
+}

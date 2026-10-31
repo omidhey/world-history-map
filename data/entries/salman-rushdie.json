@@ -1,0 +1,22 @@
+{
+  "id": "salman-rushdie",
+  "wikidata": "Q44306",
+  "name": "Salman Rushdie",
+  "category": "writer",
+  "start": 1947,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.08,
+    "lon": 72.88,
+    "place": "Mumbai"
+  },
+  "summary": "Indian-born English and American novelist (born 1947), born in Mumbai. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Salman_Rushdie"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44306",
+    "https://en.wikipedia.org/wiki/Salman_Rushdie"
+  ],
+  "disputed": false
+}

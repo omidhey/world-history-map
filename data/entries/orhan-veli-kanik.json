@@ -1,0 +1,23 @@
+{
+  "id": "orhan-veli-kanik",
+  "wikidata": "Q982848",
+  "name": "Orhan Veli Kanık",
+  "category": "writer",
+  "start": 1914,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.98,
+    "place": "Constantinople"
+  },
+  "summary": "Turkish poet (1914–1950), born in Constantinople. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Orhan_Veli_Kanık"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q982848",
+    "https://en.wikipedia.org/wiki/Orhan_Veli_Kanık"
+  ],
+  "disputed": false
+}

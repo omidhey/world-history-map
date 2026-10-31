@@ -1,0 +1,40 @@
+{
+  "id": "hamlet",
+  "wikidata": "Q41567",
+  "name": "Hamlet",
+  "category": "work",
+  "start": 1602,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "Tragedy by William Shakespeare, associated with Stratford-upon-Avon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamlet"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41567",
+    "https://en.wikipedia.org/wiki/Hamlet"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1602,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41567"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1623,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41567"
+      ]
+    }
+  ]
+}

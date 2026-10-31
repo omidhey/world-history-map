@@ -1,0 +1,18 @@
+{
+  "id": "aisin-gioro",
+  "wikidata": "Q934262",
+  "name": "Aisin Gioro",
+  "polity": "qing-empire",
+  "start": 1644,
+  "end": 1912,
+  "date_precision": "year",
+  "summary": "The Manchu imperial clan that ruled China from the fall of the Ming to the 1912 revolution.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aisin_Gioro"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q934262",
+    "https://en.wikipedia.org/wiki/Aisin_Gioro"
+  ],
+  "disputed": false
+}

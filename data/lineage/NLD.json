@@ -1,0 +1,201 @@
+{
+ "country": "NLD",
+ "name": "Netherlands",
+ "area_km2": 39931,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8767
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8767
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7257
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.1172
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7205,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.1086,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0482
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7205,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.1086,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0483
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.8767
+   }
+  ],
+  "400": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.6066,
+    "carried": -1
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.206
+   },
+   {
+    "name": "Franks",
+    "subjecto": "Franks",
+    "share": 0.0429
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.8767
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.8644
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.8768
+   }
+  ],
+  "1800": [
+   {
+    "name": "Batavian Republic",
+    "subjecto": null,
+    "share": 0.852
+   },
+   {
+    "name": "Prussia",
+    "subjecto": "Prussia",
+    "share": 0.0303
+   },
+   {
+    "name": "Austrian Netherlands",
+    "subjecto": "Habsburg Austria",
+    "share": 0.0164
+   }
+  ],
+  "1914": [
+   {
+    "name": "Netherlands",
+    "subjecto": "Netherlands",
+    "share": 0.8233
+   },
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.0164
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Netherlands",
+    "subjecto": "Netherlands",
+    "share": 0.8233
+   },
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.0164
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Netherlands",
+    "subjecto": "Netherlands",
+    "share": 0.8233
+   },
+   {
+    "name": "Belgium",
+    "subjecto": "Belgium",
+    "share": 0.0164
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "polybius",
+  "wikidata": "Q131169",
+  "name": "Polybius",
+  "category": "writer",
+  "start": -200,
+  "end": -120,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.41,
+    "lon": 22.13,
+    "place": "Megalopolis"
+  },
+  "summary": "Ancient Greek historian and politician of the 2nd century BC, born in Megalopolis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Polybius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131169",
+    "https://en.wikipedia.org/wiki/Polybius"
+  ],
+  "disputed": false
+}

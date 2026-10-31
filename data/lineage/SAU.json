@@ -1,0 +1,305 @@
+{
+ "country": "SAU",
+ "name": "Saudi Arabia",
+ "area_km2": 1919998,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9934
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9934
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.9295
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.0382
+   },
+   {
+    "name": "Saba",
+    "subjecto": "Saba",
+    "share": 0.0248
+   }
+  ],
+  "-500": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8857,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0451
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.0375,
+    "carried": -1000
+   },
+   {
+    "name": "Saba",
+    "subjecto": "Saba",
+    "share": 0.0248
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8788,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0451,
+    "carried": -500
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.0375,
+    "carried": -1000
+   },
+   {
+    "name": "Saba",
+    "subjecto": "Saba",
+    "share": 0.0248
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0059,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8123,
+    "carried": -1000
+   },
+   {
+    "name": "Himyarite Kingdom",
+    "subjecto": "Himyarite Kingdom",
+    "share": 0.091
+   },
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.0348
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.0306,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0241,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8123,
+    "carried": -1000
+   },
+   {
+    "name": "Himyarite Kingdom",
+    "subjecto": "Himyarite Kingdom",
+    "share": 0.0899
+   },
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.0336,
+    "carried": -1
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.0306,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0241,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0026,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9934
+   }
+  ],
+  "1200": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.822,
+    "carried": 800
+   },
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.1179
+   },
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.0517
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.8709
+   },
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.1179
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.5014,
+    "carried": 1500
+   },
+   {
+    "name": "Nejd",
+    "subjecto": "Nejd",
+    "share": 0.3416
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.138
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0146,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Arabia (Nejd)",
+    "subjecto": "Arabia (Nejd)",
+    "share": 0.7784
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.1903
+   },
+   {
+    "name": "British Protectorate",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0244
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.9613
+   },
+   {
+    "name": "United Arab Emirates",
+    "subjecto": "United Arab Emirates",
+    "share": 0.0122
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0199,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.9621
+   },
+   {
+    "name": "United Arab Emirates",
+    "subjecto": "United Arab Emirates",
+    "share": 0.0122
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0191,
+    "other": true
+   }
+  ]
+ }
+}

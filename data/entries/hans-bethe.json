@@ -1,0 +1,23 @@
+{
+  "id": "hans-bethe",
+  "wikidata": "Q155794",
+  "name": "Hans Bethe",
+  "category": "scientist",
+  "start": 1906,
+  "end": 2005,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.57,
+    "lon": 7.75,
+    "place": "Strasbourg"
+  },
+  "summary": "German-American nuclear physicist, born in Strasbourg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Bethe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155794",
+    "https://en.wikipedia.org/wiki/Hans_Bethe"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sergei-korolev",
+  "wikidata": "Q170842",
+  "name": "Sergei Korolev",
+  "category": "scientist",
+  "start": 1906,
+  "end": 1966,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.25,
+    "lon": 28.66,
+    "place": "Zhytomyr"
+  },
+  "summary": "Soviet rocket engineer and spacecraft designer (1907-1966), born in Zhytomyr. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Korolev"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170842",
+    "https://en.wikipedia.org/wiki/Sergei_Korolev"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1906,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q170842"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1907,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q170842"
+      ]
+    }
+  ]
+}

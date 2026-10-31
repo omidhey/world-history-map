@@ -1,0 +1,23 @@
+{
+  "id": "leah-goldberg",
+  "wikidata": "Q138007",
+  "name": "Leah Goldberg",
+  "category": "writer",
+  "start": 1911,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.71,
+    "lon": 20.51,
+    "place": "Königsberg"
+  },
+  "summary": "Israeli poet (1911–2070), born in Königsberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leah_Goldberg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q138007",
+    "https://en.wikipedia.org/wiki/Leah_Goldberg"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mehmed-vi",
+  "wikidata": "Q162543",
+  "name": "Mehmed VI",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1918,
+  "end": 1922,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehmed_VI"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q162543",
+    "https://en.wikipedia.org/wiki/Mehmed_VI"
+  ],
+  "disputed": false
+}

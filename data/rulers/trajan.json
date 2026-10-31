@@ -1,0 +1,19 @@
+{
+  "id": "trajan",
+  "wikidata": "Q1425",
+  "name": "Trajan",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "nerva-antonine-dynasty",
+  "start": 98,
+  "end": 117,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Trajan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1425",
+    "https://en.wikipedia.org/wiki/Trajan"
+  ],
+  "disputed": false
+}

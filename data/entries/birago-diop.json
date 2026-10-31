@@ -1,0 +1,23 @@
+{
+  "id": "birago-diop",
+  "wikidata": "Q716541",
+  "name": "Birago Diop",
+  "category": "writer",
+  "start": 1906,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.67,
+    "lon": -17.43,
+    "place": "Dakar"
+  },
+  "summary": "Senegalese poet, storyteller and diplomat (1906–1989), born in Dakar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Birago_Diop"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q716541",
+    "https://en.wikipedia.org/wiki/Birago_Diop"
+  ],
+  "disputed": false
+}

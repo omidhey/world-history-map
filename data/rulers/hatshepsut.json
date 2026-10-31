@@ -1,0 +1,19 @@
+{
+  "id": "hatshepsut",
+  "wikidata": "Q129234",
+  "name": "Hatshepsut",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "eighteenth-dynasty-of-egypt",
+  "start": -1479,
+  "end": -1458,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hatshepsut"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129234",
+    "https://en.wikipedia.org/wiki/Hatshepsut"
+  ],
+  "disputed": false
+}

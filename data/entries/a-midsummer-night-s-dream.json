@@ -1,0 +1,22 @@
+{
+  "id": "a-midsummer-night-s-dream",
+  "wikidata": "Q104871",
+  "name": "A Midsummer Night's Dream",
+  "category": "work",
+  "start": 1600,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.19,
+    "lon": -1.71,
+    "place": "Stratford-upon-Avon"
+  },
+  "summary": "Play by William Shakespeare, associated with Stratford-upon-Avon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q104871",
+    "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream"
+  ],
+  "disputed": false
+}

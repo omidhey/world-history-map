@@ -1,0 +1,23 @@
+{
+  "id": "ernest-rutherford",
+  "wikidata": "Q9123",
+  "name": "Ernest Rutherford",
+  "category": "scientist",
+  "start": 1871,
+  "end": 1937,
+  "date_precision": "day",
+  "location": {
+    "lat": -41.39,
+    "lon": 173.08,
+    "place": "Spring Grove"
+  },
+  "summary": "New Zealand physicist (1871–1937), born in Spring Grove. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Rutherford"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9123",
+    "https://en.wikipedia.org/wiki/Ernest_Rutherford"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-book-of-healing",
+  "wikidata": "Q1030940",
+  "name": "The Book of Healing",
+  "category": "work",
+  "start": 1027,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.99,
+    "lon": 64.38,
+    "place": "Afshona"
+  },
+  "summary": "Book by Avicenna, associated with Afshona. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Book_of_Healing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1030940",
+    "https://en.wikipedia.org/wiki/The_Book_of_Healing"
+  ],
+  "disputed": false
+}

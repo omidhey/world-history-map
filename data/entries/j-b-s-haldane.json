@@ -1,0 +1,23 @@
+{
+  "id": "j-b-s-haldane",
+  "wikidata": "Q156333",
+  "name": "J.B.S. Haldane",
+  "category": "scientist",
+  "start": 1892,
+  "end": 1964,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.75,
+    "lon": -1.26,
+    "place": "Oxford"
+  },
+  "summary": "Geneticist and evolutionary biologist (1892-1964), born in Oxford. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/J._B._S._Haldane"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q156333",
+    "https://en.wikipedia.org/wiki/J._B._S._Haldane"
+  ],
+  "disputed": false
+}

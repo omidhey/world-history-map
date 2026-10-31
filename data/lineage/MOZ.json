@@ -1,0 +1,226 @@
+{
+ "country": "MOZ",
+ "name": "Mozambique",
+ "area_km2": 811086,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9808
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9808
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9808
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9808
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9792
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9808
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9881
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7351
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.2473
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7199
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.2059
+   },
+   {
+    "name": "Great Zimbabwe",
+    "subjecto": "Great Zimbabwe",
+    "share": 0.051
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.6803
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.1747
+   },
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.1221
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0116,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.6104,
+    "carried": 1500
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.1621,
+    "carried": 1500
+   },
+   {
+    "name": "Mwenemutapa",
+    "subjecto": "Mwenemutapa",
+    "share": 0.1221,
+    "carried": 1500
+   },
+   {
+    "name": "Portuguese East Africa",
+    "subjecto": "Portuguese East Africa",
+    "share": 0.0673
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.022,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Mozambique",
+    "subjecto": "Portugal",
+    "share": 0.9328
+   },
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0246
+   },
+   {
+    "name": "Malawi",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0128
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0132,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Mozambique (Portugal)",
+    "subjecto": "Portugal",
+    "share": 0.9323
+   },
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom",
+    "share": 0.0172
+   },
+   {
+    "name": "Nyasaland",
+    "subjecto": "United Kingdom",
+    "share": 0.0128
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.021,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Mozambique",
+    "subjecto": "Mozambique",
+    "share": 0.9316
+   },
+   {
+    "name": "Zimbabwe",
+    "subjecto": "Zimbabwe",
+    "share": 0.0185
+   },
+   {
+    "name": "Malawi",
+    "subjecto": "Malawi",
+    "share": 0.0128
+   },
+   {
+    "name": "Tanzania, United Republic of",
+    "subjecto": "Tanzania, United Republic of",
+    "share": 0.0111
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0113,
+    "other": true
+   }
+  ]
+ }
+}

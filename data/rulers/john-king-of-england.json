@@ -1,0 +1,19 @@
+{
+  "id": "john-king-of-england",
+  "wikidata": "Q129308",
+  "name": "John, King of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-plantagenet",
+  "start": 1199,
+  "end": 1216,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John,_King_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129308",
+    "https://en.wikipedia.org/wiki/John,_King_of_England"
+  ],
+  "disputed": false
+}

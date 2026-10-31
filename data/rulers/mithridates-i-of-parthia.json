@@ -1,0 +1,19 @@
+{
+  "id": "mithridates-i-of-parthia",
+  "wikidata": "Q312442",
+  "name": "Mithridates I of Parthia",
+  "polity": "parthian-empire",
+  "title": "King",
+  "dynasty": "arsacid-dynasty",
+  "start": -171,
+  "end": -132,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312442",
+    "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia"
+  ],
+  "disputed": false
+}

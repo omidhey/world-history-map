@@ -1,0 +1,19 @@
+{
+  "id": "anne-queen-of-great-britain",
+  "wikidata": "Q119702",
+  "name": "Anne, Queen of Great Britain",
+  "polity": "kingdom-of-england",
+  "title": "Queen",
+  "dynasty": "house-of-stuart",
+  "start": 1702,
+  "end": 1707,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q119702",
+    "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain"
+  ],
+  "disputed": false
+}

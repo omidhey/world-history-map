@@ -1,0 +1,23 @@
+{
+  "id": "thomas-risley-odhiambo",
+  "wikidata": "Q3525519",
+  "name": "Thomas Risley Odhiambo",
+  "category": "scientist",
+  "start": 1931,
+  "end": 2003,
+  "date_precision": "day",
+  "location": {
+    "lat": -4.05,
+    "lon": 39.67,
+    "place": "Mombasa"
+  },
+  "summary": "Kenyan entomologist (1931–2003), born in Mombasa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_R._Odhiambo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3525519",
+    "https://en.wikipedia.org/wiki/Thomas_R._Odhiambo"
+  ],
+  "disputed": false
+}

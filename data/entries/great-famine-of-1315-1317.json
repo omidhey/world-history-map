@@ -1,0 +1,22 @@
+{
+  "id": "great-famine-of-1315-1317",
+  "name": "Great Famine of 1315–1317",
+  "category": "event",
+  "start": 1315,
+  "end": 1317,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.0,
+    "lon": 3.0,
+    "place": "Northern Europe"
+  },
+  "summary": "Years of poor harvests, high food prices and widespread hunger across northern Europe following exceptionally wet weather.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+    "Jordan, William Chester. The Great Famine: Northern Europe in the Early Fourteenth Century. Princeton University Press, 1996."
+  ],
+  "disputed": false
+}

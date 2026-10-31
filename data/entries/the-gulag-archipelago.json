@@ -1,0 +1,22 @@
+{
+  "id": "the-gulag-archipelago",
+  "wikidata": "Q369944",
+  "name": "The Gulag Archipelago",
+  "category": "work",
+  "start": 1973,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.91,
+    "lon": 42.72,
+    "place": "Kislovodsk"
+  },
+  "summary": "1973 essay by Aleksandr Solzhenitsyn, associated with Kislovodsk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Gulag_Archipelago"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q369944",
+    "https://en.wikipedia.org/wiki/The_Gulag_Archipelago"
+  ],
+  "disputed": false
+}

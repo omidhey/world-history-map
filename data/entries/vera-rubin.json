@@ -1,0 +1,23 @@
+{
+  "id": "vera-rubin",
+  "wikidata": "Q234888",
+  "name": "Vera Rubin",
+  "category": "scientist",
+  "start": 1928,
+  "end": 2016,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.95,
+    "lon": -75.16,
+    "place": "Philadelphia"
+  },
+  "summary": "American astronomer and physicist (1928-2016), born in Philadelphia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vera_Rubin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q234888",
+    "https://en.wikipedia.org/wiki/Vera_Rubin"
+  ],
+  "disputed": false
+}

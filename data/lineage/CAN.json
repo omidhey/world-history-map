@@ -1,0 +1,524 @@
+{
+ "country": "CAN",
+ "name": "Canada",
+ "area_km2": 10037729,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9395
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.5249
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.3925
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0192
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.3947
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.3806
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0655
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0332
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.032
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0178
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.015
+   }
+  ],
+  "-500": [
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.3943
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.3721
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0656
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0332
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.032
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0178
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0156
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0082,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.3939
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.3721
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0659
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0332
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.032
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0179
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.3877
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.3521
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0332
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0318,
+    "carried": -323
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.0304
+   },
+   {
+    "name": "Laurel complex",
+    "subjecto": "Laurel complex",
+    "share": 0.0271
+   },
+   {
+    "name": "Point Peninsula",
+    "subjecto": "Point Peninsula",
+    "share": 0.0217
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0198
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0149
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0145,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.3875
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.3523
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0332
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0318,
+    "carried": -323
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.0304
+   },
+   {
+    "name": "Laurel complex",
+    "subjecto": "Laurel complex",
+    "share": 0.0273
+   },
+   {
+    "name": "Point Peninsula",
+    "subjecto": "Point Peninsula",
+    "share": 0.0217
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0201
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0155
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0142,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.2446
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.2275
+   },
+   {
+    "name": "Dorset",
+    "subjecto": "Dorset",
+    "share": 0.1825
+   },
+   {
+    "name": "Athabaskan",
+    "subjecto": "Athabaskan",
+    "share": 0.116
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0652
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.032
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.029
+   },
+   {
+    "name": "Innu",
+    "subjecto": "Innu",
+    "share": 0.0162
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0157,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.2493
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.224
+   },
+   {
+    "name": "Dorset",
+    "subjecto": "Dorset",
+    "share": 0.1819
+   },
+   {
+    "name": "Athabaskan",
+    "subjecto": "Athabaskan",
+    "share": 0.1151
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0657
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.032
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.029
+   },
+   {
+    "name": "Innu",
+    "subjecto": "Innu",
+    "share": 0.0149
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0116
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0146,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.2269
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.1931
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.1802,
+    "carried": 1200
+   },
+   {
+    "name": "Athabaskan",
+    "subjecto": "Athabaskan",
+    "share": 0.0932
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.032
+   },
+   {
+    "name": "Huron",
+    "subjecto": "Huron",
+    "share": 0.0318
+   },
+   {
+    "name": "Dorset",
+    "subjecto": "Dorset",
+    "share": 0.0309,
+    "carried": 1200
+   },
+   {
+    "name": "Algonquin",
+    "subjecto": "Algonquin",
+    "share": 0.0303
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.029
+   },
+   {
+    "name": "Innu",
+    "subjecto": "Innu",
+    "share": 0.0241
+   },
+   {
+    "name": "Tlinoit",
+    "subjecto": "Tlinoit",
+    "share": 0.0225
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.0126,
+    "carried": 1200
+   },
+   {
+    "name": "Mi'kma'ki",
+    "subjecto": "Mi'kma'ki",
+    "share": 0.0118
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0104
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0147,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Rupert's Land",
+    "subjecto": "Rupert's Land",
+    "share": 0.7271
+   },
+   {
+    "name": "Quebec",
+    "subjecto": "France",
+    "share": 0.0911
+   },
+   {
+    "name": "T'atsaot'ine",
+    "subjecto": "T'atsaot'ine",
+    "share": 0.0477
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.035,
+    "carried": 1500
+   },
+   {
+    "name": "Dorset",
+    "subjecto": "Dorset",
+    "share": 0.0215,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0179,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Canada",
+    "subjecto": "Canada",
+    "share": 0.9394
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Canada",
+    "subjecto": "Canada",
+    "share": 0.9375
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Canada",
+    "subjecto": "Canada",
+    "share": 0.9416
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ]
+ }
+}

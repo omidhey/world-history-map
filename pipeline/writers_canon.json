@@ -1,0 +1,1568 @@
+[
+ {
+  "tradition": "Ancient Near East and Egypt",
+  "overview": "https://en.wikipedia.org/wiki/Ancient_Egyptian_literature",
+  "people": [
+   {
+    "title": "Ptahhotep"
+   },
+   {
+    "title": "Enheduanna"
+   }
+  ]
+ },
+ {
+  "tradition": "Greek and Roman",
+  "overview": "https://en.wikipedia.org/wiki/Ancient_Greek_literature",
+  "people": [
+   {
+    "title": "Homer"
+   },
+   {
+    "title": "Hesiod"
+   },
+   {
+    "title": "Sappho"
+   },
+   {
+    "title": "Pindar"
+   },
+   {
+    "title": "Aeschylus"
+   },
+   {
+    "title": "Sophocles"
+   },
+   {
+    "title": "Euripides"
+   },
+   {
+    "title": "Aristophanes"
+   },
+   {
+    "title": "Herodotus"
+   },
+   {
+    "title": "Thucydides"
+   },
+   {
+    "title": "Plato"
+   },
+   {
+    "title": "Xenophon"
+   },
+   {
+    "title": "Demosthenes"
+   },
+   {
+    "title": "Menander"
+   },
+   {
+    "title": "Callimachus"
+   },
+   {
+    "title": "Theocritus"
+   },
+   {
+    "title": "Apollonius of Rhodes"
+   },
+   {
+    "title": "Polybius"
+   },
+   {
+    "title": "Plutarch"
+   },
+   {
+    "title": "Lucian"
+   },
+   {
+    "title": "Plautus"
+   },
+   {
+    "title": "Terence"
+   },
+   {
+    "title": "Lucretius"
+   },
+   {
+    "title": "Catullus"
+   },
+   {
+    "title": "Cicero"
+   },
+   {
+    "title": "Julius Caesar"
+   },
+   {
+    "title": "Sallust"
+   },
+   {
+    "title": "Virgil"
+   },
+   {
+    "title": "Horace"
+   },
+   {
+    "title": "Ovid"
+   },
+   {
+    "title": "Livy"
+   },
+   {
+    "title": "Seneca the Younger"
+   },
+   {
+    "title": "Petronius"
+   },
+   {
+    "title": "Juvenal"
+   },
+   {
+    "title": "Martial"
+   },
+   {
+    "title": "Tacitus"
+   },
+   {
+    "title": "Suetonius"
+   },
+   {
+    "title": "Apuleius"
+   },
+   {
+    "title": "Longus"
+   },
+   {
+    "title": "Augustine of Hippo"
+   },
+   {
+    "title": "Boethius"
+   },
+   {
+    "title": "Aesop"
+   }
+  ]
+ },
+ {
+  "tradition": "Chinese",
+  "overview": "https://en.wikipedia.org/wiki/Chinese_literature",
+  "people": [
+   {
+    "title": "Qu Yuan"
+   },
+   {
+    "title": "Sima Qian"
+   },
+   {
+    "title": "Ban Gu"
+   },
+   {
+    "title": "Tao Yuanming"
+   },
+   {
+    "title": "Li Bai"
+   },
+   {
+    "title": "Du Fu"
+   },
+   {
+    "title": "Wang Wei (Tang dynasty)"
+   },
+   {
+    "title": "Bai Juyi"
+   },
+   {
+    "title": "Han Yu"
+   },
+   {
+    "title": "Liu Zongyuan"
+   },
+   {
+    "title": "Su Shi"
+   },
+   {
+    "title": "Li Qingzhao"
+   },
+   {
+    "title": "Lu You"
+   },
+   {
+    "title": "Xin Qiji"
+   },
+   {
+    "title": "Luo Guanzhong"
+   },
+   {
+    "title": "Shi Nai'an"
+   },
+   {
+    "title": "Wu Cheng'en"
+   },
+   {
+    "title": "Pu Songling"
+   },
+   {
+    "title": "Cao Xueqin"
+   },
+   {
+    "title": "Wu Jingzi"
+   },
+   {
+    "title": "Li Ruzhen"
+   },
+   {
+    "title": "Tang Xianzu"
+   },
+   {
+    "title": "Guan Hanqing"
+   },
+   {
+    "title": "Kong Shangren"
+   },
+   {
+    "title": "Lu Xun"
+   },
+   {
+    "title": "Ba Jin"
+   },
+   {
+    "title": "Lao She"
+   },
+   {
+    "title": "Mao Dun"
+   },
+   {
+    "title": "Shen Congwen"
+   },
+   {
+    "title": "Eileen Chang"
+   },
+   {
+    "title": "Mo Yan"
+   },
+   {
+    "title": "Gao Xingjian"
+   },
+   {
+    "title": "Yu Hua"
+   },
+   {
+    "title": "Liu Cixin"
+   },
+   {
+    "title": "Yuan Mei"
+   },
+   {
+    "title": "Ouyang Xiu"
+   },
+   {
+    "title": "Meng Haoran"
+   }
+  ]
+ },
+ {
+  "tradition": "Japanese",
+  "overview": "https://en.wikipedia.org/wiki/Japanese_literature",
+  "people": [
+   {
+    "title": "Murasaki Shikibu"
+   },
+   {
+    "title": "Sei Shōnagon"
+   },
+   {
+    "title": "Kakinomoto no Hitomaro"
+   },
+   {
+    "title": "Ki no Tsurayuki"
+   },
+   {
+    "title": "Saigyō"
+   },
+   {
+    "title": "Fujiwara no Teika"
+   },
+   {
+    "title": "Kamo no Chōmei"
+   },
+   {
+    "title": "Yoshida Kenkō"
+   },
+   {
+    "title": "Zeami Motokiyo"
+   },
+   {
+    "title": "Matsuo Bashō"
+   },
+   {
+    "title": "Ihara Saikaku"
+   },
+   {
+    "title": "Chikamatsu Monzaemon"
+   },
+   {
+    "title": "Yosa Buson"
+   },
+   {
+    "title": "Kobayashi Issa"
+   },
+   {
+    "title": "Ueda Akinari"
+   },
+   {
+    "title": "Natsume Sōseki"
+   },
+   {
+    "title": "Mori Ōgai"
+   },
+   {
+    "title": "Ryūnosuke Akutagawa"
+   },
+   {
+    "title": "Higuchi Ichiyō"
+   },
+   {
+    "title": "Masaoka Shiki"
+   },
+   {
+    "title": "Jun'ichirō Tanizaki"
+   },
+   {
+    "title": "Yasunari Kawabata"
+   },
+   {
+    "title": "Yukio Mishima"
+   },
+   {
+    "title": "Osamu Dazai"
+   },
+   {
+    "title": "Kenzaburō Ōe"
+   },
+   {
+    "title": "Kōbō Abe"
+   },
+   {
+    "title": "Kenji Miyazawa"
+   },
+   {
+    "title": "Haruki Murakami"
+   },
+   {
+    "title": "Banana Yoshimoto"
+   },
+   {
+    "title": "Ariwara no Narihira"
+   },
+   {
+    "title": "Ono no Komachi"
+   }
+  ]
+ },
+ {
+  "tradition": "Korean",
+  "overview": "https://en.wikipedia.org/wiki/Korean_literature",
+  "people": [
+   {
+    "title": "Kim Sakkat"
+   },
+   {
+    "title": "Heo Gyun"
+   },
+   {
+    "title": "Hwang Jini"
+   },
+   {
+    "title": "Jeong Cheol"
+   },
+   {
+    "title": "Kim Man-jung"
+   },
+   {
+    "title": "Yi Kwang-su"
+   },
+   {
+    "title": "Han Yong-un"
+   },
+   {
+    "title": "Yun Dong-ju"
+   },
+   {
+    "title": "Kim Sowol"
+   },
+   {
+    "title": "Han Kang"
+   },
+   {
+    "title": "Park Kyong-ni"
+   },
+   {
+    "title": "Hwang Sok-yong"
+   },
+   {
+    "title": "Ko Un"
+   }
+  ]
+ },
+ {
+  "tradition": "Indian and South Asian",
+  "overview": "https://en.wikipedia.org/wiki/Indian_literature",
+  "people": [
+   {
+    "title": "Valmiki"
+   },
+   {
+    "title": "Vyasa"
+   },
+   {
+    "title": "Kalidasa"
+   },
+   {
+    "title": "Bhasa"
+   },
+   {
+    "title": "Śūdraka"
+   },
+   {
+    "title": "Bhavabhuti"
+   },
+   {
+    "title": "Bāṇabhaṭṭa"
+   },
+   {
+    "title": "Bharavi"
+   },
+   {
+    "title": "Jayadeva"
+   },
+   {
+    "title": "Kabir"
+   },
+   {
+    "title": "Mirabai"
+   },
+   {
+    "title": "Surdas"
+   },
+   {
+    "title": "Tulsidas"
+   },
+   {
+    "title": "Tiruvalluvar"
+   },
+   {
+    "title": "Ilango Adigal"
+   },
+   {
+    "title": "Andal"
+   },
+   {
+    "title": "Kamban"
+   },
+   {
+    "title": "Basava"
+   },
+   {
+    "title": "Amir Khusrow"
+   },
+   {
+    "title": "Mirza Ghalib"
+   },
+   {
+    "title": "Rabindranath Tagore"
+   },
+   {
+    "title": "Bankim Chandra Chatterjee"
+   },
+   {
+    "title": "Premchand"
+   },
+   {
+    "title": "Sarojini Naidu"
+   },
+   {
+    "title": "Subramania Bharati"
+   },
+   {
+    "title": "Mahadevi Varma"
+   },
+   {
+    "title": "Kuvempu"
+   },
+   {
+    "title": "Girish Karnad"
+   },
+   {
+    "title": "R. K. Narayan"
+   },
+   {
+    "title": "Mulk Raj Anand"
+   },
+   {
+    "title": "Salman Rushdie"
+   },
+   {
+    "title": "Arundhati Roy"
+   },
+   {
+    "title": "Mahasweta Devi"
+   },
+   {
+    "title": "Muhammad Iqbal"
+   },
+   {
+    "title": "Faiz Ahmad Faiz"
+   },
+   {
+    "title": "Saadat Hasan Manto"
+   },
+   {
+    "title": "Qurratulain Hyder"
+   },
+   {
+    "title": "Dandin"
+   }
+  ]
+ },
+ {
+  "tradition": "Persian",
+  "overview": "https://en.wikipedia.org/wiki/Persian_literature",
+  "people": [
+   {
+    "title": "Rudaki"
+   },
+   {
+    "title": "Ferdowsi"
+   },
+   {
+    "title": "Nizami Ganjavi"
+   },
+   {
+    "title": "Attar of Nishapur"
+   },
+   {
+    "title": "Omar Khayyam"
+   },
+   {
+    "title": "Rumi"
+   },
+   {
+    "title": "Saadi Shirazi"
+   },
+   {
+    "title": "Hafez"
+   },
+   {
+    "title": "Jami"
+   },
+   {
+    "title": "Sanai"
+   },
+   {
+    "title": "Nasir Khusraw"
+   },
+   {
+    "title": "Farrukhi Sistani"
+   },
+   {
+    "title": "Manuchehri"
+   },
+   {
+    "title": "Khaqani"
+   },
+   {
+    "title": "Sohrab Sepehri"
+   },
+   {
+    "title": "Forugh Farrokhzad"
+   },
+   {
+    "title": "Sadegh Hedayat"
+   },
+   {
+    "title": "Ahmad Shamlou"
+   },
+   {
+    "title": "Nima Yooshij"
+   },
+   {
+    "title": "Mohammad-Ali Jamalzadeh"
+   },
+   {
+    "title": "Simin Daneshvar"
+   }
+  ]
+ },
+ {
+  "tradition": "Arabic",
+  "overview": "https://en.wikipedia.org/wiki/Arabic_literature",
+  "people": [
+   {
+    "title": "Imru' al-Qais"
+   },
+   {
+    "title": "Al-Khansa"
+   },
+   {
+    "title": "Antarah ibn Shaddad"
+   },
+   {
+    "title": "Abu Nuwas"
+   },
+   {
+    "title": "Al-Mutanabbi"
+   },
+   {
+    "title": "Abu al-ʿAlaʾ al-Maʿarri"
+   },
+   {
+    "title": "Al-Jahiz"
+   },
+   {
+    "title": "Ibn al-Muqaffa'"
+   },
+   {
+    "title": "Al-Hariri of Basra"
+   },
+   {
+    "title": "Badi' al-Zaman al-Hamadhani"
+   },
+   {
+    "title": "Ibn Hazm"
+   },
+   {
+    "title": "Ibn Arabi"
+   },
+   {
+    "title": "Ibn Zaydun"
+   },
+   {
+    "title": "Ibn Tufail"
+   },
+   {
+    "title": "Ibn Battuta"
+   },
+   {
+    "title": "Al-Tabari"
+   },
+   {
+    "title": "Al-Masudi"
+   },
+   {
+    "title": "Naguib Mahfouz"
+   },
+   {
+    "title": "Taha Hussein"
+   },
+   {
+    "title": "Tawfiq al-Hakim"
+   },
+   {
+    "title": "Kahlil Gibran"
+   },
+   {
+    "title": "Mahmoud Darwish"
+   },
+   {
+    "title": "Nizar Qabbani"
+   },
+   {
+    "title": "Adunis"
+   },
+   {
+    "title": "Ghassan Kanafani"
+   },
+   {
+    "title": "Tayeb Salih"
+   },
+   {
+    "title": "Nawal El Saadawi"
+   },
+   {
+    "title": "Assia Djebar"
+   },
+   {
+    "title": "Ahlam Mosteghanemi"
+   },
+   {
+    "title": "Abdul Rahman Munif"
+   },
+   {
+    "title": "Elias Khoury"
+   },
+   {
+    "title": "Hanan al-Shaykh"
+   },
+   {
+    "title": "Ahmed Shawqi"
+   },
+   {
+    "title": "Badr Shakir al-Sayyab"
+   },
+   {
+    "title": "Yusuf Idris"
+   }
+  ]
+ },
+ {
+  "tradition": "Turkish",
+  "overview": "https://en.wikipedia.org/wiki/Turkish_literature",
+  "people": [
+   {
+    "title": "Yunus Emre"
+   },
+   {
+    "title": "Fuzûlî"
+   },
+   {
+    "title": "Nefi"
+   },
+   {
+    "title": "Evliya Çelebi"
+   },
+   {
+    "title": "Nâzım Hikmet"
+   },
+   {
+    "title": "Orhan Pamuk"
+   },
+   {
+    "title": "Yaşar Kemal"
+   },
+   {
+    "title": "Sabahattin Ali"
+   },
+   {
+    "title": "Ahmet Hamdi Tanpınar"
+   },
+   {
+    "title": "Aziz Nesin"
+   },
+   {
+    "title": "Halide Edib Adıvar"
+   },
+   {
+    "title": "Namık Kemal"
+   },
+   {
+    "title": "Elif Shafak"
+   },
+   {
+    "title": "Orhan Veli Kanık"
+   },
+   {
+    "title": "Yahya Kemal Beyatlı"
+   }
+  ]
+ },
+ {
+  "tradition": "Hebrew and Yiddish",
+  "overview": "https://en.wikipedia.org/wiki/Hebrew_literature",
+  "people": [
+   {
+    "title": "Yehuda Halevi"
+   },
+   {
+    "title": "Solomon ibn Gabirol"
+   },
+   {
+    "title": "Moses ibn Ezra"
+   },
+   {
+    "title": "Judah al-Harizi"
+   },
+   {
+    "title": "Isaac Bashevis Singer"
+   },
+   {
+    "title": "Sholem Aleichem"
+   },
+   {
+    "title": "Shmuel Yosef Agnon"
+   },
+   {
+    "title": "Hayim Nahman Bialik"
+   },
+   {
+    "title": "Amos Oz"
+   },
+   {
+    "title": "David Grossman"
+   },
+   {
+    "title": "Yehuda Amichai"
+   },
+   {
+    "title": "Leah Goldberg"
+   },
+   {
+    "title": "Isaac Leib Peretz"
+   },
+   {
+    "title": "Paul Celan"
+   },
+   {
+    "title": "Primo Levi"
+   },
+   {
+    "title": "Elie Wiesel"
+   },
+   {
+    "title": "Franz Kafka"
+   }
+  ]
+ },
+ {
+  "tradition": "African",
+  "overview": "https://en.wikipedia.org/wiki/African_literature",
+  "people": [
+   {
+    "title": "Chinua Achebe"
+   },
+   {
+    "title": "Wole Soyinka"
+   },
+   {
+    "title": "Ngũgĩ wa Thiong'o"
+   },
+   {
+    "title": "Chimamanda Ngozi Adichie"
+   },
+   {
+    "title": "Ben Okri"
+   },
+   {
+    "title": "Amos Tutuola"
+   },
+   {
+    "title": "Cyprian Ekwensi"
+   },
+   {
+    "title": "Buchi Emecheta"
+   },
+   {
+    "title": "Flora Nwapa"
+   },
+   {
+    "title": "Ama Ata Aidoo"
+   },
+   {
+    "title": "Ayi Kwei Armah"
+   },
+   {
+    "title": "Kofi Awoonor"
+   },
+   {
+    "title": "Léopold Sédar Senghor"
+   },
+   {
+    "title": "Aimé Césaire"
+   },
+   {
+    "title": "Birago Diop"
+   },
+   {
+    "title": "Camara Laye"
+   },
+   {
+    "title": "Ousmane Sembène"
+   },
+   {
+    "title": "Mariama Bâ"
+   },
+   {
+    "title": "Cheikh Hamidou Kane"
+   },
+   {
+    "title": "Ahmadou Kourouma"
+   },
+   {
+    "title": "Sony Labou Tansi"
+   },
+   {
+    "title": "Mongo Beti"
+   },
+   {
+    "title": "Ferdinand Oyono"
+   },
+   {
+    "title": "Nadine Gordimer"
+   },
+   {
+    "title": "J. M. Coetzee"
+   },
+   {
+    "title": "Alan Paton"
+   },
+   {
+    "title": "Athol Fugard"
+   },
+   {
+    "title": "Es'kia Mphahlele"
+   },
+   {
+    "title": "Bessie Head"
+   },
+   {
+    "title": "Zakes Mda"
+   },
+   {
+    "title": "Thomas Mofolo"
+   },
+   {
+    "title": "Sol Plaatje"
+   },
+   {
+    "title": "Tsitsi Dangarembga"
+   },
+   {
+    "title": "Dambudzo Marechera"
+   },
+   {
+    "title": "Doris Lessing"
+   },
+   {
+    "title": "Abdulrazak Gurnah"
+   },
+   {
+    "title": "Nuruddin Farah"
+   },
+   {
+    "title": "Leila Aboulela"
+   },
+   {
+    "title": "Okot p'Bitek"
+   },
+   {
+    "title": "Kateb Yacine"
+   }
+  ]
+ },
+ {
+  "tradition": "Latin American",
+  "overview": "https://en.wikipedia.org/wiki/Latin_American_literature",
+  "people": [
+   {
+    "title": "Inca Garcilaso de la Vega"
+   },
+   {
+    "title": "Sor Juana Inés de la Cruz"
+   },
+   {
+    "title": "José Hernández (writer)"
+   },
+   {
+    "title": "Rubén Darío"
+   },
+   {
+    "title": "José Martí"
+   },
+   {
+    "title": "Andrés Bello"
+   },
+   {
+    "title": "Domingo Faustino Sarmiento"
+   },
+   {
+    "title": "Jorge Isaacs"
+   },
+   {
+    "title": "Machado de Assis"
+   },
+   {
+    "title": "Euclides da Cunha"
+   },
+   {
+    "title": "Horacio Quiroga"
+   },
+   {
+    "title": "César Vallejo"
+   },
+   {
+    "title": "Gabriela Mistral"
+   },
+   {
+    "title": "Pablo Neruda"
+   },
+   {
+    "title": "Vicente Huidobro"
+   },
+   {
+    "title": "Jorge Luis Borges"
+   },
+   {
+    "title": "Julio Cortázar"
+   },
+   {
+    "title": "Ernesto Sabato"
+   },
+   {
+    "title": "Adolfo Bioy Casares"
+   },
+   {
+    "title": "Alejo Carpentier"
+   },
+   {
+    "title": "Miguel Ángel Asturias"
+   },
+   {
+    "title": "Juan Rulfo"
+   },
+   {
+    "title": "Octavio Paz"
+   },
+   {
+    "title": "Carlos Fuentes"
+   },
+   {
+    "title": "Rosario Castellanos"
+   },
+   {
+    "title": "Elena Poniatowska"
+   },
+   {
+    "title": "Gabriel García Márquez"
+   },
+   {
+    "title": "Mario Vargas Llosa"
+   },
+   {
+    "title": "José María Arguedas"
+   },
+   {
+    "title": "Isabel Allende"
+   },
+   {
+    "title": "Clarice Lispector"
+   },
+   {
+    "title": "João Guimarães Rosa"
+   },
+   {
+    "title": "Jorge Amado"
+   },
+   {
+    "title": "Carlos Drummond de Andrade"
+   },
+   {
+    "title": "Cecília Meireles"
+   },
+   {
+    "title": "Manuel Bandeira"
+   },
+   {
+    "title": "Graciliano Ramos"
+   },
+   {
+    "title": "Paulo Coelho"
+   }
+  ]
+ },
+ {
+  "tradition": "Indigenous peoples of the Americas",
+  "overview": "https://en.wikipedia.org/wiki/Indigenous_literatures_of_the_Americas",
+  "people": [
+   {
+    "title": "Nezahualcoyotl"
+   },
+   {
+    "title": "Bernardino de Sahagún"
+   },
+   {
+    "title": "Felipe Guaman Poma de Ayala"
+   },
+   {
+    "title": "Black Elk"
+   },
+   {
+    "title": "N. Scott Momaday"
+   },
+   {
+    "title": "Leslie Marmon Silko"
+   },
+   {
+    "title": "Louise Erdrich"
+   },
+   {
+    "title": "Sherman Alexie"
+   },
+   {
+    "title": "Rigoberta Menchú"
+   },
+   {
+    "title": "Humberto Ak'abal"
+   }
+  ]
+ },
+ {
+  "tradition": "Medieval European",
+  "overview": "https://en.wikipedia.org/wiki/Medieval_literature",
+  "people": [
+   {
+    "title": "Chrétien de Troyes"
+   },
+   {
+    "title": "Marie de France"
+   },
+   {
+    "title": "Wolfram von Eschenbach"
+   },
+   {
+    "title": "Gottfried von Strassburg"
+   },
+   {
+    "title": "Walther von der Vogelweide"
+   },
+   {
+    "title": "Geoffrey of Monmouth"
+   },
+   {
+    "title": "Snorri Sturluson"
+   },
+   {
+    "title": "Dante Alighieri"
+   },
+   {
+    "title": "Petrarch"
+   },
+   {
+    "title": "Giovanni Boccaccio"
+   },
+   {
+    "title": "Geoffrey Chaucer"
+   },
+   {
+    "title": "William Langland"
+   },
+   {
+    "title": "Christine de Pizan"
+   },
+   {
+    "title": "François Villon"
+   },
+   {
+    "title": "Thomas Malory"
+   },
+   {
+    "title": "Julian of Norwich"
+   },
+   {
+    "title": "Margery Kempe"
+   },
+   {
+    "title": "Jean Froissart"
+   },
+   {
+    "title": "Guillaume de Lorris"
+   },
+   {
+    "title": "Jean de Meun"
+   },
+   {
+    "title": "Shota Rustaveli"
+   },
+   {
+    "title": "Nestor the Chronicler"
+   },
+   {
+    "title": "Ramon Llull"
+   },
+   {
+    "title": "Ausiàs March"
+   },
+   {
+    "title": "Jorge Manrique"
+   }
+  ]
+ },
+ {
+  "tradition": "Renaissance and early modern Europe",
+  "overview": "https://en.wikipedia.org/wiki/Renaissance_literature",
+  "people": [
+   {
+    "title": "William Shakespeare"
+   },
+   {
+    "title": "Christopher Marlowe"
+   },
+   {
+    "title": "Ben Jonson"
+   },
+   {
+    "title": "John Donne"
+   },
+   {
+    "title": "Edmund Spenser"
+   },
+   {
+    "title": "Philip Sidney"
+   },
+   {
+    "title": "John Milton"
+   },
+   {
+    "title": "Miguel de Cervantes"
+   },
+   {
+    "title": "Lope de Vega"
+   },
+   {
+    "title": "Pedro Calderón de la Barca"
+   },
+   {
+    "title": "Luís de Camões"
+   },
+   {
+    "title": "François Rabelais"
+   },
+   {
+    "title": "Michel de Montaigne"
+   },
+   {
+    "title": "Pierre de Ronsard"
+   },
+   {
+    "title": "Molière"
+   },
+   {
+    "title": "Jean Racine"
+   },
+   {
+    "title": "Pierre Corneille"
+   },
+   {
+    "title": "Jean de La Fontaine"
+   },
+   {
+    "title": "Ludovico Ariosto"
+   },
+   {
+    "title": "Torquato Tasso"
+   },
+   {
+    "title": "Niccolò Machiavelli"
+   },
+   {
+    "title": "Erasmus"
+   }
+  ]
+ },
+ {
+  "tradition": "Enlightenment and Romantic Europe",
+  "overview": "https://en.wikipedia.org/wiki/Romanticism",
+  "people": [
+   {
+    "title": "Voltaire"
+   },
+   {
+    "title": "Jean-Jacques Rousseau"
+   },
+   {
+    "title": "Denis Diderot"
+   },
+   {
+    "title": "Jonathan Swift"
+   },
+   {
+    "title": "Daniel Defoe"
+   },
+   {
+    "title": "Samuel Richardson"
+   },
+   {
+    "title": "Henry Fielding"
+   },
+   {
+    "title": "Laurence Sterne"
+   },
+   {
+    "title": "Samuel Johnson"
+   },
+   {
+    "title": "Alexander Pope"
+   },
+   {
+    "title": "Oliver Goldsmith"
+   },
+   {
+    "title": "Jane Austen"
+   },
+   {
+    "title": "Mary Shelley"
+   },
+   {
+    "title": "Mary Wollstonecraft"
+   },
+   {
+    "title": "William Blake"
+   },
+   {
+    "title": "William Wordsworth"
+   },
+   {
+    "title": "Samuel Taylor Coleridge"
+   },
+   {
+    "title": "Lord Byron"
+   },
+   {
+    "title": "Percy Bysshe Shelley"
+   },
+   {
+    "title": "John Keats"
+   },
+   {
+    "title": "Walter Scott"
+   },
+   {
+    "title": "Johann Wolfgang von Goethe"
+   },
+   {
+    "title": "Friedrich Schiller"
+   },
+   {
+    "title": "E. T. A. Hoffmann"
+   },
+   {
+    "title": "Heinrich Heine"
+   }
+  ]
+ },
+ {
+  "tradition": "Nineteenth-century realism",
+  "overview": "https://en.wikipedia.org/wiki/Literary_realism",
+  "people": [
+   {
+    "title": "Charles Dickens"
+   },
+   {
+    "title": "George Eliot"
+   },
+   {
+    "title": "Charlotte Brontë"
+   },
+   {
+    "title": "Emily Brontë"
+   },
+   {
+    "title": "Anne Brontë"
+   },
+   {
+    "title": "Thomas Hardy"
+   },
+   {
+    "title": "William Makepeace Thackeray"
+   },
+   {
+    "title": "Elizabeth Gaskell"
+   },
+   {
+    "title": "Anthony Trollope"
+   },
+   {
+    "title": "Lewis Carroll"
+   },
+   {
+    "title": "Robert Louis Stevenson"
+   },
+   {
+    "title": "Oscar Wilde"
+   },
+   {
+    "title": "Gustave Flaubert"
+   },
+   {
+    "title": "Émile Zola"
+   },
+   {
+    "title": "Guy de Maupassant"
+   },
+   {
+    "title": "Charles Baudelaire"
+   },
+   {
+    "title": "Arthur Rimbaud"
+   },
+   {
+    "title": "Paul Verlaine"
+   },
+   {
+    "title": "Stéphane Mallarmé"
+   },
+   {
+    "title": "Jules Verne"
+   },
+   {
+    "title": "Fyodor Dostoevsky"
+   },
+   {
+    "title": "Leo Tolstoy"
+   },
+   {
+    "title": "Ivan Turgenev"
+   },
+   {
+    "title": "Nikolai Gogol"
+   },
+   {
+    "title": "Anton Chekhov"
+   },
+   {
+    "title": "Ivan Goncharov"
+   },
+   {
+    "title": "Henrik Ibsen"
+   },
+   {
+    "title": "August Strindberg"
+   },
+   {
+    "title": "Bjørnstjerne Bjørnson"
+   },
+   {
+    "title": "Knut Hamsun"
+   }
+  ]
+ },
+ {
+  "tradition": "Twentieth century and after",
+  "overview": "https://en.wikipedia.org/wiki/20th-century_literature",
+  "people": [
+   {
+    "title": "James Joyce"
+   },
+   {
+    "title": "Virginia Woolf"
+   },
+   {
+    "title": "Marcel Proust"
+   },
+   {
+    "title": "T. S. Eliot"
+   },
+   {
+    "title": "Ezra Pound"
+   },
+   {
+    "title": "W. B. Yeats"
+   },
+   {
+    "title": "Samuel Beckett"
+   },
+   {
+    "title": "George Orwell"
+   },
+   {
+    "title": "Aldous Huxley"
+   },
+   {
+    "title": "D. H. Lawrence"
+   },
+   {
+    "title": "E. M. Forster"
+   },
+   {
+    "title": "Ernest Hemingway"
+   },
+   {
+    "title": "F. Scott Fitzgerald"
+   },
+   {
+    "title": "William Faulkner"
+   },
+   {
+    "title": "John Steinbeck"
+   },
+   {
+    "title": "Toni Morrison"
+   },
+   {
+    "title": "Langston Hughes"
+   },
+   {
+    "title": "Zora Neale Hurston"
+   },
+   {
+    "title": "Richard Wright (author)"
+   },
+   {
+    "title": "James Baldwin"
+   },
+   {
+    "title": "Ralph Ellison"
+   },
+   {
+    "title": "Maya Angelou"
+   },
+   {
+    "title": "Sylvia Plath"
+   },
+   {
+    "title": "Robert Frost"
+   },
+   {
+    "title": "Wallace Stevens"
+   },
+   {
+    "title": "Vladimir Nabokov"
+   },
+   {
+    "title": "Boris Pasternak"
+   },
+   {
+    "title": "Aleksandr Solzhenitsyn"
+   },
+   {
+    "title": "Mikhail Bulgakov"
+   },
+   {
+    "title": "Anna Akhmatova"
+   },
+   {
+    "title": "Marina Tsvetaeva"
+   },
+   {
+    "title": "Osip Mandelstam"
+   },
+   {
+    "title": "Vladimir Mayakovsky"
+   },
+   {
+    "title": "Isaac Babel"
+   },
+   {
+    "title": "Maxim Gorky"
+   },
+   {
+    "title": "Bertolt Brecht"
+   },
+   {
+    "title": "Hermann Hesse"
+   },
+   {
+    "title": "Rainer Maria Rilke"
+   },
+   {
+    "title": "Robert Musil"
+   },
+   {
+    "title": "Günter Grass"
+   },
+   {
+    "title": "Italo Calvino"
+   },
+   {
+    "title": "Umberto Eco"
+   },
+   {
+    "title": "Luigi Pirandello"
+   },
+   {
+    "title": "Eugenio Montale"
+   },
+   {
+    "title": "Federico García Lorca"
+   }
+  ]
+ }
+]

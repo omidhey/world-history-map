@@ -1,0 +1,23 @@
+{
+  "id": "baruj-benacerraf",
+  "wikidata": "Q234701",
+  "name": "Baruj Benacerraf",
+  "category": "scientist",
+  "start": 1920,
+  "end": 2011,
+  "date_precision": "day",
+  "location": {
+    "lat": 10.51,
+    "lon": -66.91,
+    "place": "Caracas"
+  },
+  "summary": "Venezuelan-American immunologist, born in Caracas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Baruj_Benacerraf"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q234701",
+    "https://en.wikipedia.org/wiki/Baruj_Benacerraf"
+  ],
+  "disputed": false
+}

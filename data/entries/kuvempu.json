@@ -1,0 +1,23 @@
+{
+  "id": "kuvempu",
+  "wikidata": "Q3351108",
+  "name": "Kuvempu",
+  "category": "writer",
+  "start": 1904,
+  "end": 1994,
+  "date_precision": "day",
+  "location": {
+    "lat": 12.31,
+    "lon": 76.65,
+    "place": "Mysore"
+  },
+  "summary": "Indian poet, playwright, novelist, critic, and prolific thinker (1904–1994), died in Mysore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kuvempu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3351108",
+    "https://en.wikipedia.org/wiki/Kuvempu"
+  ],
+  "disputed": false
+}

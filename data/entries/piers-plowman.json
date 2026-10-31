@@ -1,0 +1,22 @@
+{
+  "id": "piers-plowman",
+  "wikidata": "Q1757630",
+  "name": "Piers Plowman",
+  "category": "work",
+  "start": 1370,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.49,
+    "lon": -1.9,
+    "place": "West Midlands"
+  },
+  "summary": "Middle English allegorical narrative poem by William Langland, associated with West Midlands. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Piers_Plowman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1757630",
+    "https://en.wikipedia.org/wiki/Piers_Plowman"
+  ],
+  "disputed": false
+}

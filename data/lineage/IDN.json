@@ -1,0 +1,288 @@
+{
+ "country": "IDN",
+ "name": "Indonesia",
+ "area_km2": 1819171,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5464
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2885
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5495
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2898
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5466
+   },
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.2885
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.6092
+   },
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.2182
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.6043,
+    "carried": -500
+   },
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.2127,
+    "carried": -500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.015
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.6005,
+    "carried": -500
+   },
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.2083,
+    "carried": -500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0314
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.6005,
+    "carried": -500
+   },
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.2083,
+    "carried": -500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0304
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Malay",
+    "subjecto": "Malay",
+    "share": 0.2742
+   },
+   {
+    "name": "Srivijaya Empire",
+    "subjecto": "Srivijaya Empire",
+    "share": 0.2294
+   },
+   {
+    "name": "Papuans",
+    "subjecto": "Papuans",
+    "share": 0.2033
+   },
+   {
+    "name": "Mataram",
+    "subjecto": "Mataram",
+    "share": 0.0584
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.0482
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0162
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0073,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Malays",
+    "subjecto": "Malays",
+    "share": 0.2489
+   },
+   {
+    "name": "Srivijaya Empire",
+    "subjecto": "Srivijaya Empire",
+    "share": 0.2438
+   },
+   {
+    "name": "Papuans",
+    "subjecto": "Papuans",
+    "share": 0.2012
+   },
+   {
+    "name": "East Java",
+    "subjecto": "East Java",
+    "share": 0.0889
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.0327
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0162
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0093,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Malaysian Islamic states",
+    "subjecto": "Malaysian Islamic states",
+    "share": 0.7701
+   },
+   {
+    "name": "Malacca",
+    "subjecto": "Malacca",
+    "share": 0.071
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0097,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Dutch East Indies",
+    "subjecto": "Dutch East Indies",
+    "share": 0.8363
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0102,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Netherlands Indies",
+    "subjecto": "Netherlands Indies",
+    "share": 0.8372
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0102,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Indonesia",
+    "subjecto": "Indonesia",
+    "share": 0.6332
+   },
+   {
+    "name": "Dutch Guinea",
+    "subjecto": "Netherlands",
+    "share": 0.2006
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0102,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Indonesia",
+    "subjecto": "Indonesia",
+    "share": 0.8424
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0102,
+    "other": true
+   }
+  ]
+ }
+}

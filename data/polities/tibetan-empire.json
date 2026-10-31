@@ -1,0 +1,26 @@
+{
+  "id": "tibetan-empire",
+  "wikidata": "Q2431480",
+  "name": "Tibetan Empire",
+  "border_names": [
+    "Tibetan Empire"
+  ],
+  "type": "empire",
+  "start": 618,
+  "end": 842,
+  "date_precision": "year",
+  "capital": {
+    "lat": 29.65,
+    "lon": 91.1,
+    "place": "Lhasa"
+  },
+  "summary": "Imperial Tibet, whose armies at times reached into Central Asia and the Tang capital and which adopted Buddhism before breaking apart.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tibetan_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2431480",
+    "https://en.wikipedia.org/wiki/Tibetan_Empire"
+  ],
+  "disputed": false
+}

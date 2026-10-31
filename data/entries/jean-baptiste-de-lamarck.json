@@ -1,0 +1,23 @@
+{
+  "id": "jean-baptiste-de-lamarck",
+  "wikidata": "Q82122",
+  "name": "Jean-Baptiste de Lamarck",
+  "category": "scientist",
+  "start": 1744,
+  "end": 1829,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.03,
+    "lon": 2.76,
+    "place": "Bazentin"
+  },
+  "summary": "French naturalist (1744-1829), born in Bazentin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q82122",
+    "https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck"
+  ],
+  "disputed": false
+}

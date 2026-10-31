@@ -1,0 +1,22 @@
+{
+  "id": "shan-hai-jing",
+  "wikidata": "Q844278",
+  "name": "Shan Hai Jing",
+  "category": "work",
+  "start": -124,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.35,
+    "lon": 111.22,
+    "place": "Wenxi County"
+  },
+  "summary": "Chinese classic text and a compilation of mythic geography and myth by Guo Pu, associated with Wenxi County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Classic_of_Mountains_and_Seas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q844278",
+    "https://en.wikipedia.org/wiki/Classic_of_Mountains_and_Seas"
+  ],
+  "disputed": false
+}

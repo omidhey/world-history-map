@@ -1,0 +1,23 @@
+{
+  "id": "carlos-drummond-de-andrade",
+  "wikidata": "Q379745",
+  "name": "Carlos Drummond de Andrade",
+  "category": "writer",
+  "start": 1902,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": -19.62,
+    "lon": -43.23,
+    "place": "Itabira"
+  },
+  "summary": "Brazilian poet (1902–1987), born in Itabira. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Drummond_de_Andrade"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379745",
+    "https://en.wikipedia.org/wiki/Carlos_Drummond_de_Andrade"
+  ],
+  "disputed": false
+}

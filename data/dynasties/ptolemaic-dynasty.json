@@ -1,0 +1,18 @@
+{
+  "id": "ptolemaic-dynasty",
+  "wikidata": "Q131976",
+  "name": "Ptolemaic dynasty",
+  "polity": "ancient-egypt",
+  "start": -305,
+  "end": -30,
+  "date_precision": "circa",
+  "summary": "Macedonian Greek royal house founded by a general of Alexander, which ruled Egypt until Cleopatra VII.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131976",
+    "https://en.wikipedia.org/wiki/Ptolemaic_dynasty"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,137 @@
+{
+ "country": "PNG",
+ "name": "Papua New Guinea",
+ "area_km2": 464532,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8059
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8091
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.8059
+   }
+  ],
+  "-500": [
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.8189
+   }
+  ],
+  "-323": [
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.8047,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0012,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.8047,
+    "carried": -500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0245
+   }
+  ],
+  "400": [
+   {
+    "name": "Papuan neolithic farmers",
+    "subjecto": "Papuan neolithic farmers",
+    "share": 0.8047,
+    "carried": -500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0245
+   }
+  ],
+  "800": [
+   {
+    "name": "Papuans",
+    "subjecto": "Papuans",
+    "share": 0.8135
+   }
+  ],
+  "1200": [
+   {
+    "name": "Papuans",
+    "subjecto": "Papuans",
+    "share": 0.792
+   },
+   {
+    "name": "Papuans",
+    "subjecto": "Papuans",
+    "share": 0.0228,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Papua New Guinea",
+    "subjecto": "Papua New Guinea",
+    "share": 0.8392
+   }
+  ],
+  "1800": [
+   {
+    "name": "Papua New Guinea",
+    "subjecto": "Papua New Guinea",
+    "share": 0.8392
+   }
+  ],
+  "1914": [
+   {
+    "name": "Papua New Guinea",
+    "subjecto": "Papua New Guinea",
+    "share": 0.8392
+   }
+  ],
+  "1945": [
+   {
+    "name": "Papua New Guinea",
+    "subjecto": "Papua New Guinea",
+    "share": 0.8392
+   }
+  ],
+  "2010": [
+   {
+    "name": "Papua New Guinea",
+    "subjecto": "Papua New Guinea",
+    "share": 0.8436
+   }
+  ]
+ }
+}

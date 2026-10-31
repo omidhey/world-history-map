@@ -1,0 +1,19 @@
+{
+  "id": "selim-ii",
+  "wikidata": "Q161872",
+  "name": "Selim II",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1566,
+  "end": 1574,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Selim_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q161872",
+    "https://en.wikipedia.org/wiki/Selim_II"
+  ],
+  "disputed": false
+}

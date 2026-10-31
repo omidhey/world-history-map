@@ -1,0 +1,22 @@
+{
+  "id": "don-segundo-sombra",
+  "wikidata": "Q3035906",
+  "name": "Don Segundo Sombra",
+  "category": "work",
+  "start": 1926,
+  "date_precision": "year",
+  "location": {
+    "lat": -34.6,
+    "lon": -58.38,
+    "place": "Buenos Aires"
+  },
+  "summary": "1926 novel by Ricardo Güiraldes, associated with Buenos Aires. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_Segundo_Sombra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3035906",
+    "https://en.wikipedia.org/wiki/Don_Segundo_Sombra"
+  ],
+  "disputed": false
+}

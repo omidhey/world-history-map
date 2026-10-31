@@ -1,0 +1,23 @@
+{
+  "id": "marina-tsvetaeva",
+  "wikidata": "Q188526",
+  "name": "Marina Tsvetaeva",
+  "category": "writer",
+  "start": 1892,
+  "end": 1941,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "place": "Moscow"
+  },
+  "summary": "Russian poet (1892 – 1941), born in Moscow. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marina_Tsvetaeva"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188526",
+    "https://en.wikipedia.org/wiki/Marina_Tsvetaeva"
+  ],
+  "disputed": false
+}

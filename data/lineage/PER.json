@@ -1,0 +1,363 @@
+{
+ "country": "PER",
+ "name": "Peru",
+ "area_km2": 1309483,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7627
+   },
+   {
+    "name": "Norte Chico",
+    "subjecto": "Norte Chico",
+    "share": 0.2202
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.6453
+   },
+   {
+    "name": "Norte Chico",
+    "subjecto": "Norte Chico",
+    "share": 0.2202
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.0921
+   },
+   {
+    "name": "Chinchorro culture",
+    "subjecto": "Chinchorro culture",
+    "share": 0.0244
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.7529
+   },
+   {
+    "name": "El Paraiso",
+    "subjecto": "El Paraiso",
+    "share": 0.1174
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0631
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0067,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.7529
+   },
+   {
+    "name": "El Paraiso",
+    "subjecto": "El Paraiso",
+    "share": 0.1174
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0631
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0067,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0631
+   },
+   {
+    "name": "Paracas",
+    "subjecto": "Paracas",
+    "share": 0.0207
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.7086,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066,
+    "carried": -323
+   },
+   {
+    "name": "Moche",
+    "subjecto": "Moche",
+    "share": 0.0713
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0584,
+    "carried": -323
+   },
+   {
+    "name": "Nazca",
+    "subjecto": "Nazca",
+    "share": 0.0296
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0076,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.7086,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066,
+    "carried": -323
+   },
+   {
+    "name": "Moche",
+    "subjecto": "Moche",
+    "share": 0.0688
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0584,
+    "carried": -323
+   },
+   {
+    "name": "Nazca",
+    "subjecto": "Nazca",
+    "share": 0.0296
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0101,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.4329,
+    "carried": -323
+   },
+   {
+    "name": "Huari Empire",
+    "subjecto": "Huari Empire",
+    "share": 0.3473
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066,
+    "carried": -323
+   },
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.0548
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0333,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0046,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.4321,
+    "carried": -323
+   },
+   {
+    "name": "Huari Empire",
+    "subjecto": "Huari Empire",
+    "share": 0.3209
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.1066,
+    "carried": -323
+   },
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.0548
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0333,
+    "carried": -323
+   },
+   {
+    "name": "Chimú Empire",
+    "subjecto": "Chimú Empire",
+    "share": 0.0181
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0137,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Inca Empire",
+    "subjecto": "Inca Empire",
+    "share": 0.4553
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.3724,
+    "carried": -323
+   },
+   {
+    "name": "Chorrera",
+    "subjecto": "Chorrera",
+    "share": 0.105,
+    "carried": -323
+   },
+   {
+    "name": "Chavin",
+    "subjecto": "Chavin",
+    "share": 0.0314,
+    "carried": -323
+   },
+   {
+    "name": "Huari Empire",
+    "subjecto": "Huari Empire",
+    "share": 0.0177,
+    "carried": 1200
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of Peru",
+    "subjecto": "Spain",
+    "share": 0.8037
+   },
+   {
+    "name": "Viceroyalty of New Granada",
+    "subjecto": "Spain",
+    "share": 0.1774
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Peru",
+    "subjecto": "Peru",
+    "share": 0.9713
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0111,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Peru",
+    "subjecto": "Peru",
+    "share": 0.9687
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0111,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Peru",
+    "subjecto": "Peru",
+    "share": 0.97
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.011,
+    "other": true
+   }
+  ]
+ }
+}

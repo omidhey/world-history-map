@@ -1,0 +1,18 @@
+{
+  "id": "abbasid-dynasty",
+  "wikidata": "Q12536",
+  "name": "Abbasid dynasty",
+  "polity": "abbasid-caliphate",
+  "start": 750,
+  "end": 1258,
+  "date_precision": "year",
+  "summary": "Family descended from the Prophet's uncle al-Abbas, whose caliphs ruled from Baghdad until the Mongol sack.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12536",
+    "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+  ],
+  "disputed": false
+}

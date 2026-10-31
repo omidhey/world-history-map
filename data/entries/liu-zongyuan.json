@@ -1,0 +1,23 @@
+{
+  "id": "liu-zongyuan",
+  "wikidata": "Q337773",
+  "name": "Liu Zongyuan",
+  "category": "writer",
+  "start": 773,
+  "end": 819,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.31,
+    "lon": 108.86,
+    "place": "Chang'an"
+  },
+  "summary": "Chinese writer (773-819), born in Chang'an. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liu_Zongyuan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q337773",
+    "https://en.wikipedia.org/wiki/Liu_Zongyuan"
+  ],
+  "disputed": false
+}

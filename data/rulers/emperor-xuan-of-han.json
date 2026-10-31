@@ -1,0 +1,19 @@
+{
+  "id": "emperor-xuan-of-han",
+  "wikidata": "Q7230",
+  "name": "Emperor Xuan of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "western-han",
+  "start": -74,
+  "end": -49,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Xuan_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7230",
+    "https://en.wikipedia.org/wiki/Emperor_Xuan_of_Han"
+  ],
+  "disputed": false
+}

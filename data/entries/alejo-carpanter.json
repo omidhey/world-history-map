@@ -1,0 +1,23 @@
+{
+  "id": "alejo-carpanter",
+  "wikidata": "Q216466",
+  "name": "Alejo Carpanter",
+  "category": "writer",
+  "start": 1904,
+  "end": 1980,
+  "date_precision": "day",
+  "location": {
+    "lat": 46.53,
+    "lon": 6.63,
+    "place": "Lausanne"
+  },
+  "summary": "Cuban-French writer and musicologist (1904–1980), born in Lausanne. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alejo_Carpentier"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q216466",
+    "https://en.wikipedia.org/wiki/Alejo_Carpentier"
+  ],
+  "disputed": false
+}

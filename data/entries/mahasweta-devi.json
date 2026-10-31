@@ -1,0 +1,23 @@
+{
+  "id": "mahasweta-devi",
+  "wikidata": "Q144391",
+  "name": "Mahasweta Devi",
+  "category": "writer",
+  "start": 1926,
+  "end": 2016,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.73,
+    "lon": 90.39,
+    "place": "Dhaka"
+  },
+  "summary": "Indian Bengali fiction writer and socio-political activist (1926-2016), born in Dhaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahasweta_Devi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q144391",
+    "https://en.wikipedia.org/wiki/Mahasweta_Devi"
+  ],
+  "disputed": false
+}

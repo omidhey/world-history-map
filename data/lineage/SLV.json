@@ -1,0 +1,202 @@
+{
+ "country": "SLV",
+ "name": "El Salvador",
+ "area_km2": 20894,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8946
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.8383
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8383
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8383
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.7473,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.0912
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0288
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.7473,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.0912
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0288
+   }
+  ],
+  "400": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.7473,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.0912
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0288
+   }
+  ],
+  "800": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.7228,
+    "carried": -500
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1165
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0101
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.7073,
+    "carried": -500
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1137,
+    "carried": 800
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.7073,
+    "carried": -500
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1137,
+    "carried": 800
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0736
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.8946
+   }
+  ],
+  "1914": [
+   {
+    "name": "El Salvador",
+    "subjecto": "El Salvador",
+    "share": 0.684
+   },
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.0942
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0082,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "El Salvador",
+    "subjecto": "El Salvador",
+    "share": 0.684
+   },
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.0942
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0082,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "El Salvador",
+    "subjecto": "El Salvador",
+    "share": 0.684
+   },
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.0942
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0082,
+    "other": true
+   }
+  ]
+ }
+}

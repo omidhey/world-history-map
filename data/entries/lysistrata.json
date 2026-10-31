@@ -1,0 +1,22 @@
+{
+  "id": "lysistrata",
+  "wikidata": "Q753907",
+  "name": "Lysistrata",
+  "category": "work",
+  "start": -412,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 23.72,
+    "place": "Classical Athens"
+  },
+  "summary": "Comedy by Aristophanes, associated with Classical Athens. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lysistrata"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q753907",
+    "https://en.wikipedia.org/wiki/Lysistrata"
+  ],
+  "disputed": false
+}

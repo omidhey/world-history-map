@@ -1,0 +1,23 @@
+{
+  "id": "ezra-pound",
+  "wikidata": "Q163366",
+  "name": "Ezra Pound",
+  "category": "writer",
+  "start": 1885,
+  "end": 1972,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.52,
+    "lon": -114.31,
+    "place": "Hailey"
+  },
+  "summary": "American poet and critic (1885–1972), born in Hailey. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Pound"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q163366",
+    "https://en.wikipedia.org/wiki/Ezra_Pound"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "al-musta-sim",
+  "wikidata": "Q293454",
+  "name": "Al-Musta'sim",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 1242,
+  "end": 1258,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Musta'sim"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q293454",
+    "https://en.wikipedia.org/wiki/Al-Musta'sim"
+  ],
+  "disputed": false
+}

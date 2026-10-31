@@ -1,0 +1,65 @@
+{
+  "id": "shi-nai-an",
+  "wikidata": "Q1777502",
+  "name": "Shi Nai'an",
+  "category": "writer",
+  "start": 1290,
+  "end": 1365,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.3,
+    "lon": 120.62,
+    "place": "Suzhou"
+  },
+  "summary": "Chinese writer (1296-1372), born in Suzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shi_Nai'an"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1777502",
+    "https://en.wikipedia.org/wiki/Shi_Nai'an"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1290,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1777502"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1296,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1777502"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1365,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1777502"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1371,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1777502"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1372,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1777502"
+      ]
+    }
+  ]
+}

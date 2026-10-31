@@ -1,0 +1,22 @@
+{
+  "id": "florentine-codex",
+  "wikidata": "Q1106019",
+  "name": "Florentine Codex",
+  "category": "work",
+  "start": 1569,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.37,
+    "lon": -5.03,
+    "place": "Sahagún"
+  },
+  "summary": "Book by Bernardino de Sahagún by Bernardino de Sahagún, indigenous peoples of the Americas, associated with Sahagún. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Florentine_Codex"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1106019",
+    "https://en.wikipedia.org/wiki/Florentine_Codex"
+  ],
+  "disputed": false
+}

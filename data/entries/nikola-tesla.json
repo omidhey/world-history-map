@@ -1,0 +1,23 @@
+{
+  "id": "nikola-tesla",
+  "wikidata": "Q9036",
+  "name": "Nikola Tesla",
+  "category": "scientist",
+  "start": 1856,
+  "end": 1943,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.56,
+    "lon": 15.31,
+    "place": "Nikola Tesla Memorial Center"
+  },
+  "summary": "Serbian-American engineer and inventor (1856-1943), born in Nikola Tesla Memorial Center. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9036",
+    "https://en.wikipedia.org/wiki/Nikola_Tesla"
+  ],
+  "disputed": false
+}

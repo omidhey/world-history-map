@@ -1,0 +1,26 @@
+{
+  "id": "mamluk-sultanate",
+  "wikidata": "Q282428",
+  "name": "Mamluk Sultanate",
+  "border_names": [
+    "Mamluke Sultanate"
+  ],
+  "type": "sultanate",
+  "start": 1250,
+  "end": 1517,
+  "date_precision": "year",
+  "capital": {
+    "lat": 30.04,
+    "lon": 31.24,
+    "place": "Cairo"
+  },
+  "summary": "Egyptian and Syrian state ruled by former slave soldiers, who defeated the Mongols at Ain Jalut in 1260 and lasted until the Ottoman conquest.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamluk_Sultanate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q282428",
+    "https://en.wikipedia.org/wiki/Mamluk_Sultanate"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jean-francois-champollion",
+  "wikidata": "Q260",
+  "name": "Jean-François Champollion",
+  "category": "scientist",
+  "start": 1790,
+  "end": 1832,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.61,
+    "lon": 2.03,
+    "place": "Figeac"
+  },
+  "summary": "French classical scholar (1790-1832), born in Figeac. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_Champollion"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q260",
+    "https://en.wikipedia.org/wiki/Jean-François_Champollion"
+  ],
+  "disputed": false
+}

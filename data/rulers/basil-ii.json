@@ -1,0 +1,19 @@
+{
+  "id": "basil-ii",
+  "wikidata": "Q41833",
+  "name": "Basil II",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "macedonian-dynasty",
+  "start": 976,
+  "end": 1025,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Basil_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41833",
+    "https://en.wikipedia.org/wiki/Basil_II"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kingdom-of-aksum",
+  "wikidata": "Q139377",
+  "name": "Kingdom of Aksum",
+  "border_names": [
+    "Axum"
+  ],
+  "type": "empire",
+  "start": 100,
+  "end": 940,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 14.13,
+    "lon": 38.72,
+    "place": "Axum"
+  },
+  "summary": "Trading kingdom in the Ethiopian highlands that minted coins, raised great stone obelisks and adopted Christianity in the 4th century.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q139377",
+    "https://en.wikipedia.org/wiki/Kingdom_of_Aksum"
+  ],
+  "disputed": false
+}

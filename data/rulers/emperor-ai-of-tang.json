@@ -1,0 +1,19 @@
+{
+  "id": "emperor-ai-of-tang",
+  "wikidata": "Q9892",
+  "name": "Emperor Ai of Tang",
+  "polity": "tang-empire",
+  "title": "Emperor",
+  "dynasty": "tang-imperial-house",
+  "start": 904,
+  "end": 907,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Ai_of_Tang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9892",
+    "https://en.wikipedia.org/wiki/Emperor_Ai_of_Tang"
+  ],
+  "disputed": false
+}

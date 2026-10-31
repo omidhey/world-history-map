@@ -1,0 +1,22 @@
+{
+  "id": "nihon-shoki",
+  "wikidata": "Q813935",
+  "name": "Nihon Shoki",
+  "category": "work",
+  "start": 720,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.8,
+    "place": "Nara"
+  },
+  "summary": "8th century book of classical Japanese history by Toneri-shinnō, Ō no Yasumaro, associated with Nara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nihon_Shoki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q813935",
+    "https://en.wikipedia.org/wiki/Nihon_Shoki"
+  ],
+  "disputed": false
+}

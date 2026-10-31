@@ -1,0 +1,26 @@
+{
+  "id": "mongol-empire",
+  "wikidata": "Q12557",
+  "name": "Mongol Empire",
+  "border_names": [
+    "Mongol Empire"
+  ],
+  "type": "empire",
+  "start": 1206,
+  "end": 1368,
+  "date_precision": "year",
+  "capital": {
+    "lat": 47.2,
+    "lon": 102.84,
+    "place": "Karakorum"
+  },
+  "summary": "Largest contiguous land empire in history, founded by Genghis Khan, which split into four khanates within a few decades of his grandsons' reigns.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongol_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12557",
+    "https://en.wikipedia.org/wiki/Mongol_Empire"
+  ],
+  "disputed": false
+}

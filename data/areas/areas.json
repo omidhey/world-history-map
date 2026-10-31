@@ -1,0 +1,1048 @@
+{
+ "abbasid-caliphate": {
+  "1200": {
+   "area_km2": 0,
+   "carried_km2": 2059348,
+   "gained_km2": 6,
+   "lost_km2": 6342709
+  },
+  "800": {
+   "area_km2": 8402052,
+   "carried_km2": 0
+  }
+ },
+ "achaemenid-empire": {
+  "-1": {
+   "area_km2": 0,
+   "carried_km2": 833137,
+   "gained_km2": 94,
+   "lost_km2": 92755
+  },
+  "-323": {
+   "area_km2": 0,
+   "carried_km2": 925798,
+   "gained_km2": 201,
+   "lost_km2": 5046291
+  },
+  "-500": {
+   "area_km2": 5971889,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 833137,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 405210,
+   "gained_km2": 17,
+   "lost_km2": 427943
+  }
+ },
+ "almohad-caliphate": {
+  "1200": {
+   "area_km2": 669381,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 0,
+   "carried_km2": 101540,
+   "gained_km2": 0,
+   "lost_km2": 567841
+  }
+ },
+ "ancient-egypt": {
+  "-1000": {
+   "area_km2": 259865,
+   "carried_km2": 0,
+   "gained_km2": 8364,
+   "lost_km2": 67160
+  },
+  "-2000": {
+   "area_km2": 318661,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "-3000": {
+   "area_km2": 318661,
+   "carried_km2": 0
+  },
+  "1914": {
+   "area_km2": 1030951,
+   "carried_km2": 0
+  },
+  "1945": {
+   "area_km2": 1008979,
+   "carried_km2": 0,
+   "gained_km2": 2220,
+   "lost_km2": 24192
+  },
+  "2010": {
+   "area_km2": 1004155,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 4823
+  }
+ },
+ "assyria": {
+  "-1000": {
+   "area_km2": 172787,
+   "carried_km2": 0
+  }
+ },
+ "austria-hungary": {
+  "1914": {
+   "area_km2": 650802,
+   "carried_km2": 0
+  }
+ },
+ "ayutthaya-kingdom": {
+  "1500": {
+   "area_km2": 784241,
+   "carried_km2": 0
+  }
+ },
+ "aztec-empire": {
+  "1500": {
+   "area_km2": 339436,
+   "carried_km2": 0
+  }
+ },
+ "babylonia": {
+  "-1000": {
+   "area_km2": 129934,
+   "carried_km2": 0
+  }
+ },
+ "bornu-empire": {
+  "1500": {
+   "area_km2": 366349,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 405269,
+   "carried_km2": 143239,
+   "gained_km2": 192217,
+   "lost_km2": 10058
+  }
+ },
+ "byzantine-empire": {
+  "1200": {
+   "area_km2": 807844,
+   "carried_km2": 4230,
+   "gained_km2": 180656,
+   "lost_km2": 168147
+  },
+  "1500": {
+   "area_km2": 0,
+   "carried_km2": 2312,
+   "gained_km2": 0,
+   "lost_km2": 809763
+  },
+  "400": {
+   "area_km2": 1803271,
+   "carried_km2": 0
+  },
+  "800": {
+   "area_km2": 799566,
+   "carried_km2": 0,
+   "gained_km2": 159533,
+   "lost_km2": 1163238
+  }
+ },
+ "carolingian-empire": {
+  "1200": {
+   "area_km2": 0,
+   "carried_km2": 37020,
+   "gained_km2": 0,
+   "lost_km2": 1164723
+  },
+  "800": {
+   "area_km2": 1201742,
+   "carried_km2": 0
+  }
+ },
+ "carthaginian-empire": {
+  "-1": {
+   "area_km2": 0,
+   "carried_km2": 120983,
+   "gained_km2": 0,
+   "lost_km2": 559327
+  },
+  "-323": {
+   "area_km2": 680310,
+   "carried_km2": 0,
+   "gained_km2": 59682,
+   "lost_km2": 2828
+  },
+  "-500": {
+   "area_km2": 623456,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 120983,
+   "gained_km2": 0,
+   "lost_km2": 0
+  }
+ },
+ "chagatai-khanate": {
+  "1500": {
+   "area_km2": 8359564,
+   "carried_km2": 0
+  }
+ },
+ "chola-dynasty": {
+  "1200": {
+   "area_km2": 260982,
+   "carried_km2": 0
+  }
+ },
+ "crimean-khanate": {
+  "1500": {
+   "area_km2": 336760,
+   "carried_km2": 0
+  }
+ },
+ "dahomey": {
+  "1800": {
+   "area_km2": 84779,
+   "carried_km2": 0
+  }
+ },
+ "denmark-norway": {
+  "1500": {
+   "area_km2": 54379,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 2585347,
+   "carried_km2": 0,
+   "gained_km2": 2543556,
+   "lost_km2": 12587
+  }
+ },
+ "elam": {
+  "-1000": {
+   "area_km2": 411483,
+   "carried_km2": 0,
+   "gained_km2": 124704,
+   "lost_km2": 0
+  },
+  "-2000": {
+   "area_km2": 286779,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "-3000": {
+   "area_km2": 286779,
+   "carried_km2": 0
+  }
+ },
+ "emirate-of-cordoba": {
+  "800": {
+   "area_km2": 490222,
+   "carried_km2": 0
+  }
+ },
+ "empire-of-alexander": {
+  "-1": {
+   "area_km2": 0,
+   "carried_km2": 609361,
+   "gained_km2": 130,
+   "lost_km2": 4328660
+  },
+  "-323": {
+   "area_km2": 4937891,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 608018,
+   "gained_km2": 25,
+   "lost_km2": 1368
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 46109,
+   "gained_km2": 35,
+   "lost_km2": 561944
+  }
+ },
+ "empire-of-ghana": {
+  "400": {
+   "area_km2": 334174,
+   "carried_km2": 0
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 154495,
+   "gained_km2": 13,
+   "lost_km2": 179691
+  }
+ },
+ "empire-of-japan": {
+  "1914": {
+   "area_km2": 619474,
+   "carried_km2": 0
+  }
+ },
+ "ethiopian-empire": {
+  "1500": {
+   "area_km2": 581784,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 285451,
+   "carried_km2": 68329,
+   "gained_km2": 26972,
+   "lost_km2": 255002
+  },
+  "1945": {
+   "area_km2": 1135152,
+   "carried_km2": 0
+  },
+  "2010": {
+   "area_km2": 1140136,
+   "carried_km2": 0,
+   "gained_km2": 5168,
+   "lost_km2": 184
+  }
+ },
+ "fatimid-caliphate": {
+  "1200": {
+   "area_km2": 1831844,
+   "carried_km2": 0
+  }
+ },
+ "franks": {
+  "400": {
+   "area_km2": 7590,
+   "carried_km2": 0
+  }
+ },
+ "golden-horde": {
+  "1500": {
+   "area_km2": 1107165,
+   "carried_km2": 0
+  }
+ },
+ "grand-duchy-of-moscow": {
+  "1500": {
+   "area_km2": 2828257,
+   "carried_km2": 0
+  }
+ },
+ "great-zimbabwe": {
+  "1200": {
+   "area_km2": 212131,
+   "carried_km2": 0
+  }
+ },
+ "gupta-empire": {
+  "400": {
+   "area_km2": 2485283,
+   "carried_km2": 0
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 6177,
+   "gained_km2": 3,
+   "lost_km2": 2479108
+  }
+ },
+ "han-dynasty": {
+  "-1": {
+   "area_km2": 4034231,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 1659,
+   "gained_km2": 0,
+   "lost_km2": 4032573
+  }
+ },
+ "hittite-empire": {
+  "-1000": {
+   "area_km2": 413938,
+   "carried_km2": 0,
+   "gained_km2": 254856,
+   "lost_km2": 68032
+  },
+  "-2000": {
+   "area_km2": 227113,
+   "carried_km2": 0
+  }
+ },
+ "holy-roman-empire": {
+  "1200": {
+   "area_km2": 630815,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 861865,
+   "carried_km2": 0,
+   "gained_km2": 303338,
+   "lost_km2": 72289
+  }
+ },
+ "hunnic-empire": {
+  "400": {
+   "area_km2": 865818,
+   "carried_km2": 0
+  }
+ },
+ "inca-empire": {
+  "1500": {
+   "area_km2": 1539455,
+   "carried_km2": 0
+  }
+ },
+ "joseon": {
+  "1500": {
+   "area_km2": 151798,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 214507,
+   "carried_km2": 0,
+   "gained_km2": 68649,
+   "lost_km2": 5941
+  }
+ },
+ "khmer-empire": {
+  "1200": {
+   "area_km2": 521730,
+   "carried_km2": 0
+  }
+ },
+ "kingdom-of-aksum": {
+  "-1": {
+   "area_km2": 87092,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 87092,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "800": {
+   "area_km2": 310418,
+   "carried_km2": 19613,
+   "gained_km2": 246290,
+   "lost_km2": 3365
+  }
+ },
+ "kingdom-of-benin": {
+  "1800": {
+   "area_km2": 57881,
+   "carried_km2": 0
+  }
+ },
+ "kingdom-of-england": {
+  "1500": {
+   "area_km2": 212491,
+   "carried_km2": 0
+  }
+ },
+ "kingdom-of-france": {
+  "1200": {
+   "area_km2": 238555,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 454507,
+   "carried_km2": 0,
+   "gained_km2": 236777,
+   "lost_km2": 20825
+  },
+  "1800": {
+   "area_km2": 542991,
+   "carried_km2": 0,
+   "gained_km2": 91471,
+   "lost_km2": 2987
+  },
+  "1914": {
+   "area_km2": 531776,
+   "carried_km2": 0,
+   "gained_km2": 10903,
+   "lost_km2": 22118
+  },
+  "1945": {
+   "area_km2": 544926,
+   "carried_km2": 0,
+   "gained_km2": 16473,
+   "lost_km2": 3322
+  },
+  "2010": {
+   "area_km2": 547445,
+   "carried_km2": 1057,
+   "gained_km2": 5022,
+   "lost_km2": 1446
+  }
+ },
+ "kingdom-of-portugal": {
+  "1200": {
+   "area_km2": 76427,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 87678,
+   "carried_km2": 0,
+   "gained_km2": 16094,
+   "lost_km2": 4843
+  },
+  "1800": {
+   "area_km2": 87678,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "1914": {
+   "area_km2": 87678,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "1945": {
+   "area_km2": 87678,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "2010": {
+   "area_km2": 87678,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  }
+ },
+ "kush": {
+  "-1000": {
+   "area_km2": 331875,
+   "carried_km2": 0
+  }
+ },
+ "liao-dynasty": {
+  "1200": {
+   "area_km2": 792155,
+   "carried_km2": 0
+  }
+ },
+ "makuria": {
+  "1200": {
+   "area_km2": 657731,
+   "carried_km2": 0,
+   "gained_km2": 514,
+   "lost_km2": 22804
+  },
+  "1500": {
+   "area_km2": 0,
+   "carried_km2": 587443,
+   "gained_km2": 0,
+   "lost_km2": 70288
+  },
+  "1800": {
+   "area_km2": 0,
+   "carried_km2": 222077,
+   "gained_km2": 7,
+   "lost_km2": 365373
+  },
+  "800": {
+   "area_km2": 680021,
+   "carried_km2": 0
+  }
+ },
+ "mali-empire": {
+  "1200": {
+   "area_km2": 119959,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 623757,
+   "carried_km2": 39466,
+   "gained_km2": 618386,
+   "lost_km2": 75122
+  },
+  "1800": {
+   "area_km2": 0,
+   "carried_km2": 290148,
+   "gained_km2": 3,
+   "lost_km2": 373077
+  },
+  "1945": {
+   "area_km2": 1242642,
+   "carried_km2": 0
+  },
+  "2010": {
+   "area_km2": 1245361,
+   "carried_km2": 0,
+   "gained_km2": 2718,
+   "lost_km2": 0
+  }
+ },
+ "mamluk-sultanate": {
+  "1500": {
+   "area_km2": 1488072,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 0,
+   "carried_km2": 357338,
+   "gained_km2": 79,
+   "lost_km2": 1130814
+  }
+ },
+ "maratha-empire": {
+  "1800": {
+   "area_km2": 1022376,
+   "carried_km2": 0
+  }
+ },
+ "meroe": {
+  "-1": {
+   "area_km2": 599712,
+   "carried_km2": 0,
+   "gained_km2": 27766,
+   "lost_km2": 470
+  },
+  "-323": {
+   "area_km2": 572416,
+   "carried_km2": 0,
+   "gained_km2": 286060,
+   "lost_km2": 18323
+  },
+  "-500": {
+   "area_km2": 304678,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 600181,
+   "carried_km2": 0,
+   "gained_km2": 470,
+   "lost_km2": 0
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 34110,
+   "gained_km2": 2,
+   "lost_km2": 566073
+  }
+ },
+ "ming-empire": {
+  "1500": {
+   "area_km2": 4171579,
+   "carried_km2": 0
+  }
+ },
+ "mongol-empire": {
+  "1200": {
+   "area_km2": 5418106,
+   "carried_km2": 0
+  }
+ },
+ "ostrogoths": {
+  "400": {
+   "area_km2": 43132,
+   "carried_km2": 0
+  }
+ },
+ "ottoman-empire": {
+  "1500": {
+   "area_km2": 1062274,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 3083942,
+   "carried_km2": 586,
+   "gained_km2": 2042652,
+   "lost_km2": 20399
+  },
+  "1914": {
+   "area_km2": 1793332,
+   "carried_km2": 2594,
+   "gained_km2": 246780,
+   "lost_km2": 1535382
+  }
+ },
+ "oyo-empire": {
+  "1500": {
+   "area_km2": 67099,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 77823,
+   "carried_km2": 35867,
+   "gained_km2": 53388,
+   "lost_km2": 6796
+  }
+ },
+ "papal-states": {
+  "1200": {
+   "area_km2": 28879,
+   "carried_km2": 0,
+   "gained_km2": 17730,
+   "lost_km2": 17588
+  },
+  "1500": {
+   "area_km2": 39795,
+   "carried_km2": 0,
+   "gained_km2": 12550,
+   "lost_km2": 1634
+  },
+  "1800": {
+   "area_km2": 40587,
+   "carried_km2": 0,
+   "gained_km2": 1874,
+   "lost_km2": 1082
+  },
+  "800": {
+   "area_km2": 28737,
+   "carried_km2": 0
+  }
+ },
+ "parthian-empire": {
+  "-1": {
+   "area_km2": 1940797,
+   "carried_km2": 0
+  }
+ },
+ "poland-lithuania": {
+  "1500": {
+   "area_km2": 1023831,
+   "carried_km2": 0
+  }
+ },
+ "prussia": {
+  "1800": {
+   "area_km2": 338077,
+   "carried_km2": 0
+  }
+ },
+ "qajar-iran": {
+  "1800": {
+   "area_km2": 1651610,
+   "carried_km2": 0
+  },
+  "1914": {
+   "area_km2": 1623104,
+   "carried_km2": 0,
+   "gained_km2": 132813,
+   "lost_km2": 161319
+  },
+  "400": {
+   "area_km2": 2294998,
+   "carried_km2": 0
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 15901,
+   "gained_km2": 4,
+   "lost_km2": 2279101
+  }
+ },
+ "qin-state": {
+  "-1": {
+   "area_km2": 0,
+   "carried_km2": 15916,
+   "gained_km2": 176,
+   "lost_km2": 572341
+  },
+  "-323": {
+   "area_km2": 588082,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 15857,
+   "gained_km2": 0,
+   "lost_km2": 60
+  }
+ },
+ "qing-empire": {
+  "1800": {
+   "area_km2": 12240823,
+   "carried_km2": 0
+  },
+  "1914": {
+   "area_km2": 6588207,
+   "carried_km2": 0,
+   "gained_km2": 14463,
+   "lost_km2": 5667080
+  }
+ },
+ "republic-of-venice": {
+  "1200": {
+   "area_km2": 5004,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 47512,
+   "carried_km2": 0,
+   "gained_km2": 42606,
+   "lost_km2": 98
+  }
+ },
+ "roman-empire": {
+  "-1": {
+   "area_km2": 4248116,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 180772,
+   "gained_km2": 4,
+   "lost_km2": 4067349
+  }
+ },
+ "roman-republic": {
+  "-323": {
+   "area_km2": 17245,
+   "carried_km2": 0,
+   "gained_km2": 17016,
+   "lost_km2": 92
+  },
+  "-500": {
+   "area_km2": 320,
+   "carried_km2": 0
+  }
+ },
+ "russian-empire": {
+  "1800": {
+   "area_km2": 16502362,
+   "carried_km2": 0
+  },
+  "1914": {
+   "area_km2": 21645999,
+   "carried_km2": 0,
+   "gained_km2": 5220555,
+   "lost_km2": 76918
+  }
+ },
+ "saba": {
+  "-1000": {
+   "area_km2": 102471,
+   "carried_km2": 0
+  },
+  "-323": {
+   "area_km2": 102471,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "-500": {
+   "area_km2": 102471,
+   "carried_km2": 0,
+   "gained_km2": 0,
+   "lost_km2": 0
+  }
+ },
+ "sasanian-empire": {
+  "1800": {
+   "area_km2": 1651610,
+   "carried_km2": 0
+  },
+  "1914": {
+   "area_km2": 1623104,
+   "carried_km2": 0,
+   "gained_km2": 132813,
+   "lost_km2": 161319
+  },
+  "400": {
+   "area_km2": 2294998,
+   "carried_km2": 0
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 15901,
+   "gained_km2": 4,
+   "lost_km2": 2279101
+  }
+ },
+ "sikh-empire": {
+  "1800": {
+   "area_km2": 523786,
+   "carried_km2": 0
+  }
+ },
+ "silla": {
+  "-1": {
+   "area_km2": 70555,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 32911,
+   "carried_km2": 68757,
+   "gained_km2": 3554,
+   "lost_km2": 1816
+  },
+  "800": {
+   "area_km2": 0,
+   "carried_km2": 40287,
+   "gained_km2": 2,
+   "lost_km2": 32008
+  }
+ },
+ "song-empire": {
+  "1200": {
+   "area_km2": 3008078,
+   "carried_km2": 0
+  }
+ },
+ "songhai-empire": {
+  "1500": {
+   "area_km2": 608249,
+   "carried_km2": 0
+  },
+  "1800": {
+   "area_km2": 64525,
+   "carried_km2": 224253,
+   "gained_km2": 714,
+   "lost_km2": 320189
+  }
+ },
+ "srivijaya": {
+  "1200": {
+   "area_km2": 625337,
+   "carried_km2": 0,
+   "gained_km2": 97032,
+   "lost_km2": 7091
+  },
+  "800": {
+   "area_km2": 535396,
+   "carried_km2": 0
+  }
+ },
+ "sultanate-of-delhi": {
+  "1200": {
+   "area_km2": 1149699,
+   "carried_km2": 0
+  },
+  "1500": {
+   "area_km2": 813777,
+   "carried_km2": 0,
+   "gained_km2": 189678,
+   "lost_km2": 525600
+  }
+ },
+ "tang-empire": {
+  "800": {
+   "area_km2": 3227138,
+   "carried_km2": 0
+  }
+ },
+ "tibetan-empire": {
+  "800": {
+   "area_km2": 4471588,
+   "carried_km2": 0
+  }
+ },
+ "timurid-empire": {
+  "1500": {
+   "area_km2": 2159534,
+   "carried_km2": 0
+  }
+ },
+ "united-monarchy-of-israel": {
+  "-1000": {
+   "area_km2": 148294,
+   "carried_km2": 0
+  },
+  "-323": {
+   "area_km2": 0,
+   "carried_km2": 19728,
+   "gained_km2": 0,
+   "lost_km2": 0
+  },
+  "-500": {
+   "area_km2": 0,
+   "carried_km2": 19728,
+   "gained_km2": 0,
+   "lost_km2": 128566
+  }
+ },
+ "urartu": {
+  "-1000": {
+   "area_km2": 289719,
+   "carried_km2": 0
+  }
+ },
+ "ussr": {
+  "1945": {
+   "area_km2": 21897769,
+   "carried_km2": 0
+  }
+ },
+ "vijayanagara-empire": {
+  "1500": {
+   "area_km2": 413975,
+   "carried_km2": 0
+  }
+ },
+ "visigoths": {
+  "400": {
+   "area_km2": 52223,
+   "carried_km2": 0
+  }
+ },
+ "wari-empire": {
+  "1200": {
+   "area_km2": 420788,
+   "carried_km2": 11713,
+   "gained_km2": 1010,
+   "lost_km2": 23689
+  },
+  "1500": {
+   "area_km2": 0,
+   "carried_km2": 23211,
+   "gained_km2": 0,
+   "lost_km2": 409289
+  },
+  "800": {
+   "area_km2": 455179,
+   "carried_km2": 0
+  }
+ },
+ "western-roman-empire": {
+  "400": {
+   "area_km2": 2321830,
+   "carried_km2": 0
+  }
+ },
+ "xiongnu": {
+  "-1": {
+   "area_km2": 3638692,
+   "carried_km2": 0
+  },
+  "400": {
+   "area_km2": 0,
+   "carried_km2": 1557755,
+   "gained_km2": 234,
+   "lost_km2": 2081170
+  }
+ },
+ "zhou-states": {
+  "-323": {
+   "area_km2": 1882354,
+   "carried_km2": 42948,
+   "gained_km2": 623252,
+   "lost_km2": 261216
+  },
+  "-500": {
+   "area_km2": 1563216,
+   "carried_km2": 0
+  }
+ },
+ "zulu-kingdom": {
+  "1800": {
+   "area_km2": 107868,
+   "carried_km2": 0
+  }
+ }
+}

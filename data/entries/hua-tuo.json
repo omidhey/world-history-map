@@ -1,0 +1,23 @@
+{
+  "id": "hua-tuo",
+  "wikidata": "Q31749",
+  "name": "Hua Tuo",
+  "category": "scientist",
+  "start": 200,
+  "end": 208,
+  "date_precision": "century",
+  "location": {
+    "lat": 33.86,
+    "lon": 115.77,
+    "place": "Bozhou"
+  },
+  "summary": "Chinese physician (c. 140–208), born in Bozhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hua_Tuo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q31749",
+    "https://en.wikipedia.org/wiki/Hua_Tuo"
+  ],
+  "disputed": false
+}

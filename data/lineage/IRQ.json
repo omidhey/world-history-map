@@ -1,0 +1,304 @@
+{
+ "country": "IRQ",
+ "name": "Iraq",
+ "area_km2": 437295,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.569
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.2517
+   },
+   {
+    "name": "Hurrian Kingdoms",
+    "subjecto": "Hurrian Kingdoms",
+    "share": 0.1043
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.0711
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.575
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.2517
+   },
+   {
+    "name": "Hurrian Kingdoms",
+    "subjecto": "Hurrian Kingdoms",
+    "share": 0.098
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.0714
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.4322
+   },
+   {
+    "name": "Assyria",
+    "subjecto": "Assyria",
+    "share": 0.3236
+   },
+   {
+    "name": "Babylonia",
+    "subjecto": "Babylonia",
+    "share": 0.1528
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0866
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.7877
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1263,
+    "carried": -1000
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0866,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.7835
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1263,
+    "carried": -1000
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0866,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0048,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.7545
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1141,
+    "carried": -1000
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0862,
+    "carried": -1000
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.032
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.0152,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.7865
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1146,
+    "carried": -1000
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0862,
+    "carried": -1000
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.0152,
+    "carried": -323
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.8111
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.1861,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.7799
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.22
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7706
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.22,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7706
+   },
+   {
+    "name": "Arabia (Nejd)",
+    "subjecto": "Arabia (Nejd)",
+    "share": 0.22
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Iraq",
+    "subjecto": "Iraq",
+    "share": 0.9751
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0247,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Iraq",
+    "subjecto": "Iraq",
+    "share": 0.9737
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0261,
+    "other": true
+   }
+  ]
+ }
+}

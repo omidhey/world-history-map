@@ -1,0 +1,23 @@
+{
+  "id": "robert-koch",
+  "wikidata": "Q37193",
+  "name": "Robert Koch",
+  "category": "scientist",
+  "start": 1843,
+  "end": 1910,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.8,
+    "lon": 10.33,
+    "place": "Clausthal"
+  },
+  "summary": "German physician, bacteriologist (1843–1910), born in Clausthal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Koch"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37193",
+    "https://en.wikipedia.org/wiki/Robert_Koch"
+  ],
+  "disputed": false
+}

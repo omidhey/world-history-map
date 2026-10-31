@@ -1,0 +1,23 @@
+{
+  "id": "ahmed-zewail",
+  "wikidata": "Q106624",
+  "name": "Ahmed Zewail",
+  "category": "scientist",
+  "start": 1946,
+  "end": 2016,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.05,
+    "lon": 30.47,
+    "place": "Damanhur"
+  },
+  "summary": "Egyptian chemist, born in Damanhur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_Zewail"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q106624",
+    "https://en.wikipedia.org/wiki/Ahmed_Zewail"
+  ],
+  "disputed": false
+}

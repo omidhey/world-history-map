@@ -1,0 +1,23 @@
+{
+  "id": "yunus-emre",
+  "wikidata": "Q378902",
+  "name": "Yunus Emre",
+  "category": "writer",
+  "start": 1241,
+  "end": 1321,
+  "date_precision": "year",
+  "location": {
+    "lat": 39,
+    "lon": 34,
+    "place": "Asia Minor"
+  },
+  "summary": "Turkish folk poet and Sufi mystic, born in Asia Minor. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yunus_Emre"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q378902",
+    "https://en.wikipedia.org/wiki/Yunus_Emre"
+  ],
+  "disputed": false
+}

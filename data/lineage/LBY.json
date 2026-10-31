@@ -1,0 +1,253 @@
+{
+ "country": "LBY",
+ "name": "Libya",
+ "area_km2": 1634948,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9895
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9907
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8541
+   },
+   {
+    "name": "Berbers",
+    "subjecto": "Berbers",
+    "share": 0.1362
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8837
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0542
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0517
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9063
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0542
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.029
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8442,
+    "carried": -323
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.1393
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8437,
+    "carried": -323
+   },
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.0867
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.0522
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0099,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.732,
+    "carried": -323
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.144
+   },
+   {
+    "name": "Aghlabid Emirate",
+    "subjecto": "Aghlabid Emirate",
+    "share": 0.115
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.732
+   },
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.2601
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.732,
+    "carried": 1200
+   },
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.2462
+   },
+   {
+    "name": "Hafsid Caliphate",
+    "subjecto": "Hafsid Caliphate",
+    "share": 0.0162
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.732,
+    "carried": 1200
+   },
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.1711,
+    "carried": 1500
+   },
+   {
+    "name": "Tripolitania",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0419
+   },
+   {
+    "name": "Cyrenaica",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0336
+   },
+   {
+    "name": "Hafsid Caliphate",
+    "subjecto": "Hafsid Caliphate",
+    "share": 0.0162,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Libya",
+    "subjecto": "Italy",
+    "share": 0.8363
+   },
+   {
+    "name": "Algeria",
+    "subjecto": "France",
+    "share": 0.0945
+   },
+   {
+    "name": "Anglo-Egyptian Sudan",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0436
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.0164
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Cyraneica (UK Lybia)",
+    "subjecto": "United Kingdom",
+    "share": 0.5307
+   },
+   {
+    "name": "Fezzan (Frech Lybia)",
+    "subjecto": "France",
+    "share": 0.3175
+   },
+   {
+    "name": "Tripolitana (UK Lybia)",
+    "subjecto": "United Kingdom",
+    "share": 0.1371
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Libya",
+    "subjecto": "Libya",
+    "share": 0.9849
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0089,
+    "other": true
+   }
+  ]
+ }
+}

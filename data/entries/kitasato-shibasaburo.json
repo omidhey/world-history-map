@@ -1,0 +1,23 @@
+{
+  "id": "kitasato-shibasaburo",
+  "wikidata": "Q442225",
+  "name": "Kitasato Shibasaburō",
+  "category": "scientist",
+  "start": 1853,
+  "end": 1931,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.12,
+    "lon": 131.07,
+    "place": "Oguni"
+  },
+  "summary": "Japanese bacteriologist, immunologist, born in Oguni. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kitasato_Shibasaburō"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q442225",
+    "https://en.wikipedia.org/wiki/Kitasato_Shibasaburō"
+  ],
+  "disputed": false
+}

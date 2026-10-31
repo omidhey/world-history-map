@@ -1,0 +1,23 @@
+{
+  "id": "alfred-nobel",
+  "wikidata": "Q23810",
+  "name": "Alfred Nobel",
+  "category": "scientist",
+  "start": 1833,
+  "end": 1896,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.33,
+    "lon": 18.07,
+    "place": "Jakob and Johannes parish"
+  },
+  "summary": "Swedish chemist and inventor (1833–1896), born in Jakob and Johannes parish. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Nobel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q23810",
+    "https://en.wikipedia.org/wiki/Alfred_Nobel"
+  ],
+  "disputed": false
+}

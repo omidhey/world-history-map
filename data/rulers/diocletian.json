@@ -1,0 +1,18 @@
+{
+  "id": "diocletian",
+  "wikidata": "Q43107",
+  "name": "Diocletian",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "start": 284,
+  "end": 305,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Diocletian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43107",
+    "https://en.wikipedia.org/wiki/Diocletian"
+  ],
+  "disputed": false
+}

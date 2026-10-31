@@ -1,0 +1,19 @@
+{
+  "id": "louis-xvi",
+  "wikidata": "Q7732",
+  "name": "Louis XVI",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-bourbon",
+  "start": 1774,
+  "end": 1792,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVI"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7732",
+    "https://en.wikipedia.org/wiki/Louis_XVI"
+  ],
+  "disputed": false
+}

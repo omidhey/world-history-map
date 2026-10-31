@@ -1,0 +1,23 @@
+{
+  "id": "meghnad-saha",
+  "wikidata": "Q377898",
+  "name": "Meghnad Saha",
+  "category": "scientist",
+  "start": 1893,
+  "end": 1956,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.73,
+    "lon": 90.39,
+    "place": "Dhaka"
+  },
+  "summary": "Bengali astrophysicist (1893–1956), born in Dhaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Meghnad_Saha"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q377898",
+    "https://en.wikipedia.org/wiki/Meghnad_Saha"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "elizabeth-i",
+  "wikidata": "Q7207",
+  "name": "Elizabeth I",
+  "polity": "kingdom-of-england",
+  "title": "Queen",
+  "dynasty": "house-of-tudor",
+  "start": 1558,
+  "end": 1603,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7207",
+    "https://en.wikipedia.org/wiki/Elizabeth_I"
+  ],
+  "disputed": false
+}

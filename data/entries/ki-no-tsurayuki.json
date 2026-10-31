@@ -1,0 +1,41 @@
+{
+  "id": "ki-no-tsurayuki",
+  "wikidata": "Q468288",
+  "name": "Ki no Tsurayuki",
+  "category": "writer",
+  "start": 866,
+  "end": 945,
+  "date_precision": "year",
+  "location": {
+    "lat": 35,
+    "lon": 135.77,
+    "place": "Heian-kyō"
+  },
+  "summary": "Japanese writer, born in Heian-kyō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ki_no_Tsurayuki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q468288",
+    "https://en.wikipedia.org/wiki/Ki_no_Tsurayuki"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 866,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q468288"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 872,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q468288"
+      ]
+    }
+  ]
+}

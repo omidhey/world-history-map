@@ -1,0 +1,23 @@
+{
+  "id": "taha-hussein",
+  "wikidata": "Q328765",
+  "name": "Taha Hussein",
+  "category": "writer",
+  "start": 1889,
+  "end": 1973,
+  "date_precision": "day",
+  "location": {
+    "lat": 28.65,
+    "lon": 30.84,
+    "place": "Maghagha"
+  },
+  "summary": "Egyptian writer and literary critic (1889–1973), born in Maghagha. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Taha_Hussein"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q328765",
+    "https://en.wikipedia.org/wiki/Taha_Hussein"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "daniel-defoe",
+  "wikidata": "Q40946",
+  "name": "Daniel Defoe",
+  "category": "writer",
+  "start": 1660,
+  "end": 1731,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English trader, writer, and journalist (1660–1731), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Defoe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40946",
+    "https://en.wikipedia.org/wiki/Daniel_Defoe"
+  ],
+  "disputed": false
+}

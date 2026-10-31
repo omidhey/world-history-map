@@ -1,0 +1,19 @@
+{
+  "id": "artaxerxes-iii",
+  "wikidata": "Q192867",
+  "name": "Artaxerxes III",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -358,
+  "end": -338,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Artaxerxes_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192867",
+    "https://en.wikipedia.org/wiki/Artaxerxes_III"
+  ],
+  "disputed": false
+}

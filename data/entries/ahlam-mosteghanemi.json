@@ -1,0 +1,40 @@
+{
+  "id": "ahlam-mosteghanemi",
+  "wikidata": "Q1772341",
+  "name": "Ahlam Mosteghanemi",
+  "category": "writer",
+  "start": 1953,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.8,
+    "lon": 10.18,
+    "place": "Tunis"
+  },
+  "summary": "A female Algerian writer, born in Tunis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahlam_Mosteghanemi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1772341",
+    "https://en.wikipedia.org/wiki/Ahlam_Mosteghanemi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1953,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1772341"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1959,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1772341"
+      ]
+    }
+  ]
+}

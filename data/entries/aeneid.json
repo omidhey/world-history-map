@@ -1,0 +1,22 @@
+{
+  "id": "aeneid",
+  "wikidata": "Q60220",
+  "name": "Aeneid",
+  "category": "work",
+  "start": -50,
+  "date_precision": "century",
+  "location": {
+    "lat": 45.13,
+    "lon": 10.82,
+    "place": "Andes"
+  },
+  "summary": "Epic poem by Virgil, associated with Andes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aeneid"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60220",
+    "https://en.wikipedia.org/wiki/Aeneid"
+  ],
+  "disputed": false
+}

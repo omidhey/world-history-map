@@ -1,0 +1,23 @@
+{
+  "id": "attar-of-nishapur",
+  "wikidata": "Q194091",
+  "name": "Attar of Nishapur",
+  "category": "writer",
+  "start": 1145,
+  "end": 1221,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.21,
+    "lon": 58.8,
+    "place": "Nishapur"
+  },
+  "summary": "Persian Sufi poet (c. 1145 – c. 1221), born in Nishapur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Attar_of_Nishapur"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q194091",
+    "https://en.wikipedia.org/wiki/Attar_of_Nishapur"
+  ],
+  "disputed": false
+}

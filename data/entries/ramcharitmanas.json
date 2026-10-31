@@ -1,0 +1,22 @@
+{
+  "id": "ramcharitmanas",
+  "wikidata": "Q2724561",
+  "name": "Ramcharitmanas",
+  "category": "work",
+  "start": 1600,
+  "date_precision": "century",
+  "location": {
+    "lat": 25.38,
+    "lon": 81.15,
+    "place": "Rajapur"
+  },
+  "summary": "Awadhi poem about Rama by Tulsidas, associated with Rajapur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramcharitmanas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2724561",
+    "https://en.wikipedia.org/wiki/Ramcharitmanas"
+  ],
+  "disputed": false
+}

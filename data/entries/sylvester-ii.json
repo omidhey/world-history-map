@@ -1,0 +1,23 @@
+{
+  "id": "sylvester-ii",
+  "wikidata": "Q172383",
+  "name": "Sylvester II",
+  "category": "scientist",
+  "start": 938,
+  "end": 1003,
+  "date_precision": "year",
+  "location": {
+    "lat": 44.96,
+    "lon": 2.49,
+    "place": "Saint-Simon"
+  },
+  "summary": "Pope of the Catholic Church from 999 to 1003, born in Saint-Simon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Sylvester_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172383",
+    "https://en.wikipedia.org/wiki/Pope_Sylvester_II"
+  ],
+  "disputed": false
+}

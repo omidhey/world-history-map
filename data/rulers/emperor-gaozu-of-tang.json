@@ -1,0 +1,19 @@
+{
+  "id": "emperor-gaozu-of-tang",
+  "wikidata": "Q9700",
+  "name": "Emperor Gaozu of Tang",
+  "polity": "tang-empire",
+  "title": "Emperor",
+  "dynasty": "tang-imperial-house",
+  "start": 618,
+  "end": 626,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9700",
+    "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang"
+  ],
+  "disputed": false
+}

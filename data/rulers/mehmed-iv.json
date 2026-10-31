@@ -1,0 +1,19 @@
+{
+  "id": "mehmed-iv",
+  "wikidata": "Q170514",
+  "name": "Mehmed IV",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1648,
+  "end": 1687,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehmed_IV"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170514",
+    "https://en.wikipedia.org/wiki/Mehmed_IV"
+  ],
+  "disputed": false
+}

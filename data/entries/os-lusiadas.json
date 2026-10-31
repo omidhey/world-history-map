@@ -1,0 +1,80 @@
+{
+  "id": "os-lusiadas",
+  "wikidata": "Q781898",
+  "name": "Os Lusíadas",
+  "category": "work",
+  "start": 1572,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.71,
+    "lon": -9.14,
+    "place": "Lisbon"
+  },
+  "summary": "Portuguese epic poem by Luís de Camões, associated with Lisbon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Os_Lusíadas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q781898",
+    "https://en.wikipedia.org/wiki/Os_Lusíadas"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1572,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1702,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1749,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1800,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1805,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1841,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1880,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q781898"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tabula-rogeriana",
+  "wikidata": "Q1089336",
+  "name": "Tabula Rogeriana",
+  "category": "work",
+  "start": 1154,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.89,
+    "lon": -5.3,
+    "place": "Ceuta"
+  },
+  "summary": "1154 work by Muhammad al Idrisi by Abu Abdullah Muhammad al-Idrisi al-Qurtubi al-Hasani as-Sabti, associated with Ceuta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tabula_Rogeriana"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1089336",
+    "https://en.wikipedia.org/wiki/Tabula_Rogeriana"
+  ],
+  "disputed": false
+}

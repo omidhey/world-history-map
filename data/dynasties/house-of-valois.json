@@ -1,0 +1,18 @@
+{
+  "id": "house-of-valois",
+  "wikidata": "Q182135",
+  "name": "House of Valois",
+  "polity": "kingdom-of-france",
+  "start": 1328,
+  "end": 1589,
+  "date_precision": "year",
+  "summary": "Cadet branch of the Capets that ruled through the Hundred Years' War and the Wars of Religion.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Valois"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q182135",
+    "https://en.wikipedia.org/wiki/House_of_Valois"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osamu-dazai",
+  "wikidata": "Q317685",
+  "name": "Osamu Dazai",
+  "category": "writer",
+  "start": 1909,
+  "end": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.9,
+    "lon": 140.46,
+    "place": "Kanagi"
+  },
+  "summary": "Japanese author, born in Kanagi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Dazai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q317685",
+    "https://en.wikipedia.org/wiki/Osamu_Dazai"
+  ],
+  "disputed": false
+}

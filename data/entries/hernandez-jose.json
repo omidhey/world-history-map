@@ -1,0 +1,23 @@
+{
+  "id": "hernandez-jose",
+  "wikidata": "Q377623",
+  "name": "hernandez jose",
+  "category": "writer",
+  "start": 1834,
+  "end": 1886,
+  "date_precision": "day",
+  "location": {
+    "lat": -34.43,
+    "lon": -59.43,
+    "place": "San Andrés de Giles"
+  },
+  "summary": "Argentine writer (1834-1886), born in San Andrés de Giles. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/José_Hernández_(writer)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q377623",
+    "https://en.wikipedia.org/wiki/José_Hernández_(writer)"
+  ],
+  "disputed": false
+}

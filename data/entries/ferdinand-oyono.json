@@ -1,0 +1,23 @@
+{
+  "id": "ferdinand-oyono",
+  "wikidata": "Q1000379",
+  "name": "Ferdinand Oyono",
+  "category": "writer",
+  "start": 1929,
+  "end": 2010,
+  "date_precision": "day",
+  "location": {
+    "lat": 3.08,
+    "lon": 11.43,
+    "place": "Ngoulemakong"
+  },
+  "summary": "Cameroonian diplomat (1929-2010), born in Ngoulemakong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Oyono"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1000379",
+    "https://en.wikipedia.org/wiki/Ferdinand_Oyono"
+  ],
+  "disputed": false
+}

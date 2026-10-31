@@ -1,0 +1,19 @@
+{
+  "id": "augustus",
+  "wikidata": "Q1405",
+  "name": "Augustus",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "julio-claudian-dynasty",
+  "start": -27,
+  "end": 14,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1405",
+    "https://en.wikipedia.org/wiki/Augustus"
+  ],
+  "disputed": false
+}

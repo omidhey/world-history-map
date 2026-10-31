@@ -1,0 +1,23 @@
+{
+  "id": "matsuo-basho",
+  "wikidata": "Q5676",
+  "name": "Matsuo Bashō",
+  "category": "writer",
+  "start": 1644,
+  "end": 1694,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.77,
+    "lon": 136.14,
+    "place": "Bashō's birth house"
+  },
+  "summary": "Japanese poet（1644–1694）, born in Bashō's birth house. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Matsuo_Bashō"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5676",
+    "https://en.wikipedia.org/wiki/Matsuo_Bashō"
+  ],
+  "disputed": false
+}

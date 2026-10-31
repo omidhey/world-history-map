@@ -1,0 +1,23 @@
+{
+  "id": "ahmadou-kourouma",
+  "wikidata": "Q401023",
+  "name": "Ahmadou Kourouma",
+  "category": "writer",
+  "start": 1927,
+  "end": 2003,
+  "date_precision": "day",
+  "location": {
+    "lat": 9.52,
+    "lon": -6.48,
+    "place": "Boundiali"
+  },
+  "summary": "Ivorian writer (1927-2003), born in Boundiali. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmadou_Kourouma"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q401023",
+    "https://en.wikipedia.org/wiki/Ahmadou_Kourouma"
+  ],
+  "disputed": false
+}

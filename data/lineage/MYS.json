@@ -1,0 +1,219 @@
+{
+ "country": "MYS",
+ "name": "Malaysia",
+ "area_km2": 338221,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5618
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.3638
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5618
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3638
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5622
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3638
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5639
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3638,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5612,
+    "carried": -500
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3638,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.001,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.553,
+    "carried": -500
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3638,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0102
+   }
+  ],
+  "400": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.553,
+    "carried": -500
+   },
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.3638,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0102
+   }
+  ],
+  "800": [
+   {
+    "name": "Malay",
+    "subjecto": "Malay",
+    "share": 0.5362
+   },
+   {
+    "name": "Srivijaya Empire",
+    "subjecto": "Srivijaya Empire",
+    "share": 0.2438
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.1423
+   }
+  ],
+  "1200": [
+   {
+    "name": "Malays",
+    "subjecto": "Malays",
+    "share": 0.5362
+   },
+   {
+    "name": "Srivijaya Empire",
+    "subjecto": "Srivijaya Empire",
+    "share": 0.3877
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Malaysian Islamic states",
+    "subjecto": "Malaysian Islamic states",
+    "share": 0.5434
+   },
+   {
+    "name": "Ayutthaya",
+    "subjecto": "Ayutthaya",
+    "share": 0.2515
+   },
+   {
+    "name": "Malacca",
+    "subjecto": "Malacca",
+    "share": 0.1309
+   }
+  ],
+  "1800": [
+   {
+    "name": "Malaya",
+    "subjecto": "Malaya",
+    "share": 0.9032
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0175,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Malaya",
+    "subjecto": "Malaya",
+    "share": 0.9036
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0175,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Malaysia",
+    "subjecto": "Malaysia",
+    "share": 0.9036
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0175,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Malaysia",
+    "subjecto": "Malaysia",
+    "share": 0.9032
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0175,
+    "other": true
+   }
+  ]
+ }
+}

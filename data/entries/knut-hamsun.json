@@ -1,0 +1,23 @@
+{
+  "id": "knut-hamsun",
+  "wikidata": "Q40826",
+  "name": "Knut Hamsun",
+  "category": "writer",
+  "start": 1859,
+  "end": 1952,
+  "date_precision": "day",
+  "location": {
+    "lat": 61.88,
+    "lon": 9.1,
+    "place": "Vågå"
+  },
+  "summary": "Norwegian novelist (1859–1952), born in Vågå. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Knut_Hamsun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40826",
+    "https://en.wikipedia.org/wiki/Knut_Hamsun"
+  ],
+  "disputed": false
+}

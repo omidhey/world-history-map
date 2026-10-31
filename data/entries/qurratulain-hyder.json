@@ -1,0 +1,23 @@
+{
+  "id": "qurratulain-hyder",
+  "wikidata": "Q61555",
+  "name": "Qurratulain Hyder",
+  "category": "writer",
+  "start": 1927,
+  "end": 2007,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.88,
+    "lon": 78.08,
+    "place": "Aligarh"
+  },
+  "summary": "Indian writer (1927–2007), born in Aligarh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qurratulain_Hyder"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q61555",
+    "https://en.wikipedia.org/wiki/Qurratulain_Hyder"
+  ],
+  "disputed": false
+}

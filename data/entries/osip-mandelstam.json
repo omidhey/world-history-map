@@ -1,0 +1,23 @@
+{
+  "id": "osip-mandelstam",
+  "wikidata": "Q189950",
+  "name": "Osip Mandelstam",
+  "category": "writer",
+  "start": 1891,
+  "end": 1938,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.23,
+    "lon": 21.01,
+    "place": "Warsaw"
+  },
+  "summary": "Russian poet and essayist (1891-1938), born in Warsaw. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Osip_Mandelstam"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189950",
+    "https://en.wikipedia.org/wiki/Osip_Mandelstam"
+  ],
+  "disputed": false
+}

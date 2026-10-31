@@ -1,0 +1,23 @@
+{
+  "id": "james-baldwin",
+  "wikidata": "Q273210",
+  "name": "James Baldwin",
+  "category": "writer",
+  "start": 1924,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.81,
+    "lon": -73.95,
+    "place": "Harlem"
+  },
+  "summary": "American writer (1924–1987), born in Harlem. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Baldwin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q273210",
+    "https://en.wikipedia.org/wiki/James_Baldwin"
+  ],
+  "disputed": false
+}

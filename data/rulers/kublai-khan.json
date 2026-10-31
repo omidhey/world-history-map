@@ -1,0 +1,19 @@
+{
+  "id": "kublai-khan",
+  "wikidata": "Q7523",
+  "name": "Kublai Khan",
+  "polity": "mongol-empire",
+  "title": "Great Khan",
+  "dynasty": "borjigin-dynasty",
+  "start": 1260,
+  "end": 1294,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kublai_Khan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7523",
+    "https://en.wikipedia.org/wiki/Kublai_Khan"
+  ],
+  "disputed": false
+}

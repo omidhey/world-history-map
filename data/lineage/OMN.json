@@ -1,0 +1,225 @@
+{
+ "country": "OMN",
+ "name": "Oman",
+ "area_km2": 309096,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9733
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.9786
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.9786
+   }
+  ],
+  "-500": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.9786,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8772,
+    "carried": -1000
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.1006
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0017,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Mascat",
+    "subjecto": "Mascat",
+    "share": 0.8103
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.117,
+    "carried": -1000
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.0395
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0058,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Mascat",
+    "subjecto": "Mascat",
+    "share": 0.8084,
+    "carried": -1
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.117,
+    "carried": -1000
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.0447
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0058,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9781
+   }
+  ],
+  "1200": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.512,
+    "carried": 800
+   },
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.2745
+   },
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.192
+   }
+  ],
+  "1500": [
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.5418
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.2587
+   },
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.1776
+   }
+  ],
+  "1800": [
+   {
+    "name": "Hadramaut",
+    "subjecto": "Hadramaut",
+    "share": 0.4455,
+    "carried": 1500
+   },
+   {
+    "name": "Oman",
+    "subjecto": "Oman",
+    "share": 0.2621
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.2317,
+    "carried": 1500
+   },
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.035,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Protectorate",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9786
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Oman",
+    "subjecto": "Oman",
+    "share": 0.9335
+   },
+   {
+    "name": "United Arab Emirates",
+    "subjecto": "United Arab Emirates",
+    "share": 0.0288
+   },
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.0169
+   }
+  ],
+  "2010": [
+   {
+    "name": "Oman",
+    "subjecto": "Oman",
+    "share": 0.9299
+   },
+   {
+    "name": "United Arab Emirates",
+    "subjecto": "United Arab Emirates",
+    "share": 0.0288
+   },
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.0169
+   }
+  ]
+ }
+}

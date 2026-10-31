@@ -1,0 +1,26 @@
+{
+  "id": "russian-empire",
+  "wikidata": "Q34266",
+  "name": "Russian Empire",
+  "border_names": [
+    "Russian Empire"
+  ],
+  "type": "empire",
+  "start": 1721,
+  "end": 1917,
+  "date_precision": "year",
+  "capital": {
+    "lat": 59.93,
+    "lon": 30.34,
+    "place": "Saint Petersburg"
+  },
+  "summary": "Empire spanning Eastern Europe, Siberia and parts of Central Asia, ruled by tsars until the revolutions of 1917.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Russian_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34266",
+    "https://en.wikipedia.org/wiki/Russian_Empire"
+  ],
+  "disputed": false
+}

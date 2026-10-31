@@ -1,0 +1,23 @@
+{
+  "id": "alessandro-volta",
+  "wikidata": "Q680",
+  "name": "Alessandro Volta",
+  "category": "scientist",
+  "start": 1745,
+  "end": 1827,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.81,
+    "lon": 9.09,
+    "place": "Como"
+  },
+  "summary": "Italian chemist and physicist (1745–1827), born in Como. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Volta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q680",
+    "https://en.wikipedia.org/wiki/Alessandro_Volta"
+  ],
+  "disputed": false
+}

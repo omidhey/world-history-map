@@ -1,0 +1,22 @@
+{
+  "id": "strange-stories-from-a-chinese-studio",
+  "wikidata": "Q83755",
+  "name": "Strange Stories from a Chinese Studio",
+  "category": "work",
+  "start": 1740,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.64,
+    "lon": 117.97,
+    "place": "Zichuan District"
+  },
+  "summary": "1766 short story collection by Pu Songling, associated with Zichuan District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Strange_Tales_from_a_Chinese_Studio"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83755",
+    "https://en.wikipedia.org/wiki/Strange_Tales_from_a_Chinese_Studio"
+  ],
+  "disputed": false
+}

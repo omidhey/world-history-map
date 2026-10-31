@@ -1,0 +1,41 @@
+{
+  "id": "apollonius-of-rhodes",
+  "wikidata": "Q192638",
+  "name": "Apollonius of Rhodes",
+  "category": "writer",
+  "start": -295,
+  "end": -215,
+  "date_precision": "year",
+  "location": {
+    "lat": 31.2,
+    "lon": 29.89,
+    "place": "Alexandria"
+  },
+  "summary": "3rd century BC Greek epic poet, born in Alexandria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apollonius_of_Rhodes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192638",
+    "https://en.wikipedia.org/wiki/Apollonius_of_Rhodes"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": -295,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q192638"
+      ]
+    },
+    {
+      "field": "start",
+      "value": -290,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q192638"
+      ]
+    }
+  ]
+}

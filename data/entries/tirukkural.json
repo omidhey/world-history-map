@@ -1,0 +1,22 @@
+{
+  "id": "tirukkural",
+  "wikidata": "Q2167085",
+  "name": "Tirukkuṟaḷ",
+  "category": "work",
+  "start": 1296,
+  "date_precision": "year",
+  "location": {
+    "lat": 13.04,
+    "lon": 80.27,
+    "place": "Mylapore"
+  },
+  "summary": "Classic Tamil-language sacred poetic text by Thiruvalluvar, associated with Mylapore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kural"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2167085",
+    "https://en.wikipedia.org/wiki/Kural"
+  ],
+  "disputed": false
+}

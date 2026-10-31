@@ -1,0 +1,23 @@
+{
+  "id": "nikolai-ivanovich-lobachevsky",
+  "wikidata": "Q129199",
+  "name": "Nikolai Ivanovich Lobachevsky",
+  "category": "scientist",
+  "start": 1792,
+  "end": 1856,
+  "date_precision": "day",
+  "location": {
+    "lat": 56.33,
+    "lon": 44.01,
+    "place": "Nizhny Novgorod"
+  },
+  "summary": "Russian mathematician (1792–1856), born in Nizhny Novgorod. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Lobachevsky"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q129199",
+    "https://en.wikipedia.org/wiki/Nikolai_Lobachevsky"
+  ],
+  "disputed": false
+}

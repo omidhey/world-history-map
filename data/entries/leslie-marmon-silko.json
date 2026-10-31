@@ -1,0 +1,22 @@
+{
+  "id": "leslie-marmon-silko",
+  "wikidata": "Q273001",
+  "name": "Leslie Marmon Silko",
+  "category": "writer",
+  "start": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.08,
+    "lon": -106.65,
+    "place": "Albuquerque"
+  },
+  "summary": "American writer (born 1948), born in Albuquerque. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Marmon_Silko"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q273001",
+    "https://en.wikipedia.org/wiki/Leslie_Marmon_Silko"
+  ],
+  "disputed": false
+}

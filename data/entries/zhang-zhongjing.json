@@ -1,0 +1,23 @@
+{
+  "id": "zhang-zhongjing",
+  "wikidata": "Q197350",
+  "name": "Zhang Zhongjing",
+  "category": "scientist",
+  "start": 150,
+  "end": 219,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.68,
+    "lon": 112.08,
+    "place": "Dengzhou"
+  },
+  "summary": "A physician and pharmacologist (150–219), hailed as medical sage, from Eastern Han Dynasty, China, born in Dengzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhang_Zhongjing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q197350",
+    "https://en.wikipedia.org/wiki/Zhang_Zhongjing"
+  ],
+  "disputed": false
+}

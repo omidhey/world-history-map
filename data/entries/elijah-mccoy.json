@@ -1,0 +1,23 @@
+{
+  "id": "elijah-mccoy",
+  "wikidata": "Q1329419",
+  "name": "Elijah McCoy",
+  "category": "scientist",
+  "start": 1844,
+  "end": 1929,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.99,
+    "lon": -82.93,
+    "place": "Colchester"
+  },
+  "summary": "American engineer (1844–1929), born in Colchester. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elijah_McCoy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1329419",
+    "https://en.wikipedia.org/wiki/Elijah_McCoy"
+  ],
+  "disputed": false
+}

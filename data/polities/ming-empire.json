@@ -1,0 +1,26 @@
+{
+  "id": "ming-empire",
+  "wikidata": "Q9903",
+  "name": "Ming dynasty",
+  "border_names": [
+    "Ming Chinese Empire"
+  ],
+  "type": "empire",
+  "start": 1368,
+  "end": 1644,
+  "date_precision": "year",
+  "capital": {
+    "lat": 39.9,
+    "lon": 116.4,
+    "place": "Beijing"
+  },
+  "summary": "Chinese dynasty that expelled the Mongols, rebuilt the Great Wall and the Forbidden City, and sent the treasure fleets of Zheng He across the Indian Ocean.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ming_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9903",
+    "https://en.wikipedia.org/wiki/Ming_dynasty"
+  ],
+  "disputed": false
+}

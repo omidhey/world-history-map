@@ -1,0 +1,40 @@
+{
+  "id": "invisible-man",
+  "wikidata": "Q1784288",
+  "name": "Invisible Man",
+  "category": "work",
+  "start": 1952,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.48,
+    "lon": -97.54,
+    "place": "Oklahoma City"
+  },
+  "summary": "1952 novel by Ralph Ellison, associated with Oklahoma City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Invisible_Man"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1784288",
+    "https://en.wikipedia.org/wiki/Invisible_Man"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1952,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1784288"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1953,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1784288"
+      ]
+    }
+  ]
+}

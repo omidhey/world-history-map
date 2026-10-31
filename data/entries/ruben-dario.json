@@ -1,0 +1,23 @@
+{
+  "id": "ruben-dario",
+  "wikidata": "Q173767",
+  "name": "Rubén Darío",
+  "category": "writer",
+  "start": 1867,
+  "end": 1916,
+  "date_precision": "day",
+  "location": {
+    "lat": 12.73,
+    "lon": -86.12,
+    "place": "Ciudad Dario"
+  },
+  "summary": "Nicaraguan poet, journalist and diplomat (1867–1916), born in Ciudad Dario. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubén_Darío"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q173767",
+    "https://en.wikipedia.org/wiki/Rubén_Darío"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tang-empire",
+  "wikidata": "Q9683",
+  "name": "Tang dynasty",
+  "border_names": [
+    "Tang Empire"
+  ],
+  "type": "empire",
+  "start": 618,
+  "end": 907,
+  "date_precision": "year",
+  "capital": {
+    "lat": 34.27,
+    "lon": 108.95,
+    "place": "Chang'an"
+  },
+  "summary": "Chinese empire often seen as a golden age of poetry, trade and cosmopolitan city life, with a capital that was among the largest cities in the world.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tang_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9683",
+    "https://en.wikipedia.org/wiki/Tang_dynasty"
+  ],
+  "disputed": false
+}

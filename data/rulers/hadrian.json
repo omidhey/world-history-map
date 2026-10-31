@@ -1,0 +1,19 @@
+{
+  "id": "hadrian",
+  "wikidata": "Q1427",
+  "name": "Hadrian",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "nerva-antonine-dynasty",
+  "start": 117,
+  "end": 138,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hadrian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1427",
+    "https://en.wikipedia.org/wiki/Hadrian"
+  ],
+  "disputed": false
+}

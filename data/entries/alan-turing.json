@@ -1,0 +1,24 @@
+{
+  "id": "alan-turing",
+  "wikidata": "Q7251",
+  "name": "Alan Turing",
+  "category": "scientist",
+  "start": 1912,
+  "end": 1954,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.53,
+    "lon": -0.19,
+    "place": "Maida Vale"
+  },
+  "summary": "English computer scientist (1912–1954), born in Maida Vale. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Turing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7251",
+    "https://en.wikipedia.org/wiki/Alan_Turing",
+    "https://plato.stanford.edu/entries/turing/"
+  ],
+  "disputed": false
+}

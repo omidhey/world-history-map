@@ -1,0 +1,23 @@
+{
+  "id": "katherine-johnson",
+  "wikidata": "Q11740",
+  "name": "Katherine Johnson",
+  "category": "scientist",
+  "start": 1918,
+  "end": 2020,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.79,
+    "lon": -80.3,
+    "place": "White Sulphur Springs"
+  },
+  "summary": "African-American mathematician, born in White Sulphur Springs. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11740",
+    "https://en.wikipedia.org/wiki/Katherine_Johnson"
+  ],
+  "disputed": false
+}

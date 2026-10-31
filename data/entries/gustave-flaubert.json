@@ -1,0 +1,23 @@
+{
+  "id": "gustave-flaubert",
+  "wikidata": "Q43444",
+  "name": "Gustave Flaubert",
+  "category": "writer",
+  "start": 1821,
+  "end": 1880,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.44,
+    "lon": 1.1,
+    "place": "Rouen"
+  },
+  "summary": "French novelist (1821–1880), born in Rouen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Flaubert"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43444",
+    "https://en.wikipedia.org/wiki/Gustave_Flaubert"
+  ],
+  "disputed": false
+}

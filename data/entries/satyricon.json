@@ -1,0 +1,22 @@
+{
+  "id": "satyricon",
+  "wikidata": "Q246732",
+  "name": "Satyricon",
+  "category": "work",
+  "start": 1,
+  "date_precision": "century",
+  "location": {
+    "lat": 43.3,
+    "lon": 5.37,
+    "place": "Massilia"
+  },
+  "summary": "1st century Latin work of fiction attributed to Petronius, associated with Massilia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satyricon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q246732",
+    "https://en.wikipedia.org/wiki/Satyricon"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-hunchback-of-notre-dame",
+  "wikidata": "Q191380",
+  "name": "The Hunchback of Notre Dame",
+  "category": "work",
+  "start": 1831,
+  "date_precision": "year",
+  "location": {
+    "lat": 47.24,
+    "lon": 6.02,
+    "place": "Besançon"
+  },
+  "summary": "Novel by Victor Hugo, associated with Besançon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q191380",
+    "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+  ],
+  "disputed": false
+}

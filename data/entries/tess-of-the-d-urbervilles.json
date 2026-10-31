@@ -1,0 +1,22 @@
+{
+  "id": "tess-of-the-d-urbervilles",
+  "wikidata": "Q649409",
+  "name": "Tess of the d'Urbervilles",
+  "category": "work",
+  "start": 1891,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.71,
+    "lon": -2.44,
+    "place": "Dorchester"
+  },
+  "summary": "1891 novel by Thomas Hardy, associated with Dorchester. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tess_of_the_d'Urbervilles"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q649409",
+    "https://en.wikipedia.org/wiki/Tess_of_the_d'Urbervilles"
+  ],
+  "disputed": false
+}

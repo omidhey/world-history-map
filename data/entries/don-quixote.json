@@ -1,0 +1,40 @@
+{
+  "id": "don-quixote",
+  "wikidata": "Q480",
+  "name": "Don Quixote",
+  "category": "work",
+  "start": 1605,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.48,
+    "lon": -3.36,
+    "place": "Alcalá de Henares"
+  },
+  "summary": "1605 and 1615 novel by Miguel de Cervantes, associated with Alcalá de Henares. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_Quixote"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q480",
+    "https://en.wikipedia.org/wiki/Don_Quixote"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1605,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q480"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1615,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q480"
+      ]
+    }
+  ]
+}

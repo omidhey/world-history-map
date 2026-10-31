@@ -1,0 +1,23 @@
+{
+  "id": "maya-angelou",
+  "wikidata": "Q19526",
+  "name": "Maya Angelou",
+  "category": "writer",
+  "start": 1928,
+  "end": 2014,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.63,
+    "lon": -90.2,
+    "place": "St. Louis"
+  },
+  "summary": "American poet, author, and civil rights activist (1928–2014), born in St. Louis. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_Angelou"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q19526",
+    "https://en.wikipedia.org/wiki/Maya_Angelou"
+  ],
+  "disputed": false
+}

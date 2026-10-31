@@ -1,0 +1,23 @@
+{
+  "id": "sylvia-plath",
+  "wikidata": "Q133054",
+  "name": "Sylvia Plath",
+  "category": "writer",
+  "start": 1932,
+  "end": 1963,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.31,
+    "lon": -71.11,
+    "place": "Jamaica Plain"
+  },
+  "summary": "American poet and writer (1932–1963), born in Jamaica Plain. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_Plath"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q133054",
+    "https://en.wikipedia.org/wiki/Sylvia_Plath"
+  ],
+  "disputed": false
+}

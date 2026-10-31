@@ -1,0 +1,204 @@
+{
+ "country": "COD",
+ "name": "Dem. Rep. Congo",
+ "area_km2": 2323413,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.8805
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.1193
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.8803
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.1193
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9953
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9953
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9953
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9953
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9951
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9953
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0094,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9951
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9892
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0107,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7824,
+    "carried": 1500
+   },
+   {
+    "name": "Luba",
+    "subjecto": "Luba",
+    "share": 0.1381
+   },
+   {
+    "name": "Lunda",
+    "subjecto": "Lunda",
+    "share": 0.0415
+   },
+   {
+    "name": "Lozi",
+    "subjecto": "Lozi",
+    "share": 0.026
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0118,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Belgian Congo",
+    "subjecto": "Belgium",
+    "share": 0.9871
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0128,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.9875
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0125,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.9881
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0119,
+    "other": true
+   }
+  ]
+ }
+}

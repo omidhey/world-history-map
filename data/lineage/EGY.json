@@ -1,0 +1,307 @@
+{
+ "country": "EGY",
+ "name": "Egypt",
+ "area_km2": 997208,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.6561
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.2761
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.0455
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.6565
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.2761
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.0456
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.6443
+   },
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.2602
+   },
+   {
+    "name": "state societies and Aramaean kingdoms",
+    "subjecto": "state societies and Aramaean kingdoms",
+    "share": 0.038
+   },
+   {
+    "name": "Kush",
+    "subjecto": "Kush",
+    "share": 0.0281
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.4481
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4379
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0567
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.043
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.4869
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3789
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0567
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0282,
+    "carried": -500
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.0275
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.496
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3407,
+    "carried": -323
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0576
+   },
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.0563
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.0276
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.5582
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.3407,
+    "carried": -323
+   },
+   {
+    "name": "Blemmyes",
+    "subjecto": "Blemmyes",
+    "share": 0.0571
+   },
+   {
+    "name": "Meroe",
+    "subjecto": "Meroe",
+    "share": 0.0276
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0023,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.6868
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.1511,
+    "carried": -323
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.1473
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.61
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2325
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.1427
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.6091
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2325,
+    "carried": 1200
+   },
+   {
+    "name": "Makkura",
+    "subjecto": "Makkura",
+    "share": 0.1426,
+    "carried": 1200
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.6958
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.2215,
+    "carried": 1200
+   },
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.0621,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0051,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Egypt",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9818
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Egypt",
+    "subjecto": "United Kingdom",
+    "share": 0.9813
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Egypt",
+    "subjecto": "Egypt",
+    "share": 0.981
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ]
+ }
+}

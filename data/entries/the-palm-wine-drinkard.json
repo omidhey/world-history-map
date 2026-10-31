@@ -1,0 +1,22 @@
+{
+  "id": "the-palm-wine-drinkard",
+  "wikidata": "Q774053",
+  "name": "The Palm-Wine Drinkard",
+  "category": "work",
+  "start": 1952,
+  "date_precision": "year",
+  "location": {
+    "lat": 7.15,
+    "lon": 3.35,
+    "place": "Abeokuta"
+  },
+  "summary": "1952 novel by Nigerian writer Amos Tutuola, associated with Abeokuta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Palm-Wine_Drinkard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q774053",
+    "https://en.wikipedia.org/wiki/The_Palm-Wine_Drinkard"
+  ],
+  "disputed": false
+}

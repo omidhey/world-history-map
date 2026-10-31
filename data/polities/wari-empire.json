@@ -1,0 +1,26 @@
+{
+  "id": "wari-empire",
+  "wikidata": "Q605340",
+  "name": "Wari Empire",
+  "border_names": [
+    "Huari Empire"
+  ],
+  "type": "empire",
+  "start": 600,
+  "end": 1000,
+  "date_precision": "circa",
+  "capital": {
+    "lat": -13.06,
+    "lon": -74.2,
+    "place": "Huari"
+  },
+  "summary": "Andean state centred on Huari in the Peruvian highlands, which built roads and administrative centres centuries before the Inca.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wari_culture"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q605340",
+    "https://en.wikipedia.org/wiki/Wari_culture"
+  ],
+  "disputed": false
+}

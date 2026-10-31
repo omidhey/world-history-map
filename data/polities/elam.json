@@ -1,0 +1,26 @@
+{
+  "id": "elam",
+  "wikidata": "Q128904",
+  "name": "Elam",
+  "border_names": [
+    "Elam"
+  ],
+  "type": "kingdom",
+  "start": -2700,
+  "end": -539,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 32.19,
+    "lon": 48.26,
+    "place": "Susa"
+  },
+  "summary": "Civilisation in south-western Iran with its own language and script, a long-time rival of Mesopotamian states until it was absorbed by the Persians.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elam"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q128904",
+    "https://en.wikipedia.org/wiki/Elam"
+  ],
+  "disputed": false
+}

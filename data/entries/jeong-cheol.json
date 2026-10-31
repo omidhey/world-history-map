@@ -1,0 +1,23 @@
+{
+  "id": "jeong-cheol",
+  "wikidata": "Q484978",
+  "name": "Jeong Cheol",
+  "category": "writer",
+  "start": 1536,
+  "end": 1593,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.56,
+    "lon": 126.99,
+    "place": "Seoul"
+  },
+  "summary": "Korean poet (1536–1593), born in Seoul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chŏng_Ch'ŏl"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q484978",
+    "https://en.wikipedia.org/wiki/Chŏng_Ch'ŏl"
+  ],
+  "disputed": false
+}

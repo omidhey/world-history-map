@@ -1,0 +1,23 @@
+{
+  "id": "andal",
+  "wikidata": "Q465030",
+  "name": "Andal",
+  "category": "writer",
+  "start": 800,
+  "end": 900,
+  "date_precision": "century",
+  "location": {
+    "lat": 9.52,
+    "lon": 77.63,
+    "place": "Srivilliputhur"
+  },
+  "summary": "Tamil poet-saint, born in Srivilliputhur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q465030",
+    "https://en.wikipedia.org/wiki/Andal"
+  ],
+  "disputed": false
+}

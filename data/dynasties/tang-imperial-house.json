@@ -1,0 +1,18 @@
+{
+  "id": "tang-imperial-house",
+  "wikidata": "Q9683",
+  "name": "Tang imperial house",
+  "polity": "tang-empire",
+  "start": 618,
+  "end": 907,
+  "date_precision": "year",
+  "summary": "The Li family, which ruled China for nearly three centuries, with one interruption under Wu Zetian.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tang_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9683",
+    "https://en.wikipedia.org/wiki/Tang_dynasty"
+  ],
+  "disputed": false
+}

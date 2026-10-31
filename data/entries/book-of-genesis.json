@@ -1,0 +1,22 @@
+{
+  "id": "book-of-genesis",
+  "wikidata": "Q9184",
+  "name": "Book of Genesis",
+  "category": "work",
+  "start": -500,
+  "date_precision": "century",
+  "location": {
+    "lat": 29.85,
+    "lon": 31.33,
+    "place": "Helwan"
+  },
+  "summary": "First book of the Bible by Moses, associated with Helwan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Book_of_Genesis"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9184",
+    "https://en.wikipedia.org/wiki/Book_of_Genesis"
+  ],
+  "disputed": false
+}

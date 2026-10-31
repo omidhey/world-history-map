@@ -1,0 +1,49 @@
+{
+  "id": "abu-al-qasim-al-zahrawi",
+  "wikidata": "Q311495",
+  "name": "Abu al-Qasim al-Zahrawi",
+  "category": "scientist",
+  "start": 936,
+  "end": 1010,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.89,
+    "lon": -4.87,
+    "place": "Madinat Al-Zahra"
+  },
+  "summary": "Arab Andalusian physician, surgeon and chemist (936–1013), born in Madinat Al-Zahra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Zahrawi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311495",
+    "https://en.wikipedia.org/wiki/Al-Zahrawi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1010,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q311495"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1013,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q311495"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1036,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q311495"
+      ]
+    }
+  ]
+}

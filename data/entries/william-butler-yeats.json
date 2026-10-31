@@ -1,0 +1,23 @@
+{
+  "id": "william-butler-yeats",
+  "wikidata": "Q40213",
+  "name": "William Butler Yeats",
+  "category": "writer",
+  "start": 1865,
+  "end": 1939,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.33,
+    "lon": -6.21,
+    "place": "Sandymount"
+  },
+  "summary": "Irish poet and playwright (1865–1939), born in Sandymount. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/W._B._Yeats"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40213",
+    "https://en.wikipedia.org/wiki/W._B._Yeats"
+  ],
+  "disputed": false
+}

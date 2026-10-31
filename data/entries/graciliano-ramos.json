@@ -1,0 +1,23 @@
+{
+  "id": "graciliano-ramos",
+  "wikidata": "Q1392121",
+  "name": "Graciliano Ramos",
+  "category": "writer",
+  "start": 1892,
+  "end": 1953,
+  "date_precision": "day",
+  "location": {
+    "lat": -9.32,
+    "lon": -36.47,
+    "place": "Quebrangulo"
+  },
+  "summary": "Brazilian writer and mayor (1892-1953), born in Quebrangulo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Graciliano_Ramos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1392121",
+    "https://en.wikipedia.org/wiki/Graciliano_Ramos"
+  ],
+  "disputed": false
+}

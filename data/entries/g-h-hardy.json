@@ -1,0 +1,23 @@
+{
+  "id": "g-h-hardy",
+  "wikidata": "Q184337",
+  "name": "G.H. Hardy",
+  "category": "scientist",
+  "start": 1877,
+  "end": 1947,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.14,
+    "lon": -0.48,
+    "place": "Cranleigh"
+  },
+  "summary": "British mathematician (1877–1947), born in Cranleigh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/G._H._Hardy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184337",
+    "https://en.wikipedia.org/wiki/G._H._Hardy"
+  ],
+  "disputed": false
+}

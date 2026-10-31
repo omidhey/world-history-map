@@ -1,0 +1,23 @@
+{
+  "id": "yi-kwang-su",
+  "wikidata": "Q495454",
+  "name": "Yi Kwang-su",
+  "category": "writer",
+  "start": 1892,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.69,
+    "lon": 125.21,
+    "place": "Chongju"
+  },
+  "summary": "Korean novelist (1892–1950), born in Chongju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yi_Kwangsu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q495454",
+    "https://en.wikipedia.org/wiki/Yi_Kwangsu"
+  ],
+  "disputed": false
+}

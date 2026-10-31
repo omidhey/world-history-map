@@ -1,0 +1,65 @@
+{
+  "id": "meera",
+  "wikidata": "Q466330",
+  "name": "Meera",
+  "category": "writer",
+  "start": 1498,
+  "end": 1546,
+  "date_precision": "year",
+  "location": {
+    "lat": 26.65,
+    "lon": 74.03,
+    "place": "Merta City"
+  },
+  "summary": "16th-century Hindu mystic poet, saint and devotee of the god Krishna, born in Merta City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirabai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q466330",
+    "https://en.wikipedia.org/wiki/Mirabai"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1498,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q466330"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1504,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q466330"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1546,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q466330"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1547,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q466330"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1552,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q466330"
+      ]
+    }
+  ]
+}

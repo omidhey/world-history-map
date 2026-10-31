@@ -1,0 +1,23 @@
+{
+  "id": "julius-caesar",
+  "wikidata": "Q1048",
+  "name": "Julius Caesar",
+  "category": "writer",
+  "start": -100,
+  "end": -44,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Roman general and dictator, born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Caesar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1048",
+    "https://en.wikipedia.org/wiki/Julius_Caesar"
+  ],
+  "disputed": false
+}

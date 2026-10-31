@@ -1,0 +1,26 @@
+{
+  "id": "crimean-khanate",
+  "wikidata": "Q160440",
+  "name": "Crimean Khanate",
+  "border_names": [
+    "Crimean Khanate"
+  ],
+  "type": "khanate",
+  "start": 1441,
+  "end": 1783,
+  "date_precision": "year",
+  "capital": {
+    "lat": 44.75,
+    "lon": 33.86,
+    "place": "Bakhchysarai"
+  },
+  "summary": "Tatar khanate and Ottoman vassal on the Black Sea steppe, whose raiders reached deep into Eastern Europe until Russia annexed it.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Crimean_Khanate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q160440",
+    "https://en.wikipedia.org/wiki/Crimean_Khanate"
+  ],
+  "disputed": false
+}

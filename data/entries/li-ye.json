@@ -1,0 +1,23 @@
+{
+  "id": "li-ye",
+  "wikidata": "Q716964",
+  "name": "Li Ye",
+  "category": "scientist",
+  "start": 1192,
+  "end": 1279,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.87,
+    "lon": 116.33,
+    "place": "Zhongdu"
+  },
+  "summary": "Chinese scientist and writer (1192–1279), born in Zhongdu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Li_Ye_(mathematician)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q716964",
+    "https://en.wikipedia.org/wiki/Li_Ye_(mathematician)"
+  ],
+  "disputed": false
+}

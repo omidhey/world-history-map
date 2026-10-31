@@ -1,0 +1,23 @@
+{
+  "id": "e-m-forster",
+  "wikidata": "Q189119",
+  "name": "E. M. Forster",
+  "category": "writer",
+  "start": 1879,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English novelist (1879-1970), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/E._M._Forster"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189119",
+    "https://en.wikipedia.org/wiki/E._M._Forster"
+  ],
+  "disputed": false
+}

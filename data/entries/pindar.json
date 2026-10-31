@@ -1,0 +1,23 @@
+{
+  "id": "pindar",
+  "wikidata": "Q134929",
+  "name": "Pindar",
+  "category": "writer",
+  "start": -517,
+  "end": -437,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.43,
+    "lon": 22.88,
+    "place": "Cynocephalus"
+  },
+  "summary": "5th-century BC Greek lyric poet, born in Cynocephalus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pindar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q134929",
+    "https://en.wikipedia.org/wiki/Pindar"
+  ],
+  "disputed": false
+}

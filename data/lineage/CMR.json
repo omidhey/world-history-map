@@ -1,0 +1,268 @@
+{
+ "country": "CMR",
+ "name": "Cameroon",
+ "area_km2": 460306,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.981
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9823
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7777
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7777
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7777
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7777
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.7715
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7777
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2102
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2102,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.771
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2102
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7703
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2069
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0066,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7688,
+    "carried": 1500
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1377,
+    "carried": 1500
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.0726
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0066,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Kamerun",
+    "subjecto": "Kamerun",
+    "share": 0.9805
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0103,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Cameroon",
+    "subjecto": "Cameroon",
+    "share": 0.8457
+   },
+   {
+    "name": "Southern Cameroon",
+    "subjecto": "United Kingdom",
+    "share": 0.0999
+   },
+   {
+    "name": "Nigeria",
+    "subjecto": "United Kingdom",
+    "share": 0.0183
+   },
+   {
+    "name": "Chad",
+    "subjecto": "France",
+    "share": 0.0106
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0068,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Cameroon",
+    "subjecto": "Cameroon",
+    "share": 0.9643
+   },
+   {
+    "name": "Nigeria",
+    "subjecto": "Nigeria",
+    "share": 0.0123
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0111,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "narrative-of-the-life-of-frederick-douglass-an-american-slave",
+  "wikidata": "Q2904743",
+  "name": "Narrative of the Life of Frederick Douglass, an American Slave",
+  "category": "work",
+  "start": 1845,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.75,
+    "lon": -76.18,
+    "place": "Talbot County"
+  },
+  "summary": "Memoir by Frederick Douglass, associated with Talbot County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narrative_of_the_Life_of_Frederick_Douglass"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2904743",
+    "https://en.wikipedia.org/wiki/Narrative_of_the_Life_of_Frederick_Douglass"
+  ],
+  "disputed": false
+}

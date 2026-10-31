@@ -1,0 +1,23 @@
+{
+  "id": "ernest-everett-just",
+  "wikidata": "Q724591",
+  "name": "Ernest Everett Just",
+  "category": "scientist",
+  "start": 1883,
+  "end": 1941,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.78,
+    "lon": -79.93,
+    "place": "Charleston"
+  },
+  "summary": "American biologist (1883–1941), born in Charleston. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Everett_Just"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q724591",
+    "https://en.wikipedia.org/wiki/Ernest_Everett_Just"
+  ],
+  "disputed": false
+}

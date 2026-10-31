@@ -1,0 +1,22 @@
+{
+  "id": "arthashastra",
+  "wikidata": "Q323133",
+  "name": "Arthashastra",
+  "category": "work",
+  "start": -300,
+  "date_precision": "century",
+  "location": {
+    "lat": 33.75,
+    "lon": 72.79,
+    "place": "Taxila"
+  },
+  "summary": "Ancient Indian treatise by Kautilya by Chanakya, associated with Taxila. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthashastra"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q323133",
+    "https://en.wikipedia.org/wiki/Arthashastra"
+  ],
+  "disputed": false
+}

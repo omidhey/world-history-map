@@ -1,0 +1,22 @@
+{
+  "id": "the-feast-of-the-goat",
+  "wikidata": "Q650314",
+  "name": "The Feast of the Goat",
+  "category": "work",
+  "start": 2000,
+  "date_precision": "year",
+  "location": {
+    "lat": -16.4,
+    "lon": -71.54,
+    "place": "Arequipa"
+  },
+  "summary": "Book by Mario Vargas Llosa, associated with Arequipa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Feast_of_the_Goat"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q650314",
+    "https://en.wikipedia.org/wiki/The_Feast_of_the_Goat"
+  ],
+  "disputed": false
+}

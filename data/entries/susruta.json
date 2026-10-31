@@ -1,0 +1,23 @@
+{
+  "id": "susruta",
+  "wikidata": "Q383027",
+  "name": "Suśruta",
+  "category": "scientist",
+  "start": -600,
+  "end": -500,
+  "date_precision": "year",
+  "location": {
+    "lat": 25.32,
+    "lon": 83.01,
+    "place": "Varanasi"
+  },
+  "summary": "Ancient Indian physician, father of surgery, born in Varanasi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sushruta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q383027",
+    "https://en.wikipedia.org/wiki/Sushruta"
+  ],
+  "disputed": false
+}

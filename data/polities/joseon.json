@@ -1,0 +1,26 @@
+{
+  "id": "joseon",
+  "wikidata": "Q28179",
+  "name": "Joseon",
+  "border_names": [
+    "Korea"
+  ],
+  "type": "kingdom",
+  "start": 1392,
+  "end": 1897,
+  "date_precision": "year",
+  "capital": {
+    "lat": 37.57,
+    "lon": 126.98,
+    "place": "Seoul"
+  },
+  "summary": "Korean dynasty that ruled for over five hundred years under Confucian principles, and which created the Hangul alphabet in the 15th century.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28179",
+    "https://en.wikipedia.org/wiki/Joseon"
+  ],
+  "disputed": false
+}

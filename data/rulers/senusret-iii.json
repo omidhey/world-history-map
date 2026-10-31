@@ -1,0 +1,19 @@
+{
+  "id": "senusret-iii",
+  "wikidata": "Q19248",
+  "name": "Senusret III",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "twelfth-dynasty-of-egypt",
+  "start": -1878,
+  "end": -1839,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Senusret_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q19248",
+    "https://en.wikipedia.org/wiki/Senusret_III"
+  ],
+  "disputed": false
+}

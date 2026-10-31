@@ -1,0 +1,26 @@
+{
+  "id": "khmer-empire",
+  "wikidata": "Q201705",
+  "name": "Khmer Empire",
+  "border_names": [
+    "Khmer Empire"
+  ],
+  "type": "empire",
+  "start": 802,
+  "end": 1431,
+  "date_precision": "year",
+  "capital": {
+    "lat": 13.41,
+    "lon": 103.87,
+    "place": "Angkor"
+  },
+  "summary": "Southeast Asian empire centred on Angkor, builder of Angkor Wat and a vast water-management system, which declined in the 14th–15th centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khmer_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q201705",
+    "https://en.wikipedia.org/wiki/Khmer_Empire"
+  ],
+  "disputed": false
+}

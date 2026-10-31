@@ -1,0 +1,185 @@
+{
+ "country": "SVN",
+ "name": "Slovenia",
+ "area_km2": 19118,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.8804
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1158
+   }
+  ],
+  "-500": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.8804
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.8804,
+    "carried": -1000
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1158,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.8804,
+    "carried": -500
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1158,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0038,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.7789
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.403
+   },
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.259
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.9944
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0056,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.9341
+   },
+   {
+    "name": "Imperial Hungary",
+    "subjecto": "Imperial Hungary",
+    "share": 0.0587
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 1.0
+   }
+  ],
+  "1914": [
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.9973
+   }
+  ],
+  "1945": [
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.7912
+   },
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.2029
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Slovenia",
+    "subjecto": "Slovenia",
+    "share": 0.9535
+   },
+   {
+    "name": "Croatia",
+    "subjecto": "Croatia",
+    "share": 0.0297
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0168,
+    "other": true
+   }
+  ]
+ }
+}

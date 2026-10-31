@@ -1,0 +1,23 @@
+{
+  "id": "albrecht-durer",
+  "wikidata": "Q5580",
+  "name": "Albrecht Dürer",
+  "category": "scientist",
+  "start": 1471,
+  "end": 1528,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.45,
+    "lon": 11.08,
+    "place": "Nuremberg"
+  },
+  "summary": "German painter, printmaker, mathematician, and theorist (1471-1528), born in Nuremberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Albrecht_Dürer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5580",
+    "https://en.wikipedia.org/wiki/Albrecht_Dürer"
+  ],
+  "disputed": false
+}

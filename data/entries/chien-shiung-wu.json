@@ -1,0 +1,23 @@
+{
+  "id": "chien-shiung-wu",
+  "wikidata": "Q450317",
+  "name": "Chien-Shiung Wu",
+  "category": "scientist",
+  "start": 1912,
+  "end": 1997,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.45,
+    "lon": 121.1,
+    "place": "Taicang"
+  },
+  "summary": "Chinese-American physicist (1912–1997) (death at 85 years), born in Taicang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q450317",
+    "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
+  ],
+  "disputed": false
+}

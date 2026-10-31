@@ -1,0 +1,23 @@
+{
+  "id": "masaoka-shiki",
+  "wikidata": "Q315152",
+  "name": "Masaoka Shiki",
+  "category": "writer",
+  "start": 1867,
+  "end": 1902,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.84,
+    "lon": 132.77,
+    "place": "Matsuyama"
+  },
+  "summary": "Japanese poet, author, and literary critic in Meiji period Japan (1867-1902), born in Matsuyama. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaoka_Shiki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315152",
+    "https://en.wikipedia.org/wiki/Masaoka_Shiki"
+  ],
+  "disputed": false
+}

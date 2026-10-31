@@ -1,0 +1,368 @@
+{
+ "country": "MEX",
+ "name": "Mexico",
+ "area_km2": 1969359,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9665
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.8267
+   },
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1391
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.5433
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.3987
+   },
+   {
+    "name": "Olmec",
+    "subjecto": "Olmec",
+    "share": 0.0237
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.5433
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.3987
+   },
+   {
+    "name": "Olmec",
+    "subjecto": "Olmec",
+    "share": 0.0237
+   }
+  ],
+  "-323": [
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.3984
+   },
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.3935,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.1051
+   },
+   {
+    "name": "Monte Albán",
+    "subjecto": "Monte Albán",
+    "share": 0.0292
+   },
+   {
+    "name": "Olmec",
+    "subjecto": "Olmec",
+    "share": 0.022,
+    "carried": -500
+   },
+   {
+    "name": "Teotihuacan",
+    "subjecto": "Teotihuacan",
+    "share": 0.0167
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.3991
+   },
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.3896,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.1051
+   },
+   {
+    "name": "Monte Albán",
+    "subjecto": "Monte Albán",
+    "share": 0.0303
+   },
+   {
+    "name": "Olmec",
+    "subjecto": "Olmec",
+    "share": 0.022,
+    "carried": -500
+   },
+   {
+    "name": "Teotihuacan",
+    "subjecto": "Teotihuacan",
+    "share": 0.0192
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.3982
+   },
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.3896,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.1051
+   },
+   {
+    "name": "Monte Albán",
+    "subjecto": "Monte Albán",
+    "share": 0.0303
+   },
+   {
+    "name": "Olmec",
+    "subjecto": "Olmec",
+    "share": 0.022,
+    "carried": -500
+   },
+   {
+    "name": "Teotihuacan",
+    "subjecto": "Teotihuacan",
+    "share": 0.0182
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0054,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Mogollon",
+    "subjecto": "Mogollon",
+    "share": 0.4984
+   },
+   {
+    "name": "Mesoamerican city-states and chiefdoms",
+    "subjecto": "Mesoamerican city-states and chiefdoms",
+    "share": 0.1756
+   },
+   {
+    "name": "Anasazi",
+    "subjecto": "Anasazi",
+    "share": 0.1196
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1163
+   },
+   {
+    "name": "Toltec Empire",
+    "subjecto": "Toltec Empire",
+    "share": 0.0328
+   },
+   {
+    "name": "Mixtecs",
+    "subjecto": "Mixtecs",
+    "share": 0.0251
+   }
+  ],
+  "1200": [
+   {
+    "name": "Mogollon",
+    "subjecto": "Mogollon",
+    "share": 0.4978,
+    "carried": 800
+   },
+   {
+    "name": "Mesoamerican city-states and chiefdoms",
+    "subjecto": "Mesoamerican city-states and chiefdoms",
+    "share": 0.193
+   },
+   {
+    "name": "Anasazi",
+    "subjecto": "Anasazi",
+    "share": 0.1196,
+    "carried": 800
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0587
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0511,
+    "carried": 800
+   },
+   {
+    "name": "Toltec Empire",
+    "subjecto": "Toltec Empire",
+    "share": 0.0422
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mogollon",
+    "subjecto": "Mogollon",
+    "share": 0.3185,
+    "carried": 800
+   },
+   {
+    "name": "Apache",
+    "subjecto": "Apache",
+    "share": 0.1933
+   },
+   {
+    "name": "Aztec Empire",
+    "subjecto": "Aztec Empire",
+    "share": 0.1718
+   },
+   {
+    "name": "Pomo",
+    "subjecto": "Pomo",
+    "share": 0.0659
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0488,
+    "carried": 800
+   },
+   {
+    "name": "Mesoamerican city-states and chiefdoms",
+    "subjecto": "Mesoamerican city-states and chiefdoms",
+    "share": 0.0453,
+    "carried": 1200
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0391
+   },
+   {
+    "name": "Hopi",
+    "subjecto": "Hopi",
+    "share": 0.0286
+   },
+   {
+    "name": "Mixtec Empire",
+    "subjecto": "Mixtec Empire",
+    "share": 0.0225
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0192,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.9623
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.9556
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.9556
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.9551
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0072,
+    "other": true
+   }
+  ]
+ }
+}

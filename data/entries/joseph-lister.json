@@ -1,0 +1,23 @@
+{
+  "id": "joseph-lister",
+  "wikidata": "Q155768",
+  "name": "Joseph Lister",
+  "category": "scientist",
+  "start": 1827,
+  "end": 1912,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.54,
+    "lon": 0.02,
+    "place": "Upton House, Newham"
+  },
+  "summary": "British surgeon and antiseptic pioneer (1827–1912), born in Upton House, Newham. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Lister"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155768",
+    "https://en.wikipedia.org/wiki/Joseph_Lister"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,100 @@
+{
+ "country": "CYN",
+ "name": "N. Cyprus",
+ "area_km2": 3782,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.3759
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.3759
+   }
+  ],
+  "-1000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.3759
+   }
+  ],
+  "-500": [],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.082
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.2065
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.1138
+   }
+  ],
+  "800": [
+   {
+    "name": "Cyprus",
+    "subjecto": "Cyprus",
+    "share": 0.3759
+   }
+  ],
+  "1200": [
+   {
+    "name": "Cyprus",
+    "subjecto": "Cyprus",
+    "share": 0.3759
+   }
+  ],
+  "1500": [
+   {
+    "name": "Cyprus",
+    "subjecto": "Cyprus",
+    "share": 0.3759
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0985
+   }
+  ],
+  "1914": [
+   {
+    "name": "United Kingdom of Great Britain and Ireland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.249
+   }
+  ],
+  "1945": [
+   {
+    "name": "United Kingdom",
+    "subjecto": "United Kingdom",
+    "share": 0.3759
+   }
+  ],
+  "2010": [
+   {
+    "name": "Turkish Cypriot-administered area",
+    "subjecto": "Turkish Cypriot-administered area",
+    "share": 0.5243
+   }
+  ]
+ }
+}

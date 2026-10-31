@@ -1,0 +1,23 @@
+{
+  "id": "ahmed-shawqi",
+  "wikidata": "Q401491",
+  "name": "Ahmed Shawqi",
+  "category": "writer",
+  "start": 1868,
+  "end": 1932,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.04,
+    "lon": 31.24,
+    "place": "Cairo"
+  },
+  "summary": "Egyptian poet (1868–1932), born in Cairo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_Shawqi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q401491",
+    "https://en.wikipedia.org/wiki/Ahmed_Shawqi"
+  ],
+  "disputed": false
+}

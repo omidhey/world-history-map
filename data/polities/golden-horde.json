@@ -1,0 +1,26 @@
+{
+  "id": "golden-horde",
+  "wikidata": "Q79965",
+  "name": "Golden Horde",
+  "border_names": [
+    "Golden Horde"
+  ],
+  "type": "khanate",
+  "start": 1242,
+  "end": 1502,
+  "date_precision": "year",
+  "capital": {
+    "lat": 48.74,
+    "lon": 44.72,
+    "place": "Sarai"
+  },
+  "summary": "Western khanate of the Mongol Empire that ruled the steppe north of the Black and Caspian Seas and collected tribute from the Russian principalities.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_Horde"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q79965",
+    "https://en.wikipedia.org/wiki/Golden_Horde"
+  ],
+  "disputed": false
+}

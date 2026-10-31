@@ -1,0 +1,22 @@
+{
+  "id": "samguk-sagi",
+  "wikidata": "Q485552",
+  "name": "Samguk sagi",
+  "category": "work",
+  "start": 1145,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.85,
+    "lon": 129.22,
+    "place": "Gyeongju"
+  },
+  "summary": "Historical record of the Three Kingdoms of Korea: Goguryeo, Baekje and Silla by Kim Pusik, associated with Gyeongju. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samguk_sagi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q485552",
+    "https://en.wikipedia.org/wiki/Samguk_sagi"
+  ],
+  "disputed": false
+}

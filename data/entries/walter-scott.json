@@ -1,0 +1,23 @@
+{
+  "id": "walter-scott",
+  "wikidata": "Q79025",
+  "name": "Walter Scott",
+  "category": "writer",
+  "start": 1771,
+  "end": 1832,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.95,
+    "lon": -3.19,
+    "place": "Edinburgh"
+  },
+  "summary": "Scottish novelist, poet and playwright (1771–1832), born in Edinburgh. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q79025",
+    "https://en.wikipedia.org/wiki/Walter_Scott"
+  ],
+  "disputed": false
+}

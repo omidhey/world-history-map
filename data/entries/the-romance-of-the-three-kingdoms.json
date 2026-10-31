@@ -1,0 +1,22 @@
+{
+  "id": "the-romance-of-the-three-kingdoms",
+  "wikidata": "Q70806",
+  "name": "The Romance of the Three Kingdoms",
+  "category": "work",
+  "start": 1350,
+  "date_precision": "century",
+  "location": {
+    "lat": 37.87,
+    "lon": 112.54,
+    "place": "Taiyuan"
+  },
+  "summary": "One of China's Four Great Classical Novels by Luo Guanzhong, associated with Taiyuan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q70806",
+    "https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms"
+  ],
+  "disputed": false
+}

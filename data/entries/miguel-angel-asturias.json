@@ -1,0 +1,23 @@
+{
+  "id": "miguel-angel-asturias",
+  "wikidata": "Q75603",
+  "name": "Miguel Ángel Asturias",
+  "category": "writer",
+  "start": 1899,
+  "end": 1974,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.64,
+    "lon": -90.51,
+    "place": "Guatemala City"
+  },
+  "summary": "Guatemalan writer and diplomat (1899–1974), born in Guatemala City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Ángel_Asturias"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q75603",
+    "https://en.wikipedia.org/wiki/Miguel_Ángel_Asturias"
+  ],
+  "disputed": false
+}

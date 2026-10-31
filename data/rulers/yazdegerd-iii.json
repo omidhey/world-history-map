@@ -1,0 +1,19 @@
+{
+  "id": "yazdegerd-iii",
+  "wikidata": "Q208463",
+  "name": "Yazdegerd III",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 632,
+  "end": 651,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yazdegerd_III"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q208463",
+    "https://en.wikipedia.org/wiki/Yazdegerd_III"
+  ],
+  "disputed": false
+}

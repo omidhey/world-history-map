@@ -1,0 +1,23 @@
+{
+  "id": "longus",
+  "wikidata": "Q314949",
+  "name": "Longus",
+  "category": "writer",
+  "start": 200,
+  "end": 200,
+  "date_precision": "century",
+  "location": {
+    "lat": 39.21,
+    "lon": 26.28,
+    "place": "Lesbos"
+  },
+  "summary": "Ancient Greek writer, born in Lesbos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Longus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q314949",
+    "https://en.wikipedia.org/wiki/Longus"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "odyssey",
+  "wikidata": "Q35160",
+  "name": "Odyssey",
+  "category": "work",
+  "start": -800,
+  "date_precision": "century",
+  "location": {
+    "lat": 36.72,
+    "lon": 25.32,
+    "place": "Ios"
+  },
+  "summary": "Epic poem attributed to Homer, associated with Ios. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Odyssey"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q35160",
+    "https://en.wikipedia.org/wiki/Odyssey"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "emperor-wu-of-han",
+  "wikidata": "Q7225",
+  "name": "Emperor Wu of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "western-han",
+  "start": -141,
+  "end": -87,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7225",
+    "https://en.wikipedia.org/wiki/Emperor_Wu_of_Han"
+  ],
+  "disputed": false
+}

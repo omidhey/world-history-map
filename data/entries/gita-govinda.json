@@ -1,0 +1,22 @@
+{
+  "id": "gita-govinda",
+  "wikidata": "Q389414",
+  "name": "Gita Govinda",
+  "category": "work",
+  "start": 1200,
+  "date_precision": "century",
+  "location": {
+    "lat": 20.13,
+    "lon": 85.6,
+    "place": "Kenduli Sasan"
+  },
+  "summary": "Poem by Jayadeva, associated with Kenduli Sasan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gita_Govinda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q389414",
+    "https://en.wikipedia.org/wiki/Gita_Govinda"
+  ],
+  "disputed": false
+}

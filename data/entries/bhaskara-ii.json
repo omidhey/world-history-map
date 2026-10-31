@@ -1,0 +1,23 @@
+{
+  "id": "bhaskara-ii",
+  "wikidata": "Q213385",
+  "name": "Bhaskara II",
+  "category": "scientist",
+  "start": 1114,
+  "end": 1185,
+  "date_precision": "year",
+  "location": {
+    "lat": 18.99,
+    "lon": 75.75,
+    "place": "Beed"
+  },
+  "summary": "Indian mathematician and astronomer, born in Beed. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhāskara_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q213385",
+    "https://en.wikipedia.org/wiki/Bhāskara_II"
+  ],
+  "disputed": false
+}

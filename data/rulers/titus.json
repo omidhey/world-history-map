@@ -1,0 +1,19 @@
+{
+  "id": "titus",
+  "wikidata": "Q1421",
+  "name": "Titus",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "flavian-dynasty",
+  "start": 79,
+  "end": 81,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Titus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1421",
+    "https://en.wikipedia.org/wiki/Titus"
+  ],
+  "disputed": false
+}

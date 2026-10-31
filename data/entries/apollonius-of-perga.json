@@ -1,0 +1,23 @@
+{
+  "id": "apollonius-of-perga",
+  "wikidata": "Q180109",
+  "name": "Apollonius of Perga",
+  "category": "scientist",
+  "start": -262,
+  "end": -190,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.96,
+    "lon": 30.85,
+    "place": "Perge"
+  },
+  "summary": "Ancient Greek geometer and astronomer noted for his writings on conic sections, born in Perge. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apollonius_of_Perga"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q180109",
+    "https://en.wikipedia.org/wiki/Apollonius_of_Perga"
+  ],
+  "disputed": false
+}

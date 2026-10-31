@@ -1,0 +1,24 @@
+{
+  "id": "robert-grosseteste",
+  "wikidata": "Q256541",
+  "name": "Robert Grosseteste",
+  "category": "scientist",
+  "start": 1168,
+  "end": 1253,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.32,
+    "lon": 1.27,
+    "place": "Stradbroke"
+  },
+  "summary": "English bishop and philosopher, born in Stradbroke. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Grosseteste"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q256541",
+    "https://en.wikipedia.org/wiki/Robert_Grosseteste",
+    "https://plato.stanford.edu/entries/grosseteste/"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "justinian-dynasty",
+  "wikidata": "Q5004698",
+  "name": "Justinian dynasty",
+  "polity": "byzantine-empire",
+  "start": 518,
+  "end": 602,
+  "date_precision": "year",
+  "summary": "Family of Justin I and his nephew Justinian, which reconquered parts of the western Mediterranean.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Justinian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5004698",
+    "https://en.wikipedia.org/wiki/Justinian_dynasty"
+  ],
+  "disputed": false
+}

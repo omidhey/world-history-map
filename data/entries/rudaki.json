@@ -1,0 +1,23 @@
+{
+  "id": "rudaki",
+  "wikidata": "Q312954",
+  "name": "Rudaki",
+  "category": "writer",
+  "start": 859,
+  "end": 941,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.35,
+    "lon": 68.06,
+    "place": "Panjrūd"
+  },
+  "summary": "Persian poet, the father of Persian poetry, born in Panjrūd. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudaki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312954",
+    "https://en.wikipedia.org/wiki/Rudaki"
+  ],
+  "disputed": false
+}

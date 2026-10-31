@@ -1,0 +1,22 @@
+{
+  "id": "the-death-of-artemio-cruz",
+  "wikidata": "Q2030203",
+  "name": "The Death of Artemio Cruz",
+  "category": "work",
+  "start": 1962,
+  "date_precision": "year",
+  "location": {
+    "lat": 8.97,
+    "lon": -79.53,
+    "place": "Panama City"
+  },
+  "summary": "1962 novel by Carlos Fuentes, associated with Panama City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2030203",
+    "https://en.wikipedia.org/wiki/The_Death_of_Artemio_Cruz"
+  ],
+  "disputed": false
+}

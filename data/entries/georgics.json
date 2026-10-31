@@ -1,0 +1,22 @@
+{
+  "id": "georgics",
+  "wikidata": "Q674439",
+  "name": "Georgics",
+  "category": "work",
+  "start": -37,
+  "date_precision": "year",
+  "location": {
+    "lat": 45.13,
+    "lon": 10.82,
+    "place": "Andes"
+  },
+  "summary": "Poem by Virgil, associated with Andes. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgics"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q674439",
+    "https://en.wikipedia.org/wiki/Georgics"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chandrasekhara-venkata-raman",
+  "wikidata": "Q60429",
+  "name": "Chandrasekhara Venkata Raman",
+  "category": "scientist",
+  "start": 1888,
+  "end": 1970,
+  "date_precision": "day",
+  "location": {
+    "lat": 10.83,
+    "lon": 78.69,
+    "place": "Tiruchirappalli"
+  },
+  "summary": "Indian physicist (1888–1970), born in Tiruchirappalli. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/C._V._Raman"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60429",
+    "https://en.wikipedia.org/wiki/C._V._Raman"
+  ],
+  "disputed": false
+}

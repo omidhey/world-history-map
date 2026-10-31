@@ -1,0 +1,23 @@
+{
+  "id": "paul-ehrlich",
+  "wikidata": "Q57089",
+  "name": "Paul Ehrlich",
+  "category": "scientist",
+  "start": 1854,
+  "end": 1915,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.78,
+    "lon": 17.07,
+    "place": "Strzelin"
+  },
+  "summary": "Jewish-German physician and scientist (1854-1915), born in Strzelin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Ehrlich"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57089",
+    "https://en.wikipedia.org/wiki/Paul_Ehrlich"
+  ],
+  "disputed": false
+}

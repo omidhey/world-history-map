@@ -1,0 +1,22 @@
+{
+  "id": "water-margin",
+  "wikidata": "Q70827",
+  "name": "Water Margin",
+  "category": "work",
+  "start": 1400,
+  "date_precision": "century",
+  "location": {
+    "lat": 31.3,
+    "lon": 120.62,
+    "place": "Suzhou"
+  },
+  "summary": "14th century Chinese novel, attributed to Shi Nai’an, one of China's Four Great Classical Novels by Shi Nai'an, associated with Suzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Water_Margin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q70827",
+    "https://en.wikipedia.org/wiki/Water_Margin"
+  ],
+  "disputed": false
+}

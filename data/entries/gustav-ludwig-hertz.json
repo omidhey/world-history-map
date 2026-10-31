@@ -1,0 +1,23 @@
+{
+  "id": "gustav-ludwig-hertz",
+  "wikidata": "Q57070",
+  "name": "Gustav Ludwig Hertz",
+  "category": "scientist",
+  "start": 1887,
+  "end": 1975,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.55,
+    "lon": 10,
+    "place": "Hamburg"
+  },
+  "summary": "German physicist (1887–1975), born in Hamburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57070",
+    "https://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz"
+  ],
+  "disputed": false
+}

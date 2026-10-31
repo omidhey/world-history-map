@@ -1,0 +1,23 @@
+{
+  "id": "mary-shelley",
+  "wikidata": "Q47152",
+  "name": "Mary Shelley",
+  "category": "writer",
+  "start": 1797,
+  "end": 1851,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.53,
+    "lon": -0.13,
+    "place": "Somers Town"
+  },
+  "summary": "English writer (1797–1851), born in Somers Town. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Shelley"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47152",
+    "https://en.wikipedia.org/wiki/Mary_Shelley"
+  ],
+  "disputed": false
+}

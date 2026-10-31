@@ -1,0 +1,23 @@
+{
+  "id": "sugita-genpaku",
+  "wikidata": "Q1385286",
+  "name": "Sugita Genpaku",
+  "category": "scientist",
+  "start": 1733,
+  "end": 1817,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.7,
+    "lon": 139.73,
+    "place": "Yaraichō"
+  },
+  "summary": "Japanese scholar, born in Yaraichō. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugita_Genpaku"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1385286",
+    "https://en.wikipedia.org/wiki/Sugita_Genpaku"
+  ],
+  "disputed": false
+}

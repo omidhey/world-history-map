@@ -1,0 +1,23 @@
+{
+  "id": "yi-xing",
+  "wikidata": "Q710705",
+  "name": "Yi Xing",
+  "category": "scientist",
+  "start": 683,
+  "end": 727,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.08,
+    "lon": 115.2,
+    "place": "Nanle County"
+  },
+  "summary": "8th-century Buddhist monk and astronomer, born in Nanle County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yi_Xing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q710705",
+    "https://en.wikipedia.org/wiki/Yi_Xing"
+  ],
+  "disputed": false
+}

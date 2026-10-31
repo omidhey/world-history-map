@@ -1,0 +1,23 @@
+{
+  "id": "john-donne",
+  "wikidata": "Q140412",
+  "name": "John Donne",
+  "category": "writer",
+  "start": 1572,
+  "end": 1631,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English poet and cleric (1572–1631), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Donne"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q140412",
+    "https://en.wikipedia.org/wiki/John_Donne"
+  ],
+  "disputed": false
+}

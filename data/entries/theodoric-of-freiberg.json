@@ -1,0 +1,58 @@
+{
+  "id": "theodoric-of-freiberg",
+  "wikidata": "Q1224163",
+  "name": "Theodoric of Freiberg",
+  "category": "scientist",
+  "start": 1240,
+  "end": 1310,
+  "date_precision": "year",
+  "location": {
+    "lat": 50.91,
+    "lon": 13.34,
+    "place": "Freiberg"
+  },
+  "summary": "German physicist, born in Freiberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodoric_of_Freiberg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1224163",
+    "https://en.wikipedia.org/wiki/Theodoric_of_Freiberg",
+    "https://plato.stanford.edu/entries/dietrich-freiberg/"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1240,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1224163"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1250,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1224163"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1310,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1224163"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1318,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1224163"
+      ]
+    }
+  ]
+}

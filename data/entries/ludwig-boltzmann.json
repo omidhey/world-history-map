@@ -1,0 +1,23 @@
+{
+  "id": "ludwig-boltzmann",
+  "wikidata": "Q84296",
+  "name": "Ludwig Boltzmann",
+  "category": "scientist",
+  "start": 1844,
+  "end": 1906,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 16.37,
+    "place": "Vienna"
+  },
+  "summary": "Austrian physicist and philosopher (1844–1906), born in Vienna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Boltzmann"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q84296",
+    "https://en.wikipedia.org/wiki/Ludwig_Boltzmann"
+  ],
+  "disputed": false
+}

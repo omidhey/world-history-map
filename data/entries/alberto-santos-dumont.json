@@ -1,0 +1,23 @@
+{
+  "id": "alberto-santos-dumont",
+  "wikidata": "Q313211",
+  "name": "Alberto Santos-Dumont",
+  "category": "scientist",
+  "start": 1873,
+  "end": 1932,
+  "date_precision": "day",
+  "location": {
+    "lat": -21.46,
+    "lon": -43.55,
+    "place": "Santos Dumont"
+  },
+  "summary": "Brazilian aviation pioneer (1873-1932), born in Santos Dumont. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313211",
+    "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont"
+  ],
+  "disputed": false
+}

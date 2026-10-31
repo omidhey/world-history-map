@@ -1,0 +1,23 @@
+{
+  "id": "jonas-salk",
+  "wikidata": "Q200101",
+  "name": "Jonas Salk",
+  "category": "scientist",
+  "start": 1914,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.71,
+    "lon": -74.01,
+    "place": "New York City"
+  },
+  "summary": "Jewish-American inventor of polio vaccine (1914–1995), born in New York City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Salk"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q200101",
+    "https://en.wikipedia.org/wiki/Jonas_Salk"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-house-of-the-spirits",
+  "wikidata": "Q1168267",
+  "name": "The House of the Spirits",
+  "category": "work",
+  "start": 1982,
+  "date_precision": "year",
+  "location": {
+    "lat": -12.06,
+    "lon": -77.04,
+    "place": "Lima"
+  },
+  "summary": "1982 novel by Isabel Allende, associated with Lima. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1168267",
+    "https://en.wikipedia.org/wiki/The_House_of_the_Spirits"
+  ],
+  "disputed": false
+}

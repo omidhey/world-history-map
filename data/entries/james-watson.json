@@ -1,0 +1,23 @@
+{
+  "id": "james-watson",
+  "wikidata": "Q83333",
+  "name": "James Watson",
+  "category": "scientist",
+  "start": 1928,
+  "end": 2025,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.88,
+    "lon": -87.63,
+    "place": "Chicago"
+  },
+  "summary": "American molecular biologist, geneticist, zoologist and Nobel Laureate (1928–2025), born in Chicago. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Watson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83333",
+    "https://en.wikipedia.org/wiki/James_Watson"
+  ],
+  "disputed": false
+}

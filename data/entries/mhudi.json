@@ -1,0 +1,22 @@
+{
+  "id": "mhudi",
+  "wikidata": "Q3855903",
+  "name": "Mhudi",
+  "category": "work",
+  "start": 1930,
+  "date_precision": "year",
+  "location": {
+    "lat": -29,
+    "lon": 26,
+    "place": "Orange Free State"
+  },
+  "summary": "A South African novel by Sol Plaatje, first published in 1930je by Sol Plaatjie, associated with Orange Free State. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mhudi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3855903",
+    "https://en.wikipedia.org/wiki/Mhudi"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "adelard-of-bath",
+  "wikidata": "Q312372",
+  "name": "Adelard of Bath",
+  "category": "scientist",
+  "start": 1075,
+  "end": 1160,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.38,
+    "lon": -2.36,
+    "place": "Bath"
+  },
+  "summary": "12th-century English natural philosopher, born in Bath. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Adelard_of_Bath"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312372",
+    "https://en.wikipedia.org/wiki/Adelard_of_Bath"
+  ],
+  "disputed": false
+}

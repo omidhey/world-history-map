@@ -1,0 +1,22 @@
+{
+  "id": "zizhi-tongjian",
+  "wikidata": "Q207062",
+  "name": "Zizhi Tongjian",
+  "category": "work",
+  "start": 1084,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.14,
+    "lon": 111.22,
+    "place": "Xia County"
+  },
+  "summary": "Chinese historical record from 403 BC to 959 AD, published in 1084 by Sima Guang, associated with Xia County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zizhi_Tongjian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q207062",
+    "https://en.wikipedia.org/wiki/Zizhi_Tongjian"
+  ],
+  "disputed": false
+}

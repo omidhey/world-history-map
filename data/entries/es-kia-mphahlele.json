@@ -1,0 +1,23 @@
+{
+  "id": "es-kia-mphahlele",
+  "wikidata": "Q1372674",
+  "name": "Es'kia Mphahlele",
+  "category": "writer",
+  "start": 1919,
+  "end": 2008,
+  "date_precision": "day",
+  "location": {
+    "lat": -25.75,
+    "lon": 28.19,
+    "place": "Pretoria"
+  },
+  "summary": "South African writer and publisher (1919–2008), born in Pretoria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Es'kia_Mphahlele"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1372674",
+    "https://en.wikipedia.org/wiki/Es'kia_Mphahlele"
+  ],
+  "disputed": false
+}

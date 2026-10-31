@@ -1,0 +1,23 @@
+{
+  "id": "santiago-ramon-y-cajal",
+  "wikidata": "Q150526",
+  "name": "Santiago Ramón y Cajal",
+  "category": "scientist",
+  "start": 1852,
+  "end": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.44,
+    "lon": -1.12,
+    "place": "Petilla de Aragón"
+  },
+  "summary": "Spanish scientist (1852-1934), born in Petilla de Aragón. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q150526",
+    "https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal"
+  ],
+  "disputed": false
+}

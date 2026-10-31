@@ -1,0 +1,65 @@
+{
+  "id": "suetonius",
+  "wikidata": "Q10133",
+  "name": "Suetonius",
+  "category": "writer",
+  "start": 69,
+  "end": 126,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.9,
+    "lon": 12.5,
+    "place": "Roman Empire"
+  },
+  "summary": "Late 1st/early 2nd-century Roman historian, died in Roman Empire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Suetonius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10133",
+    "https://en.wikipedia.org/wiki/Suetonius"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 69,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10133"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 70,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10133"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 126,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10133"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 140,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10133"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 150,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10133"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "enrico-fermi",
+  "wikidata": "Q8753",
+  "name": "Enrico Fermi",
+  "category": "scientist",
+  "start": 1901,
+  "end": 1954,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.89,
+    "lon": 12.48,
+    "place": "Rome"
+  },
+  "summary": "Italian–American physicist (1901–1954), born in Rome. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Fermi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8753",
+    "https://en.wikipedia.org/wiki/Enrico_Fermi"
+  ],
+  "disputed": false
+}

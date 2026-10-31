@@ -1,0 +1,23 @@
+{
+  "id": "guan-hanqing",
+  "wikidata": "Q28777",
+  "name": "Guan Hanqing",
+  "category": "writer",
+  "start": 1210,
+  "end": 1298,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.87,
+    "lon": 116.33,
+    "place": "Zhongdu"
+  },
+  "summary": "Chinese playwright and poet, born in Zhongdu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guan_Hanqing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28777",
+    "https://en.wikipedia.org/wiki/Guan_Hanqing"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ralph-ellison",
+  "wikidata": "Q299965",
+  "name": "Ralph Ellison",
+  "category": "writer",
+  "start": 1914,
+  "end": 1994,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.48,
+    "lon": -97.54,
+    "place": "Oklahoma City"
+  },
+  "summary": "American novelist, literary critic, scholar and writer (1914-1994), born in Oklahoma City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Ellison"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q299965",
+    "https://en.wikipedia.org/wiki/Ralph_Ellison"
+  ],
+  "disputed": false
+}

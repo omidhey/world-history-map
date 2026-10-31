@@ -1,0 +1,23 @@
+{
+  "id": "mariama-ba",
+  "wikidata": "Q464389",
+  "name": "Mariama Bâ",
+  "category": "writer",
+  "start": 1929,
+  "end": 1981,
+  "date_precision": "day",
+  "location": {
+    "lat": 14.67,
+    "lon": -17.43,
+    "place": "Dakar"
+  },
+  "summary": "Senegalese writer (1929–1981), born in Dakar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariama_Bâ"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q464389",
+    "https://en.wikipedia.org/wiki/Mariama_Bâ"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "paradise-lost",
+  "wikidata": "Q28754",
+  "name": "Paradise Lost",
+  "category": "work",
+  "start": 1667,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.09,
+    "place": "Cheapside"
+  },
+  "summary": "Epic poem by John Milton, associated with Cheapside. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Paradise_Lost"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q28754",
+    "https://en.wikipedia.org/wiki/Paradise_Lost"
+  ],
+  "disputed": false
+}

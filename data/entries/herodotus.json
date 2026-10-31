@@ -1,0 +1,23 @@
+{
+  "id": "herodotus",
+  "wikidata": "Q26825",
+  "name": "Herodotus",
+  "category": "writer",
+  "start": -484,
+  "end": -425,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.04,
+    "lon": 27.42,
+    "place": "Halicarnassus"
+  },
+  "summary": "Greek historian and geographer (c. 484–c. 425 BC), born in Halicarnassus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Herodotus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q26825",
+    "https://en.wikipedia.org/wiki/Herodotus"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,191 @@
+{
+ "country": "ALB",
+ "name": "Albania",
+ "area_km2": 29695,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9443
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9443
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.8709
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.0758
+   }
+  ],
+  "-500": [
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.658
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.2863
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.2863,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.7032
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.2411,
+    "carried": -500
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.9435
+   }
+  ],
+  "400": [
+   {
+    "name": "Visigoths",
+    "subjecto": "Visigoths",
+    "share": 0.62
+   },
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.2614
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.0572
+   }
+  ],
+  "800": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.8983
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.2348
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.046
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.9499
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9437
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9438
+   }
+  ],
+  "1914": [
+   {
+    "name": "Albania",
+    "subjecto": "Albania",
+    "share": 0.8567
+   },
+   {
+    "name": "Montenegro",
+    "subjecto": "Montenegro",
+    "share": 0.0766
+   },
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.0515
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0061,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Albania",
+    "subjecto": "Albania",
+    "share": 0.7803
+   },
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.2083
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0061,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Albania",
+    "subjecto": "Albania",
+    "share": 0.8877
+   },
+   {
+    "name": "Montenegro",
+    "subjecto": "Montenegro",
+    "share": 0.0766
+   },
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.0239
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0067,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "catherine-the-great",
+  "wikidata": "Q36450",
+  "name": "Catherine the Great",
+  "polity": "russian-empire",
+  "title": "Empress",
+  "dynasty": "house-of-romanov",
+  "start": 1762,
+  "end": 1796,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36450",
+    "https://en.wikipedia.org/wiki/Catherine_the_Great"
+  ],
+  "disputed": false
+}

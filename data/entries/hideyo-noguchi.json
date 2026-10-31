@@ -1,0 +1,23 @@
+{
+  "id": "hideyo-noguchi",
+  "wikidata": "Q356114",
+  "name": "Hideyo Noguchi",
+  "category": "scientist",
+  "start": 1876,
+  "end": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.56,
+    "lon": 140.1,
+    "place": "Inawashiro"
+  },
+  "summary": "Japanese bacteriologist (1876–1928), born in Inawashiro. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideyo_Noguchi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q356114",
+    "https://en.wikipedia.org/wiki/Hideyo_Noguchi"
+  ],
+  "disputed": false
+}

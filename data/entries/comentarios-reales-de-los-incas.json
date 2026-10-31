@@ -1,0 +1,22 @@
+{
+  "id": "comentarios-reales-de-los-incas",
+  "wikidata": "Q83599",
+  "name": "Comentarios Reales de los Incas",
+  "category": "work",
+  "start": 1609,
+  "date_precision": "year",
+  "location": {
+    "lat": -13.52,
+    "lon": -71.98,
+    "place": "Cusco"
+  },
+  "summary": "Book by Inca Garcilaso de la Vega, associated with Cusco. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Comentarios_Reales_de_los_Incas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83599",
+    "https://en.wikipedia.org/wiki/Comentarios_Reales_de_los_Incas"
+  ],
+  "disputed": false
+}

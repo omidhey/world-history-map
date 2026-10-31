@@ -1,0 +1,23 @@
+{
+  "id": "jagadish-chandra-bose",
+  "wikidata": "Q314267",
+  "name": "Jagadish Chandra Bose",
+  "category": "scientist",
+  "start": 1858,
+  "end": 1937,
+  "date_precision": "day",
+  "location": {
+    "lat": 23.55,
+    "lon": 90.55,
+    "place": "Bikrampur"
+  },
+  "summary": "Bengali polymath, physicist, and biologist (1858–1937), born in Bikrampur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q314267",
+    "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
+  ],
+  "disputed": false
+}

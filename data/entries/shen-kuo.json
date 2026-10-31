@@ -1,0 +1,23 @@
+{
+  "id": "shen-kuo",
+  "wikidata": "Q270085",
+  "name": "Shen Kuo",
+  "category": "scientist",
+  "start": 1031,
+  "end": 1095,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.24,
+    "lon": 120.14,
+    "place": "Qiantang County"
+  },
+  "summary": "Chinese scientist and statesman (1031-1095), born in Qiantang County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shen_Kuo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q270085",
+    "https://en.wikipedia.org/wiki/Shen_Kuo"
+  ],
+  "disputed": false
+}

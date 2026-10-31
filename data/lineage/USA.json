@@ -1,0 +1,605 @@
+{
+ "country": "USA",
+ "name": "United States of America",
+ "area_km2": 9509851,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9726
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.8819
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0835
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0067,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.3133
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2669
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.1635
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0839
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.0642
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.037
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.2831
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2669
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.1635
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0835
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.0644
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.037
+   },
+   {
+    "name": "Adena Culture",
+    "subjecto": "Adena Culture",
+    "share": 0.0237
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0079,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.284
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2671
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.1635
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0839
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.0643
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0371
+   },
+   {
+    "name": "Adena Culture",
+    "subjecto": "Adena Culture",
+    "share": 0.0237
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0082,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2615
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.1634
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.1405,
+    "carried": -323
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0833
+   },
+   {
+    "name": "Hopewell Culture",
+    "subjecto": "Hopewell Culture",
+    "share": 0.0816
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.0649
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0367
+   },
+   {
+    "name": "Swift Creek Culture",
+    "subjecto": "Swift Creek Culture",
+    "share": 0.0234
+   },
+   {
+    "name": "Marksville Culture",
+    "subjecto": "Marksville Culture",
+    "share": 0.0148
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0562,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2621
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.1635
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.1398,
+    "carried": -323
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0833
+   },
+   {
+    "name": "Hopewell Culture",
+    "subjecto": "Hopewell Culture",
+    "share": 0.0816
+   },
+   {
+    "name": "Subarctic forest hunter-gatherers",
+    "subjecto": "Subarctic forest hunter-gatherers",
+    "share": 0.0643
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.037
+   },
+   {
+    "name": "Swift Creek Culture",
+    "subjecto": "Swift Creek Culture",
+    "share": 0.0234
+   },
+   {
+    "name": "Marksville Culture",
+    "subjecto": "Marksville Culture",
+    "share": 0.0149
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0619,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.3063
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2425
+   },
+   {
+    "name": "Anasazi",
+    "subjecto": "Anasazi",
+    "share": 0.137
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0835
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.0592
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.0461
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0314
+   },
+   {
+    "name": "Mogollon",
+    "subjecto": "Mogollon",
+    "share": 0.0109
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.014,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.3064
+   },
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.2428
+   },
+   {
+    "name": "Anasazi",
+    "subjecto": "Anasazi",
+    "share": 0.137,
+    "carried": 800
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0833
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.0579
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.0459
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0411
+   },
+   {
+    "name": "North American Pacific foraging, hunting and fishing peoples",
+    "subjecto": "North American Pacific foraging, hunting and fishing peoples",
+    "share": 0.0314
+   },
+   {
+    "name": "Mogollon",
+    "subjecto": "Mogollon",
+    "share": 0.0108,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.013,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Plain bison hunters",
+    "subjecto": "Plain bison hunters",
+    "share": 0.1872
+   },
+   {
+    "name": "Eastern North American hunter-gatherers",
+    "subjecto": "Eastern North American hunter-gatherers",
+    "share": 0.1266,
+    "carried": 1200
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0736,
+    "carried": 1200
+   },
+   {
+    "name": "Natchez",
+    "subjecto": "Natchez",
+    "share": 0.0641
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.0441,
+    "carried": 1200
+   },
+   {
+    "name": "Cherokee",
+    "subjecto": "Cherokee",
+    "share": 0.0436
+   },
+   {
+    "name": "Anasazi",
+    "subjecto": "Anasazi",
+    "share": 0.0407,
+    "carried": 800
+   },
+   {
+    "name": "Delaware",
+    "subjecto": "Delaware",
+    "share": 0.0366
+   },
+   {
+    "name": "Plateau fichers and hunter gatherers",
+    "subjecto": "Plateau fichers and hunter gatherers",
+    "share": 0.0361
+   },
+   {
+    "name": "Desert hunter-gatherers",
+    "subjecto": "Desert hunter-gatherers",
+    "share": 0.0349
+   },
+   {
+    "name": "Pomo",
+    "subjecto": "Pomo",
+    "share": 0.0347
+   },
+   {
+    "name": "Comanche",
+    "subjecto": "Comanche",
+    "share": 0.0342
+   },
+   {
+    "name": "Hopi",
+    "subjecto": "Hopi",
+    "share": 0.0292
+   },
+   {
+    "name": "Navajo",
+    "subjecto": "Navajo",
+    "share": 0.028
+   },
+   {
+    "name": "Coqs",
+    "subjecto": "Coqs",
+    "share": 0.0251
+   },
+   {
+    "name": "Iroquois",
+    "subjecto": "Iroquois",
+    "share": 0.0227
+   },
+   {
+    "name": "Crow",
+    "subjecto": "Crow",
+    "share": 0.0181
+   },
+   {
+    "name": "Apache",
+    "subjecto": "Apache",
+    "share": 0.0178
+   },
+   {
+    "name": "Tlinoit",
+    "subjecto": "Tlinoit",
+    "share": 0.0176
+   },
+   {
+    "name": "Calusa",
+    "subjecto": "Calusa",
+    "share": 0.0107
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0427,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Luisiana",
+    "subjecto": "France",
+    "share": 0.3284
+   },
+   {
+    "name": "United States of America",
+    "subjecto": "United States of America",
+    "share": 0.2423
+   },
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.1818
+   },
+   {
+    "name": "Rupert's Land",
+    "subjecto": "Rupert's Land",
+    "share": 0.0673
+   },
+   {
+    "name": "Inupiaq",
+    "subjecto": "Inupiaq",
+    "share": 0.0578
+   },
+   {
+    "name": "Arctic marine mammal hunters",
+    "subjecto": "Arctic marine mammal hunters",
+    "share": 0.0256,
+    "carried": 1200
+   },
+   {
+    "name": "Yup'ik & Cup'ik",
+    "subjecto": "Yup'ik & Cup'ik",
+    "share": 0.0224
+   },
+   {
+    "name": "Thule",
+    "subjecto": "Thule",
+    "share": 0.0183,
+    "carried": 1200
+   },
+   {
+    "name": "Tlinoit",
+    "subjecto": "Tlinoit",
+    "share": 0.0127,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0141,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "United States",
+    "subjecto": "United States",
+    "share": 0.9679
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "United States",
+    "subjecto": "USA",
+    "share": 0.9682
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "United States",
+    "subjecto": "United States",
+    "share": 0.9677
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0021,
+    "other": true
+   }
+  ]
+ }
+}

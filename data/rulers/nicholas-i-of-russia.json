@@ -1,0 +1,19 @@
+{
+  "id": "nicholas-i-of-russia",
+  "wikidata": "Q130734",
+  "name": "Nicholas I of Russia",
+  "polity": "russian-empire",
+  "title": "Emperor",
+  "dynasty": "house-of-romanov",
+  "start": 1825,
+  "end": 1855,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_I_of_Russia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q130734",
+    "https://en.wikipedia.org/wiki/Nicholas_I_of_Russia"
+  ],
+  "disputed": false
+}

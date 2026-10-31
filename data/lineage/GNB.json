@@ -1,0 +1,177 @@
+{
+ "country": "GNB",
+ "name": "Guinea-Bissau",
+ "area_km2": 36171,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9123
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.8544
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8544
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8544
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9123
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8544
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7877
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0151
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8544
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7749,
+    "carried": 400
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0794
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7988
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.653,
+    "carried": 1200
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1128
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0242
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.5069,
+    "carried": 1200
+   },
+   {
+    "name": "Portuguese Guinea",
+    "subjecto": "Portuguese Guinea",
+    "share": 0.1746
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1121,
+    "carried": 1500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0192
+   }
+  ],
+  "1914": [
+   {
+    "name": "Portuguese Guinea",
+    "subjecto": "Portuguese Guinea",
+    "share": 0.6944
+   },
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.0393
+   }
+  ],
+  "1945": [
+   {
+    "name": "Guinea-Bissau (Portugal)",
+    "subjecto": "Portugal",
+    "share": 0.6944
+   },
+   {
+    "name": "Senegal",
+    "subjecto": "France",
+    "share": 0.0341
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0052,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Guinea-Bissau",
+    "subjecto": "Guinea-Bissau",
+    "share": 0.7425
+   },
+   {
+    "name": "Senegal",
+    "subjecto": "Senegal",
+    "share": 0.0341
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0052,
+    "other": true
+   }
+  ]
+ }
+}

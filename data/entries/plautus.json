@@ -1,0 +1,23 @@
+{
+  "id": "plautus",
+  "wikidata": "Q47160",
+  "name": "Plautus",
+  "category": "writer",
+  "start": -250,
+  "end": -184,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.92,
+    "lon": 12.15,
+    "place": "Sarsina"
+  },
+  "summary": "Roman comic playwright (c. 254 – 184 BC), born in Sarsina. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Plautus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47160",
+    "https://en.wikipedia.org/wiki/Plautus"
+  ],
+  "disputed": false
+}

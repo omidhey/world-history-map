@@ -1,0 +1,166 @@
+{
+ "country": "GAB",
+ "name": "Gabon",
+ "area_km2": 269465,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9707
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9707
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9707
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9707
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9707
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9707
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9484
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9707
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9632
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9459
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9457,
+    "carried": 1500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.025
+   }
+  ],
+  "1914": [
+   {
+    "name": "French Equatorial Africa",
+    "subjecto": "France",
+    "share": 0.741
+   },
+   {
+    "name": "Kamerun",
+    "subjecto": "Kamerun",
+    "share": 0.2121
+   },
+   {
+    "name": "Equatorial Guinea",
+    "subjecto": "Equatorial Guinea",
+    "share": 0.0118
+   }
+  ],
+  "1945": [
+   {
+    "name": "Gabon",
+    "subjecto": "Gabon",
+    "share": 0.9331
+   },
+   {
+    "name": "Cameroon",
+    "subjecto": "Cameroon",
+    "share": 0.0155
+   },
+   {
+    "name": "Equatorial Guinea",
+    "subjecto": "Equatorial Guinea",
+    "share": 0.0118
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Gabon",
+    "subjecto": "Gabon",
+    "share": 0.9419
+   },
+   {
+    "name": "Equatorial Guinea",
+    "subjecto": "Equatorial Guinea",
+    "share": 0.0122
+   },
+   {
+    "name": "Congo",
+    "subjecto": "Congo",
+    "share": 0.0106
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0057,
+    "other": true
+   }
+  ]
+ }
+}

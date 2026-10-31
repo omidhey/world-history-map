@@ -1,0 +1,19 @@
+{
+  "id": "kavad-i",
+  "wikidata": "Q244071",
+  "name": "Kavad I",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 488,
+  "end": 531,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kavad_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q244071",
+    "https://en.wikipedia.org/wiki/Kavad_I"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "to-kill-a-mockingbird",
+  "wikidata": "Q212340",
+  "name": "To Kill a Mockingbird",
+  "category": "work",
+  "start": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.52,
+    "lon": -87.33,
+    "place": "Monroeville"
+  },
+  "summary": "Novel by Harper Lee, associated with Monroeville. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q212340",
+    "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+  ],
+  "disputed": false
+}

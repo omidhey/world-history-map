@@ -1,0 +1,23 @@
+{
+  "id": "flora-nwapa",
+  "wikidata": "Q5460344",
+  "name": "Flora Nwapa",
+  "category": "writer",
+  "start": 1931,
+  "end": 1993,
+  "date_precision": "day",
+  "location": {
+    "lat": 5.71,
+    "lon": 6.81,
+    "place": "Oguta"
+  },
+  "summary": "Nigerian writer, born in Oguta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Flora_Nwapa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5460344",
+    "https://en.wikipedia.org/wiki/Flora_Nwapa"
+  ],
+  "disputed": false
+}

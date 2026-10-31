@@ -1,0 +1,164 @@
+{
+ "country": "FRA",
+ "name": "France",
+ "area_km2": 644868,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_France",
+  "https://en.wikipedia.org/wiki/Roman_Gaul",
+  "https://en.wikipedia.org/wiki/French_Guiana"
+ ],
+ "note": "Shares are of mainland France only. The country outline also contains French Guiana (about 13 % of its area), which the automatic match labels 'Manioc farmers' and 'French Guiana'; it is left out here.",
+ "notes": {
+  "-500": "Gaulish (Celtic) peoples; Greek colony at Massalia.",
+  "-1": "Roman Gaul after Caesar's conquest (58-50 BCE).",
+  "800": "Carolingian Empire under Charlemagne.",
+  "1200": "Royal domain of the French kings alongside the Angevin lands and the County of Toulouse.",
+  "1500": "Kingdom of France.",
+  "1914": "French Third Republic."
+ },
+ "snapshots": {
+  "-3000": [],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.1325
+   },
+   {
+    "name": "Beaker",
+    "subjecto": "Beaker",
+    "share": 0.0764
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.9388
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.0612
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.9505
+   },
+   {
+    "name": "Greek city-states",
+    "subjecto": "Greek city-states",
+    "share": 0.0495
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.9609
+   },
+   {
+    "name": "Britany",
+    "subjecto": "Britany",
+    "share": 0.0391
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kingdom of France",
+    "subjecto": "France",
+    "share": 0.4356
+   },
+   {
+    "name": "Angevin Empire",
+    "subjecto": "Angevin Empire",
+    "share": 0.2772
+   },
+   {
+    "name": "Comté de Toulouse",
+    "subjecto": "France",
+    "share": 0.1654
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.0446
+   },
+   {
+    "name": "Britany",
+    "subjecto": "Britany",
+    "share": 0.04
+   },
+   {
+    "name": "Burgandy",
+    "subjecto": "Burgandy",
+    "share": 0.0371
+   }
+  ],
+  "1500": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.8485
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.121
+   }
+  ],
+  "1800": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.9819
+   }
+  ],
+  "1914": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.9817
+   }
+  ],
+  "1945": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 1.0
+   }
+  ],
+  "2010": [
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 1.0
+   }
+  ]
+ }
+}

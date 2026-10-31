@@ -1,0 +1,23 @@
+{
+  "id": "jamshid-al-kashi",
+  "wikidata": "Q115466",
+  "name": "Jamshīd al-Kāshī",
+  "category": "scientist",
+  "start": 1380,
+  "end": 1429,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.99,
+    "lon": 51.44,
+    "place": "Kashan"
+  },
+  "summary": "Persian astronomer and mathematician, born in Kashan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamshid_al-Kashi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q115466",
+    "https://en.wikipedia.org/wiki/Jamshid_al-Kashi"
+  ],
+  "disputed": false
+}

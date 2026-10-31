@@ -1,0 +1,22 @@
+{
+  "id": "alexa-canady",
+  "wikidata": "Q4718068",
+  "name": "Alexa Canady",
+  "category": "scientist",
+  "start": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.73,
+    "lon": -84.55,
+    "place": "Lansing"
+  },
+  "summary": "American physician specializing in neurosurgery, born in Lansing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexa_Canady"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4718068",
+    "https://en.wikipedia.org/wiki/Alexa_Canady"
+  ],
+  "disputed": false
+}

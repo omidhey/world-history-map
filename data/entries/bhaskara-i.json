@@ -1,0 +1,23 @@
+{
+  "id": "bhaskara-i",
+  "wikidata": "Q470902",
+  "name": "Bhaskara-I",
+  "category": "scientist",
+  "start": 600,
+  "end": 680,
+  "date_precision": "year",
+  "location": {
+    "lat": 22.3,
+    "lon": 70.78,
+    "place": "Saurashtra"
+  },
+  "summary": "7th-century Indian mathematician, born in Saurashtra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhāskara_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q470902",
+    "https://en.wikipedia.org/wiki/Bhāskara_I"
+  ],
+  "disputed": false
+}

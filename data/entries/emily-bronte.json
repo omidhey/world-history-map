@@ -1,0 +1,23 @@
+{
+  "id": "emily-bronte",
+  "wikidata": "Q80137",
+  "name": "Emily Brontë",
+  "category": "writer",
+  "start": 1818,
+  "end": 1848,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.79,
+    "lon": -1.85,
+    "place": "The Brontë Birthplace"
+  },
+  "summary": "English novelist and poet (1818–1848), born in The Brontë Birthplace. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Brontë"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80137",
+    "https://en.wikipedia.org/wiki/Emily_Brontë"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "shinya-yamanaka",
+  "wikidata": "Q80917",
+  "name": "Shinya Yamanaka",
+  "category": "scientist",
+  "start": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.64,
+    "place": "Hiraoka"
+  },
+  "summary": "Japanese doctor and medical scientist (born 1962), born in Hiraoka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinya_Yamanaka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80917",
+    "https://en.wikipedia.org/wiki/Shinya_Yamanaka"
+  ],
+  "disputed": false
+}

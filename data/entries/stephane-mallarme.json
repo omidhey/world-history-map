@@ -1,0 +1,23 @@
+{
+  "id": "stephane-mallarme",
+  "wikidata": "Q767",
+  "name": "Stéphane Mallarmé",
+  "category": "writer",
+  "start": 1842,
+  "end": 1898,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French Symbolist poet (1842–1898), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Stéphane_Mallarmé"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q767",
+    "https://en.wikipedia.org/wiki/Stéphane_Mallarmé"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "louis-de-broglie",
+  "wikidata": "Q83331",
+  "name": "Louis de Broglie",
+  "category": "scientist",
+  "start": 1892,
+  "end": 1987,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.92,
+    "lon": 1.07,
+    "place": "Dieppe"
+  },
+  "summary": "Nobel laureate credited to pioneer the discovery of wave character of matter (1892–1987), born in Dieppe. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_de_Broglie"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83331",
+    "https://en.wikipedia.org/wiki/Louis_de_Broglie"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,127 @@
+{
+ "country": "SWZ",
+ "name": "eSwatini",
+ "area_km2": 18114,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.6558,
+    "carried": 1500
+   },
+   {
+    "name": "Zulu",
+    "subjecto": "Zulu",
+    "share": 0.3442
+   }
+  ],
+  "1914": [
+   {
+    "name": "Swaziland",
+    "subjecto": "Swaziland",
+    "share": 0.7481
+   },
+   {
+    "name": "South Africa",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.2519
+   }
+  ],
+  "1945": [
+   {
+    "name": "Swaziland",
+    "subjecto": "United Kingdom",
+    "share": 0.7481
+   },
+   {
+    "name": "South Africa",
+    "subjecto": "South Africa",
+    "share": 0.2519
+   }
+  ],
+  "2010": [
+   {
+    "name": "Swaziland",
+    "subjecto": "Swaziland",
+    "share": 0.7481
+   },
+   {
+    "name": "South Africa",
+    "subjecto": "South Africa",
+    "share": 0.2519
+   }
+  ]
+ }
+}

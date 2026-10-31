@@ -1,0 +1,22 @@
+{
+  "id": "dust-bowl",
+  "name": "Dust Bowl",
+  "category": "event",
+  "start": 1930,
+  "end": 1936,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.5,
+    "lon": -101.5,
+    "place": "Southern Great Plains, United States"
+  },
+  "summary": "Years of severe drought and dust storms on the southern Great Plains that stripped topsoil from farmland and displaced many farm families.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dust_Bowl"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dust_Bowl",
+    "Worster, Donald. Dust Bowl: The Southern Plains in the 1930s. Oxford University Press, 1979."
+  ],
+  "disputed": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zulu-kingdom",
+  "wikidata": "Q729768",
+  "name": "Zulu Kingdom",
+  "border_names": [
+    "Zulu"
+  ],
+  "type": "kingdom",
+  "start": 1816,
+  "end": 1897,
+  "date_precision": "year",
+  "summary": "Southern African kingdom built by Shaka, which fought the British in 1879 and was later absorbed into the colony of Natal.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zulu_Kingdom"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q729768",
+    "https://en.wikipedia.org/wiki/Zulu_Kingdom"
+  ],
+  "disputed": false
+}

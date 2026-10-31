@@ -1,0 +1,19 @@
+{
+  "id": "louis-xv",
+  "wikidata": "Q7738",
+  "name": "Louis XV",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-bourbon",
+  "start": 1715,
+  "end": 1774,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XV"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7738",
+    "https://en.wikipedia.org/wiki/Louis_XV"
+  ],
+  "disputed": false
+}

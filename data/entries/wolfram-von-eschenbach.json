@@ -1,0 +1,23 @@
+{
+  "id": "wolfram-von-eschenbach",
+  "wikidata": "Q18821",
+  "name": "Wolfram von Eschenbach",
+  "category": "writer",
+  "start": 1170,
+  "end": 1220,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.23,
+    "lon": 10.73,
+    "place": "Wolframs-Eschenbach"
+  },
+  "summary": "German knight and poet (1170–1220), born in Wolframs-Eschenbach. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfram_von_Eschenbach"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q18821",
+    "https://en.wikipedia.org/wiki/Wolfram_von_Eschenbach"
+  ],
+  "disputed": false
+}

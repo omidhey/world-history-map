@@ -1,0 +1,23 @@
+{
+  "id": "albert-einstein",
+  "wikidata": "Q937",
+  "name": "Albert Einstein",
+  "category": "scientist",
+  "start": 1879,
+  "end": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.4,
+    "lon": 9.99,
+    "place": "Ulm"
+  },
+  "summary": "German-born theoretical physicist (1879–1955), born in Ulm. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q937",
+    "https://en.wikipedia.org/wiki/Albert_Einstein"
+  ],
+  "disputed": false
+}

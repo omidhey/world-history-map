@@ -1,0 +1,23 @@
+{
+  "id": "evliya-celebi",
+  "wikidata": "Q202308",
+  "name": "Evliya Çelebi",
+  "category": "writer",
+  "start": 1611,
+  "end": 1682,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.96,
+    "place": "Istanbul"
+  },
+  "summary": "Turkish traveler and writer (1611–1682), born in Istanbul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Evliya_Çelebi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q202308",
+    "https://en.wikipedia.org/wiki/Evliya_Çelebi"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "empire-of-japan",
+  "wikidata": "Q188712",
+  "name": "Empire of Japan",
+  "border_names": [
+    "Empire of Japan"
+  ],
+  "type": "empire",
+  "start": 1868,
+  "end": 1947,
+  "date_precision": "year",
+  "capital": {
+    "lat": 35.68,
+    "lon": 139.69,
+    "place": "Tokyo"
+  },
+  "summary": "Japanese state from the Meiji Restoration to the end of the Second World War, which industrialised quickly and built an empire in Asia.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Empire_of_Japan"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188712",
+    "https://en.wikipedia.org/wiki/Empire_of_Japan"
+  ],
+  "disputed": false
+}

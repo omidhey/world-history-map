@@ -1,0 +1,23 @@
+{
+  "id": "gustav-kirchhoff",
+  "wikidata": "Q60052",
+  "name": "Gustav Kirchhoff",
+  "category": "scientist",
+  "start": 1824,
+  "end": 1887,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.71,
+    "lon": 20.51,
+    "place": "Königsberg"
+  },
+  "summary": "German physicist (1824–1887), born in Königsberg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q60052",
+    "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+  ],
+  "disputed": false
+}

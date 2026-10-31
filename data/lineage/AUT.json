@@ -1,0 +1,249 @@
+{
+ "country": "AUT",
+ "name": "Austria",
+ "area_km2": 85083,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9592
+   },
+   {
+    "name": "Únětice",
+    "subjecto": "Únětice",
+    "share": 0.0408
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.9994
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.9994,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0011,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.9994,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0006,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.796
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1159,
+    "carried": -1000
+   },
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.088
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.8597
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.105,
+    "carried": -1000
+   },
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.0352,
+    "carried": -1
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.5594
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.5466
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.0186
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.7958
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.1745
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0298
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.9692
+   },
+   {
+    "name": "Venice",
+    "subjecto": "Venice",
+    "share": 0.0296
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0012,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 0.9786
+   },
+   {
+    "name": "Bavaria",
+    "subjecto": "Bavaria",
+    "share": 0.0183
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0031,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.9481
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0331
+   },
+   {
+    "name": "Switzerland",
+    "subjecto": "Switzerland",
+    "share": 0.0188
+   }
+  ],
+  "1945": [
+   {
+    "name": "Austria",
+    "subjecto": "Austria",
+    "share": 0.9196
+   },
+   {
+    "name": "Germany (USA)",
+    "subjecto": "USA",
+    "share": 0.0317
+   },
+   {
+    "name": "Switzerland",
+    "subjecto": "Switzerland",
+    "share": 0.0188
+   },
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.0121
+   },
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.012
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0058,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Austria",
+    "subjecto": "Austria",
+    "share": 0.9407
+   },
+   {
+    "name": "Germany",
+    "subjecto": "Germany",
+    "share": 0.0331
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0262,
+    "other": true
+   }
+  ]
+ }
+}

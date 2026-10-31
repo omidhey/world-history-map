@@ -1,0 +1,22 @@
+{
+  "id": "les-fleurs-du-mal",
+  "wikidata": "Q216578",
+  "name": "Les Fleurs du mal",
+  "category": "work",
+  "start": 1857,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.85,
+    "lon": 2.33,
+    "place": "former 11th arrondissement of Paris"
+  },
+  "summary": "Volume of French poetry by Charles Baudelaire, associated with former 11th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Les_Fleurs_du_mal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q216578",
+    "https://en.wikipedia.org/wiki/Les_Fleurs_du_mal"
+  ],
+  "disputed": false
+}

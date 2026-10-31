@@ -1,0 +1,26 @@
+{
+  "id": "han-dynasty",
+  "wikidata": "Q7209",
+  "name": "Han dynasty",
+  "border_names": [
+    "Han"
+  ],
+  "type": "empire",
+  "start": -202,
+  "end": 220,
+  "date_precision": "year",
+  "capital": {
+    "lat": 34.27,
+    "lon": 108.95,
+    "place": "Chang'an"
+  },
+  "summary": "Chinese empire that followed Qin, which shaped Chinese administration and identity and opened the Silk Road trade to Central Asia.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7209",
+    "https://en.wikipedia.org/wiki/Han_dynasty"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "germinal",
+  "wikidata": "Q137869",
+  "name": "Germinal",
+  "category": "work",
+  "start": 1885,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.87,
+    "lon": 2.34,
+    "place": "rue Saint-Joseph"
+  },
+  "summary": "Novel by Émile Zola, associated with rue Saint-Joseph. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Germinal_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q137869",
+    "https://en.wikipedia.org/wiki/Germinal_(novel)"
+  ],
+  "disputed": false
+}

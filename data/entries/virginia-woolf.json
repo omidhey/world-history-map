@@ -1,0 +1,23 @@
+{
+  "id": "virginia-woolf",
+  "wikidata": "Q40909",
+  "name": "Virginia Woolf",
+  "category": "writer",
+  "start": 1882,
+  "end": 1941,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "English modernist writer (1882–1941), born in London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Woolf"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40909",
+    "https://en.wikipedia.org/wiki/Virginia_Woolf"
+  ],
+  "disputed": false
+}

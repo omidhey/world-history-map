@@ -1,0 +1,22 @@
+{
+  "id": "wang-zhenyi",
+  "wikidata": "Q7967775",
+  "name": "Wang Zhenyi",
+  "category": "scientist",
+  "start": 1924,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.94,
+    "lon": 119.84,
+    "place": "Xinghua"
+  },
+  "summary": "Chinese hematologist, born in Xinghua. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Zhenyi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7967775",
+    "https://en.wikipedia.org/wiki/Wang_Zhenyi"
+  ],
+  "disputed": false
+}

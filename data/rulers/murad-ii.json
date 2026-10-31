@@ -1,0 +1,19 @@
+{
+  "id": "murad-ii",
+  "wikidata": "Q131394",
+  "name": "Murad II",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1421,
+  "end": 1451,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Murad_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131394",
+    "https://en.wikipedia.org/wiki/Murad_II"
+  ],
+  "disputed": false
+}

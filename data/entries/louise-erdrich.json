@@ -1,0 +1,22 @@
+{
+  "id": "louise-erdrich",
+  "wikidata": "Q442679",
+  "name": "Louise Erdrich",
+  "category": "writer",
+  "start": 1954,
+  "date_precision": "day",
+  "location": {
+    "lat": 45.98,
+    "lon": -94.36,
+    "place": "Little Falls"
+  },
+  "summary": "American-Ojibwe poet, novelist, and children's writer (born 1954), born in Little Falls. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louise_Erdrich"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q442679",
+    "https://en.wikipedia.org/wiki/Louise_Erdrich"
+  ],
+  "disputed": false
+}

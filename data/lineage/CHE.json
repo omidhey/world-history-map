@@ -1,0 +1,220 @@
+{
+ "country": "CHE",
+ "name": "Switzerland",
+ "area_km2": 46172,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Burgandy",
+    "subjecto": "Burgandy",
+    "share": 0.5741
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.4259
+   }
+  ],
+  "1500": [
+   {
+    "name": "Swiss Confederation",
+    "subjecto": "Swiss Confederation",
+    "share": 0.5124
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.4746
+   },
+   {
+    "name": "Venice",
+    "subjecto": "Venice",
+    "share": 0.0164
+   }
+  ],
+  "1800": [
+   {
+    "name": "Helvetic Republic",
+    "subjecto": "Helvetic Republic",
+    "share": 0.7946
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.111
+   },
+   {
+    "name": "Kingdom of Sardinia",
+    "subjecto": "France",
+    "share": 0.0571
+   },
+   {
+    "name": "Lombardy",
+    "subjecto": "Lombardy",
+    "share": 0.0187
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.017,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Switzerland",
+    "subjecto": "Switzerland",
+    "share": 0.8078
+   },
+   {
+    "name": "Kingdom of Italy",
+    "subjecto": "Italy",
+    "share": 0.0867
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0801
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0167
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0012,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Switzerland",
+    "subjecto": "Switzerland",
+    "share": 0.8255
+   },
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.0874
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.06
+   },
+   {
+    "name": "Germany (France)",
+    "subjecto": "France",
+    "share": 0.0114
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0005,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Switzerland",
+    "subjecto": "Switzerland",
+    "share": 0.7772,
+    "carried": 1945
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.0615
+   },
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.0601
+   },
+   {
+    "name": "Italy",
+    "subjecto": "Italy",
+    "share": 0.0443,
+    "carried": 1945
+   },
+   {
+    "name": "France",
+    "subjecto": "France",
+    "share": 0.017,
+    "carried": 1945
+   },
+   {
+    "name": "Germany",
+    "subjecto": "Germany",
+    "share": 0.013
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0135,
+    "other": true
+   }
+  ]
+ }
+}

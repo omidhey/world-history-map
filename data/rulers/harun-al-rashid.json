@@ -1,0 +1,19 @@
+{
+  "id": "harun-al-rashid",
+  "wikidata": "Q131002",
+  "name": "Harun al-Rashid",
+  "polity": "abbasid-caliphate",
+  "title": "Caliph",
+  "dynasty": "abbasid-dynasty",
+  "start": 786,
+  "end": 809,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Harun_al-Rashid"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q131002",
+    "https://en.wikipedia.org/wiki/Harun_al-Rashid"
+  ],
+  "disputed": false
+}

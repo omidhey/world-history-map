@@ -1,0 +1,23 @@
+{
+  "id": "su-song",
+  "wikidata": "Q1265657",
+  "name": "Su Song",
+  "category": "scientist",
+  "start": 1020,
+  "end": 1101,
+  "date_precision": "year",
+  "location": {
+    "lat": 24.91,
+    "lon": 118.59,
+    "place": "Quanzhou"
+  },
+  "summary": "Chinese polymath and statesman (1020–1101), born in Quanzhou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Su_Song"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1265657",
+    "https://en.wikipedia.org/wiki/Su_Song"
+  ],
+  "disputed": false
+}

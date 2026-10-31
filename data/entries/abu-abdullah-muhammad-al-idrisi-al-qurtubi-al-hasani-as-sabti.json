@@ -1,0 +1,41 @@
+{
+  "id": "abu-abdullah-muhammad-al-idrisi-al-qurtubi-al-hasani-as-sabti",
+  "wikidata": "Q173441",
+  "name": "Abu Abdullah Muhammad al-Idrisi al-Qurtubi al-Hasani as-Sabti",
+  "category": "scientist",
+  "start": 1110,
+  "end": 1165,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.89,
+    "lon": -5.3,
+    "place": "Ceuta"
+  },
+  "summary": "Andalusian geographer (1100–1165), born in Ceuta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_al-Idrisi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q173441",
+    "https://en.wikipedia.org/wiki/Muhammad_al-Idrisi"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 1165,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q173441"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1166,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q173441"
+      ]
+    }
+  ]
+}

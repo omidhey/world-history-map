@@ -1,0 +1,23 @@
+{
+  "id": "ghassan-kanafani",
+  "wikidata": "Q369696",
+  "name": "Ghassan Kanafani",
+  "category": "writer",
+  "start": 1936,
+  "end": 1972,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.93,
+    "lon": 35.08,
+    "place": "Acre"
+  },
+  "summary": "Palestinian writer (1936–1972), born in Acre. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghassan_Kanafani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q369696",
+    "https://en.wikipedia.org/wiki/Ghassan_Kanafani"
+  ],
+  "disputed": false
+}

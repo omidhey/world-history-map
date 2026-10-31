@@ -1,0 +1,23 @@
+{
+  "id": "wernher-von-braun",
+  "wikidata": "Q57384",
+  "name": "Wernher von Braun",
+  "category": "scientist",
+  "start": 1912,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.15,
+    "lon": 17.27,
+    "place": "Wyrzysk"
+  },
+  "summary": "German and later American aerospace engineer and space architect (1912–1977), born in Wyrzysk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wernher_von_Braun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q57384",
+    "https://en.wikipedia.org/wiki/Wernher_von_Braun"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "walther-von-der-vogelweide",
+  "wikidata": "Q44385",
+  "name": "Walther von der Vogelweide",
+  "category": "writer",
+  "start": 1170,
+  "end": 1230,
+  "date_precision": "year",
+  "location": {
+    "lat": 48,
+    "lon": 14,
+    "place": "Austria"
+  },
+  "summary": "German minstrel singer (c. 1170 – c. 1230), born in Austria. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Walther_von_der_Vogelweide"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44385",
+    "https://en.wikipedia.org/wiki/Walther_von_der_Vogelweide"
+  ],
+  "disputed": false
+}

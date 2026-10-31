@@ -1,0 +1,170 @@
+{
+ "country": "IRN",
+ "name": "Iran",
+ "area_km2": 1617723,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Iran",
+  "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+  "https://en.wikipedia.org/wiki/Sasanian_Empire"
+ ],
+ "notes": {
+  "-500": "Heart of the Achaemenid Empire.",
+  "-323": "Conquered by Alexander 330-329 BCE.",
+  "-1": "Parthian (Arsacid) rule.",
+  "400": "Sasanian Empire; the snapshot labels it Persia.",
+  "800": "Abbasid caliphate after the Arab conquest.",
+  "1200": "Buyid and Ghaznavid dynasties.",
+  "1500": "Turkoman and Timurid successor states; the Safavids took power in 1501."
+ },
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Elam",
+    "subjecto": "Elam",
+    "share": 0.173
+   },
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.0463
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Elam",
+    "subjecto": "Elam",
+    "share": 0.173
+   },
+   {
+    "name": "Ur",
+    "subjecto": "Ur",
+    "share": 0.0475
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.45
+   },
+   {
+    "name": "Elam",
+    "subjecto": "Elam",
+    "share": 0.25
+   },
+   {
+    "name": "state societies and Aramaean kingdoms",
+    "subjecto": "state societies and Aramaean kingdoms",
+    "share": 0.2009
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9897
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.9139
+   },
+   {
+    "name": "Atropatene",
+    "subjecto": "Atropatene",
+    "share": 0.0768
+   }
+  ],
+  "-1": [
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.9027
+   },
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.0776
+   }
+  ],
+  "400": [
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.9079
+   },
+   {
+    "name": "Suren Kingdom",
+    "subjecto": "Suren Kingdom",
+    "share": 0.0776
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.9777
+   }
+  ],
+  "1200": [
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.83
+   },
+   {
+    "name": "Ghaznavid Emirate",
+    "subjecto": "Ghaznavid Emirate",
+    "share": 0.1315
+   }
+  ],
+  "1500": [
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.6459
+   },
+   {
+    "name": "Timurid Emirates",
+    "subjecto": "Timurid Emirates",
+    "share": 0.3276
+   }
+  ],
+  "1800": [
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.911
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0516
+   }
+  ],
+  "1914": [
+   {
+    "name": "Persia",
+    "subjecto": "Persia",
+    "share": 0.9799
+   }
+  ],
+  "1945": [
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.9799
+   }
+  ],
+  "2010": [
+   {
+    "name": "Iran",
+    "subjecto": "Iran",
+    "share": 0.9804
+   }
+  ]
+ }
+}

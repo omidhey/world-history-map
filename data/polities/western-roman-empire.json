@@ -1,0 +1,26 @@
+{
+  "id": "western-roman-empire",
+  "wikidata": "Q42834",
+  "name": "Western Roman Empire",
+  "border_names": [
+    "Western Roman Empire"
+  ],
+  "type": "empire",
+  "start": 395,
+  "end": 476,
+  "date_precision": "year",
+  "capital": {
+    "lat": 44.42,
+    "lon": 12.2,
+    "place": "Ravenna"
+  },
+  "summary": "The western half of the Roman Empire after the division of 395, which lost most of its provinces to Germanic kingdoms before its last emperor was deposed.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_Roman_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42834",
+    "https://en.wikipedia.org/wiki/Western_Roman_Empire"
+  ],
+  "disputed": false
+}

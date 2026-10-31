@@ -1,0 +1,1034 @@
+[
+ {
+  "tradition": "Ancient Near East and Egypt",
+  "overview": "https://en.wikipedia.org/wiki/Ancient_Near_Eastern_literature",
+  "people": [
+   {
+    "title": "Epic of Gilgamesh"
+   },
+   {
+    "title": "Code of Hammurabi"
+   },
+   {
+    "title": "Book of the Dead"
+   },
+   {
+    "title": "Enûma Eliš"
+   },
+   {
+    "title": "Tale of Sinuhe"
+   },
+   {
+    "title": "Hymn to the Aten"
+   },
+   {
+    "title": "Book of Job"
+   },
+   {
+    "title": "Book of Psalms"
+   },
+   {
+    "title": "Torah"
+   },
+   {
+    "title": "Book of Genesis"
+   },
+   {
+    "title": "Song of Songs"
+   }
+  ]
+ },
+ {
+  "tradition": "Greek and Roman",
+  "overview": "https://en.wikipedia.org/wiki/Ancient_Greek_literature",
+  "people": [
+   {
+    "title": "Iliad"
+   },
+   {
+    "title": "Odyssey"
+   },
+   {
+    "title": "Theogony"
+   },
+   {
+    "title": "Works and Days"
+   },
+   {
+    "title": "Oresteia"
+   },
+   {
+    "title": "Oedipus Rex"
+   },
+   {
+    "title": "Antigone (Sophocles play)"
+   },
+   {
+    "title": "Medea (play)"
+   },
+   {
+    "title": "The Bacchae"
+   },
+   {
+    "title": "Lysistrata"
+   },
+   {
+    "title": "Histories (Herodotus)"
+   },
+   {
+    "title": "History of the Peloponnesian War"
+   },
+   {
+    "title": "Republic (Plato)"
+   },
+   {
+    "title": "Symposium (Plato)"
+   },
+   {
+    "title": "Nicomachean Ethics"
+   },
+   {
+    "title": "Poetics (Aristotle)"
+   },
+   {
+    "title": "Euclid's Elements"
+   },
+   {
+    "title": "Argonautica"
+   },
+   {
+    "title": "Aeneid"
+   },
+   {
+    "title": "Metamorphoses"
+   },
+   {
+    "title": "Odes (Horace)"
+   },
+   {
+    "title": "De rerum natura"
+   },
+   {
+    "title": "Georgics"
+   },
+   {
+    "title": "Annals (Tacitus)"
+   },
+   {
+    "title": "Parallel Lives"
+   },
+   {
+    "title": "The Golden Ass"
+   },
+   {
+    "title": "Satyricon"
+   },
+   {
+    "title": "Confessions (Augustine)"
+   },
+   {
+    "title": "The City of God"
+   },
+   {
+    "title": "The Consolation of Philosophy"
+   },
+   {
+    "title": "Almagest"
+   },
+   {
+    "title": "Meditations"
+   }
+  ]
+ },
+ {
+  "tradition": "Chinese",
+  "overview": "https://en.wikipedia.org/wiki/Chinese_literature",
+  "people": [
+   {
+    "title": "Analects"
+   },
+   {
+    "title": "Tao Te Ching"
+   },
+   {
+    "title": "Zhuangzi (book)"
+   },
+   {
+    "title": "Mencius (book)"
+   },
+   {
+    "title": "The Art of War"
+   },
+   {
+    "title": "Records of the Grand Historian"
+   },
+   {
+    "title": "Classic of Poetry"
+   },
+   {
+    "title": "I Ching"
+   },
+   {
+    "title": "Classic of Mountains and Seas"
+   },
+   {
+    "title": "Romance of the Three Kingdoms"
+   },
+   {
+    "title": "Water Margin"
+   },
+   {
+    "title": "Journey to the West"
+   },
+   {
+    "title": "Dream of the Red Chamber"
+   },
+   {
+    "title": "Jin Ping Mei"
+   },
+   {
+    "title": "Strange Tales from a Chinese Studio"
+   },
+   {
+    "title": "The Scholars"
+   },
+   {
+    "title": "The Peony Pavilion"
+   },
+   {
+    "title": "Three Hundred Tang Poems"
+   },
+   {
+    "title": "Diary of a Madman"
+   },
+   {
+    "title": "Spring and Autumn Annals"
+   },
+   {
+    "title": "Book of Han"
+   },
+   {
+    "title": "Zizhi Tongjian"
+   },
+   {
+    "title": "Compendium of Materia Medica"
+   },
+   {
+    "title": "The Nine Chapters on the Mathematical Art"
+   },
+   {
+    "title": "Dream Pool Essays"
+   },
+   {
+    "title": "Tiangong Kaiwu"
+   }
+  ]
+ },
+ {
+  "tradition": "Indian",
+  "overview": "https://en.wikipedia.org/wiki/Indian_literature",
+  "people": [
+   {
+    "title": "Rigveda"
+   },
+   {
+    "title": "Upanishads"
+   },
+   {
+    "title": "Mahabharata"
+   },
+   {
+    "title": "Ramayana"
+   },
+   {
+    "title": "Bhagavad Gita"
+   },
+   {
+    "title": "Arthashastra"
+   },
+   {
+    "title": "Manusmriti"
+   },
+   {
+    "title": "Kama Sutra"
+   },
+   {
+    "title": "Panchatantra"
+   },
+   {
+    "title": "Abhijñānaśākuntalam"
+   },
+   {
+    "title": "Meghaduta"
+   },
+   {
+    "title": "Yoga Sutras of Patanjali"
+   },
+   {
+    "title": "Aryabhatiya"
+   },
+   {
+    "title": "Tirukkural"
+   },
+   {
+    "title": "Silappatikaram"
+   },
+   {
+    "title": "Gita Govinda"
+   },
+   {
+    "title": "Ramcharitmanas"
+   },
+   {
+    "title": "Gitanjali"
+   },
+   {
+    "title": "Godaan"
+   },
+   {
+    "title": "Brāhmasphuṭasiddhānta"
+   },
+   {
+    "title": "Sushruta Samhita"
+   },
+   {
+    "title": "Charaka Samhita"
+   },
+   {
+    "title": "Jataka tales"
+   },
+   {
+    "title": "Dhammapada"
+   },
+   {
+    "title": "Lotus Sutra"
+   },
+   {
+    "title": "Brahma Sutras"
+   },
+   {
+    "title": "Kathasaritsagara"
+   },
+   {
+    "title": "Mahavamsa"
+   }
+  ]
+ },
+ {
+  "tradition": "Persian, Arabic and Turkish",
+  "overview": "https://en.wikipedia.org/wiki/Islamic_literature",
+  "people": [
+   {
+    "title": "Quran"
+   },
+   {
+    "title": "Shahnameh"
+   },
+   {
+    "title": "Masnavi"
+   },
+   {
+    "title": "Divan of Hafez"
+   },
+   {
+    "title": "Gulistan (Saadi)"
+   },
+   {
+    "title": "Bustan (Saadi)"
+   },
+   {
+    "title": "The Conference of the Birds"
+   },
+   {
+    "title": "Rubaiyat of Omar Khayyam"
+   },
+   {
+    "title": "Khamsa of Nizami"
+   },
+   {
+    "title": "One Thousand and One Nights"
+   },
+   {
+    "title": "Kalila and Dimna"
+   },
+   {
+    "title": "Muqaddimah"
+   },
+   {
+    "title": "The Book of Healing"
+   },
+   {
+    "title": "The Canon of Medicine"
+   },
+   {
+    "title": "Book of Optics"
+   },
+   {
+    "title": "Ibn Battuta's Rihla"
+   },
+   {
+    "title": "Maqamat al-Hariri"
+   },
+   {
+    "title": "Hayy ibn Yaqdhan"
+   },
+   {
+    "title": "The Incoherence of the Philosophers"
+   },
+   {
+    "title": "Ihya Ulum al-Din"
+   },
+   {
+    "title": "Sahih al-Bukhari"
+   },
+   {
+    "title": "Tabula Rogeriana"
+   },
+   {
+    "title": "Book of Dede Korkut"
+   },
+   {
+    "title": "Seyahatname"
+   },
+   {
+    "title": "Mu'allaqat"
+   },
+   {
+    "title": "Epic of Manas"
+   },
+   {
+    "title": "Book of Fixed Stars"
+   }
+  ]
+ },
+ {
+  "tradition": "Japanese and Korean",
+  "overview": "https://en.wikipedia.org/wiki/Japanese_literature",
+  "people": [
+   {
+    "title": "Kojiki"
+   },
+   {
+    "title": "Nihon Shoki"
+   },
+   {
+    "title": "Man'yōshū"
+   },
+   {
+    "title": "The Tale of Genji"
+   },
+   {
+    "title": "The Pillow Book"
+   },
+   {
+    "title": "The Tale of the Heike"
+   },
+   {
+    "title": "Hōjōki"
+   },
+   {
+    "title": "Tsurezuregusa"
+   },
+   {
+    "title": "The Tale of the Bamboo Cutter"
+   },
+   {
+    "title": "Kokin Wakashū"
+   },
+   {
+    "title": "The Narrow Road to the Deep North"
+   },
+   {
+    "title": "Hyakunin Isshu"
+   },
+   {
+    "title": "The Life of an Amorous Man"
+   },
+   {
+    "title": "Ugetsu Monogatari"
+   },
+   {
+    "title": "I Am a Cat"
+   },
+   {
+    "title": "Kokoro"
+   },
+   {
+    "title": "Rashōmon (short story)"
+   },
+   {
+    "title": "Snow Country"
+   },
+   {
+    "title": "The Temple of the Golden Pavilion"
+   },
+   {
+    "title": "Samguk sagi"
+   },
+   {
+    "title": "Samguk yusa"
+   },
+   {
+    "title": "Chunhyangjeon"
+   },
+   {
+    "title": "The Cloud Dream of the Nine"
+   },
+   {
+    "title": "Hunminjeongeum"
+   },
+   {
+    "title": "Donguibogam"
+   },
+   {
+    "title": "Hong Gildong jeon"
+   }
+  ]
+ },
+ {
+  "tradition": "African and African diaspora",
+  "overview": "https://en.wikipedia.org/wiki/African_literature",
+  "people": [
+   {
+    "title": "Things Fall Apart"
+   },
+   {
+    "title": "Epic of Sundiata"
+   },
+   {
+    "title": "Death and the King's Horseman"
+   },
+   {
+    "title": "Season of Migration to the North"
+   },
+   {
+    "title": "Half of a Yellow Sun"
+   },
+   {
+    "title": "So Long a Letter"
+   },
+   {
+    "title": "Petals of Blood"
+   },
+   {
+    "title": "A Grain of Wheat"
+   },
+   {
+    "title": "Weep Not, Child"
+   },
+   {
+    "title": "Cry, the Beloved Country"
+   },
+   {
+    "title": "Disgrace (novel)"
+   },
+   {
+    "title": "The Palm-Wine Drinkard"
+   },
+   {
+    "title": "Nervous Conditions"
+   },
+   {
+    "title": "Purple Hibiscus"
+   },
+   {
+    "title": "Americanah"
+   },
+   {
+    "title": "The Interesting Narrative of the Life of Olaudah Equiano"
+   },
+   {
+    "title": "Narrative of the Life of Frederick Douglass, an American Slave"
+   },
+   {
+    "title": "Their Eyes Were Watching God"
+   },
+   {
+    "title": "Beloved (novel)"
+   },
+   {
+    "title": "The Souls of Black Folk"
+   },
+   {
+    "title": "Invisible Man"
+   },
+   {
+    "title": "Native Son (novel)"
+   },
+   {
+    "title": "Notebook of a Return to the Native Land"
+   },
+   {
+    "title": "Palace Walk"
+   },
+   {
+    "title": "Children of Gebelawi"
+   },
+   {
+    "title": "Kebra Nagast"
+   },
+   {
+    "title": "Mhudi"
+   },
+   {
+    "title": "The Famished Road"
+   }
+  ]
+ },
+ {
+  "tradition": "Latin American",
+  "overview": "https://en.wikipedia.org/wiki/Latin_American_literature",
+  "people": [
+   {
+    "title": "One Hundred Years of Solitude"
+   },
+   {
+    "title": "Pedro Páramo"
+   },
+   {
+    "title": "Ficciones"
+   },
+   {
+    "title": "The Aleph (short story collection)"
+   },
+   {
+    "title": "Hopscotch (novel)"
+   },
+   {
+    "title": "The Labyrinth of Solitude"
+   },
+   {
+    "title": "Canto General"
+   },
+   {
+    "title": "Twenty Love Poems and a Song of Despair"
+   },
+   {
+    "title": "Don Segundo Sombra"
+   },
+   {
+    "title": "Martín Fierro"
+   },
+   {
+    "title": "Facundo"
+   },
+   {
+    "title": "Dom Casmurro"
+   },
+   {
+    "title": "The Posthumous Memoirs of Brás Cubas"
+   },
+   {
+    "title": "Grande Sertão: Veredas"
+   },
+   {
+    "title": "The Hour of the Star"
+   },
+   {
+    "title": "The House of the Spirits"
+   },
+   {
+    "title": "The War of the End of the World"
+   },
+   {
+    "title": "The Death of Artemio Cruz"
+   },
+   {
+    "title": "Popol Vuh"
+   },
+   {
+    "title": "Royal Commentaries of the Incas"
+   },
+   {
+    "title": "The Broken Spears"
+   },
+   {
+    "title": "Florentine Codex"
+   },
+   {
+    "title": "Nueva corónica y buen gobierno"
+   },
+   {
+    "title": "Chilam Balam"
+   },
+   {
+    "title": "Rabinal Achí"
+   },
+   {
+    "title": "The Feast of the Goat"
+   },
+   {
+    "title": "Love in the Time of Cholera"
+   }
+  ]
+ },
+ {
+  "tradition": "Medieval European",
+  "overview": "https://en.wikipedia.org/wiki/Medieval_literature",
+  "people": [
+   {
+    "title": "Beowulf"
+   },
+   {
+    "title": "Divine Comedy"
+   },
+   {
+    "title": "The Canterbury Tales"
+   },
+   {
+    "title": "Decameron"
+   },
+   {
+    "title": "Song of Roland"
+   },
+   {
+    "title": "Nibelungenlied"
+   },
+   {
+    "title": "Poetic Edda"
+   },
+   {
+    "title": "Prose Edda"
+   },
+   {
+    "title": "Cantar de mio Cid"
+   },
+   {
+    "title": "Le Morte d'Arthur"
+   },
+   {
+    "title": "Sir Gawain and the Green Knight"
+   },
+   {
+    "title": "Piers Plowman"
+   },
+   {
+    "title": "The Book of the City of Ladies"
+   },
+   {
+    "title": "Roman de la Rose"
+   },
+   {
+    "title": "Tristan and Iseult"
+   },
+   {
+    "title": "Parzival"
+   },
+   {
+    "title": "The Travels of Marco Polo"
+   },
+   {
+    "title": "The Book of Margery Kempe"
+   },
+   {
+    "title": "Revelations of Divine Love"
+   },
+   {
+    "title": "Canzoniere (Petrarch)"
+   },
+   {
+    "title": "Tale of Igor's Campaign"
+   },
+   {
+    "title": "The Knight in the Panther's Skin"
+   },
+   {
+    "title": "Primary Chronicle"
+   },
+   {
+    "title": "Domesday Book"
+   },
+   {
+    "title": "Magna Carta"
+   },
+   {
+    "title": "Summa Theologica"
+   },
+   {
+    "title": "Carmina Burana"
+   }
+  ]
+ },
+ {
+  "tradition": "Early modern European",
+  "overview": "https://en.wikipedia.org/wiki/Renaissance_literature",
+  "people": [
+   {
+    "title": "Hamlet"
+   },
+   {
+    "title": "King Lear"
+   },
+   {
+    "title": "Macbeth"
+   },
+   {
+    "title": "Othello"
+   },
+   {
+    "title": "Romeo and Juliet"
+   },
+   {
+    "title": "A Midsummer Night's Dream"
+   },
+   {
+    "title": "The Tempest"
+   },
+   {
+    "title": "Don Quixote"
+   },
+   {
+    "title": "Paradise Lost"
+   },
+   {
+    "title": "The Faerie Queene"
+   },
+   {
+    "title": "Doctor Faustus (play)"
+   },
+   {
+    "title": "Gargantua and Pantagruel"
+   },
+   {
+    "title": "Essays (Montaigne)"
+   },
+   {
+    "title": "The Prince"
+   },
+   {
+    "title": "Utopia (book)"
+   },
+   {
+    "title": "In Praise of Folly"
+   },
+   {
+    "title": "Os Lusíadas"
+   },
+   {
+    "title": "Tartuffe"
+   },
+   {
+    "title": "Phèdre"
+   },
+   {
+    "title": "Life Is a Dream"
+   },
+   {
+    "title": "Orlando Furioso"
+   },
+   {
+    "title": "Jerusalem Delivered"
+   },
+   {
+    "title": "Novum Organum"
+   },
+   {
+    "title": "Leviathan (Hobbes book)"
+   },
+   {
+    "title": "The Pilgrim's Progress"
+   },
+   {
+    "title": "Robinson Crusoe"
+   },
+   {
+    "title": "Gulliver's Travels"
+   },
+   {
+    "title": "Tom Jones"
+   }
+  ]
+ },
+ {
+  "tradition": "Nineteenth century",
+  "overview": "https://en.wikipedia.org/wiki/19th-century_literature",
+  "people": [
+   {
+    "title": "Pride and Prejudice"
+   },
+   {
+    "title": "Emma (novel)"
+   },
+   {
+    "title": "Frankenstein"
+   },
+   {
+    "title": "Jane Eyre"
+   },
+   {
+    "title": "Wuthering Heights"
+   },
+   {
+    "title": "Great Expectations"
+   },
+   {
+    "title": "Bleak House"
+   },
+   {
+    "title": "Middlemarch"
+   },
+   {
+    "title": "Vanity Fair (novel)"
+   },
+   {
+    "title": "Tess of the d'Urbervilles"
+   },
+   {
+    "title": "Les Misérables"
+   },
+   {
+    "title": "The Hunchback of Notre-Dame"
+   },
+   {
+    "title": "Madame Bovary"
+   },
+   {
+    "title": "Germinal (novel)"
+   },
+   {
+    "title": "Père Goriot"
+   },
+   {
+    "title": "The Count of Monte Cristo"
+   },
+   {
+    "title": "The Red and the Black"
+   },
+   {
+    "title": "Les Fleurs du mal"
+   },
+   {
+    "title": "War and Peace"
+   },
+   {
+    "title": "Anna Karenina"
+   },
+   {
+    "title": "Crime and Punishment"
+   },
+   {
+    "title": "The Brothers Karamazov"
+   },
+   {
+    "title": "Dead Souls"
+   },
+   {
+    "title": "Fathers and Sons (novel)"
+   },
+   {
+    "title": "Eugene Onegin"
+   },
+   {
+    "title": "A Hero of Our Time"
+   },
+   {
+    "title": "Moby-Dick"
+   },
+   {
+    "title": "Leaves of Grass"
+   },
+   {
+    "title": "Walden"
+   },
+   {
+    "title": "The Scarlet Letter"
+   }
+  ]
+ },
+ {
+  "tradition": "Twentieth century",
+  "overview": "https://en.wikipedia.org/wiki/20th-century_literature",
+  "people": [
+   {
+    "title": "Ulysses (novel)"
+   },
+   {
+    "title": "Mrs Dalloway"
+   },
+   {
+    "title": "To the Lighthouse"
+   },
+   {
+    "title": "In Search of Lost Time"
+   },
+   {
+    "title": "The Trial"
+   },
+   {
+    "title": "The Metamorphosis"
+   },
+   {
+    "title": "The Waste Land"
+   },
+   {
+    "title": "Nineteen Eighty-Four"
+   },
+   {
+    "title": "Animal Farm"
+   },
+   {
+    "title": "Brave New World"
+   },
+   {
+    "title": "The Great Gatsby"
+   },
+   {
+    "title": "The Sun Also Rises"
+   },
+   {
+    "title": "The Old Man and the Sea"
+   },
+   {
+    "title": "The Sound and the Fury"
+   },
+   {
+    "title": "The Grapes of Wrath"
+   },
+   {
+    "title": "To Kill a Mockingbird"
+   },
+   {
+    "title": "Catch-22"
+   },
+   {
+    "title": "The Catcher in the Rye"
+   },
+   {
+    "title": "Lolita"
+   },
+   {
+    "title": "Doctor Zhivago"
+   },
+   {
+    "title": "The Master and Margarita"
+   },
+   {
+    "title": "The Gulag Archipelago"
+   },
+   {
+    "title": "One Day in the Life of Ivan Denisovich"
+   },
+   {
+    "title": "The Magic Mountain"
+   },
+   {
+    "title": "Steppenwolf (novel)"
+   },
+   {
+    "title": "The Stranger (Camus novel)"
+   },
+   {
+    "title": "Nausea (novel)"
+   },
+   {
+    "title": "The Second Sex"
+   },
+   {
+    "title": "Waiting for Godot"
+   },
+   {
+    "title": "The Name of the Rose"
+   }
+  ]
+ }
+]

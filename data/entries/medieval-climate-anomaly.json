@@ -1,0 +1,22 @@
+{
+  "id": "medieval-climate-anomaly",
+  "name": "Medieval Climate Anomaly",
+  "category": "event",
+  "start": 950,
+  "end": 1250,
+  "date_precision": "century",
+  "location": {
+    "lat": 52.0,
+    "lon": 0.0,
+    "place": "North Atlantic region"
+  },
+  "summary": "Interval of relatively warm conditions in parts of the North Atlantic region. Reconstructions show its timing was not the same everywhere.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Medieval_Warm_Period"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Medieval_Warm_Period",
+    "https://doi.org/10.1038/s41586-019-1401-2"
+  ],
+  "disputed": false
+}

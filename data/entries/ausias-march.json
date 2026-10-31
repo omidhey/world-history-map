@@ -1,0 +1,23 @@
+{
+  "id": "ausias-march",
+  "wikidata": "Q465675",
+  "name": "Ausiàs March",
+  "category": "writer",
+  "start": 1400,
+  "end": 1459,
+  "date_precision": "year",
+  "location": {
+    "lat": 38.93,
+    "lon": -0.19,
+    "place": "Beniarjó"
+  },
+  "summary": "Valencian poet and knight, born in Beniarjó. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ausiàs_March"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q465675",
+    "https://en.wikipedia.org/wiki/Ausiàs_March"
+  ],
+  "disputed": false
+}

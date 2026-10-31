@@ -1,0 +1,19 @@
+{
+  "id": "akhenaten",
+  "wikidata": "Q81794",
+  "name": "Akhenaten",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "eighteenth-dynasty-of-egypt",
+  "start": -1353,
+  "end": -1336,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Akhenaten"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81794",
+    "https://en.wikipedia.org/wiki/Akhenaten"
+  ],
+  "disputed": false
+}

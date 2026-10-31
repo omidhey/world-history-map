@@ -1,0 +1,22 @@
+{
+  "id": "leviathan",
+  "wikidata": "Q193034",
+  "name": "Leviathan",
+  "category": "work",
+  "start": 1651,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.59,
+    "lon": -2.1,
+    "place": "Westport"
+  },
+  "summary": "Book by Thomas Hobbes, associated with Westport. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193034",
+    "https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)"
+  ],
+  "disputed": false
+}

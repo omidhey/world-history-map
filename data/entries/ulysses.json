@@ -1,0 +1,22 @@
+{
+  "id": "ulysses",
+  "wikidata": "Q6511",
+  "name": "Ulysses",
+  "category": "work",
+  "start": 1922,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.31,
+    "lon": -6.27,
+    "place": "Rathgar"
+  },
+  "summary": "1922 novel by James Joyce, associated with Rathgar. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6511",
+    "https://en.wikipedia.org/wiki/Ulysses_(novel)"
+  ],
+  "disputed": false
+}

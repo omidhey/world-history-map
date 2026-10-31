@@ -1,0 +1,23 @@
+{
+  "id": "ueda-akinari",
+  "wikidata": "Q714175",
+  "name": "Ueda Akinari",
+  "category": "writer",
+  "start": 1734,
+  "end": 1809,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.69,
+    "lon": 135.5,
+    "place": "Ōsaka"
+  },
+  "summary": "Japanese writer (1734–1809), born in Ōsaka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ueda_Akinari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q714175",
+    "https://en.wikipedia.org/wiki/Ueda_Akinari"
+  ],
+  "disputed": false
+}

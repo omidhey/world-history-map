@@ -1,0 +1,23 @@
+{
+  "id": "jose-celestino-mutis-y-bosio",
+  "wikidata": "Q731937",
+  "name": "José Celestino Mutis y Bosio",
+  "category": "scientist",
+  "start": 1732,
+  "end": 1808,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.53,
+    "lon": -6.3,
+    "place": "Cádiz"
+  },
+  "summary": "Spanish mathematician and botanist (1732–1808), born in Cádiz. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/José_Celestino_Mutis"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q731937",
+    "https://en.wikipedia.org/wiki/José_Celestino_Mutis"
+  ],
+  "disputed": false
+}

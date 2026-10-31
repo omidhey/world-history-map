@@ -1,0 +1,22 @@
+{
+  "id": "rigoberta-menchu",
+  "wikidata": "Q188620",
+  "name": "Rigoberta Menchú",
+  "category": "writer",
+  "start": 1959,
+  "date_precision": "day",
+  "location": {
+    "lat": 15.56,
+    "lon": -90.01,
+    "place": "Laj Chimel"
+  },
+  "summary": "Guatemalan human rights activist, born in Laj Chimel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rigoberta_Menchú"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q188620",
+    "https://en.wikipedia.org/wiki/Rigoberta_Menchú"
+  ],
+  "disputed": false
+}

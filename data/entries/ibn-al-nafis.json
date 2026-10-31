@@ -1,0 +1,57 @@
+{
+  "id": "ibn-al-nafis",
+  "wikidata": "Q319146",
+  "name": "Ibn al-Nafis",
+  "category": "scientist",
+  "start": 1210,
+  "end": 1288,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.51,
+    "lon": 36.29,
+    "place": "Damascus"
+  },
+  "summary": "Arab polymath and physician (1213–1288), born in Damascus. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_al-Nafis"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q319146",
+    "https://en.wikipedia.org/wiki/Ibn_al-Nafis"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1210,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q319146"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1215,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q319146"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1280,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q319146"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 1288,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q319146"
+      ]
+    }
+  ]
+}

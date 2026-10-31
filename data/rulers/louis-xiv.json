@@ -1,0 +1,19 @@
+{
+  "id": "louis-xiv",
+  "wikidata": "Q7742",
+  "name": "Louis XIV",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-bourbon",
+  "start": 1643,
+  "end": 1715,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIV"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7742",
+    "https://en.wikipedia.org/wiki/Louis_XIV"
+  ],
+  "disputed": false
+}

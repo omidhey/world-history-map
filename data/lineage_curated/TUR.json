@@ -1,0 +1,180 @@
+{
+ "country": "TUR",
+ "name": "Turkey",
+ "area_km2": 798647,
+ "source": "curated",
+ "sources": [
+  "https://en.wikipedia.org/wiki/History_of_Turkey",
+  "https://en.wikipedia.org/wiki/Byzantine_Empire",
+  "https://en.wikipedia.org/wiki/Ottoman_Empire"
+ ],
+ "notes": {
+  "-2000": "Anatolian tribes and the rise of the Hittites.",
+  "-500": "Achaemenid satrapies.",
+  "-323": "Alexander's conquest of Anatolia, 334-333 BCE.",
+  "-1": "Roman provinces and client kingdoms.",
+  "1200": "Byzantine Empire; the Seljuk Sultanate of Rum held the interior, which this snapshot does not show.",
+  "1500": "Ottoman Empire.",
+  "1945": "Republic of Turkey (1923)."
+ },
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.0507
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Anatolian tribes",
+    "subjecto": "Anatolian tribes",
+    "share": 0.3674
+   },
+   {
+    "name": "Hittites",
+    "subjecto": "Hittites",
+    "share": 0.283
+   },
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.0508
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Hittites",
+    "subjecto": "Hittites",
+    "share": 0.4736
+   },
+   {
+    "name": "Phrygians",
+    "subjecto": "Phrygians",
+    "share": 0.2082
+   },
+   {
+    "name": "Urartu",
+    "subjecto": "Urartu",
+    "share": 0.1908
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9314
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.5566
+   },
+   {
+    "name": "Cappadocia",
+    "subjecto": "Cappadocia",
+    "share": 0.2551
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.0938
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.8181
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.1025
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.7208
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.24
+   }
+  ],
+  "800": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.6427
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.317
+   }
+  ],
+  "1200": [
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.8134
+   },
+   {
+    "name": "Armenia",
+    "subjecto": "Armenia",
+    "share": 0.0854
+   },
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.061
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.6958
+   },
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.2257
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9554
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.9243
+   }
+  ],
+  "1945": [
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.9476
+   }
+  ],
+  "2010": [
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.9518
+   }
+  ]
+ }
+}

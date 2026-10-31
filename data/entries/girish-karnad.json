@@ -1,0 +1,23 @@
+{
+  "id": "girish-karnad",
+  "wikidata": "Q3518444",
+  "name": "Girish Karnad",
+  "category": "writer",
+  "start": 1938,
+  "end": 2019,
+  "date_precision": "day",
+  "location": {
+    "lat": 18.99,
+    "lon": 73.27,
+    "place": "Matheran"
+  },
+  "summary": "Indian playwright, theatre personality (1938–2019), born in Matheran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Girish_Karnad"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3518444",
+    "https://en.wikipedia.org/wiki/Girish_Karnad"
+  ],
+  "disputed": false
+}

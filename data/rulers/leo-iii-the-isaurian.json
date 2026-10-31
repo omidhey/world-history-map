@@ -1,0 +1,18 @@
+{
+  "id": "leo-iii-the-isaurian",
+  "wikidata": "Q31755",
+  "name": "Leo III the Isaurian",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "start": 717,
+  "end": 741,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_III_the_Isaurian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q31755",
+    "https://en.wikipedia.org/wiki/Leo_III_the_Isaurian"
+  ],
+  "disputed": false
+}

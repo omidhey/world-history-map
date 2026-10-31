@@ -1,0 +1,19 @@
+{
+  "id": "darius-the-great",
+  "wikidata": "Q44387",
+  "name": "Darius the Great",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -522,
+  "end": -486,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_the_Great"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44387",
+    "https://en.wikipedia.org/wiki/Darius_the_Great"
+  ],
+  "disputed": false
+}

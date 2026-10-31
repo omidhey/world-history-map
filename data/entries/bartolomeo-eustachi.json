@@ -1,0 +1,23 @@
+{
+  "id": "bartolomeo-eustachi",
+  "wikidata": "Q364278",
+  "name": "Bartolomeo Eustachi",
+  "category": "scientist",
+  "start": 1500,
+  "end": 1574,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.23,
+    "lon": 13.18,
+    "place": "San Severino Marche"
+  },
+  "summary": "Italian anatomist, born in San Severino Marche. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartolomeo_Eustachi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q364278",
+    "https://en.wikipedia.org/wiki/Bartolomeo_Eustachi"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-conference-of-the-birds",
+  "wikidata": "Q2271966",
+  "name": "The Conference of the Birds",
+  "category": "work",
+  "start": 1177,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.21,
+    "lon": 58.8,
+    "place": "Nishapur"
+  },
+  "summary": "Persian poem by Sufi poet Attar by Attar of Nishapur, associated with Nishapur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Conference_of_the_Birds"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2271966",
+    "https://en.wikipedia.org/wiki/The_Conference_of_the_Birds"
+  ],
+  "disputed": false
+}

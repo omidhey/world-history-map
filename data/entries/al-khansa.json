@@ -1,0 +1,23 @@
+{
+  "id": "al-khansa",
+  "wikidata": "Q2420369",
+  "name": "al-Khansāʼ",
+  "category": "writer",
+  "start": 575,
+  "end": 645,
+  "date_precision": "year",
+  "location": {
+    "lat": 24.29,
+    "lon": 43.59,
+    "place": "Najd"
+  },
+  "summary": "Arab poet, born in Najd. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Khansa'"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2420369",
+    "https://en.wikipedia.org/wiki/Al-Khansa'"
+  ],
+  "disputed": false
+}

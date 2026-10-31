@@ -1,0 +1,26 @@
+{
+  "id": "gupta-empire",
+  "wikidata": "Q11774",
+  "name": "Gupta Empire",
+  "border_names": [
+    "Gupta Empire"
+  ],
+  "type": "empire",
+  "start": 320,
+  "end": 550,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 25.61,
+    "lon": 85.14,
+    "place": "Pataliputra"
+  },
+  "summary": "North Indian empire of the 4th–6th centuries, remembered for achievements in mathematics, astronomy, literature and art.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gupta_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11774",
+    "https://en.wikipedia.org/wiki/Gupta_Empire"
+  ],
+  "disputed": false
+}

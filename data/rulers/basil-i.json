@@ -1,0 +1,19 @@
+{
+  "id": "basil-i",
+  "wikidata": "Q41592",
+  "name": "Basil I",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "macedonian-dynasty",
+  "start": 867,
+  "end": 886,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Basil_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41592",
+    "https://en.wikipedia.org/wiki/Basil_I"
+  ],
+  "disputed": false
+}

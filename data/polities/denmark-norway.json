@@ -1,0 +1,26 @@
+{
+  "id": "denmark-norway",
+  "wikidata": "Q62651",
+  "name": "Denmark–Norway",
+  "border_names": [
+    "Denmark-Norway"
+  ],
+  "type": "kingdom",
+  "start": 1536,
+  "end": 1814,
+  "date_precision": "year",
+  "capital": {
+    "lat": 55.68,
+    "lon": 12.57,
+    "place": "Copenhagen"
+  },
+  "summary": "Union of the Danish and Norwegian crowns under one king, which also held Iceland, Greenland and colonies overseas.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Denmark%E2%80%93Norway"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q62651",
+    "https://en.wikipedia.org/wiki/Denmark%E2%80%93Norway"
+  ],
+  "disputed": false
+}

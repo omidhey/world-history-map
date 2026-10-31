@@ -1,0 +1,247 @@
+{
+ "country": "AUS",
+ "name": "Australia",
+ "area_km2": 7687331,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Aboriginal tribes",
+    "subjecto": "Aboriginal tribes",
+    "share": 0.9752
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9747
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9755
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9747
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9754
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9739
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9744
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9748
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9744
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.9745
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Wiradjuri",
+    "subjecto": "Wiradjuri",
+    "share": 0.0237
+   },
+   {
+    "name": "Mardu",
+    "subjecto": "Mardu",
+    "share": 0.0222
+   },
+   {
+    "name": "Kokatha",
+    "subjecto": "Kokatha",
+    "share": 0.0214
+   },
+   {
+    "name": "Pintupi",
+    "subjecto": "Pintupi",
+    "share": 0.0213
+   },
+   {
+    "name": "Watjarri",
+    "subjecto": "Watjarri",
+    "share": 0.0188
+   },
+   {
+    "name": "Arrernte",
+    "subjecto": "Arrernte",
+    "share": 0.0184
+   },
+   {
+    "name": "Warlpiri",
+    "subjecto": "Warlpiri",
+    "share": 0.0182
+   },
+   {
+    "name": "Nyanganyatjara",
+    "subjecto": "Nyanganyatjara",
+    "share": 0.016
+   },
+   {
+    "name": "Australian aboriginal hunter-gatherers",
+    "subjecto": "Australian aboriginal hunter-gatherers",
+    "share": 0.0155
+   },
+   {
+    "name": "Bidjara",
+    "subjecto": "Bidjara",
+    "share": 0.0149
+   },
+   {
+    "name": "Mirning",
+    "subjecto": "Mirning",
+    "share": 0.0144
+   },
+   {
+    "name": "Kalaamaya",
+    "subjecto": "Kalaamaya",
+    "share": 0.0131
+   },
+   {
+    "name": "Kamilaroi",
+    "subjecto": "Kamilaroi",
+    "share": 0.013
+   },
+   {
+    "name": "Nyangumarda",
+    "subjecto": "Nyangumarda",
+    "share": 0.013
+   },
+   {
+    "name": "Warumungu",
+    "subjecto": "Warumungu",
+    "share": 0.0114
+   },
+   {
+    "name": "Wawula",
+    "subjecto": "Wawula",
+    "share": 0.0111
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.8167,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Australia",
+    "subjecto": "Australia",
+    "share": 0.9809
+   }
+  ],
+  "1945": [
+   {
+    "name": "Australia",
+    "subjecto": "Australia",
+    "share": 0.9809
+   }
+  ],
+  "2010": [
+   {
+    "name": "Australia",
+    "subjecto": "Australia",
+    "share": 0.9825
+   }
+  ]
+ }
+}

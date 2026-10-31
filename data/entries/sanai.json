@@ -1,0 +1,23 @@
+{
+  "id": "sanai",
+  "wikidata": "Q1148049",
+  "name": "Sanai",
+  "category": "writer",
+  "start": 1080,
+  "end": 1131,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.55,
+    "lon": 68.42,
+    "place": "Ghazni"
+  },
+  "summary": "12th-century Persian Sufi poet, born in Ghazni. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanai"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1148049",
+    "https://en.wikipedia.org/wiki/Sanai"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "charles-drew",
+  "wikidata": "Q1065848",
+  "name": "Charles Drew",
+  "category": "scientist",
+  "start": 1904,
+  "end": 1950,
+  "date_precision": "day",
+  "location": {
+    "lat": 38.9,
+    "lon": -77.04,
+    "place": "Washington, D.C."
+  },
+  "summary": "American surgeon and medical researcher (1904–1950), born in Washington, D.C.. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_R._Drew"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1065848",
+    "https://en.wikipedia.org/wiki/Charles_R._Drew"
+  ],
+  "disputed": false
+}

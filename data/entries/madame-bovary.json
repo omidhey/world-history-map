@@ -1,0 +1,22 @@
+{
+  "id": "madame-bovary",
+  "wikidata": "Q193417",
+  "name": "Madame Bovary",
+  "category": "work",
+  "start": 1857,
+  "date_precision": "year",
+  "location": {
+    "lat": 49.44,
+    "lon": 1.1,
+    "place": "Rouen"
+  },
+  "summary": "Novel by Gustave Flaubert (1857), associated with Rouen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madame_Bovary"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193417",
+    "https://en.wikipedia.org/wiki/Madame_Bovary"
+  ],
+  "disputed": false
+}

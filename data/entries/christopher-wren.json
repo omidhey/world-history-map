@@ -1,0 +1,23 @@
+{
+  "id": "christopher-wren",
+  "wikidata": "Q170373",
+  "name": "Christopher Wren",
+  "category": "scientist",
+  "start": 1632,
+  "end": 1723,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.08,
+    "lon": -2.18,
+    "place": "East Knoyle"
+  },
+  "summary": "English architect (1632–1723), born in East Knoyle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Wren"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q170373",
+    "https://en.wikipedia.org/wiki/Christopher_Wren"
+  ],
+  "disputed": false
+}

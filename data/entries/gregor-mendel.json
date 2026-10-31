@@ -1,0 +1,23 @@
+{
+  "id": "gregor-mendel",
+  "wikidata": "Q37970",
+  "name": "Gregor Mendel",
+  "category": "scientist",
+  "start": 1822,
+  "end": 1884,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.62,
+    "lon": 17.84,
+    "place": "Hynčice"
+  },
+  "summary": "Moravian scientist and Augustinian friar (1822–1884), born in Hynčice. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregor_Mendel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37970",
+    "https://en.wikipedia.org/wiki/Gregor_Mendel"
+  ],
+  "disputed": false
+}

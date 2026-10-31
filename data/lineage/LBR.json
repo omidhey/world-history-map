@@ -1,0 +1,167 @@
+{
+ "country": "LBR",
+ "name": "Liberia",
+ "area_km2": 98213,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9086
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9086
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9086
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9086
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9086
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9086
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9054
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9086
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9054,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0032,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9046
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9054
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9054,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0032,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Liberia",
+    "subjecto": "Liberia",
+    "share": 0.7968
+   },
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.0918
+   },
+   {
+    "name": "Sierra Leone",
+    "subjecto": "Sierra Leone",
+    "share": 0.0199
+   }
+  ],
+  "1945": [
+   {
+    "name": "Liberia",
+    "subjecto": "Liberia",
+    "share": 0.8443
+   },
+   {
+    "name": "Guinea",
+    "subjecto": "France",
+    "share": 0.0433
+   },
+   {
+    "name": "Sierra Leone",
+    "subjecto": "United Kingdom",
+    "share": 0.0199
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Liberia",
+    "subjecto": "Liberia",
+    "share": 0.8286
+   },
+   {
+    "name": "Guinea",
+    "subjecto": "Guinea",
+    "share": 0.059
+   },
+   {
+    "name": "Sierra Leone",
+    "subjecto": "Sierra Leone",
+    "share": 0.0199
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ]
+ }
+}

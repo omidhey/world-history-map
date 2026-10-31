@@ -1,0 +1,19 @@
+{
+  "id": "richard-i-of-england",
+  "wikidata": "Q42305",
+  "name": "Richard I of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-plantagenet",
+  "start": 1189,
+  "end": 1199,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q42305",
+    "https://en.wikipedia.org/wiki/Richard_I_of_England"
+  ],
+  "disputed": false
+}

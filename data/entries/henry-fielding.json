@@ -1,0 +1,23 @@
+{
+  "id": "henry-fielding",
+  "wikidata": "Q34190",
+  "name": "Henry Fielding",
+  "category": "writer",
+  "start": 1707,
+  "end": 1754,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.14,
+    "lon": -2.77,
+    "place": "Sharpham"
+  },
+  "summary": "English novelist and dramatist (1707–1754), born in Sharpham. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Fielding"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34190",
+    "https://en.wikipedia.org/wiki/Henry_Fielding"
+  ],
+  "disputed": false
+}

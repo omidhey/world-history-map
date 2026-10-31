@@ -1,0 +1,263 @@
+{
+ "country": "SOM",
+ "name": "Somalia",
+ "area_km2": 484162,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.6023
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.3762
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9787
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8708
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.1062
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.87
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.106
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.87
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.106
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8728
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.106
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8685
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.1068
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0027,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.715
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7101,
+    "carried": 400
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.2629
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0049,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.6231
+   },
+   {
+    "name": "Islamic city-states",
+    "subjecto": "Islamic city-states",
+    "share": 0.2841
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0728
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.6254
+   },
+   {
+    "name": "Islamic city-states",
+    "subjecto": "Islamic city-states",
+    "share": 0.1831,
+    "carried": 1200
+   },
+   {
+    "name": "Islamic city-states",
+    "subjecto": "Islamic city-states",
+    "share": 0.0973
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0728
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.4741,
+    "carried": 1500
+   },
+   {
+    "name": "Zanzibar",
+    "subjecto": "Zanzibar",
+    "share": 0.2341
+   },
+   {
+    "name": "Oromo",
+    "subjecto": "Oromo",
+    "share": 0.1307
+   },
+   {
+    "name": "Islamic city-states",
+    "subjecto": "Islamic city-states",
+    "share": 0.0867,
+    "carried": 1200
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0339,
+    "carried": 1500
+   },
+   {
+    "name": "Islamic city-states",
+    "subjecto": "Islamic city-states",
+    "share": 0.0209,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Somaliland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9336
+   },
+   {
+    "name": "British East Africa",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.2155
+   },
+   {
+    "name": "Abyssinia",
+    "subjecto": "Abyssinia",
+    "share": 0.0293
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0094,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Somalia",
+    "subjecto": "United Kingdom",
+    "share": 0.8795
+   },
+   {
+    "name": "British Somaliland",
+    "subjecto": "United Kingdom",
+    "share": 0.068
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.0229
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.006,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Somalia",
+    "subjecto": "Somalia",
+    "share": 0.9488
+   },
+   {
+    "name": "Ethiopia",
+    "subjecto": "Ethiopia",
+    "share": 0.0298
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.006,
+    "other": true
+   }
+  ]
+ }
+}

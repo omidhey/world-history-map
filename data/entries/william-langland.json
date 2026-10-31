@@ -1,0 +1,23 @@
+{
+  "id": "william-langland",
+  "wikidata": "Q467672",
+  "name": "William Langland",
+  "category": "writer",
+  "start": 1332,
+  "end": 1386,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.49,
+    "lon": -1.9,
+    "place": "West Midlands"
+  },
+  "summary": "English writer, born in West Midlands. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Langland"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q467672",
+    "https://en.wikipedia.org/wiki/William_Langland"
+  ],
+  "disputed": false
+}

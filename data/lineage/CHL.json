@@ -1,0 +1,329 @@
+{
+ "country": "CHL",
+ "name": "Chile",
+ "area_km2": 815140,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7913
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.6528
+   },
+   {
+    "name": "Chinchorro culture",
+    "subjecto": "Chinchorro culture",
+    "share": 0.101
+   },
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.0475
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.5284
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.212
+   },
+   {
+    "name": "Chinchoros",
+    "subjecto": "Chinchoros",
+    "share": 0.0399
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0151
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.5284
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.212
+   },
+   {
+    "name": "Chinchoros",
+    "subjecto": "Chinchoros",
+    "share": 0.0399
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0151
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.5279
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.2011
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.0425
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0151
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.5291
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.1816
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.0422,
+    "carried": -323
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0063,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.5291
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.1786
+   },
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.0422,
+    "carried": -323
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0063,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.3777
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.212
+   },
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.1958
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0021,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tiahuanaco Empire",
+    "subjecto": "Tiahuanaco Empire",
+    "share": 0.3395
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.2382
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.212
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0152
+   }
+  ],
+  "1500": [
+   {
+    "name": "Inca Empire",
+    "subjecto": "Inca Empire",
+    "share": 0.4777
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.1816
+   },
+   {
+    "name": "Andean hunter-gatherers",
+    "subjecto": "Andean hunter-gatherers",
+    "share": 0.098
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0152
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of Peru",
+    "subjecto": "Spain",
+    "share": 0.5749
+   },
+   {
+    "name": "Patagonian shellfish and marine mammal hunters",
+    "subjecto": "Patagonian shellfish and marine mammal hunters",
+    "share": 0.1799
+   },
+   {
+    "name": "Pampas cultures",
+    "subjecto": "Pampas cultures",
+    "share": 0.0145
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.012,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Chile",
+    "subjecto": "Chile",
+    "share": 0.7849
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0162
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Chile",
+    "subjecto": "Chile",
+    "share": 0.9063
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0139
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Chile",
+    "subjecto": "Chile",
+    "share": 0.9062
+   },
+   {
+    "name": "Argentina",
+    "subjecto": "Argentina",
+    "share": 0.0128
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ]
+ }
+}

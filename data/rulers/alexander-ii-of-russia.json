@@ -1,0 +1,19 @@
+{
+  "id": "alexander-ii-of-russia",
+  "wikidata": "Q83171",
+  "name": "Alexander II of Russia",
+  "polity": "russian-empire",
+  "title": "Emperor",
+  "dynasty": "house-of-romanov",
+  "start": 1855,
+  "end": 1881,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_II_of_Russia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83171",
+    "https://en.wikipedia.org/wiki/Alexander_II_of_Russia"
+  ],
+  "disputed": false
+}

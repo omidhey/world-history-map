@@ -1,0 +1,382 @@
+{
+ "country": "UKR",
+ "name": "Ukraine",
+ "area_km2": 572540,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.7502
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2422
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Catacomb culture",
+    "subjecto": "Catacomb culture",
+    "share": 0.4348
+   },
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.3201,
+    "carried": -3000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.2425
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.9344
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.058
+   }
+  ],
+  "-500": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.8098,
+    "carried": -1000
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.0866
+   },
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.0443
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0345
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0107,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0117,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.7454,
+    "carried": -1000
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.0866
+   },
+   {
+    "name": "Bosporan Kingdom",
+    "subjecto": "Bosporan Kingdom",
+    "share": 0.0619
+   },
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.0443
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0345
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0107,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0118,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.7444,
+    "carried": -1000
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.0866
+   },
+   {
+    "name": "Bosporan Kingdom",
+    "subjecto": "Bosporan Kingdom",
+    "share": 0.0611,
+    "carried": -323
+   },
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.0443
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0345
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.0107,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0137,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Hunnic Empire",
+    "subjecto": "Hunnic Empire",
+    "share": 0.6651
+   },
+   {
+    "name": "Milograd culture",
+    "subjecto": "Milograd culture",
+    "share": 0.068,
+    "carried": -1
+   },
+   {
+    "name": "Ostrogoths",
+    "subjecto": "Hunnic Empire",
+    "share": 0.0584
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0548,
+    "carried": -1000
+   },
+   {
+    "name": "Gepids",
+    "subjecto": "Hunnic Empire",
+    "share": 0.0441
+   },
+   {
+    "name": "Akatziri",
+    "subjecto": "Hunnic Empire",
+    "share": 0.0271
+   },
+   {
+    "name": "Plain-Pottery culture",
+    "subjecto": "Plain-Pottery culture",
+    "share": 0.0194,
+    "carried": -1
+   },
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.0188,
+    "carried": -1
+   },
+   {
+    "name": "Skirii",
+    "subjecto": "Hunnic Empire",
+    "share": 0.0154
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0175,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.5176
+   },
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.4291
+   },
+   {
+    "name": "Magyars",
+    "subjecto": "Khazars",
+    "share": 0.2636
+   },
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 0.1202
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0005,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Cuman Khanates",
+    "subjecto": "Cuman Khanates",
+    "share": 0.469
+   },
+   {
+    "name": "Principality of Galicia-Volhynia",
+    "subjecto": "Principality of Galicia-Volhynia",
+    "share": 0.2385
+   },
+   {
+    "name": "Principality of Kyiv",
+    "subjecto": "Principality of Kyiv",
+    "share": 0.1704
+   },
+   {
+    "name": "Other Rus Principalities",
+    "subjecto": "Other Rus Principalities",
+    "share": 0.0798
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0336
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0037,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Poland-Lithuania",
+    "subjecto": "Poland-Lithuania",
+    "share": 0.7083
+   },
+   {
+    "name": "Crimean Khanate",
+    "subjecto": "Ottoman Empire",
+    "share": 0.1447
+   },
+   {
+    "name": "Imperial Hungary",
+    "subjecto": "Imperial Hungary",
+    "share": 0.0559
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0337
+   },
+   {
+    "name": "Grand Duchy of Moscow",
+    "subjecto": "Grand Duchy of Moscow",
+    "share": 0.0286
+   },
+   {
+    "name": "Golden Horde",
+    "subjecto": "Golden Horde",
+    "share": 0.0194
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0036,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.827
+   },
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 0.1397
+   },
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.0294
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.8463
+   },
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.1215
+   },
+   {
+    "name": "Romania",
+    "subjecto": "Romania",
+    "share": 0.0276
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9884
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0077,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Ukraine",
+    "subjecto": "Ukraine",
+    "share": 0.9715
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0232,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,706 @@
+{
+ "AFG": {
+  "name": "Afghanistan",
+  "area_km2": 652285
+ },
+ "AGO": {
+  "name": "Angola",
+  "area_km2": 1245058
+ },
+ "ALB": {
+  "name": "Albania",
+  "area_km2": 29695
+ },
+ "ARE": {
+  "name": "United Arab Emirates",
+  "area_km2": 80034
+ },
+ "ARG": {
+  "name": "Argentina",
+  "area_km2": 2784385
+ },
+ "ARM": {
+  "name": "Armenia",
+  "area_km2": 28644
+ },
+ "ATF": {
+  "name": "Fr. S. Antarctic Lands",
+  "area_km2": 11590
+ },
+ "AUS": {
+  "name": "Australia",
+  "area_km2": 7687331
+ },
+ "AUT": {
+  "name": "Austria",
+  "area_km2": 85083
+ },
+ "AZE": {
+  "name": "Azerbaijan",
+  "area_km2": 91133
+ },
+ "BDI": {
+  "name": "Burundi",
+  "area_km2": 26238
+ },
+ "BEL": {
+  "name": "Belgium",
+  "area_km2": 30134
+ },
+ "BEN": {
+  "name": "Benin",
+  "area_km2": 116997
+ },
+ "BFA": {
+  "name": "Burkina Faso",
+  "area_km2": 271585
+ },
+ "BGD": {
+  "name": "Bangladesh",
+  "area_km2": 133758
+ },
+ "BGR": {
+  "name": "Bulgaria",
+  "area_km2": 110215
+ },
+ "BHS": {
+  "name": "Bahamas",
+  "area_km2": 15584
+ },
+ "BIH": {
+  "name": "Bosnia and Herz.",
+  "area_km2": 50617
+ },
+ "BLR": {
+  "name": "Belarus",
+  "area_km2": 208932
+ },
+ "BLZ": {
+  "name": "Belize",
+  "area_km2": 22043
+ },
+ "BOL": {
+  "name": "Bolivia",
+  "area_km2": 1085182
+ },
+ "BRA": {
+  "name": "Brazil",
+  "area_km2": 8508161
+ },
+ "BRN": {
+  "name": "Brunei",
+  "area_km2": 10699
+ },
+ "BTN": {
+  "name": "Bhutan",
+  "area_km2": 39376
+ },
+ "BWA": {
+  "name": "Botswana",
+  "area_km2": 591917
+ },
+ "CAF": {
+  "name": "Central African Rep.",
+  "area_km2": 621832
+ },
+ "CAN": {
+  "name": "Canada",
+  "area_km2": 10037729
+ },
+ "CHE": {
+  "name": "Switzerland",
+  "area_km2": 46172
+ },
+ "CHL": {
+  "name": "Chile",
+  "area_km2": 815140
+ },
+ "CHN": {
+  "name": "China",
+  "area_km2": 9409565
+ },
+ "CIV": {
+  "name": "Côte d'Ivoire",
+  "area_km2": 329827
+ },
+ "CMR": {
+  "name": "Cameroon",
+  "area_km2": 460306
+ },
+ "COD": {
+  "name": "Dem. Rep. Congo",
+  "area_km2": 2323413
+ },
+ "COG": {
+  "name": "Congo",
+  "area_km2": 339670
+ },
+ "COL": {
+  "name": "Colombia",
+  "area_km2": 1151855
+ },
+ "CRI": {
+  "name": "Costa Rica",
+  "area_km2": 53830
+ },
+ "CUB": {
+  "name": "Cuba",
+  "area_km2": 114870
+ },
+ "CYN": {
+  "name": "N. Cyprus",
+  "area_km2": 3782
+ },
+ "CYP": {
+  "name": "Cyprus",
+  "area_km2": 6221
+ },
+ "CZE": {
+  "name": "Czechia",
+  "area_km2": 81210
+ },
+ "DEU": {
+  "name": "Germany",
+  "area_km2": 357399
+ },
+ "DJI": {
+  "name": "Djibouti",
+  "area_km2": 21880
+ },
+ "DNK": {
+  "name": "Denmark",
+  "area_km2": 42792
+ },
+ "DOM": {
+  "name": "Dominican Rep.",
+  "area_km2": 48158
+ },
+ "DZA": {
+  "name": "Algeria",
+  "area_km2": 2318480
+ },
+ "ECU": {
+  "name": "Ecuador",
+  "area_km2": 250737
+ },
+ "EGY": {
+  "name": "Egypt",
+  "area_km2": 997208
+ },
+ "ERI": {
+  "name": "Eritrea",
+  "area_km2": 119269
+ },
+ "ESP": {
+  "name": "Spain",
+  "area_km2": 502229
+ },
+ "EST": {
+  "name": "Estonia",
+  "area_km2": 44668
+ },
+ "ETH": {
+  "name": "Ethiopia",
+  "area_km2": 1132443
+ },
+ "FIN": {
+  "name": "Finland",
+  "area_km2": 341262
+ },
+ "FJI": {
+  "name": "Fiji",
+  "area_km2": 19288
+ },
+ "FLK": {
+  "name": "Falkland Is.",
+  "area_km2": 16373
+ },
+ "FRA": {
+  "name": "France",
+  "area_km2": 644868
+ },
+ "GAB": {
+  "name": "Gabon",
+  "area_km2": 269465
+ },
+ "GBR": {
+  "name": "United Kingdom",
+  "area_km2": 249930
+ },
+ "GEO": {
+  "name": "Georgia",
+  "area_km2": 69032
+ },
+ "GHA": {
+  "name": "Ghana",
+  "area_km2": 243469
+ },
+ "GIN": {
+  "name": "Guinea",
+  "area_km2": 239565
+ },
+ "GMB": {
+  "name": "Gambia",
+  "area_km2": 14029
+ },
+ "GNB": {
+  "name": "Guinea-Bissau",
+  "area_km2": 36171
+ },
+ "GNQ": {
+  "name": "Eq. Guinea",
+  "area_km2": 27118
+ },
+ "GRC": {
+  "name": "Greece",
+  "area_km2": 131993
+ },
+ "GRL": {
+  "name": "Greenland",
+  "area_km2": 2207085
+ },
+ "GTM": {
+  "name": "Guatemala",
+  "area_km2": 109446
+ },
+ "GUY": {
+  "name": "Guyana",
+  "area_km2": 209795
+ },
+ "HND": {
+  "name": "Honduras",
+  "area_km2": 113787
+ },
+ "HRV": {
+  "name": "Croatia",
+  "area_km2": 57550
+ },
+ "HTI": {
+  "name": "Haiti",
+  "area_km2": 28537
+ },
+ "HUN": {
+  "name": "Hungary",
+  "area_km2": 92495
+ },
+ "IDN": {
+  "name": "Indonesia",
+  "area_km2": 1819171
+ },
+ "IND": {
+  "name": "India",
+  "area_km2": 3142772
+ },
+ "IRL": {
+  "name": "Ireland",
+  "area_km2": 58475
+ },
+ "IRN": {
+  "name": "Iran",
+  "area_km2": 1617723
+ },
+ "IRQ": {
+  "name": "Iraq",
+  "area_km2": 437295
+ },
+ "ISL": {
+  "name": "Iceland",
+  "area_km2": 107885
+ },
+ "ISR": {
+  "name": "Israel",
+  "area_km2": 23056
+ },
+ "ITA": {
+  "name": "Italy",
+  "area_km2": 315116
+ },
+ "JAM": {
+  "name": "Jamaica",
+  "area_km2": 12462
+ },
+ "JOR": {
+  "name": "Jordan",
+  "area_km2": 89074
+ },
+ "JPN": {
+  "name": "Japan",
+  "area_km2": 404562
+ },
+ "KAZ": {
+  "name": "Kazakhstan",
+  "area_km2": 2728701
+ },
+ "KEN": {
+  "name": "Kenya",
+  "area_km2": 590759
+ },
+ "KGZ": {
+  "name": "Kyrgyzstan",
+  "area_km2": 195873
+ },
+ "KHM": {
+  "name": "Cambodia",
+  "area_km2": 182252
+ },
+ "KOR": {
+  "name": "South Korea",
+  "area_km2": 99041
+ },
+ "KOS": {
+  "name": "Kosovo",
+  "area_km2": 11232
+ },
+ "KWT": {
+  "name": "Kuwait",
+  "area_km2": 16632
+ },
+ "LAO": {
+  "name": "Laos",
+  "area_km2": 229035
+ },
+ "LBN": {
+  "name": "Lebanon",
+  "area_km2": 10088
+ },
+ "LBR": {
+  "name": "Liberia",
+  "area_km2": 98213
+ },
+ "LBY": {
+  "name": "Libya",
+  "area_km2": 1634948
+ },
+ "LKA": {
+  "name": "Sri Lanka",
+  "area_km2": 65358
+ },
+ "LSO": {
+  "name": "Lesotho",
+  "area_km2": 27499
+ },
+ "LTU": {
+  "name": "Lithuania",
+  "area_km2": 63820
+ },
+ "LUX": {
+  "name": "Luxembourg",
+  "area_km2": 2416
+ },
+ "LVA": {
+  "name": "Latvia",
+  "area_km2": 63921
+ },
+ "MAR": {
+  "name": "Morocco",
+  "area_km2": 591806
+ },
+ "MDA": {
+  "name": "Moldova",
+  "area_km2": 32326
+ },
+ "MDG": {
+  "name": "Madagascar",
+  "area_km2": 589284
+ },
+ "MEX": {
+  "name": "Mexico",
+  "area_km2": 1969359
+ },
+ "MKD": {
+  "name": "North Macedonia",
+  "area_km2": 25062
+ },
+ "MLI": {
+  "name": "Mali",
+  "area_km2": 1234502
+ },
+ "MMR": {
+  "name": "Myanmar",
+  "area_km2": 679599
+ },
+ "MNE": {
+  "name": "Montenegro",
+  "area_km2": 13446
+ },
+ "MNG": {
+  "name": "Mongolia",
+  "area_km2": 1544344
+ },
+ "MOZ": {
+  "name": "Mozambique",
+  "area_km2": 811086
+ },
+ "MRT": {
+  "name": "Mauritania",
+  "area_km2": 1052681
+ },
+ "MWI": {
+  "name": "Malawi",
+  "area_km2": 111205
+ },
+ "MYS": {
+  "name": "Malaysia",
+  "area_km2": 338221
+ },
+ "NAM": {
+  "name": "Namibia",
+  "area_km2": 825185
+ },
+ "NCL": {
+  "name": "New Caledonia",
+  "area_km2": 23215
+ },
+ "NER": {
+  "name": "Niger",
+  "area_km2": 1181467
+ },
+ "NGA": {
+  "name": "Nigeria",
+  "area_km2": 905047
+ },
+ "NIC": {
+  "name": "Nicaragua",
+  "area_km2": 129545
+ },
+ "NLD": {
+  "name": "Netherlands",
+  "area_km2": 39931
+ },
+ "NOR": {
+  "name": "Norway",
+  "area_km2": 397236
+ },
+ "NPL": {
+  "name": "Nepal",
+  "area_km2": 150717
+ },
+ "NZL": {
+  "name": "New Zealand",
+  "area_km2": 277668
+ },
+ "OMN": {
+  "name": "Oman",
+  "area_km2": 309096
+ },
+ "PAK": {
+  "name": "Pakistan",
+  "area_km2": 874279
+ },
+ "PAN": {
+  "name": "Panama",
+  "area_km2": 75263
+ },
+ "PER": {
+  "name": "Peru",
+  "area_km2": 1309483
+ },
+ "PHL": {
+  "name": "Philippines",
+  "area_km2": 292260
+ },
+ "PNG": {
+  "name": "Papua New Guinea",
+  "area_km2": 464532
+ },
+ "POL": {
+  "name": "Poland",
+  "area_km2": 310356
+ },
+ "PRI": {
+  "name": "Puerto Rico",
+  "area_km2": 9225
+ },
+ "PRK": {
+  "name": "North Korea",
+  "area_km2": 125588
+ },
+ "PRT": {
+  "name": "Portugal",
+  "area_km2": 93400
+ },
+ "PRY": {
+  "name": "Paraguay",
+  "area_km2": 401247
+ },
+ "PSX": {
+  "name": "Palestine",
+  "area_km2": 5035
+ },
+ "QAT": {
+  "name": "Qatar",
+  "area_km2": 11328
+ },
+ "ROU": {
+  "name": "Romania",
+  "area_km2": 238379
+ },
+ "RUS": {
+  "name": "Russia",
+  "area_km2": 17020588
+ },
+ "RWA": {
+  "name": "Rwanda",
+  "area_km2": 23365
+ },
+ "SAH": {
+  "name": "W. Sahara",
+  "area_km2": 96669
+ },
+ "SAU": {
+  "name": "Saudi Arabia",
+  "area_km2": 1919998
+ },
+ "SDN": {
+  "name": "Sudan",
+  "area_km2": 1849844
+ },
+ "SDS": {
+  "name": "S. Sudan",
+  "area_km2": 624899
+ },
+ "SEN": {
+  "name": "Senegal",
+  "area_km2": 194401
+ },
+ "SLB": {
+  "name": "Solomon Is.",
+  "area_km2": 24724
+ },
+ "SLE": {
+  "name": "Sierra Leone",
+  "area_km2": 75982
+ },
+ "SLV": {
+  "name": "El Salvador",
+  "area_km2": 20894
+ },
+ "SOL": {
+  "name": "Somaliland",
+  "area_km2": 167473
+ },
+ "SOM": {
+  "name": "Somalia",
+  "area_km2": 484162
+ },
+ "SRB": {
+  "name": "Serbia",
+  "area_km2": 76373
+ },
+ "SUR": {
+  "name": "Suriname",
+  "area_km2": 144265
+ },
+ "SVK": {
+  "name": "Slovakia",
+  "area_km2": 47070
+ },
+ "SVN": {
+  "name": "Slovenia",
+  "area_km2": 19118
+ },
+ "SWE": {
+  "name": "Sweden",
+  "area_km2": 450712
+ },
+ "SWZ": {
+  "name": "eSwatini",
+  "area_km2": 18114
+ },
+ "SYR": {
+  "name": "Syria",
+  "area_km2": 185256
+ },
+ "TCD": {
+  "name": "Chad",
+  "area_km2": 1270364
+ },
+ "TGO": {
+  "name": "Togo",
+  "area_km2": 60968
+ },
+ "THA": {
+  "name": "Thailand",
+  "area_km2": 510123
+ },
+ "TJK": {
+  "name": "Tajikistan",
+  "area_km2": 138024
+ },
+ "TKM": {
+  "name": "Turkmenistan",
+  "area_km2": 480738
+ },
+ "TLS": {
+  "name": "Timor-Leste",
+  "area_km2": 14711
+ },
+ "TTO": {
+  "name": "Trinidad and Tobago",
+  "area_km2": 7739
+ },
+ "TUN": {
+  "name": "Tunisia",
+  "area_km2": 156279
+ },
+ "TUR": {
+  "name": "Turkey",
+  "area_km2": 798647
+ },
+ "TWN": {
+  "name": "Taiwan",
+  "area_km2": 34369
+ },
+ "TZA": {
+  "name": "Tanzania",
+  "area_km2": 932779
+ },
+ "UGA": {
+  "name": "Uganda",
+  "area_km2": 245760
+ },
+ "UKR": {
+  "name": "Ukraine",
+  "area_km2": 572540
+ },
+ "URY": {
+  "name": "Uruguay",
+  "area_km2": 176879
+ },
+ "USA": {
+  "name": "United States of America",
+  "area_km2": 9509851
+ },
+ "UZB": {
+  "name": "Uzbekistan",
+  "area_km2": 461285
+ },
+ "VEN": {
+  "name": "Venezuela",
+  "area_km2": 908470
+ },
+ "VNM": {
+  "name": "Vietnam",
+  "area_km2": 336019
+ },
+ "VUT": {
+  "name": "Vanuatu",
+  "area_km2": 7495
+ },
+ "YEM": {
+  "name": "Yemen",
+  "area_km2": 455758
+ },
+ "ZAF": {
+  "name": "South Africa",
+  "area_km2": 1216329
+ },
+ "ZMB": {
+  "name": "Zambia",
+  "area_km2": 751792
+ },
+ "ZWE": {
+  "name": "Zimbabwe",
+  "area_km2": 376273
+ }
+}

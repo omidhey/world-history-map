@@ -1,0 +1,19 @@
+{
+  "id": "louis-xiii",
+  "wikidata": "Q737533",
+  "name": "Louis XIII",
+  "polity": "kingdom-of-france",
+  "title": "King",
+  "dynasty": "house-of-bourbon",
+  "start": 1610,
+  "end": 1643,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIII"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q737533",
+    "https://en.wikipedia.org/wiki/Louis_XIII"
+  ],
+  "disputed": false
+}

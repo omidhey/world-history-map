@@ -1,0 +1,23 @@
+{
+  "id": "rachel-carson",
+  "wikidata": "Q100948",
+  "name": "Rachel Carson",
+  "category": "scientist",
+  "start": 1907,
+  "end": 1964,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.55,
+    "lon": -79.78,
+    "place": "Rachel Carson Homestead"
+  },
+  "summary": "American marine biologist and conservationist (1907–1964), born in Rachel Carson Homestead. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_Carson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q100948",
+    "https://en.wikipedia.org/wiki/Rachel_Carson"
+  ],
+  "disputed": false
+}

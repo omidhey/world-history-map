@@ -1,0 +1,22 @@
+{
+  "id": "adunis",
+  "wikidata": "Q380787",
+  "name": "Adunis",
+  "category": "writer",
+  "start": 1930,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.33,
+    "lon": 36.04,
+    "place": "Al-Qassabin"
+  },
+  "summary": "Syrian poet, writer and translator (born 1930), born in Al-Qassabin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Adonis_(poet)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q380787",
+    "https://en.wikipedia.org/wiki/Adonis_(poet)"
+  ],
+  "disputed": false
+}

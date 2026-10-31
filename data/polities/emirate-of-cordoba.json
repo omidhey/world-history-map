@@ -1,0 +1,26 @@
+{
+  "id": "emirate-of-cordoba",
+  "wikidata": "Q1337854",
+  "name": "Emirate of Córdoba",
+  "border_names": [
+    "Emirate of Córdoba"
+  ],
+  "type": "state",
+  "start": 756,
+  "end": 929,
+  "date_precision": "year",
+  "capital": {
+    "lat": 37.89,
+    "lon": -4.78,
+    "place": "Córdoba"
+  },
+  "summary": "Muslim state in Iberia founded by an Umayyad prince who escaped the Abbasid takeover, and which became a caliphate in 929.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emirate_of_C%C3%B3rdoba"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1337854",
+    "https://en.wikipedia.org/wiki/Emirate_of_C%C3%B3rdoba"
+  ],
+  "disputed": false
+}

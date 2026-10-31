@@ -1,0 +1,22 @@
+{
+  "id": "j-m-coetzee",
+  "wikidata": "Q43293",
+  "name": "J. M. Coetzee",
+  "category": "writer",
+  "start": 1940,
+  "date_precision": "day",
+  "location": {
+    "lat": -33.93,
+    "lon": 18.42,
+    "place": "Cape Town"
+  },
+  "summary": "South African and Australian writer and scholar (born 1940), born in Cape Town. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/J._M._Coetzee"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43293",
+    "https://en.wikipedia.org/wiki/J._M._Coetzee"
+  ],
+  "disputed": false
+}

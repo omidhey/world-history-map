@@ -1,0 +1,23 @@
+{
+  "id": "mirza-ghalib",
+  "wikidata": "Q107000",
+  "name": "Mirza Ghalib",
+  "category": "writer",
+  "start": 1797,
+  "end": 1869,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.18,
+    "lon": 78.02,
+    "place": "Kala Mahal"
+  },
+  "summary": "Indian poet (1797-1869), born in Kala Mahal. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghalib"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q107000",
+    "https://en.wikipedia.org/wiki/Ghalib"
+  ],
+  "disputed": false
+}

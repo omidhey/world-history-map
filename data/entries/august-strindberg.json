@@ -1,0 +1,23 @@
+{
+  "id": "august-strindberg",
+  "wikidata": "Q7724",
+  "name": "August Strindberg",
+  "category": "writer",
+  "start": 1849,
+  "end": 1912,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.33,
+    "lon": 18.07,
+    "place": "Stockholm"
+  },
+  "summary": "Swedish writer and painter (1849–1912), born in Stockholm. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Strindberg"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7724",
+    "https://en.wikipedia.org/wiki/August_Strindberg"
+  ],
+  "disputed": false
+}

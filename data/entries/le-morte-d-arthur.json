@@ -1,0 +1,22 @@
+{
+  "id": "le-morte-d-arthur",
+  "wikidata": "Q1136104",
+  "name": "Le Morte d'Arthur",
+  "category": "work",
+  "start": 1485,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.33,
+    "lon": -1.58,
+    "place": "Warwickshire"
+  },
+  "summary": "1485 reworking of existing tales about King Arthur by Sir Thomas Malory, associated with Warwickshire. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Le_Morte_d'Arthur"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1136104",
+    "https://en.wikipedia.org/wiki/Le_Morte_d'Arthur"
+  ],
+  "disputed": false
+}

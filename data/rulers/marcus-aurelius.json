@@ -1,0 +1,19 @@
+{
+  "id": "marcus-aurelius",
+  "wikidata": "Q1430",
+  "name": "Marcus Aurelius",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "nerva-antonine-dynasty",
+  "start": 161,
+  "end": 180,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1430",
+    "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+  ],
+  "disputed": false
+}

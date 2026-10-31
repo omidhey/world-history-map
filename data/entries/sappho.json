@@ -1,0 +1,23 @@
+{
+  "id": "sappho",
+  "wikidata": "Q17892",
+  "name": "Sappho",
+  "category": "writer",
+  "start": -650,
+  "end": -570,
+  "date_precision": "century",
+  "location": {
+    "lat": 39.21,
+    "lon": 26.28,
+    "place": "Lesbos"
+  },
+  "summary": "Ancient Greek poet from Lesbos (c. 630-c. 570 BC), born in Lesbos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sappho"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q17892",
+    "https://en.wikipedia.org/wiki/Sappho"
+  ],
+  "disputed": false
+}

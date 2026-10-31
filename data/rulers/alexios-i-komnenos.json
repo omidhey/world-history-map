@@ -1,0 +1,19 @@
+{
+  "id": "alexios-i-komnenos",
+  "wikidata": "Q41600",
+  "name": "Alexios I Komnenos",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "komnenian-dynasty",
+  "start": 1081,
+  "end": 1118,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41600",
+    "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+  ],
+  "disputed": false
+}

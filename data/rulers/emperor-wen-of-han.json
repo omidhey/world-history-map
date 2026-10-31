@@ -1,0 +1,19 @@
+{
+  "id": "emperor-wen-of-han",
+  "wikidata": "Q7221",
+  "name": "Emperor Wen of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "western-han",
+  "start": -180,
+  "end": -157,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7221",
+    "https://en.wikipedia.org/wiki/Emperor_Wen_of_Han"
+  ],
+  "disputed": false
+}

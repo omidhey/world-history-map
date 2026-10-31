@@ -1,0 +1,23 @@
+{
+  "id": "qin-jiushao",
+  "wikidata": "Q565225",
+  "name": "Qin Jiushao",
+  "category": "scientist",
+  "start": 1208,
+  "end": 1261,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.1,
+    "lon": 105.33,
+    "place": "Anyue County"
+  },
+  "summary": "Mathematician of Southern Song dynasty, wrote Shu shu jiu zhang (1247), born in Anyue County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qin_Jiushao"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q565225",
+    "https://en.wikipedia.org/wiki/Qin_Jiushao"
+  ],
+  "disputed": false
+}

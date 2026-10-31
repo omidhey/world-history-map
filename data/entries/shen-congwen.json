@@ -1,0 +1,23 @@
+{
+  "id": "shen-congwen",
+  "wikidata": "Q559264",
+  "name": "Shen Congwen",
+  "category": "writer",
+  "start": 1902,
+  "end": 1988,
+  "date_precision": "day",
+  "location": {
+    "lat": 27.95,
+    "lon": 109.59,
+    "place": "Fenghuang County"
+  },
+  "summary": "Chinese writer (1902–1988), born in Fenghuang County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shen_Congwen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q559264",
+    "https://en.wikipedia.org/wiki/Shen_Congwen"
+  ],
+  "disputed": false
+}

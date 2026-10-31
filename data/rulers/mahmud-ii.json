@@ -1,0 +1,19 @@
+{
+  "id": "mahmud-ii",
+  "wikidata": "Q174791",
+  "name": "Mahmud II",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1808,
+  "end": 1839,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahmud_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q174791",
+    "https://en.wikipedia.org/wiki/Mahmud_II"
+  ],
+  "disputed": false
+}

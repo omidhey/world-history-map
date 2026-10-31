@@ -1,0 +1,23 @@
+{
+  "id": "sol-plaatjie",
+  "wikidata": "Q2143151",
+  "name": "Sol Plaatjie",
+  "category": "writer",
+  "start": 1876,
+  "end": 1932,
+  "date_precision": "day",
+  "location": {
+    "lat": -29,
+    "lon": 26,
+    "place": "Orange Free State"
+  },
+  "summary": "South African intellectual, journalist, linguist, politician, translator and writer; founding member and first General Secretary of the South African Native National Congress; regarded as the first Black South African to write a novel in English, born in Orange Free State. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sol_Plaatje"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2143151",
+    "https://en.wikipedia.org/wiki/Sol_Plaatje"
+  ],
+  "disputed": false
+}

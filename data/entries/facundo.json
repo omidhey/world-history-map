@@ -1,0 +1,22 @@
+{
+  "id": "facundo",
+  "wikidata": "Q807736",
+  "name": "Facundo",
+  "category": "work",
+  "start": 1845,
+  "date_precision": "year",
+  "location": {
+    "lat": -31.54,
+    "lon": -68.54,
+    "place": "San Juan"
+  },
+  "summary": "Novel by Domingo Faustino Sarmiento, associated with San Juan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Facundo"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q807736",
+    "https://en.wikipedia.org/wiki/Facundo"
+  ],
+  "disputed": false
+}

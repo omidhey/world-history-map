@@ -1,0 +1,19 @@
+{
+  "id": "khufu",
+  "wikidata": "Q161904",
+  "name": "Khufu",
+  "polity": "ancient-egypt",
+  "title": "Pharaoh",
+  "dynasty": "fourth-dynasty-of-egypt",
+  "start": -2589,
+  "end": -2566,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khufu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q161904",
+    "https://en.wikipedia.org/wiki/Khufu"
+  ],
+  "disputed": false
+}

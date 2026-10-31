@@ -1,0 +1,22 @@
+{
+  "id": "prose-edda",
+  "wikidata": "Q205882",
+  "name": "Prose Edda",
+  "category": "work",
+  "start": 1225,
+  "date_precision": "year",
+  "location": {
+    "lat": 65.22,
+    "lon": -21.83,
+    "place": "Hvammur"
+  },
+  "summary": "13th-century Norse work of literature written in Iceland by Snorri Sturluson, associated with Hvammur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prose_Edda"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q205882",
+    "https://en.wikipedia.org/wiki/Prose_Edda"
+  ],
+  "disputed": false
+}

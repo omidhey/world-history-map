@@ -1,0 +1,19 @@
+{
+  "id": "suleiman-the-magnificent",
+  "wikidata": "Q8474",
+  "name": "Suleiman the Magnificent",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1520,
+  "end": 1566,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8474",
+    "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+  ],
+  "disputed": false
+}

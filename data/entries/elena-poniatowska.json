@@ -1,0 +1,22 @@
+{
+  "id": "elena-poniatowska",
+  "wikidata": "Q261397",
+  "name": "Elena Poniatowska",
+  "category": "writer",
+  "start": 1932,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French-born Mexican journalist and author, born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elena_Poniatowska"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q261397",
+    "https://en.wikipedia.org/wiki/Elena_Poniatowska"
+  ],
+  "disputed": false
+}

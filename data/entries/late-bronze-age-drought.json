@@ -1,0 +1,22 @@
+{
+  "id": "late-bronze-age-drought",
+  "name": "Late Bronze Age drought in the eastern Mediterranean",
+  "category": "event",
+  "start": -1200,
+  "end": -850,
+  "date_precision": "century",
+  "location": {
+    "lat": 35.0,
+    "lon": 33.0,
+    "place": "Eastern Mediterranean"
+  },
+  "summary": "Pollen and sediment records from Cyprus and the Syrian coast show a dry phase beginning around 1200 BCE and lasting about three centuries.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+    "https://doi.org/10.1371/journal.pone.0066195"
+  ],
+  "disputed": false
+}

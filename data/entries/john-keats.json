@@ -1,0 +1,23 @@
+{
+  "id": "john-keats",
+  "wikidata": "Q82083",
+  "name": "John Keats",
+  "category": "writer",
+  "start": 1795,
+  "end": 1821,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.52,
+    "lon": -0.09,
+    "place": "Moorgate"
+  },
+  "summary": "English Romantic poet (1795–1821), born in Moorgate. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Keats"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q82083",
+    "https://en.wikipedia.org/wiki/John_Keats"
+  ],
+  "disputed": false
+}

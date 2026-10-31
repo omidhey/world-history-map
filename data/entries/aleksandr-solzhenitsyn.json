@@ -1,0 +1,23 @@
+{
+  "id": "aleksandr-solzhenitsyn",
+  "wikidata": "Q34474",
+  "name": "Aleksandr Solzhenitsyn",
+  "category": "writer",
+  "start": 1918,
+  "end": 2008,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.91,
+    "lon": 42.72,
+    "place": "Kislovodsk"
+  },
+  "summary": "Russian writer, publicist, poet and politician (1918–2008), born in Kislovodsk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34474",
+    "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn"
+  ],
+  "disputed": false
+}

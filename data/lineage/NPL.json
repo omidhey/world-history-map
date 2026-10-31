@@ -1,0 +1,252 @@
+{
+ "country": "NPL",
+ "name": "Nepal",
+ "area_km2": 150717,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.5524
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.4476
+   }
+  ],
+  "-500": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.5289,
+    "carried": -1000
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.4476,
+    "carried": -1000
+   },
+   {
+    "name": "Kosala",
+    "subjecto": "Kosala",
+    "share": 0.0235
+   }
+  ],
+  "-323": [
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.4421
+   },
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.3192,
+    "carried": -1000
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2301,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.314,
+    "carried": -1000
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.2823,
+    "carried": -323
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2301,
+    "carried": -1000
+   },
+   {
+    "name": "Hindu kingdoms",
+    "subjecto": "Hindu kingdoms",
+    "share": 0.1739
+   }
+  ],
+  "400": [
+   {
+    "name": "Dravidians",
+    "subjecto": "Dravidians",
+    "share": 0.3139,
+    "carried": -1000
+   },
+   {
+    "name": "Zhangzhung Kingdom",
+    "subjecto": "Zhangzhung Kingdom",
+    "share": 0.2823,
+    "carried": -323
+   },
+   {
+    "name": "Tibetans",
+    "subjecto": "Tibetans",
+    "share": 0.2301,
+    "carried": -1000
+   },
+   {
+    "name": "Gupta Empire",
+    "subjecto": "Gupta Empire",
+    "share": 0.1739
+   }
+  ],
+  "800": [
+   {
+    "name": "Tibetan Empire",
+    "subjecto": "Tibetan Empire",
+    "share": 0.9835
+   },
+   {
+    "name": "Palas",
+    "subjecto": "Palas",
+    "share": 0.0165
+   }
+  ],
+  "1200": [
+   {
+    "name": "Nepal",
+    "subjecto": "Nepal",
+    "share": 0.6231
+   },
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.223
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.1539
+   }
+  ],
+  "1500": [
+   {
+    "name": "Nepal (Malla and hill kingdoms)",
+    "subjecto": "Nepal (Malla and hill kingdoms)",
+    "share": 0.6231
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.2519
+   },
+   {
+    "name": "Sultanate of Delhi",
+    "subjecto": "Sultanate of Delhi",
+    "share": 0.0789
+   },
+   {
+    "name": "Bengal",
+    "subjecto": "Bengal",
+    "share": 0.0461
+   }
+  ],
+  "1800": [
+   {
+    "name": "Nepal",
+    "subjecto": "Nepal",
+    "share": 0.9397
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.0299
+   },
+   {
+    "name": "Bundelkhand",
+    "subjecto": "Bundelkhand",
+    "share": 0.0185
+   },
+   {
+    "name": "Oudh",
+    "subjecto": "Oudh",
+    "share": 0.0119
+   }
+  ],
+  "1914": [
+   {
+    "name": "Nepal",
+    "subjecto": "Nepal",
+    "share": 0.9298
+   },
+   {
+    "name": "British Raj",
+    "subjecto": "United Kingdom",
+    "share": 0.0469
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.0233
+   }
+  ],
+  "1945": [
+   {
+    "name": "Nepal",
+    "subjecto": "Nepal",
+    "share": 0.9298
+   },
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.0469
+   },
+   {
+    "name": "Tibet",
+    "subjecto": "Tibet",
+    "share": 0.0233
+   }
+  ],
+  "2010": [
+   {
+    "name": "Nepal",
+    "subjecto": "Nepal",
+    "share": 0.9463
+   },
+   {
+    "name": "India",
+    "subjecto": "India",
+    "share": 0.0363
+   },
+   {
+    "name": "China",
+    "subjecto": "China",
+    "share": 0.0174
+   }
+  ]
+ }
+}

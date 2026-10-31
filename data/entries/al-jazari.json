@@ -1,0 +1,23 @@
+{
+  "id": "al-jazari",
+  "wikidata": "Q81627",
+  "name": "al-Jazari",
+  "category": "scientist",
+  "start": 1136,
+  "end": 1206,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.47,
+    "lon": 42.1,
+    "place": "Upper Mesopotamia"
+  },
+  "summary": "Mathematician and engineer from Jazira, Artuqid State (1164–1206), born in Upper Mesopotamia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q81627",
+    "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
+  ],
+  "disputed": false
+}

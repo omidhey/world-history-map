@@ -1,0 +1,22 @@
+{
+  "id": "nuruddin-farah",
+  "wikidata": "Q323344",
+  "name": "Nuruddin Farah",
+  "category": "writer",
+  "start": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 3.12,
+    "lon": 43.65,
+    "place": "Baidoa"
+  },
+  "summary": "Somali writer, born in Baidoa. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nuruddin_Farah"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q323344",
+    "https://en.wikipedia.org/wiki/Nuruddin_Farah"
+  ],
+  "disputed": false
+}

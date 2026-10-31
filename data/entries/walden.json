@@ -1,0 +1,22 @@
+{
+  "id": "walden",
+  "wikidata": "Q863534",
+  "name": "Walden",
+  "category": "work",
+  "start": 1854,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.47,
+    "lon": -71.31,
+    "place": "Wheeler-Minot Farmhouse"
+  },
+  "summary": "1854 non-fiction work by Henry David Thoreau, associated with Wheeler-Minot Farmhouse. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Walden"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q863534",
+    "https://en.wikipedia.org/wiki/Walden"
+  ],
+  "disputed": false
+}

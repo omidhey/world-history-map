@@ -1,0 +1,23 @@
+{
+  "id": "john-steinbeck",
+  "wikidata": "Q39212",
+  "name": "John Steinbeck",
+  "category": "writer",
+  "start": 1902,
+  "end": 1968,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.68,
+    "lon": -121.66,
+    "place": "Salinas"
+  },
+  "summary": "American writer (1902–1968), born in Salinas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Steinbeck"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q39212",
+    "https://en.wikipedia.org/wiki/John_Steinbeck"
+  ],
+  "disputed": false
+}

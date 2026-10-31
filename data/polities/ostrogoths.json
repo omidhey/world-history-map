@@ -1,0 +1,26 @@
+{
+  "id": "ostrogoths",
+  "wikidata": "Q103122",
+  "name": "Ostrogoths",
+  "border_names": [
+    "Ostrogoths"
+  ],
+  "type": "kingdom",
+  "start": 376,
+  "end": 553,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 44.42,
+    "lon": 12.2,
+    "place": "Ravenna"
+  },
+  "summary": "Gothic people who formed a kingdom in Italy under Theoderic the Great before Byzantine armies reconquered it.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ostrogoths"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q103122",
+    "https://en.wikipedia.org/wiki/Ostrogoths"
+  ],
+  "disputed": false
+}

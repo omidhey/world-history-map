@@ -1,0 +1,23 @@
+{
+  "id": "bi-sheng",
+  "wikidata": "Q200662",
+  "name": "Bi Sheng",
+  "category": "scientist",
+  "start": 1000,
+  "end": 1051,
+  "date_precision": "century",
+  "location": {
+    "lat": 30.74,
+    "lon": 115.67,
+    "place": "Yingshan County"
+  },
+  "summary": "Inventor and printer (990-1052), born in Yingshan County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bi_Sheng"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q200662",
+    "https://en.wikipedia.org/wiki/Bi_Sheng"
+  ],
+  "disputed": false
+}

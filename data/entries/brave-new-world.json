@@ -1,0 +1,22 @@
+{
+  "id": "brave-new-world",
+  "wikidata": "Q191949",
+  "name": "Brave New World",
+  "category": "work",
+  "start": 1932,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.19,
+    "lon": -0.61,
+    "place": "Godalming"
+  },
+  "summary": "1932 novel by Aldous Huxley, associated with Godalming. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brave_New_World"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q191949",
+    "https://en.wikipedia.org/wiki/Brave_New_World"
+  ],
+  "disputed": false
+}

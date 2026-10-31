@@ -1,0 +1,23 @@
+{
+  "id": "giovanni-boccaccio",
+  "wikidata": "Q1402",
+  "name": "Giovanni Boccaccio",
+  "category": "writer",
+  "start": 1313,
+  "end": 1375,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.77,
+    "lon": 11.25,
+    "place": "Florence"
+  },
+  "summary": "Italian author and poet (1313–1375), born in Florence. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Boccaccio"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1402",
+    "https://en.wikipedia.org/wiki/Giovanni_Boccaccio"
+  ],
+  "disputed": false
+}

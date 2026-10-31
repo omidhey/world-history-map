@@ -1,0 +1,23 @@
+{
+  "id": "birbal-sahni",
+  "wikidata": "Q2688170",
+  "name": "Birbal Sahni",
+  "category": "scientist",
+  "start": 1891,
+  "end": 1949,
+  "date_precision": "day",
+  "location": {
+    "lat": 32.48,
+    "lon": 72.91,
+    "place": "Bhera"
+  },
+  "summary": "Indian botanist (1891-1949), born in Bhera. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Birbal_Sahni"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2688170",
+    "https://en.wikipedia.org/wiki/Birbal_Sahni"
+  ],
+  "disputed": false
+}

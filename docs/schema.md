@@ -1,6 +1,6 @@
 # Record format
 
-Every person, work, invention, ruler, dynasty or culture is one JSON file in
+Every person, work, invention, ruler, dynasty, culture or environmental event is one JSON file in
 `data/entries/`, named after its `id` (`data/entries/socrates.json`). The machine-readable
 version of this page is [pipeline/entry.schema.json](../pipeline/entry.schema.json);
 [pipeline/validate.py](../pipeline/validate.py) checks it on every pull request.
@@ -31,9 +31,9 @@ version of this page is [pipeline/entry.schema.json](../pipeline/entry.schema.js
 | `id` | yes | Stable identifier: lowercase words joined by hyphens (`cyrus-the-great`). Equals the file name. Never change it once merged. |
 | `wikidata` | no | Wikidata item, e.g. `Q913`. Each item may appear in only one record. |
 | `name` | yes | Common English name. |
-| `category` | yes | One of `philosopher`, `scientist`, `writer`, `work`, `invention`, `ruler`, `dynasty`, `culture`. |
-| `start` | yes | Integer year, see "Years" below. People: birth. Dynasties and cultures: beginning. Works: composition or first version. Inventions: first known date. |
-| `end` | no | Integer year. People: death. Dynasties and cultures: end. Works: completion, if composed over years. Leave out when there is none. |
+| `category` | yes | One of `philosopher`, `scientist`, `writer`, `work`, `invention`, `ruler`, `dynasty`, `culture`, `event` (environmental event: eruption, climate episode, drought). |
+| `start` | yes | Integer year, see "Years" below. People: birth. Dynasties and cultures: beginning. Works: composition or first version. Inventions: first known date. Events: onset. |
+| `end` | no | Integer year. People: death. Dynasties and cultures: end. Works: completion, if composed over years. Events: end of the episode. Leave out when there is none (one-off eruptions). |
 | `date_precision` | yes | How exact the dates are: `day`, `year`, `circa` (within a few years), `decade`, `century`. |
 | `location` | yes | `lat`, `lon` (decimal degrees) and `place` (a name). The place most associated with the subject: where a person worked, a capital, where a work was written or an invention first made. |
 | `summary` | yes | One or two sentences (20–400 characters) **in your own words**. Licensed CC BY-SA 4.0. |
@@ -73,6 +73,48 @@ When sources disagree, keep the most commonly cited value in `start`/`end`, set
 ]
 ```
 
+## Polities
+
+A state, empire or kingdom is one JSON file in `data/polities/`
+([pipeline/polity.schema.json](../pipeline/polity.schema.json)). It links the names the border
+snapshots use to a description, so clicking a realm on the map opens its card.
+
+```json
+{
+  "id": "achaemenid-empire",
+  "wikidata": "Q389688",
+  "name": "Achaemenid Empire",
+  "border_names": ["Achaemenid Empire"],
+  "type": "empire",
+  "start": -550,
+  "end": -330,
+  "date_precision": "year",
+  "capital": { "lat": 29.93, "lon": 52.89, "place": "Persepolis" },
+  "summary": "First Persian empire, founded by Cyrus the Great …",
+  "links": { "wikipedia": "https://en.wikipedia.org/wiki/Achaemenid_Empire" },
+  "sources": ["https://www.wikidata.org/wiki/Q389688", "https://en.wikipedia.org/wiki/Achaemenid_Empire"],
+  "disputed": false
+}
+```
+
+Same rules as entries for `id`, `wikidata`, `start`, `end`, `date_precision`, `summary`, `links`,
+`sources`, `disputed` and `claims`. Different fields:
+
+| Field | Required | Meaning |
+|---|---|---|
+| `border_names` | yes | Exact `NAME` values from `data/borders/*.geojson` that this state covers. The validator fails on a name that is in no snapshot. |
+| `type` | yes | `empire`, `kingdom`, `republic`, `city-state`, `caliphate`, `sultanate`, `khanate`, `confederation`, `state` or `other`. |
+| `capital` | no | `lat`, `lon`, `place`. |
+
+The same border name may belong to different states in different eras (`Egypt`, `Persia`). Give each
+state its own file with its own dates; the validator fails if two states claim a name at overlapping
+dates. On the map a snapshot gets the card whose dates are nearest the snapshot's year, and none if
+that is more than 30 years away. The ruling power (`SUBJECTO`) is tried when the realm itself has no card.
+
+`pipeline/make_polities.py` writes the first batch from `pipeline/polities_seed.json` (it looks up
+the Wikidata item from the Wikipedia title and never overwrites an existing file). After that,
+edit the JSON files directly.
+
 ## Checking your file
 
 ```
@@ -82,3 +124,19 @@ python pipeline/validate.py
 
 It prints one line per problem (`data/entries/x.json: start: there is no year 0 …`) and
 fails if there are any. The same check runs automatically on every pull request.
+
+## Dynasties and rulers
+
+A ruling house is one file in `data/dynasties/`, a ruler one file in `data/rulers/`
+([dynasty.schema.json](../pipeline/dynasty.schema.json), [ruler.schema.json](../pipeline/ruler.schema.json)).
+Both name the state they belong to in `polity` (an `id` from `data/polities/`) and follow the
+same year, `date_precision`, `disputed`/`claims` and `sources` rules as other records.
+
+- Dynasty: `start`/`end` are the years the house ruled **this state**.
+- Ruler: `title` (king, emperor, caliph, pharaoh…), optional `dynasty` (a dynasty `id` of the same state), and `start`/`end` are the **reign**, not birth and death. Co-reigns may overlap.
+- `validate.py` checks that the polity and dynasty exist and that dates lie within the state's dates give or take 30 years.
+
+The lists are a selection, not every ruler. `pipeline/rulers_seed.py` holds the curated rows and
+`pipeline/make_rulers.py` writes the files (adds Wikidata ids and Wikipedia sources, and prints reigns
+that contradict Wikidata's birth or death years). Wikidata's own reign data is too thin for ancient
+states to import directly (checked in Session 16), so rows are written by hand from Wikipedia.

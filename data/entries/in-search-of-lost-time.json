@@ -1,0 +1,22 @@
+{
+  "id": "in-search-of-lost-time",
+  "wikidata": "Q464928",
+  "name": "In Search of Lost Time",
+  "category": "work",
+  "start": 2000,
+  "date_precision": "century",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.28,
+    "place": "16th arrondissement of Paris"
+  },
+  "summary": "Novel sequence by Marcel Proust, associated with 16th arrondissement of Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q464928",
+    "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+  ],
+  "disputed": false
+}

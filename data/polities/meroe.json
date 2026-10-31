@@ -1,0 +1,26 @@
+{
+  "id": "meroe",
+  "wikidata": "Q5780",
+  "name": "Meroë",
+  "border_names": [
+    "Meroe"
+  ],
+  "type": "kingdom",
+  "start": -590,
+  "end": 350,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 16.94,
+    "lon": 33.75,
+    "place": "Meroë"
+  },
+  "summary": "Later capital of the Kushite kingdom on the middle Nile, a centre of iron working and of Nubian pyramids, which declined in the 4th century CE.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mero%C3%AB"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5780",
+    "https://en.wikipedia.org/wiki/Mero%C3%AB"
+  ],
+  "disputed": false
+}

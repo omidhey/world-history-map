@@ -1,0 +1,19 @@
+{
+  "id": "murad-i",
+  "wikidata": "Q96261",
+  "name": "Murad I",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1362,
+  "end": 1389,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Murad_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q96261",
+    "https://en.wikipedia.org/wiki/Murad_I"
+  ],
+  "disputed": false
+}

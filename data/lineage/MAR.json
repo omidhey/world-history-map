@@ -1,0 +1,264 @@
+{
+ "country": "MAR",
+ "name": "Morocco",
+ "area_km2": 591806,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9589
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0051,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.9589
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0052,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.5256
+   },
+   {
+    "name": "Berbers",
+    "subjecto": "Berbers",
+    "share": 0.4371
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8223
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.1418
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8181
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.1418
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7873,
+    "carried": -323
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.1317
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0326,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7866,
+    "carried": -323
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.1317
+   },
+   {
+    "name": "Carthaginian Empire",
+    "subjecto": "Carthaginian Empire",
+    "share": 0.0326,
+    "carried": -323
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0116
+   }
+  ],
+  "800": [
+   {
+    "name": "Idrisid Caliphate",
+    "subjecto": "Idrisid Caliphate",
+    "share": 0.7289
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.232,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0017,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.5333
+   },
+   {
+    "name": "Almohad Caliphate",
+    "subjecto": "Almohad Caliphate",
+    "share": 0.4267
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0022,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.5333,
+    "carried": 1200
+   },
+   {
+    "name": "Wattasid Caliphate",
+    "subjecto": "Wattasid Caliphate",
+    "share": 0.2501
+   },
+   {
+    "name": "Almohad Caliphate",
+    "subjecto": "Almohad Caliphate",
+    "share": 0.1708,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Morocco",
+    "subjecto": "Morocco",
+    "share": 0.6021
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.3574,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0019,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Morocco",
+    "subjecto": "Morocco",
+    "share": 0.613
+   },
+   {
+    "name": "Rio De Oro",
+    "subjecto": "Rio De Oro",
+    "share": 0.172
+   },
+   {
+    "name": "Spanish Sahara",
+    "subjecto": "Spain",
+    "share": 0.1065
+   },
+   {
+    "name": "Spanish Morocco",
+    "subjecto": "Spanish Morocco",
+    "share": 0.0579
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Morocco",
+    "subjecto": "France",
+    "share": 0.6732
+   },
+   {
+    "name": "Western Sahara",
+    "subjecto": "Western Sahara",
+    "share": 0.279
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.007,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Morocco",
+    "subjecto": "Morocco",
+    "share": 0.6753
+   },
+   {
+    "name": "Western Sahara",
+    "subjecto": "Western Sahara",
+    "share": 0.279
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ]
+ }
+}

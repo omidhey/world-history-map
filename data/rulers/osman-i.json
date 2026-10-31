@@ -1,0 +1,19 @@
+{
+  "id": "osman-i",
+  "wikidata": "Q83100",
+  "name": "Osman I",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1299,
+  "end": 1326,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Osman_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83100",
+    "https://en.wikipedia.org/wiki/Osman_I"
+  ],
+  "disputed": false
+}

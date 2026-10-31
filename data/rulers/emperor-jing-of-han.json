@@ -1,0 +1,19 @@
+{
+  "id": "emperor-jing-of-han",
+  "wikidata": "Q7224",
+  "name": "Emperor Jing of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "western-han",
+  "start": -157,
+  "end": -141,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Jing_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7224",
+    "https://en.wikipedia.org/wiki/Emperor_Jing_of_Han"
+  ],
+  "disputed": false
+}

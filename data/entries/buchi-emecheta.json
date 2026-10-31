@@ -1,0 +1,23 @@
+{
+  "id": "buchi-emecheta",
+  "wikidata": "Q461675",
+  "name": "Buchi Emecheta",
+  "category": "writer",
+  "start": 1944,
+  "end": 2017,
+  "date_precision": "day",
+  "location": {
+    "lat": 6.46,
+    "lon": 3.39,
+    "place": "Lagos"
+  },
+  "summary": "Nigerian writer (1944–2017), born in Lagos. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Buchi_Emecheta"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q461675",
+    "https://en.wikipedia.org/wiki/Buchi_Emecheta"
+  ],
+  "disputed": false
+}

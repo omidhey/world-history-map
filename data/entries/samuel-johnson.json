@@ -1,0 +1,23 @@
+{
+  "id": "samuel-johnson",
+  "wikidata": "Q183266",
+  "name": "Samuel Johnson",
+  "category": "writer",
+  "start": 1709,
+  "end": 1784,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.68,
+    "lon": -1.83,
+    "place": "Lichfield"
+  },
+  "summary": "English writer and lexicographer (1709–1784), born in Lichfield. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Johnson"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q183266",
+    "https://en.wikipedia.org/wiki/Samuel_Johnson"
+  ],
+  "disputed": false
+}

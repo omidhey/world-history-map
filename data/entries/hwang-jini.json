@@ -1,0 +1,23 @@
+{
+  "id": "hwang-jini",
+  "wikidata": "Q464510",
+  "name": "Hwang Jini",
+  "category": "writer",
+  "start": 1506,
+  "end": 1544,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 126.55,
+    "place": "Kaesong"
+  },
+  "summary": "Korean gisaeng, poet, dancer and philosopher (1506-1544), born in Kaesong. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hwang_Jini"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q464510",
+    "https://en.wikipedia.org/wiki/Hwang_Jini"
+  ],
+  "disputed": false
+}

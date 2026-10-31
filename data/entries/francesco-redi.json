@@ -1,0 +1,23 @@
+{
+  "id": "francesco-redi",
+  "wikidata": "Q311187",
+  "name": "Francesco Redi",
+  "category": "scientist",
+  "start": 1626,
+  "end": 1697,
+  "date_precision": "day",
+  "location": {
+    "lat": 43.23,
+    "lon": -7.59,
+    "place": "Villapene"
+  },
+  "summary": "Italian physician, naturalist, biologist, and poet (1626–1697), born in Villapene. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Redi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311187",
+    "https://en.wikipedia.org/wiki/Francesco_Redi"
+  ],
+  "disputed": false
+}

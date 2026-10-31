@@ -1,0 +1,18 @@
+{
+  "id": "huascar",
+  "wikidata": "Q213749",
+  "name": "Huáscar",
+  "polity": "inca-empire",
+  "title": "Sapa Inca",
+  "start": 1527,
+  "end": 1532,
+  "date_precision": "circa",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hu%C3%A1scar"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q213749",
+    "https://en.wikipedia.org/wiki/Hu%C3%A1scar"
+  ],
+  "disputed": false
+}

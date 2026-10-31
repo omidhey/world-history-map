@@ -1,0 +1,213 @@
+{
+ "country": "HND",
+ "name": "Honduras",
+ "area_km2": 113787,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9572
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.9664
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9572
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9572
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8502,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.1105
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0057,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8468,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.1105
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8468,
+    "carried": -500
+   },
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.1105
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8456,
+    "carried": -500
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0091,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8456,
+    "carried": -500
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1082,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0034,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.8456,
+    "carried": -500
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.1082,
+    "carried": 800
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0053,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.9761
+   }
+  ],
+  "1914": [
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.9247
+   },
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.0389
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.9247
+   },
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.0389
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.94
+   },
+   {
+    "name": "Nicaragua",
+    "subjecto": "Nicaragua",
+    "share": 0.025
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ]
+ }
+}

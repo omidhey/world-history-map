@@ -1,0 +1,23 @@
+{
+  "id": "tycho-brahe",
+  "wikidata": "Q36620",
+  "name": "Tycho Brahe",
+  "category": "scientist",
+  "start": 1546,
+  "end": 1601,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.98,
+    "lon": 13.13,
+    "place": "Knutstorp Castle"
+  },
+  "summary": "Danish astronomer and alchemist, 1546–1601, born in Knutstorp Castle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36620",
+    "https://en.wikipedia.org/wiki/Tycho_Brahe"
+  ],
+  "disputed": false
+}

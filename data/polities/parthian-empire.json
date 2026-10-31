@@ -1,0 +1,26 @@
+{
+  "id": "parthian-empire",
+  "wikidata": "Q1986139",
+  "name": "Parthian Empire",
+  "border_names": [
+    "Parthian Empire"
+  ],
+  "type": "empire",
+  "start": -247,
+  "end": 224,
+  "date_precision": "year",
+  "capital": {
+    "lat": 33.09,
+    "lon": 44.58,
+    "place": "Ctesiphon"
+  },
+  "summary": "Iranian empire that controlled the land between Rome and China for almost five centuries and held back Roman armies on the eastern frontier.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parthian_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1986139",
+    "https://en.wikipedia.org/wiki/Parthian_Empire"
+  ],
+  "disputed": false
+}

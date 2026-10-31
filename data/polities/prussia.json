@@ -1,0 +1,26 @@
+{
+  "id": "prussia",
+  "wikidata": "Q27306",
+  "name": "Kingdom of Prussia",
+  "border_names": [
+    "Prussia"
+  ],
+  "type": "kingdom",
+  "start": 1701,
+  "end": 1918,
+  "date_precision": "year",
+  "capital": {
+    "lat": 52.52,
+    "lon": 13.4,
+    "place": "Berlin"
+  },
+  "summary": "German monarchy known for its army and administration, which led the unification of Germany in 1871.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q27306",
+    "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+  ],
+  "disputed": false
+}

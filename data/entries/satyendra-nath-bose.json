@@ -1,0 +1,23 @@
+{
+  "id": "satyendra-nath-bose",
+  "wikidata": "Q45789",
+  "name": "Satyendra Nath Bose",
+  "category": "scientist",
+  "start": 1894,
+  "end": 1974,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.57,
+    "lon": 88.37,
+    "place": "Kolkata"
+  },
+  "summary": "Indian Bengali physicist and polymath (1894–1974), born in Kolkata. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q45789",
+    "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
+  ],
+  "disputed": false
+}

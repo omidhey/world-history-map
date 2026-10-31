@@ -1,0 +1,22 @@
+{
+  "id": "oresteia",
+  "wikidata": "Q249769",
+  "name": "Oresteia",
+  "category": "work",
+  "start": -458,
+  "date_precision": "century",
+  "location": {
+    "lat": 38.04,
+    "lon": 23.55,
+    "place": "Elefsina"
+  },
+  "summary": "Trilogy of Greek tragedies written by Aeschylus, associated with Elefsina. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Oresteia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q249769",
+    "https://en.wikipedia.org/wiki/Oresteia"
+  ],
+  "disputed": false
+}

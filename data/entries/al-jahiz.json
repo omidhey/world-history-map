@@ -1,0 +1,41 @@
+{
+  "id": "al-jahiz",
+  "wikidata": "Q293497",
+  "name": "Al-Jahiz",
+  "category": "writer",
+  "start": 775,
+  "end": 868,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.52,
+    "lon": 47.81,
+    "place": "Basra"
+  },
+  "summary": "Arabic writer (776–869), born in Basra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Al-Jahiz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q293497",
+    "https://en.wikipedia.org/wiki/Al-Jahiz"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 868,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q293497"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 869,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q293497"
+      ]
+    }
+  ]
+}

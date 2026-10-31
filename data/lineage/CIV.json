@@ -1,0 +1,195 @@
+{
+ "country": "CIV",
+ "name": "Côte d'Ivoire",
+ "area_km2": 329827,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9921
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9921
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9921
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9921
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9921
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9921
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9894
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9921
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9882,
+    "carried": 400
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.004,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9877
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.9556
+   },
+   {
+    "name": "Akan",
+    "subjecto": "Akan",
+    "share": 0.0259
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0106,
+    "carried": 1200
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.6758,
+    "carried": 1500
+   },
+   {
+    "name": "Kong Empire",
+    "subjecto": "Kong Empire",
+    "share": 0.1531
+   },
+   {
+    "name": "Asante",
+    "subjecto": "Asante",
+    "share": 0.1514
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0095,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9782
+   },
+   {
+    "name": "Liberia",
+    "subjecto": "Liberia",
+    "share": 0.0137
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Ivory Coast",
+    "subjecto": "France",
+    "share": 0.9392
+   },
+   {
+    "name": "Guinea",
+    "subjecto": "France",
+    "share": 0.0279
+   },
+   {
+    "name": "Liberia",
+    "subjecto": "Liberia",
+    "share": 0.0127
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0124,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Ivory Coast",
+    "subjecto": "Ivory Coast",
+    "share": 0.9392
+   },
+   {
+    "name": "Guinea",
+    "subjecto": "Guinea",
+    "share": 0.0281
+   },
+   {
+    "name": "Liberia",
+    "subjecto": "Liberia",
+    "share": 0.0124
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0124,
+    "other": true
+   }
+  ]
+ }
+}

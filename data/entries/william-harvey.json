@@ -1,0 +1,23 @@
+{
+  "id": "william-harvey",
+  "wikidata": "Q93128",
+  "name": "William Harvey",
+  "category": "scientist",
+  "start": 1578,
+  "end": 1657,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.08,
+    "lon": 1.18,
+    "place": "Folkestone"
+  },
+  "summary": "English physician (1578-1657), born in Folkestone. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Harvey"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q93128",
+    "https://en.wikipedia.org/wiki/William_Harvey"
+  ],
+  "disputed": false
+}

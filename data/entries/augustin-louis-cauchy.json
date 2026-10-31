@@ -1,0 +1,23 @@
+{
+  "id": "augustin-louis-cauchy",
+  "wikidata": "Q8814",
+  "name": "Augustin-Louis Cauchy",
+  "category": "scientist",
+  "start": 1789,
+  "end": 1857,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "French mathematician (1789–1857), born in Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8814",
+    "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy"
+  ],
+  "disputed": false
+}

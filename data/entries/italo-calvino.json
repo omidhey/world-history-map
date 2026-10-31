@@ -1,0 +1,23 @@
+{
+  "id": "italo-calvino",
+  "wikidata": "Q154756",
+  "name": "Italo Calvino",
+  "category": "writer",
+  "start": 1923,
+  "end": 1985,
+  "date_precision": "day",
+  "location": {
+    "lat": 22.98,
+    "lon": -82.38,
+    "place": "Santiago de las Vegas"
+  },
+  "summary": "Italian journalist and writer (1923-1985), born in Santiago de las Vegas. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Italo_Calvino"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q154756",
+    "https://en.wikipedia.org/wiki/Italo_Calvino"
+  ],
+  "disputed": false
+}

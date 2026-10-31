@@ -1,0 +1,178 @@
+{
+ "country": "ARE",
+ "name": "United Arab Emirates",
+ "area_km2": 80034,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.8935
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.8935
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8935
+   }
+  ],
+  "-500": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8935,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.8935,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.6382,
+    "carried": -1000
+   },
+   {
+    "name": "Mascat",
+    "subjecto": "Mascat",
+    "share": 0.236
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0157
+   }
+  ],
+  "400": [
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.6344,
+    "carried": -1000
+   },
+   {
+    "name": "Mascat",
+    "subjecto": "Mascat",
+    "share": 0.2265,
+    "carried": -1
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.886
+   }
+  ],
+  "1200": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.6762,
+    "carried": 800
+   },
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.2027
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0211
+   }
+  ],
+  "1500": [
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.6059
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.2549
+   }
+  ],
+  "1800": [
+   {
+    "name": "Muscat",
+    "subjecto": "Muscat",
+    "share": 0.5921,
+    "carried": 1500
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.2549,
+    "carried": 1500
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0199
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0068,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "British Protectorate",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.8774
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0037,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "United Arab Emirates",
+    "subjecto": "United Arab Emirates",
+    "share": 0.8746
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "United Arab Emirates",
+    "subjecto": "United Arab Emirates",
+    "share": 0.8746
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0041,
+    "other": true
+   }
+  ]
+ }
+}

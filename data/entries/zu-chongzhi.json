@@ -1,0 +1,23 @@
+{
+  "id": "zu-chongzhi",
+  "wikidata": "Q227444",
+  "name": "Zu Chongzhi",
+  "category": "scientist",
+  "start": 429,
+  "end": 501,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.06,
+    "lon": 118.8,
+    "place": "Jiankang"
+  },
+  "summary": "Chinese mathematician-astronomer, born in Jiankang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zu_Chongzhi"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q227444",
+    "https://en.wikipedia.org/wiki/Zu_Chongzhi"
+  ],
+  "disputed": false
+}

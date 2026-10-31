@@ -1,0 +1,26 @@
+{
+  "id": "visigoths",
+  "wikidata": "Q23693",
+  "name": "Visigoths",
+  "border_names": [
+    "Visigoths"
+  ],
+  "type": "kingdom",
+  "start": 395,
+  "end": 711,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 39.86,
+    "lon": -4.03,
+    "place": "Toledo"
+  },
+  "summary": "Gothic people who sacked Rome in 410 and then ruled Gaul and Hispania until the Muslim conquest of Spain.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Visigoths"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q23693",
+    "https://en.wikipedia.org/wiki/Visigoths"
+  ],
+  "disputed": false
+}

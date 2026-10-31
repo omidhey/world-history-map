@@ -1,0 +1,23 @@
+{
+  "id": "nilakantha-somayaji",
+  "wikidata": "Q2548030",
+  "name": "Nilakantha Somayaji",
+  "category": "scientist",
+  "start": 1444,
+  "end": 1501,
+  "date_precision": "year",
+  "location": {
+    "lat": 10.92,
+    "lon": 75.92,
+    "place": "Tirur"
+  },
+  "summary": "Indian mathematician, born in Tirur. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nilakantha_Somayaji"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2548030",
+    "https://en.wikipedia.org/wiki/Nilakantha_Somayaji"
+  ],
+  "disputed": false
+}

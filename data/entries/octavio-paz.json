@@ -1,0 +1,23 @@
+{
+  "id": "octavio-paz",
+  "wikidata": "Q46739",
+  "name": "Octavio Paz",
+  "category": "writer",
+  "start": 1914,
+  "end": 1998,
+  "date_precision": "day",
+  "location": {
+    "lat": 19.38,
+    "lon": -99.19,
+    "place": "Mixcoac"
+  },
+  "summary": "Mexican writer, poet an diplomat (1914–1998), born in Mixcoac. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Octavio_Paz"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q46739",
+    "https://en.wikipedia.org/wiki/Octavio_Paz"
+  ],
+  "disputed": false
+}

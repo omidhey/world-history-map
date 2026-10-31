@@ -1,0 +1,19 @@
+{
+  "id": "jiajing-emperor",
+  "wikidata": "Q10011",
+  "name": "Jiajing Emperor",
+  "polity": "ming-empire",
+  "title": "Emperor",
+  "dynasty": "ming-imperial-house",
+  "start": 1521,
+  "end": 1567,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jiajing_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10011",
+    "https://en.wikipedia.org/wiki/Jiajing_Emperor"
+  ],
+  "disputed": false
+}

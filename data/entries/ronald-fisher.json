@@ -1,0 +1,23 @@
+{
+  "id": "ronald-fisher",
+  "wikidata": "Q216723",
+  "name": "Ronald Fisher",
+  "category": "scientist",
+  "start": 1890,
+  "end": 1962,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.59,
+    "lon": -0.18,
+    "place": "East Finchley"
+  },
+  "summary": "British statistician, evolutionary biologist and geneticist (1890–1962), born in East Finchley. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Fisher"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q216723",
+    "https://en.wikipedia.org/wiki/Ronald_Fisher"
+  ],
+  "disputed": false
+}

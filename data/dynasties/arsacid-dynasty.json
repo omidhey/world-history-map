@@ -1,0 +1,18 @@
+{
+  "id": "arsacid-dynasty",
+  "wikidata": "Q1986139",
+  "name": "Arsacid dynasty",
+  "polity": "parthian-empire",
+  "start": -247,
+  "end": 224,
+  "date_precision": "year",
+  "summary": "Royal house of the Parthian empire, founded by Arsaces I, which ruled Iran and Mesopotamia until the Sasanians overthrew it.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arsacid_dynasty_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1986139",
+    "https://en.wikipedia.org/wiki/Arsacid_dynasty_of_Parthia"
+  ],
+  "disputed": false
+}

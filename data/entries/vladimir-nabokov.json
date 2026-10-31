@@ -1,0 +1,23 @@
+{
+  "id": "vladimir-nabokov",
+  "wikidata": "Q36591",
+  "name": "Vladimir Nabokov",
+  "category": "writer",
+  "start": 1899,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.95,
+    "lon": 30.32,
+    "place": "Saint Petersburg"
+  },
+  "summary": "Russian-American novelist, lepidopterist, professor (1899–1977), born in Saint Petersburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Nabokov"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q36591",
+    "https://en.wikipedia.org/wiki/Vladimir_Nabokov"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kong-shangren",
+  "wikidata": "Q834579",
+  "name": "Kong Shangren",
+  "category": "writer",
+  "start": 1648,
+  "end": 1718,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.6,
+    "lon": 116.98,
+    "place": "Qufu"
+  },
+  "summary": "Chinese writer, born in Qufu. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kong_Shangren"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q834579",
+    "https://en.wikipedia.org/wiki/Kong_Shangren"
+  ],
+  "disputed": false
+}

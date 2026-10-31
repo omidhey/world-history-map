@@ -1,0 +1,23 @@
+{
+  "id": "saigyo",
+  "wikidata": "Q224689",
+  "name": "Saigyō",
+  "category": "writer",
+  "start": 1118,
+  "end": 1190,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Kyoto"
+  },
+  "summary": "Japanese poet, born in Kyoto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saigyō"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q224689",
+    "https://en.wikipedia.org/wiki/Saigyō"
+  ],
+  "disputed": false
+}

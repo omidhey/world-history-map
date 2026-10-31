@@ -1,0 +1,21 @@
+{
+  "id": "chagatai-khanate",
+  "wikidata": "Q487829",
+  "name": "Chagatai Khanate",
+  "border_names": [
+    "Chagatai Khanate"
+  ],
+  "type": "khanate",
+  "start": 1225,
+  "end": 1687,
+  "date_precision": "circa",
+  "summary": "Central Asian khanate inherited by Genghis Khan's second son, which split into western and eastern halves and gradually adopted Turkic and Islamic ways.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chagatai_Khanate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q487829",
+    "https://en.wikipedia.org/wiki/Chagatai_Khanate"
+  ],
+  "disputed": false
+}

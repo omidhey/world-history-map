@@ -1,0 +1,23 @@
+{
+  "id": "khaqani",
+  "wikidata": "Q368862",
+  "name": "Khaqani",
+  "category": "writer",
+  "start": 1121,
+  "end": 1199,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.93,
+    "lon": 48.92,
+    "place": "Shirvan"
+  },
+  "summary": "12th-century Persian poet and author, born in Shirvan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khaqani"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q368862",
+    "https://en.wikipedia.org/wiki/Khaqani"
+  ],
+  "disputed": false
+}

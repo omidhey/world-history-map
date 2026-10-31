@@ -1,0 +1,41 @@
+{
+  "id": "bernardino-de-sahagun",
+  "wikidata": "Q379972",
+  "name": "Bernardino de Sahagún",
+  "category": "writer",
+  "start": 1499,
+  "end": 1590,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.37,
+    "lon": -5.03,
+    "place": "Sahagún"
+  },
+  "summary": "Ca. 1499-1590, Spanish mesoamericanist, evangelizador, fraile franciscano, misionero, born in Sahagún. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardino_de_Sahagún"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q379972",
+    "https://en.wikipedia.org/wiki/Bernardino_de_Sahagún"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1499,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q379972"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1500,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q379972"
+      ]
+    }
+  ]
+}

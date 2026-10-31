@@ -1,0 +1,23 @@
+{
+  "id": "carl-wilhelm-scheele",
+  "wikidata": "Q70538",
+  "name": "Carl Wilhelm Scheele",
+  "category": "scientist",
+  "start": 1742,
+  "end": 1786,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.31,
+    "lon": 13.08,
+    "place": "Stralsund"
+  },
+  "summary": "Swedish German chemist who discovered oxygen, born in Stralsund. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q70538",
+    "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+  ],
+  "disputed": false
+}

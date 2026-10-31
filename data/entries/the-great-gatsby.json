@@ -1,0 +1,22 @@
+{
+  "id": "the-great-gatsby",
+  "wikidata": "Q214371",
+  "name": "The Great Gatsby",
+  "category": "work",
+  "start": 1925,
+  "date_precision": "day",
+  "location": {
+    "lat": 44.94,
+    "lon": -93.09,
+    "place": "Saint Paul"
+  },
+  "summary": "1925 novel by F. Scott Fitzgerald, associated with Saint Paul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q214371",
+    "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+  ],
+  "disputed": false
+}

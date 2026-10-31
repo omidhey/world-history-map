@@ -1,0 +1,23 @@
+{
+  "id": "percy-bysshe-shelley",
+  "wikidata": "Q93343",
+  "name": "Percy Bysshe Shelley",
+  "category": "writer",
+  "start": 1792,
+  "end": 1822,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.06,
+    "lon": -0.33,
+    "place": "Horsham"
+  },
+  "summary": "British Romantic poet (1792–1822), born in Horsham. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q93343",
+    "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+  ],
+  "disputed": false
+}

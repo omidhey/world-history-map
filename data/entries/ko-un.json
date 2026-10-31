@@ -1,0 +1,22 @@
+{
+  "id": "ko-un",
+  "wikidata": "Q494036",
+  "name": "Ko Un",
+  "category": "writer",
+  "start": 1933,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.98,
+    "lon": 126.71,
+    "place": "Gunsan"
+  },
+  "summary": "Korean poet, born in Gunsan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ko_Un"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q494036",
+    "https://en.wikipedia.org/wiki/Ko_Un"
+  ],
+  "disputed": false
+}

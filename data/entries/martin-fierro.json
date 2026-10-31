@@ -1,0 +1,22 @@
+{
+  "id": "martin-fierro",
+  "wikidata": "Q832330",
+  "name": "Martín Fierro",
+  "category": "work",
+  "start": 1872,
+  "date_precision": "year",
+  "location": {
+    "lat": -34.43,
+    "lon": -59.43,
+    "place": "San Andrés de Giles"
+  },
+  "summary": "Epic poem by José Hernández by hernandez jose, associated with San Andrés de Giles. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Martín_Fierro"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q832330",
+    "https://en.wikipedia.org/wiki/Martín_Fierro"
+  ],
+  "disputed": false
+}

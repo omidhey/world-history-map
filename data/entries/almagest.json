@@ -1,0 +1,22 @@
+{
+  "id": "almagest",
+  "wikidata": "Q155952",
+  "name": "Almagest",
+  "category": "work",
+  "start": 148,
+  "date_precision": "year",
+  "location": {
+    "lat": 26.48,
+    "lon": 31.8,
+    "place": "Ptolemais Hermiou"
+  },
+  "summary": "Astronomical treatise by Claudius Ptolemy, associated with Ptolemais Hermiou. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Almagest"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q155952",
+    "https://en.wikipedia.org/wiki/Almagest"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "volcanic-event-of-536",
+  "name": "Volcanic eruptions of 536 and 540 CE",
+  "category": "event",
+  "start": 536,
+  "end": 540,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.0,
+    "lon": 10.0,
+    "place": "Northern Hemisphere (source volcanoes uncertain)"
+  },
+  "summary": "Ice cores show large volcanic sulphate deposits in 536 and 540 CE, and tree rings from several regions record cold summers afterwards.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Extreme_weather_events_of_535%E2%80%93536"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Extreme_weather_events_of_535%E2%80%93536",
+    "https://doi.org/10.1038/nature14565"
+  ],
+  "disputed": false
+}

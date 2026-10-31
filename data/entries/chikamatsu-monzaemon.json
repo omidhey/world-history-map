@@ -1,0 +1,23 @@
+{
+  "id": "chikamatsu-monzaemon",
+  "wikidata": "Q324986",
+  "name": "Chikamatsu Monzaemon",
+  "category": "writer",
+  "start": 1653,
+  "end": 1725,
+  "date_precision": "year",
+  "location": {
+    "lat": 35.96,
+    "lon": 136.37,
+    "place": "Echizen Province"
+  },
+  "summary": "Japanese playwright, born in Echizen Province. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chikamatsu_Monzaemon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q324986",
+    "https://en.wikipedia.org/wiki/Chikamatsu_Monzaemon"
+  ],
+  "disputed": false
+}

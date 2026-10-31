@@ -1,0 +1,22 @@
+{
+  "id": "hanan-al-shaykh",
+  "wikidata": "Q290143",
+  "name": "Hanan al-Shaykh",
+  "category": "writer",
+  "start": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 33.89,
+    "lon": 35.51,
+    "place": "Beirut"
+  },
+  "summary": "Lebanese writer, born in Beirut. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanan_al-Shaykh"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q290143",
+    "https://en.wikipedia.org/wiki/Hanan_al-Shaykh"
+  ],
+  "disputed": false
+}

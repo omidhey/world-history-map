@@ -1,0 +1,19 @@
+{
+  "id": "phraates-iv-of-parthia",
+  "wikidata": "Q312430",
+  "name": "Phraates IV of Parthia",
+  "polity": "parthian-empire",
+  "title": "King of Kings",
+  "dynasty": "arsacid-dynasty",
+  "start": -37,
+  "end": -2,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Phraates_IV_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312430",
+    "https://en.wikipedia.org/wiki/Phraates_IV_of_Parthia"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ahmad-shamloo",
+  "wikidata": "Q366521",
+  "name": "Ahmad Shamloo",
+  "category": "writer",
+  "start": 1925,
+  "end": 2000,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.69,
+    "lon": 51.39,
+    "place": "Tehran"
+  },
+  "summary": "Iranian Persian poet, writer, and journalist (1925-2000), born in Tehran. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmad_Shamlou"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q366521",
+    "https://en.wikipedia.org/wiki/Ahmad_Shamlou"
+  ],
+  "disputed": false
+}

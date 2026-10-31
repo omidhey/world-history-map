@@ -1,0 +1,23 @@
+{
+  "id": "thomas-hardy",
+  "wikidata": "Q132805",
+  "name": "Thomas Hardy",
+  "category": "writer",
+  "start": 1840,
+  "end": 1928,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.71,
+    "lon": -2.44,
+    "place": "Dorchester"
+  },
+  "summary": "English novelist and poet (1840–1928), born in Dorchester. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hardy"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q132805",
+    "https://en.wikipedia.org/wiki/Thomas_Hardy"
+  ],
+  "disputed": false
+}

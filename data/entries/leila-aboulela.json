@@ -1,0 +1,22 @@
+{
+  "id": "leila-aboulela",
+  "wikidata": "Q290220",
+  "name": "Leila Aboulela",
+  "category": "writer",
+  "start": 1964,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.04,
+    "lon": 31.24,
+    "place": "Cairo"
+  },
+  "summary": "Sudanese writer and playwright, born in Cairo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leila_Aboulela"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q290220",
+    "https://en.wikipedia.org/wiki/Leila_Aboulela"
+  ],
+  "disputed": false
+}

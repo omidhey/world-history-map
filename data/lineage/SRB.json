@@ -1,0 +1,285 @@
+{
+ "country": "SRB",
+ "name": "Serbia",
+ "area_km2": 76373,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.8135
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.1678
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0188
+   }
+  ],
+  "-500": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.8135,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.1678,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.1446
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0187,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.8134,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.1447,
+    "carried": -500
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.0232,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0187,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.8132
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.0967,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.0544,
+    "carried": -500
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.0204,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0152,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.5426
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.2399
+   },
+   {
+    "name": "Thrace",
+    "subjecto": "Thrace",
+    "share": 0.0931,
+    "carried": -1000
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.0536,
+    "carried": -500
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.0357,
+    "carried": -1
+   },
+   {
+    "name": "Illyrians",
+    "subjecto": "Illyrians",
+    "share": 0.0198,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0152,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Avars",
+    "subjecto": "Avars",
+    "share": 1.0
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bulgar Khanate",
+    "subjecto": "Bulgar Khanate",
+    "share": 0.7037
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.2963
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.7524
+   },
+   {
+    "name": "Imperial Hungary",
+    "subjecto": "Imperial Hungary",
+    "share": 0.2476
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.756
+   },
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 0.244
+   }
+  ],
+  "1914": [
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.7315
+   },
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.2528
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.011
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0048,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Yugoslavia",
+    "subjecto": "Yugoslavia",
+    "share": 0.9443
+   },
+   {
+    "name": "Romania",
+    "subjecto": "Romania",
+    "share": 0.0352
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.011
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Serbia",
+    "subjecto": "Serbia",
+    "share": 0.9325
+   },
+   {
+    "name": "Romania",
+    "subjecto": "Romania",
+    "share": 0.0352
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.0134
+   },
+   {
+    "name": "Bulgaria",
+    "subjecto": "Bulgaria",
+    "share": 0.0116
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ]
+ }
+}

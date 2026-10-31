@@ -1,0 +1,23 @@
+{
+  "id": "pytheas",
+  "wikidata": "Q189971",
+  "name": "Pytheas",
+  "category": "scientist",
+  "start": -359,
+  "end": -289,
+  "date_precision": "year",
+  "location": {
+    "lat": 43.3,
+    "lon": 5.37,
+    "place": "Massalia"
+  },
+  "summary": "Ancient Greek explorer, born in Massalia. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pytheas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189971",
+    "https://en.wikipedia.org/wiki/Pytheas"
+  ],
+  "disputed": false
+}

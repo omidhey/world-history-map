@@ -1,0 +1,22 @@
+{
+  "id": "tiangong-kaiwu",
+  "wikidata": "Q3275026",
+  "name": "Tiangong Kaiwu",
+  "category": "work",
+  "start": 1637,
+  "date_precision": "year",
+  "location": {
+    "lat": 28.73,
+    "lon": 115.17,
+    "place": "Fengxin County"
+  },
+  "summary": "Book by Song Yingxing, associated with Fengxin County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiangong_Kaiwu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3275026",
+    "https://en.wikipedia.org/wiki/Tiangong_Kaiwu"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wilhelm-rontgen",
+  "wikidata": "Q35149",
+  "name": "Wilhelm Röntgen",
+  "category": "scientist",
+  "start": 1845,
+  "end": 1923,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.19,
+    "lon": 7.26,
+    "place": "Lennep"
+  },
+  "summary": "German physicist (1845–1923), born in Lennep. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Röntgen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q35149",
+    "https://en.wikipedia.org/wiki/Wilhelm_Röntgen"
+  ],
+  "disputed": false
+}

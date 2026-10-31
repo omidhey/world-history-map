@@ -1,0 +1,150 @@
+{
+ "country": "ZMB",
+ "name": "Zambia",
+ "area_km2": 751792,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 1.0
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9403,
+    "carried": 1500
+   },
+   {
+    "name": "Luba",
+    "subjecto": "Luba",
+    "share": 0.0349
+   },
+   {
+    "name": "Lozi",
+    "subjecto": "Lozi",
+    "share": 0.0249
+   }
+  ],
+  "1914": [
+   {
+    "name": "Rhodesia",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9585
+   },
+   {
+    "name": "Belgian Congo",
+    "subjecto": "Belgium",
+    "share": 0.0248
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0167,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Northern Rhodesia",
+    "subjecto": "United Kingdom",
+    "share": 0.9575
+   },
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.0248
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0177,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Zambia",
+    "subjecto": "Zambia",
+    "share": 0.9575
+   },
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.0248
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0177,
+    "other": true
+   }
+  ]
+ }
+}

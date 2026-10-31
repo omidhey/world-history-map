@@ -1,0 +1,23 @@
+{
+  "id": "edward-jenner",
+  "wikidata": "Q40852",
+  "name": "Edward Jenner",
+  "category": "scientist",
+  "start": 1749,
+  "end": 1823,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.69,
+    "lon": -2.46,
+    "place": "Berkeley"
+  },
+  "summary": "English physician, scientist and pioneer of vaccination (1749–1823), born in Berkeley. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Jenner"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q40852",
+    "https://en.wikipedia.org/wiki/Edward_Jenner"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aristophanes",
+  "wikidata": "Q43353",
+  "name": "Aristophanes",
+  "category": "writer",
+  "start": -445,
+  "end": -385,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.97,
+    "lon": 23.72,
+    "place": "Classical Athens"
+  },
+  "summary": "Classical Athenian comic playwright (c. 446 – c. 386 BC), born in Classical Athens. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristophanes"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43353",
+    "https://en.wikipedia.org/wiki/Aristophanes"
+  ],
+  "disputed": false
+}

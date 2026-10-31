@@ -1,0 +1,22 @@
+{
+  "id": "hong-gildong-jeon",
+  "wikidata": "Q14911972",
+  "name": "Hong Gildong jeon",
+  "category": "work",
+  "start": 1612,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.76,
+    "lon": 128.9,
+    "place": "Gangneung"
+  },
+  "summary": "Korean-language novel by Heo Gyun about the folk-hero figure Hong Gildong, written in the late 16th or early 17th century, associated with Gangneung. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hong_Gildong_jeon"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q14911972",
+    "https://en.wikipedia.org/wiki/Hong_Gildong_jeon"
+  ],
+  "disputed": false
+}

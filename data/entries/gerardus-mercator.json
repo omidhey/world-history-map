@@ -1,0 +1,23 @@
+{
+  "id": "gerardus-mercator",
+  "wikidata": "Q6353",
+  "name": "Gerardus Mercator",
+  "category": "scientist",
+  "start": 1512,
+  "end": 1594,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.13,
+    "lon": 4.29,
+    "place": "Rupelmonde"
+  },
+  "summary": "Flemish geographer, cosmographer and cartographer (1512–1594), born in Rupelmonde. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerardus_Mercator"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6353",
+    "https://en.wikipedia.org/wiki/Gerardus_Mercator"
+  ],
+  "disputed": false
+}

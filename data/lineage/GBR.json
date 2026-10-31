@@ -1,0 +1,274 @@
+{
+ "country": "GBR",
+ "name": "United Kingdom",
+ "area_km2": 249930,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.779
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Beaker",
+    "subjecto": "Beaker",
+    "share": 0.6806
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.1038
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7729
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7501,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0156
+   }
+  ],
+  "-323": [
+   {
+    "name": "Celts",
+    "subjecto": "Celts",
+    "share": 0.7502
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Celts",
+    "subjecto": "Celts",
+    "share": 0.7297,
+    "carried": -323
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0335
+   },
+   {
+    "name": "Dumonii",
+    "subjecto": "Dumonii",
+    "share": 0.0261
+   }
+  ],
+  "400": [
+   {
+    "name": "Celts",
+    "subjecto": "Celts",
+    "share": 0.449,
+    "carried": -323
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.2778
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0388
+   },
+   {
+    "name": "Dumonii",
+    "subjecto": "Dumonii",
+    "share": 0.0261
+   }
+  ],
+  "800": [
+   {
+    "name": "Mercia",
+    "subjecto": "Mercia",
+    "share": 0.2944
+   },
+   {
+    "name": "Celtic kingdoms",
+    "subjecto": "Celtic kingdoms",
+    "share": 0.0991
+   },
+   {
+    "name": "Picts",
+    "subjecto": "Picts",
+    "share": 0.0866
+   },
+   {
+    "name": "Welsh",
+    "subjecto": "Welsh",
+    "share": 0.0476
+   },
+   {
+    "name": "Irlanda",
+    "subjecto": "Irlanda",
+    "share": 0.045
+   },
+   {
+    "name": "Scots",
+    "subjecto": "Scots",
+    "share": 0.0431
+   },
+   {
+    "name": "Wessex",
+    "subjecto": "Wessex",
+    "share": 0.0331
+   },
+   {
+    "name": "Northumbria",
+    "subjecto": "Northumbria",
+    "share": 0.0293
+   },
+   {
+    "name": "Essex",
+    "subjecto": "Essex",
+    "share": 0.0232
+   },
+   {
+    "name": "Kent",
+    "subjecto": "Kent",
+    "share": 0.0117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Angevin Empire",
+    "subjecto": "Angevin Empire",
+    "share": 0.3917
+   },
+   {
+    "name": "Scotland",
+    "subjecto": "Scotland",
+    "share": 0.2022
+   },
+   {
+    "name": "Celtic kingdoms",
+    "subjecto": "Celtic kingdoms",
+    "share": 0.1161
+   },
+   {
+    "name": "Scots",
+    "subjecto": "Scots",
+    "share": 0.0291,
+    "carried": 800
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0215
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0127,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "England",
+    "subjecto": "England",
+    "share": 0.5776
+   },
+   {
+    "name": "Scotland",
+    "subjecto": "Scotland",
+    "share": 0.2004
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "United Kingdom",
+    "subjecto": "UK",
+    "share": 0.7328
+   },
+   {
+    "name": "Kingdom of Ireland",
+    "subjecto": "UK",
+    "share": 0.0462
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "United Kingdom of Great Britain and Ireland",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.7893
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.002,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "United Kingdom",
+    "subjecto": "United Kingdom",
+    "share": 0.7644
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "United Kingdom",
+    "subjecto": "United Kingdom",
+    "share": 0.7815
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ]
+ }
+}

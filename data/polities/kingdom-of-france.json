@@ -1,0 +1,27 @@
+{
+  "id": "kingdom-of-france",
+  "wikidata": "Q70972",
+  "name": "Kingdom of France",
+  "border_names": [
+    "Kingdom of France",
+    "France"
+  ],
+  "type": "kingdom",
+  "start": 987,
+  "end": 1792,
+  "date_precision": "year",
+  "capital": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Monarchy that grew from the lands around Paris into one of Europe's strongest states, ending with the French Revolution.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_France"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q70972",
+    "https://en.wikipedia.org/wiki/Kingdom_of_France"
+  ],
+  "disputed": false
+}

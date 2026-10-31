@@ -1,0 +1,22 @@
+{
+  "id": "nausea",
+  "wikidata": "Q658288",
+  "name": "Nausea",
+  "category": "work",
+  "start": 1938,
+  "date_precision": "year",
+  "location": {
+    "lat": 48.86,
+    "lon": 2.35,
+    "place": "Paris"
+  },
+  "summary": "Novel by Jean-Paul Sartre, associated with Paris. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nausea_(novel)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q658288",
+    "https://en.wikipedia.org/wiki/Nausea_(novel)"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "house-of-plantagenet",
+  "wikidata": "Q106151",
+  "name": "House of Plantagenet",
+  "polity": "kingdom-of-england",
+  "start": 1154,
+  "end": 1485,
+  "date_precision": "year",
+  "summary": "Angevin line of kings that ruled England from Henry II to Richard III, including the Lancaster and York branches.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/House_of_Plantagenet"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q106151",
+    "https://en.wikipedia.org/wiki/House_of_Plantagenet"
+  ],
+  "disputed": false
+}

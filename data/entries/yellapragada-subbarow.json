@@ -1,0 +1,23 @@
+{
+  "id": "yellapragada-subbarow",
+  "wikidata": "Q3320678",
+  "name": "Yellapragada Subbarow",
+  "category": "scientist",
+  "start": 1895,
+  "end": 1948,
+  "date_precision": "day",
+  "location": {
+    "lat": 16.54,
+    "lon": 81.52,
+    "place": "Bhimavaram"
+  },
+  "summary": "Indian-American scientist, born in Bhimavaram. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellapragada_Subbarow"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3320678",
+    "https://en.wikipedia.org/wiki/Yellapragada_Subbarow"
+  ],
+  "disputed": false
+}

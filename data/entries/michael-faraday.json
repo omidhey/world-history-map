@@ -1,0 +1,23 @@
+{
+  "id": "michael-faraday",
+  "wikidata": "Q8750",
+  "name": "Michael Faraday",
+  "category": "scientist",
+  "start": 1791,
+  "end": 1867,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.49,
+    "lon": -0.1,
+    "place": "Newington Butts"
+  },
+  "summary": "British scientist (1791–1867), born in Newington Butts. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Faraday"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8750",
+    "https://en.wikipedia.org/wiki/Michael_Faraday"
+  ],
+  "disputed": false
+}

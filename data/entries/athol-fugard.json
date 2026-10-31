@@ -1,0 +1,23 @@
+{
+  "id": "athol-fugard",
+  "wikidata": "Q601307",
+  "name": "Athol Fugard",
+  "category": "writer",
+  "start": 1932,
+  "end": 2025,
+  "date_precision": "day",
+  "location": {
+    "lat": -31.49,
+    "lon": 25.02,
+    "place": "Middelburg"
+  },
+  "summary": "South African playwright (1932–2025), born in Middelburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Athol_Fugard"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q601307",
+    "https://en.wikipedia.org/wiki/Athol_Fugard"
+  ],
+  "disputed": false
+}

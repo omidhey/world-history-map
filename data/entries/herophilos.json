@@ -1,0 +1,23 @@
+{
+  "id": "herophilos",
+  "wikidata": "Q312500",
+  "name": "Herophilos",
+  "category": "scientist",
+  "start": -335,
+  "end": -280,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.98,
+    "lon": 29.03,
+    "place": "Chalcedon"
+  },
+  "summary": "Greek physician (335–280 BC), born in Chalcedon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Herophilos"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312500",
+    "https://en.wikipedia.org/wiki/Herophilos"
+  ],
+  "disputed": false
+}

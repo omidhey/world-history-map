@@ -1,0 +1,19 @@
+{
+  "id": "arsaces-i-of-parthia",
+  "wikidata": "Q315913",
+  "name": "Arsaces I of Parthia",
+  "polity": "parthian-empire",
+  "title": "King",
+  "dynasty": "arsacid-dynasty",
+  "start": -247,
+  "end": -211,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arsaces_I_of_Parthia"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q315913",
+    "https://en.wikipedia.org/wiki/Arsaces_I_of_Parthia"
+  ],
+  "disputed": false
+}

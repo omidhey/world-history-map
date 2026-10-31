@@ -1,0 +1,254 @@
+{
+ "country": "TCD",
+ "name": "Chad",
+ "area_km2": 1270364,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8294
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.1706
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.8226
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.1774
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7276
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2724
+   }
+  ],
+  "-500": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7276
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2724
+   }
+  ],
+  "-323": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7276
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2724
+   }
+  ],
+  "-1": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7276,
+    "carried": -323
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2724
+   }
+  ],
+  "400": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.7276,
+    "carried": -323
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2724
+   }
+  ],
+  "800": [
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.5697,
+    "carried": -323
+   },
+   {
+    "name": "Kanem",
+    "subjecto": "Kanem",
+    "share": 0.2445
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1858
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1858,
+    "carried": 400
+   }
+  ],
+  "1200": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.6765
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1858
+   },
+   {
+    "name": "Kanem",
+    "subjecto": "Kanem",
+    "share": 0.1378
+   }
+  ],
+  "1500": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.6711,
+    "carried": 1200
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1858
+   },
+   {
+    "name": "Kanem",
+    "subjecto": "Kanem",
+    "share": 0.0985,
+    "carried": 1200
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.0446
+   }
+  ],
+  "1800": [
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.5435,
+    "carried": 1200
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.1247
+   },
+   {
+    "name": "Bagirmi",
+    "subjecto": "Bagirmi",
+    "share": 0.1021
+   },
+   {
+    "name": "Wadai",
+    "subjecto": "Wadai",
+    "share": 0.0822
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0761,
+    "carried": 1500
+   },
+   {
+    "name": "Kanem",
+    "subjecto": "Kanem",
+    "share": 0.0616,
+    "carried": 1200
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9663
+   },
+   {
+    "name": "Kamerun",
+    "subjecto": "Kamerun",
+    "share": 0.0291
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0046,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Chad",
+    "subjecto": "France",
+    "share": 0.9777
+   },
+   {
+    "name": "Niger",
+    "subjecto": "France",
+    "share": 0.0122
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0101,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Chad",
+    "subjecto": "Chad",
+    "share": 0.9787
+   },
+   {
+    "name": "Niger",
+    "subjecto": "Niger",
+    "share": 0.0122
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0091,
+    "other": true
+   }
+  ]
+ }
+}

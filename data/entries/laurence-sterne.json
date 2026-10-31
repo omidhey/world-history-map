@@ -1,0 +1,23 @@
+{
+  "id": "laurence-sterne",
+  "wikidata": "Q218960",
+  "name": "Laurence Sterne",
+  "category": "writer",
+  "start": 1713,
+  "end": 1768,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.35,
+    "lon": -7.71,
+    "place": "Clonmel"
+  },
+  "summary": "Anglo-Irish novelist and Anglican cleric (1713–1768), born in Clonmel. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Sterne"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q218960",
+    "https://en.wikipedia.org/wiki/Laurence_Sterne"
+  ],
+  "disputed": false
+}

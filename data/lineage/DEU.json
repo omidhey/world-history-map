@@ -1,0 +1,338 @@
+{
+ "country": "DEU",
+ "name": "Germany",
+ "area_km2": 357399,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9865
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9413
+   },
+   {
+    "name": "Únětice",
+    "subjecto": "Únětice",
+    "share": 0.0452
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7786
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2061
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7786,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2061,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7786,
+    "carried": -1000
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.2061,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0018,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.7137
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.1531,
+    "carried": -1000
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1185,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.4242,
+    "carried": -1
+   },
+   {
+    "name": "Western Roman Empire",
+    "subjecto": "Western Roman Empire",
+    "share": 0.2158
+   },
+   {
+    "name": "N. European Bronze Age cultures",
+    "subjecto": "N. European Bronze Age cultures",
+    "share": 0.1531,
+    "carried": -1000
+   },
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.1185,
+    "carried": -1000
+   },
+   {
+    "name": "Alamans",
+    "subjecto": "Alamans",
+    "share": 0.0393
+   },
+   {
+    "name": "Burgundians",
+    "subjecto": "Burgundians",
+    "share": 0.018
+   },
+   {
+    "name": "Franks",
+    "subjecto": "Franks",
+    "share": 0.0164
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.898
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.2543
+   },
+   {
+    "name": "Danes",
+    "subjecto": "Danes",
+    "share": 0.014
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.812
+   },
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.1036,
+    "carried": 800
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.028
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.0207,
+    "carried": 800
+   },
+   {
+    "name": "Denmark",
+    "subjecto": "Denmark",
+    "share": 0.0131
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0029,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.9659
+   },
+   {
+    "name": "Kalmar Union",
+    "subjecto": "Kalmar Union",
+    "share": 0.013
+   }
+  ],
+  "1800": [
+   {
+    "name": "Swabia",
+    "subjecto": "Swabia",
+    "share": 0.2484
+   },
+   {
+    "name": "Prussia",
+    "subjecto": "Prussia",
+    "share": 0.232
+   },
+   {
+    "name": "Mecklenburg-Strelitz",
+    "subjecto": "UK",
+    "share": 0.1219
+   },
+   {
+    "name": "Saxony",
+    "subjecto": "Saxony",
+    "share": 0.0996
+   },
+   {
+    "name": "Bavaria",
+    "subjecto": "Bavaria",
+    "share": 0.0889
+   },
+   {
+    "name": "Mecklenburg-Schwerin",
+    "subjecto": "Mecklenburg-Schwerin",
+    "share": 0.0512
+   },
+   {
+    "name": "Württemberg",
+    "subjecto": "Württemberg",
+    "share": 0.0286
+   },
+   {
+    "name": "Baden",
+    "subjecto": "Baden",
+    "share": 0.0255
+   },
+   {
+    "name": "Holstein",
+    "subjecto": "Holstein",
+    "share": 0.0189
+   },
+   {
+    "name": "Denmark-Norway",
+    "subjecto": null,
+    "share": 0.0131
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0432,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.9576
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.017,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Germany (Soviet)",
+    "subjecto": "USSR",
+    "share": 0.3105
+   },
+   {
+    "name": "Germany (USA)",
+    "subjecto": "USA",
+    "share": 0.2761
+   },
+   {
+    "name": "Germany (UK)",
+    "subjecto": "United Kingdom",
+    "share": 0.2627
+   },
+   {
+    "name": "Germany (France)",
+    "subjecto": "France",
+    "share": 0.1039
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0249,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Germany",
+    "subjecto": "Germany",
+    "share": 0.9532
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0235,
+    "other": true
+   }
+  ]
+ }
+}

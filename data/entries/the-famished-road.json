@@ -1,0 +1,22 @@
+{
+  "id": "the-famished-road",
+  "wikidata": "Q2086419",
+  "name": "The Famished Road",
+  "category": "work",
+  "start": 1991,
+  "date_precision": "day",
+  "location": {
+    "lat": 9.61,
+    "lon": 6.56,
+    "place": "Minna"
+  },
+  "summary": "1991 novel by Ben Okri, associated with Minna. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Famished_Road"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2086419",
+    "https://en.wikipedia.org/wiki/The_Famished_Road"
+  ],
+  "disputed": false
+}

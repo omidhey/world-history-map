@@ -1,0 +1,18 @@
+{
+  "id": "wu-zetian",
+  "wikidata": "Q9738",
+  "name": "Wu Zetian",
+  "polity": "tang-empire",
+  "title": "Empress",
+  "start": 690,
+  "end": 705,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wu_Zetian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q9738",
+    "https://en.wikipedia.org/wiki/Wu_Zetian"
+  ],
+  "disputed": false
+}

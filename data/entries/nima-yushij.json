@@ -1,0 +1,23 @@
+{
+  "id": "nima-yushij",
+  "wikidata": "Q425731",
+  "name": "Nima Yushij",
+  "category": "writer",
+  "start": 1895,
+  "end": 1960,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.19,
+    "lon": 51.72,
+    "place": "Yush"
+  },
+  "summary": "Iranian poet (1895–1960), born in Yush. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nima_Yooshij"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q425731",
+    "https://en.wikipedia.org/wiki/Nima_Yooshij"
+  ],
+  "disputed": false
+}

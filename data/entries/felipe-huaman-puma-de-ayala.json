@@ -1,0 +1,23 @@
+{
+  "id": "felipe-huaman-puma-de-ayala",
+  "wikidata": "Q473217",
+  "name": "Felipe Huaman Puma de Ayala",
+  "category": "writer",
+  "start": 1534,
+  "end": 1615,
+  "date_precision": "year",
+  "location": {
+    "lat": -12.06,
+    "lon": -77.04,
+    "place": "Viceroyalty of Peru"
+  },
+  "summary": "Incan scholar and noble, born in Viceroyalty of Peru. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Felipe_Guaman_Poma_de_Ayala"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q473217",
+    "https://en.wikipedia.org/wiki/Felipe_Guaman_Poma_de_Ayala"
+  ],
+  "disputed": false
+}

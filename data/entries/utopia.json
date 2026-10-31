@@ -1,0 +1,22 @@
+{
+  "id": "utopia",
+  "wikidata": "Q404158",
+  "name": "Utopia",
+  "category": "work",
+  "start": 1516,
+  "date_precision": "year",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.13,
+    "place": "London"
+  },
+  "summary": "1516 book by Thomas More, associated with London. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Utopia_(book)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q404158",
+    "https://en.wikipedia.org/wiki/Utopia_(book)"
+  ],
+  "disputed": false
+}

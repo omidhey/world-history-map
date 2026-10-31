@@ -1,0 +1,23 @@
+{
+  "id": "regiomontanus",
+  "wikidata": "Q76365",
+  "name": "Regiomontanus",
+  "category": "scientist",
+  "start": 1436,
+  "end": 1476,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.08,
+    "lon": 10.57,
+    "place": "Königsberg in Bayern"
+  },
+  "summary": "German mathematician and astronomer (1436–1476), born in Königsberg in Bayern. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Regiomontanus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q76365",
+    "https://en.wikipedia.org/wiki/Regiomontanus"
+  ],
+  "disputed": false
+}

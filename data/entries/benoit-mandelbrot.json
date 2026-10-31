@@ -1,0 +1,23 @@
+{
+  "id": "benoit-mandelbrot",
+  "wikidata": "Q101740",
+  "name": "Benoit Mandelbrot",
+  "category": "scientist",
+  "start": 1924,
+  "end": 2010,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.23,
+    "lon": 21.01,
+    "place": "Warsaw"
+  },
+  "summary": "Polish-born, French and American mathematician (1924–2010), born in Warsaw. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Benoit_Mandelbrot"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q101740",
+    "https://en.wikipedia.org/wiki/Benoit_Mandelbrot"
+  ],
+  "disputed": false
+}

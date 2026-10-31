@@ -1,0 +1,23 @@
+{
+  "id": "jane-goodall",
+  "wikidata": "Q184746",
+  "name": "Jane Goodall",
+  "category": "scientist",
+  "start": 1934,
+  "end": 2025,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.55,
+    "lon": -0.17,
+    "place": "Hampstead"
+  },
+  "summary": "English primatologist and anthropologist (1934–2025), born in Hampstead. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Goodall"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184746",
+    "https://en.wikipedia.org/wiki/Jane_Goodall"
+  ],
+  "disputed": false
+}

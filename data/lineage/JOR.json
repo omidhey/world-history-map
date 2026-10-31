@@ -1,0 +1,279 @@
+{
+ "country": "JOR",
+ "name": "Jordan",
+ "area_km2": 89074,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.6634
+   },
+   {
+    "name": "Canaan",
+    "subjecto": "Canaan",
+    "share": 0.3366
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.6257
+   },
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.3607
+   },
+   {
+    "name": "Arabian pastoral nomads",
+    "subjecto": "Arabian pastoral nomads",
+    "share": 0.0136
+   }
+  ],
+  "-500": [
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.5347,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.2435
+   },
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.2163,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0049,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.5347,
+    "carried": -1000
+   },
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.2163,
+    "carried": -1000
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.1494
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0949,
+    "carried": -500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0049,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.3808
+   },
+   {
+    "name": "Judea",
+    "subjecto": "Roman Empire",
+    "share": 0.3588
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1427,
+    "carried": -1000
+   },
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.0721
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.0457,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.6657
+   },
+   {
+    "name": "Nabatean Kingdom",
+    "subjecto": "Nabatean Kingdom",
+    "share": 0.1458,
+    "carried": -1
+   },
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.1427,
+    "carried": -1000
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.0457,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.507
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.493,
+    "carried": 800
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.507
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.493
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.507
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.493,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.5072
+   },
+   {
+    "name": "Arabia (Nejd)",
+    "subjecto": "Arabia (Nejd)",
+    "share": 0.4928
+   }
+  ],
+  "1945": [
+   {
+    "name": "Jordan",
+    "subjecto": "Jordan",
+    "share": 0.9156
+   },
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.0404
+   },
+   {
+    "name": "Israel",
+    "subjecto": "Israel",
+    "share": 0.0288
+   },
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.0117
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Jordan",
+    "subjecto": "Jordan",
+    "share": 0.9131
+   },
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.0404
+   },
+   {
+    "name": "Israel",
+    "subjecto": "Israel",
+    "share": 0.0288
+   },
+   {
+    "name": "Saudi Arabia",
+    "subjecto": "Saudi Arabia",
+    "share": 0.0142
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0028,
+    "other": true
+   }
+  ]
+ }
+}

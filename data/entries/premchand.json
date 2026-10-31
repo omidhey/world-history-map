@@ -1,0 +1,23 @@
+{
+  "id": "premchand",
+  "wikidata": "Q174152",
+  "name": "Premchand",
+  "category": "writer",
+  "start": 1880,
+  "end": 1936,
+  "date_precision": "day",
+  "location": {
+    "lat": 25.32,
+    "lon": 83.01,
+    "place": "Varanasi"
+  },
+  "summary": "Indian writer of Hindi and Urdu fiction (1880–1936); pioneer of social realism in Hindustani literature, born in Varanasi. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Premchand"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q174152",
+    "https://en.wikipedia.org/wiki/Premchand"
+  ],
+  "disputed": false
+}

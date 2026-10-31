@@ -1,0 +1,22 @@
+{
+  "id": "liu-cixin",
+  "wikidata": "Q607588",
+  "name": "Liu Cixin",
+  "category": "writer",
+  "start": 1963,
+  "date_precision": "day",
+  "location": {
+    "lat": 39.9,
+    "lon": 116.41,
+    "place": "Beijing"
+  },
+  "summary": "Chinese science fiction writer, born in Beijing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liu_Cixin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q607588",
+    "https://en.wikipedia.org/wiki/Liu_Cixin"
+  ],
+  "disputed": false
+}

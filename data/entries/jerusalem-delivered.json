@@ -1,0 +1,22 @@
+{
+  "id": "jerusalem-delivered",
+  "wikidata": "Q1053313",
+  "name": "Jerusalem Delivered",
+  "category": "work",
+  "start": 1580,
+  "date_precision": "year",
+  "location": {
+    "lat": 40.63,
+    "lon": 14.37,
+    "place": "Sorrento"
+  },
+  "summary": "Epic poem by the Italian poet Torquato Tasso first published in 1581; tells a mythified account of the First Crusade in which Christian knights led by Godfrey of Bouillon battle to take Jerusalem, associated with Sorrento. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerusalem_Delivered"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1053313",
+    "https://en.wikipedia.org/wiki/Jerusalem_Delivered"
+  ],
+  "disputed": false
+}

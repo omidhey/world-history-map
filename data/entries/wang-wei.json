@@ -1,0 +1,41 @@
+{
+  "id": "wang-wei",
+  "wikidata": "Q313605",
+  "name": "Wang Wei",
+  "category": "writer",
+  "start": 699,
+  "end": 759,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.87,
+    "lon": 110.44,
+    "place": "Yongji"
+  },
+  "summary": "Chinese poet, musician, painter, and statesman, born in Yongji. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Wei"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q313605",
+    "https://en.wikipedia.org/wiki/Wang_Wei"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "end",
+      "value": 759,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q313605"
+      ]
+    },
+    {
+      "field": "end",
+      "value": 761,
+      "note": "Wikidata lists more than one death year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q313605"
+      ]
+    }
+  ]
+}

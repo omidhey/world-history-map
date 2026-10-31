@@ -1,0 +1,22 @@
+{
+  "id": "season-of-migration-to-the-north",
+  "wikidata": "Q921128",
+  "name": "Season of Migration to the North",
+  "category": "work",
+  "start": 1966,
+  "date_precision": "year",
+  "location": {
+    "lat": 18.05,
+    "lon": 30.95,
+    "place": "Al Dabbah"
+  },
+  "summary": "1966 novel by Tayeb Salih by al-Tayyib Salih, associated with Al Dabbah. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q921128",
+    "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North"
+  ],
+  "disputed": false
+}

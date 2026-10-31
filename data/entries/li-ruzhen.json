@@ -1,0 +1,23 @@
+{
+  "id": "li-ruzhen",
+  "wikidata": "Q711457",
+  "name": "Li Ruzhen",
+  "category": "writer",
+  "start": 1763,
+  "end": 1830,
+  "date_precision": "year",
+  "location": {
+    "lat": 39.9,
+    "lon": 116.41,
+    "place": "Beijing"
+  },
+  "summary": "Chinese writer, born in Beijing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Li_Ruzhen"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q711457",
+    "https://en.wikipedia.org/wiki/Li_Ruzhen"
+  ],
+  "disputed": false
+}

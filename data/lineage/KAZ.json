@@ -1,0 +1,393 @@
+{
+ "country": "KAZ",
+ "name": "Kazakhstan",
+ "area_km2": 2728701,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.7796
+   },
+   {
+    "name": "Afanasevo",
+    "subjecto": "Afanasevo",
+    "share": 0.1376
+   },
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.08
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Andronovo",
+    "subjecto": "Andronovo",
+    "share": 0.9072
+   },
+   {
+    "name": "Afanasevo",
+    "subjecto": "Afanasevo",
+    "share": 0.1376
+   },
+   {
+    "name": "Catacomb culture",
+    "subjecto": "Catacomb culture",
+    "share": 0.0278
+   },
+   {
+    "name": "Sintashta",
+    "subjecto": "Sintashta",
+    "share": 0.0272
+   },
+   {
+    "name": "Yamnaya culture",
+    "subjecto": "Yamnaya culture",
+    "share": 0.0253,
+    "carried": -3000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0096,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.8929
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0609
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0441
+   }
+  ],
+  "-500": [
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.8224,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0748
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0559,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0439,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.8224,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0688,
+    "carried": -500
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0559,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0439,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0061,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.7484,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0688,
+    "carried": -500
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.0632
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0559,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.0439,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0062,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.6152,
+    "carried": -1000
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.1711
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0688,
+    "carried": -500
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0558,
+    "carried": -1000
+   },
+   {
+    "name": "Cimerians",
+    "subjecto": "Cimerians",
+    "share": 0.037,
+    "carried": -1000
+   },
+   {
+    "name": "Yueban",
+    "subjecto": "Yueban",
+    "share": 0.0251
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0112
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.013,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.5215,
+    "carried": -1000
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.1175,
+    "carried": 400
+   },
+   {
+    "name": "Khazars",
+    "subjecto": "Khazars",
+    "share": 0.0858
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.0558,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0551,
+    "carried": -500
+   },
+   {
+    "name": "Uyghurs",
+    "subjecto": "Uyghurs",
+    "share": 0.0535
+   },
+   {
+    "name": "Bashkirs",
+    "subjecto": "Bashkirs",
+    "share": 0.0489
+   },
+   {
+    "name": "Yueban",
+    "subjecto": "Yueban",
+    "share": 0.0251,
+    "carried": 400
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.0187
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0106
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0047,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.6733
+   },
+   {
+    "name": "Cuman Khanates",
+    "subjecto": "Cuman Khanates",
+    "share": 0.3134
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "White Horde",
+    "subjecto": "White Horde",
+    "share": 0.7156
+   },
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.1395
+   },
+   {
+    "name": "Golden Horde",
+    "subjecto": "Golden Horde",
+    "share": 0.0803
+   },
+   {
+    "name": "Timurid Emirates",
+    "subjecto": "Timurid Emirates",
+    "share": 0.0426
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.798
+   },
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russian Empire",
+    "share": 0.1063
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.0865
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9946
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9946
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0025,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Kazakhstan",
+    "subjecto": "Kazakhstan",
+    "share": 0.9788
+   },
+   {
+    "name": "Russia",
+    "subjecto": "Russia",
+    "share": 0.0115
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0068,
+    "other": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "isabel-allende",
+  "wikidata": "Q83566",
+  "name": "Isabel Allende",
+  "category": "writer",
+  "start": 1942,
+  "date_precision": "day",
+  "location": {
+    "lat": -12.06,
+    "lon": -77.04,
+    "place": "Lima"
+  },
+  "summary": "Chilean writer (born 1942), born in Lima. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Allende"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q83566",
+    "https://en.wikipedia.org/wiki/Isabel_Allende"
+  ],
+  "disputed": false
+}

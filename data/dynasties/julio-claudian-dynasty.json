@@ -1,0 +1,18 @@
+{
+  "id": "julio-claudian-dynasty",
+  "wikidata": "Q192841",
+  "name": "Julio-Claudian dynasty",
+  "polity": "roman-empire",
+  "start": -27,
+  "end": 68,
+  "date_precision": "year",
+  "summary": "The first five emperors, all related to Augustus or to his wife Livia.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio-Claudian_dynasty"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q192841",
+    "https://en.wikipedia.org/wiki/Julio-Claudian_dynasty"
+  ],
+  "disputed": false
+}

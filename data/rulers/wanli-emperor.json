@@ -1,0 +1,19 @@
+{
+  "id": "wanli-emperor",
+  "wikidata": "Q10061",
+  "name": "Wanli Emperor",
+  "polity": "ming-empire",
+  "title": "Emperor",
+  "dynasty": "ming-imperial-house",
+  "start": 1572,
+  "end": 1620,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wanli_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10061",
+    "https://en.wikipedia.org/wiki/Wanli_Emperor"
+  ],
+  "disputed": false
+}

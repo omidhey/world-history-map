@@ -1,0 +1,23 @@
+{
+  "id": "samuel-beckett",
+  "wikidata": "Q37327",
+  "name": "Samuel Beckett",
+  "category": "writer",
+  "start": 1906,
+  "end": 1989,
+  "date_precision": "day",
+  "location": {
+    "lat": 53.27,
+    "lon": -6.17,
+    "place": "Foxrock"
+  },
+  "summary": "Irish writer (1906–1989), born in Foxrock. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Beckett"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q37327",
+    "https://en.wikipedia.org/wiki/Samuel_Beckett"
+  ],
+  "disputed": false
+}

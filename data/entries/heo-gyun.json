@@ -1,0 +1,23 @@
+{
+  "id": "heo-gyun",
+  "wikidata": "Q469450",
+  "name": "Heo Gyun",
+  "category": "writer",
+  "start": 1569,
+  "end": 1618,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.76,
+    "lon": 128.9,
+    "place": "Gangneung"
+  },
+  "summary": "Korean writer (1569-1618), born in Gangneung. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hŏ_Kyun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q469450",
+    "https://en.wikipedia.org/wiki/Hŏ_Kyun"
+  ],
+  "disputed": false
+}

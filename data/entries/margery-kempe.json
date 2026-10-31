@@ -1,0 +1,23 @@
+{
+  "id": "margery-kempe",
+  "wikidata": "Q509271",
+  "name": "Margery Kempe",
+  "category": "writer",
+  "start": 1373,
+  "end": 1438,
+  "date_precision": "year",
+  "location": {
+    "lat": 52.75,
+    "lon": 0.4,
+    "place": "King's Lynn"
+  },
+  "summary": "British Christian mystic and author, born in King's Lynn. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Margery_Kempe"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q509271",
+    "https://en.wikipedia.org/wiki/Margery_Kempe"
+  ],
+  "disputed": false
+}

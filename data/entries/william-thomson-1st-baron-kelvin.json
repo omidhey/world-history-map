@@ -1,0 +1,23 @@
+{
+  "id": "william-thomson-1st-baron-kelvin",
+  "wikidata": "Q122701",
+  "name": "William Thomson, 1st Baron Kelvin",
+  "category": "scientist",
+  "start": 1825,
+  "end": 1907,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.6,
+    "lon": -5.93,
+    "place": "Belfast"
+  },
+  "summary": "British physicist and engineer (1824–1907), born in Belfast. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Kelvin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q122701",
+    "https://en.wikipedia.org/wiki/Lord_Kelvin"
+  ],
+  "disputed": false
+}

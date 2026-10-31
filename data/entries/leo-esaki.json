@@ -1,0 +1,22 @@
+{
+  "id": "leo-esaki",
+  "wikidata": "Q179852",
+  "name": "Leo Esaki",
+  "category": "scientist",
+  "start": 1925,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.67,
+    "lon": 135.57,
+    "place": "Takaida"
+  },
+  "summary": "Japanese physicist (1925-), born in Takaida. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Esaki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q179852",
+    "https://en.wikipedia.org/wiki/Leo_Esaki"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "heo-jun",
+  "wikidata": "Q487550",
+  "name": "Heo Jun",
+  "category": "scientist",
+  "start": 1546,
+  "end": 1615,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.58,
+    "lon": 126.98,
+    "place": "Joseon"
+  },
+  "summary": "Korean court physician (1539 – 1615 ), born in Joseon. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hŏ_Chun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q487550",
+    "https://en.wikipedia.org/wiki/Hŏ_Chun"
+  ],
+  "disputed": false
+}

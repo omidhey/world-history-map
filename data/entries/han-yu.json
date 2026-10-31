@@ -1,0 +1,23 @@
+{
+  "id": "han-yu",
+  "wikidata": "Q318998",
+  "name": "Han Yu",
+  "category": "writer",
+  "start": 768,
+  "end": 824,
+  "date_precision": "year",
+  "location": {
+    "lat": 34.91,
+    "lon": 112.79,
+    "place": "Meng Prefecture"
+  },
+  "summary": "Chinese historian, poet, philosopher and politician (768–824), born in Meng Prefecture. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_Yu"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q318998",
+    "https://en.wikipedia.org/wiki/Han_Yu"
+  ],
+  "disputed": false
+}

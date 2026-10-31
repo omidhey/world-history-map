@@ -1,0 +1,23 @@
+{
+  "id": "georg-simon-ohm",
+  "wikidata": "Q1585",
+  "name": "Georg Simon Ohm",
+  "category": "scientist",
+  "start": 1789,
+  "end": 1854,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.59,
+    "lon": 11.01,
+    "place": "Erlangen"
+  },
+  "summary": "German physicist and mathematician, born in Erlangen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Ohm"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1585",
+    "https://en.wikipedia.org/wiki/Georg_Ohm"
+  ],
+  "disputed": false
+}

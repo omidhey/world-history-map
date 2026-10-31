@@ -1,0 +1,41 @@
+{
+  "id": "cai-lun",
+  "wikidata": "Q229235",
+  "name": "Cai Lun",
+  "category": "scientist",
+  "start": 48,
+  "end": 121,
+  "date_precision": "year",
+  "location": {
+    "lat": 26.42,
+    "lon": 112.85,
+    "place": "Leiyang"
+  },
+  "summary": "Chinese official credited with inventing paper (died 121), born in Leiyang. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cai_Lun"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q229235",
+    "https://en.wikipedia.org/wiki/Cai_Lun"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 48,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q229235"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 50,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q229235"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bessie-emery-head",
+  "wikidata": "Q455286",
+  "name": "Bessie Emery Head",
+  "category": "writer",
+  "start": 1937,
+  "end": 1986,
+  "date_precision": "day",
+  "location": {
+    "lat": -29.6,
+    "lon": 30.38,
+    "place": "Pietermaritzburg"
+  },
+  "summary": "South African born Botswanan writer and teacher (1937–1986), born in Pietermaritzburg. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Head"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q455286",
+    "https://en.wikipedia.org/wiki/Bessie_Head"
+  ],
+  "disputed": false
+}

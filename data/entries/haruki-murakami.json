@@ -1,0 +1,22 @@
+{
+  "id": "haruki-murakami",
+  "wikidata": "Q134798",
+  "name": "Haruki Murakami",
+  "category": "writer",
+  "start": 1949,
+  "date_precision": "day",
+  "location": {
+    "lat": 34.94,
+    "lon": 135.76,
+    "place": "Fushimi-ku"
+  },
+  "summary": "Japanese writer (born 1949), born in Fushimi-ku. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Haruki_Murakami"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q134798",
+    "https://en.wikipedia.org/wiki/Haruki_Murakami"
+  ],
+  "disputed": false
+}

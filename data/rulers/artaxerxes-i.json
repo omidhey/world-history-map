@@ -1,0 +1,19 @@
+{
+  "id": "artaxerxes-i",
+  "wikidata": "Q189689",
+  "name": "Artaxerxes I",
+  "polity": "achaemenid-empire",
+  "title": "King of Kings",
+  "dynasty": "achaemenid-dynasty",
+  "start": -465,
+  "end": -424,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Artaxerxes_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q189689",
+    "https://en.wikipedia.org/wiki/Artaxerxes_I"
+  ],
+  "disputed": false
+}

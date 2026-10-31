@@ -1,0 +1,23 @@
+{
+  "id": "lucian-of-samosata",
+  "wikidata": "Q177847",
+  "name": "Lucian of Samosata",
+  "category": "writer",
+  "start": 120,
+  "end": 180,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.58,
+    "lon": 38.48,
+    "place": "Samosata"
+  },
+  "summary": "2nd-century Syrian satirist and rhetorician, born in Samosata. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q177847",
+    "https://en.wikipedia.org/wiki/Lucian"
+  ],
+  "disputed": false
+}

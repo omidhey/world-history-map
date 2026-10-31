@@ -1,0 +1,23 @@
+{
+  "id": "euclides-da-cunha",
+  "wikidata": "Q470334",
+  "name": "Euclides da Cunha",
+  "category": "writer",
+  "start": 1866,
+  "end": 1909,
+  "date_precision": "day",
+  "location": {
+    "lat": -21.98,
+    "lon": -42.37,
+    "place": "Cantagalo"
+  },
+  "summary": "Brazilian writer (1866–1909), born in Cantagalo. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Euclides_da_Cunha"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q470334",
+    "https://en.wikipedia.org/wiki/Euclides_da_Cunha"
+  ],
+  "disputed": false
+}

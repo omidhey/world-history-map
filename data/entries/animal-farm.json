@@ -1,0 +1,22 @@
+{
+  "id": "animal-farm",
+  "wikidata": "Q1396889",
+  "name": "Animal Farm",
+  "category": "work",
+  "start": 1945,
+  "date_precision": "day",
+  "location": {
+    "lat": 26.65,
+    "lon": 84.92,
+    "place": "Motihari"
+  },
+  "summary": "1945 novella by George Orwell, associated with Motihari. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Animal_Farm"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1396889",
+    "https://en.wikipedia.org/wiki/Animal_Farm"
+  ],
+  "disputed": false
+}

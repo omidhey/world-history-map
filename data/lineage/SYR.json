@@ -1,0 +1,258 @@
+{
+ "country": "SYR",
+ "name": "Syria",
+ "area_km2": 185256,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.812
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.1871
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "-2000": [
+   {
+    "name": "city-states",
+    "subjecto": "city-states",
+    "share": 0.8121
+   },
+   {
+    "name": "Semites",
+    "subjecto": "Semites",
+    "share": 0.1191
+   },
+   {
+    "name": "Canaan",
+    "subjecto": "Canaan",
+    "share": 0.068
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0008,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Arameans",
+    "subjecto": "Arameans",
+    "share": 0.4216
+   },
+   {
+    "name": "Kingdom of David and Solomon",
+    "subjecto": "Kingdom of David and Solomon",
+    "share": 0.3864
+   },
+   {
+    "name": "Hittites",
+    "subjecto": "Hittites",
+    "share": 0.118
+   },
+   {
+    "name": "Assyria",
+    "subjecto": "Assyria",
+    "share": 0.068
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0061,
+    "other": true
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.9952
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0048,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.9952
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0048,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Roman Empire",
+    "subjecto": "Roman Empire",
+    "share": 0.7569
+   },
+   {
+    "name": "Parthian Empire",
+    "subjecto": "Parthian Empire",
+    "share": 0.1859
+   },
+   {
+    "name": "Judea",
+    "subjecto": "Roman Empire",
+    "share": 0.0471
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.0101,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "Eastern Roman Empire",
+    "subjecto": "Eastern Roman Empire",
+    "share": 0.5905
+   },
+   {
+    "name": "Persia",
+    "subjecto": "Persi",
+    "share": 0.3991
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.0101,
+    "carried": -323
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 1.0
+   }
+  ],
+  "1200": [
+   {
+    "name": "Buwayhid Emirates",
+    "subjecto": "Buwayhid Emirates",
+    "share": 0.4751
+   },
+   {
+    "name": "Fatimid Caliphate",
+    "subjecto": "Fatimid Caliphate",
+    "share": 0.2359
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.2214,
+    "carried": 800
+   },
+   {
+    "name": "Byzantine Empire",
+    "subjecto": "Byzantine Empire",
+    "share": 0.0677
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mamluke Sultanate",
+    "subjecto": "Mamluke Sultanate",
+    "share": 0.4166
+   },
+   {
+    "name": "Emirate of the White Sheep Turks",
+    "subjecto": "Emirate of the White Sheep Turks",
+    "share": 0.3963
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.1871
+   }
+  ],
+  "1800": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.8129
+   },
+   {
+    "name": "Arabs",
+    "subjecto": "Arabs",
+    "share": 0.1871,
+    "carried": 1500
+   }
+  ],
+  "1914": [
+   {
+    "name": "Ottoman Empire",
+    "subjecto": "Ottoman Empire",
+    "share": 0.8129
+   },
+   {
+    "name": "Arabia (Nejd)",
+    "subjecto": "Arabia (Nejd)",
+    "share": 0.1871
+   }
+  ],
+  "1945": [
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.9656
+   },
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.0252
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Syria",
+    "subjecto": "Syria",
+    "share": 0.9656
+   },
+   {
+    "name": "Turkey",
+    "subjecto": "Turkey",
+    "share": 0.0252
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0092,
+    "other": true
+   }
+  ]
+ }
+}

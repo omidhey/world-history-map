@@ -1,0 +1,23 @@
+{
+  "id": "nicolas-steno",
+  "wikidata": "Q151722",
+  "name": "Nicolas Steno",
+  "category": "scientist",
+  "start": 1638,
+  "end": 1686,
+  "date_precision": "day",
+  "location": {
+    "lat": 55.68,
+    "lon": 12.57,
+    "place": "Copenhagen"
+  },
+  "summary": "Pioneer in anatomy and geology, bishop (1638–1686), born in Copenhagen. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Steno"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q151722",
+    "https://en.wikipedia.org/wiki/Nicolas_Steno"
+  ],
+  "disputed": false
+}

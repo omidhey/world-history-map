@@ -1,0 +1,205 @@
+{
+ "country": "MNG",
+ "name": "Mongolia",
+ "area_km2": 1544344,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9159
+   },
+   {
+    "name": "Afanasevo",
+    "subjecto": "Afanasevo",
+    "share": 0.0841
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.913
+   },
+   {
+    "name": "Afanasevo",
+    "subjecto": "Afanasevo",
+    "share": 0.0841
+   },
+   {
+    "name": "Andronovo",
+    "subjecto": "Andronovo",
+    "share": 0.0441
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0016,
+    "other": true
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.9344
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0656
+   }
+  ],
+  "-500": [
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.9344
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0656,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Proto-Altaic pastoralists",
+    "subjecto": "Proto-Altaic pastoralists",
+    "share": 0.9344,
+    "carried": -500
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0656,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.9874
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0125,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.8473
+   },
+   {
+    "name": "Xiongnu",
+    "subjecto": "Xiongnu",
+    "share": 0.1525,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Uyghurs",
+    "subjecto": "Uyghurs",
+    "share": 0.9888
+   },
+   {
+    "name": "Ruanruan",
+    "subjecto": "Ruanruan",
+    "share": 0.0112,
+    "carried": 400
+   }
+  ],
+  "1200": [
+   {
+    "name": "Mongol Empire",
+    "subjecto": "Mongol Empire",
+    "share": 0.9997
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.9987
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0013,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Mongolia",
+    "subjecto": "Mongolia",
+    "share": 0.9915
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0085,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Mongolia",
+    "subjecto": "Mongolia",
+    "share": 0.9912
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0088,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Mongolia",
+    "subjecto": "Mongolia",
+    "share": 0.9913
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0087,
+    "other": true
+   }
+  ]
+ }
+}

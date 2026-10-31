@@ -1,0 +1,23 @@
+{
+  "id": "manuel-bandeira",
+  "wikidata": "Q558615",
+  "name": "Manuel Bandeira",
+  "category": "writer",
+  "start": 1886,
+  "end": 1968,
+  "date_precision": "day",
+  "location": {
+    "lat": -8.05,
+    "lon": -34.88,
+    "place": "Recife"
+  },
+  "summary": "Brazilian writer (1886–1968), born in Recife. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Bandeira"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q558615",
+    "https://en.wikipedia.org/wiki/Manuel_Bandeira"
+  ],
+  "disputed": false
+}

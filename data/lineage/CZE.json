@@ -1,0 +1,235 @@
+{
+ "country": "CZE",
+ "name": "Czechia",
+ "area_km2": 81210,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9616
+   },
+   {
+    "name": "Únětice",
+    "subjecto": "Únětice",
+    "share": 0.0384
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 1.0
+   }
+  ],
+  "-500": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.988,
+    "carried": -1000
+   },
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.012
+   }
+  ],
+  "-323": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.988,
+    "carried": -1000
+   },
+   {
+    "name": "Bell-shaped burials culture",
+    "subjecto": "Bell-shaped burials culture",
+    "share": 0.012
+   }
+  ],
+  "-1": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7634,
+    "carried": -1000
+   },
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.2333
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0033,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Urnfield cultures",
+    "subjecto": "Urnfield cultures",
+    "share": 0.7634,
+    "carried": -1000
+   },
+   {
+    "name": "Boihaenum",
+    "subjecto": "Boihaenum",
+    "share": 0.2333,
+    "carried": -1
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0033,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Czechs",
+    "subjecto": "Slavic tribes",
+    "share": 0.576
+   },
+   {
+    "name": "Slavonic tribes",
+    "subjecto": "Slavonic tribes",
+    "share": 0.4145
+   },
+   {
+    "name": "Carolingian Empire",
+    "subjecto": "Carolingian Empire",
+    "share": 0.0338
+   }
+  ],
+  "1200": [
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.9311
+   },
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.0469
+   },
+   {
+    "name": "Hungary",
+    "subjecto": "Hungary",
+    "share": 0.022
+   }
+  ],
+  "1500": [
+   {
+    "name": "Holy Roman Empire",
+    "subjecto": "Holy Roman Empire",
+    "share": 0.9999
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Austrian Empire",
+    "subjecto": "Austrian Empire",
+    "share": 0.9538
+   },
+   {
+    "name": "Prussia",
+    "subjecto": "Prussia",
+    "share": 0.0212
+   },
+   {
+    "name": "Saxony",
+    "subjecto": "Saxony",
+    "share": 0.0139
+   },
+   {
+    "name": "Bavaria",
+    "subjecto": "Bavaria",
+    "share": 0.0111
+   }
+  ],
+  "1914": [
+   {
+    "name": "Austro-Hungarian Empire",
+    "subjecto": "Austro-Hungarian Empire",
+    "share": 0.9547
+   },
+   {
+    "name": "German Empire",
+    "subjecto": "German Empire",
+    "share": 0.0453
+   }
+  ],
+  "1945": [
+   {
+    "name": "Czechoslovakia",
+    "subjecto": "Czechoslovakia",
+    "share": 0.9198
+   },
+   {
+    "name": "Germany (Soviet)",
+    "subjecto": "USSR",
+    "share": 0.0383
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.0252
+   },
+   {
+    "name": "Austria",
+    "subjecto": "Austria",
+    "share": 0.0164
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Czech Republic",
+    "subjecto": "Czech Republic",
+    "share": 0.9268
+   },
+   {
+    "name": "Poland",
+    "subjecto": "Poland",
+    "share": 0.0283
+   },
+   {
+    "name": "Germany",
+    "subjecto": "Germany",
+    "share": 0.0206
+   },
+   {
+    "name": "Slovakia",
+    "subjecto": "Slovakia",
+    "share": 0.0129
+   },
+   {
+    "name": "Austria",
+    "subjecto": "Austria",
+    "share": 0.0115
+   }
+  ]
+ }
+}

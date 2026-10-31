@@ -1,0 +1,22 @@
+{
+  "id": "tsurezuregusa",
+  "wikidata": "Q1350535",
+  "name": "Tsurezuregusa",
+  "category": "work",
+  "start": 1331,
+  "date_precision": "decade",
+  "location": {
+    "lat": 35.01,
+    "lon": 135.77,
+    "place": "Kyoto"
+  },
+  "summary": "Literary work by Yoshida Kenkō, associated with Kyoto. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsurezuregusa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1350535",
+    "https://en.wikipedia.org/wiki/Tsurezuregusa"
+  ],
+  "disputed": false
+}

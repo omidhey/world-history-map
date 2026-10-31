@@ -1,0 +1,18 @@
+{
+  "id": "fourth-dynasty-of-egypt",
+  "wikidata": "Q211001",
+  "name": "Fourth Dynasty",
+  "polity": "ancient-egypt",
+  "start": -2613,
+  "end": -2494,
+  "date_precision": "circa",
+  "summary": "Old Kingdom royal line that built the great pyramids at Giza.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q211001",
+    "https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt"
+  ],
+  "disputed": false
+}

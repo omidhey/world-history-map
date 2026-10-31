@@ -1,0 +1,23 @@
+{
+  "id": "friedrich-wohler",
+  "wikidata": "Q58575",
+  "name": "Friedrich Wöhler",
+  "category": "scientist",
+  "start": 1800,
+  "end": 1882,
+  "date_precision": "day",
+  "location": {
+    "lat": 50.16,
+    "lon": 8.66,
+    "place": "Eschersheim"
+  },
+  "summary": "German chemist (1800-1882), born in Eschersheim. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Wöhler"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q58575",
+    "https://en.wikipedia.org/wiki/Friedrich_Wöhler"
+  ],
+  "disputed": false
+}

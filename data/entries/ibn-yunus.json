@@ -1,0 +1,23 @@
+{
+  "id": "ibn-yunus",
+  "wikidata": "Q459921",
+  "name": "Ibn Yunus",
+  "category": "scientist",
+  "start": 950,
+  "end": 958,
+  "date_precision": "year",
+  "location": {
+    "lat": 30.0,
+    "lon": 31.24,
+    "place": "El-Fustat"
+  },
+  "summary": "Egyptian mathematician (c. 950–1009), born in El-Fustat. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibn_Yunus"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q459921",
+    "https://en.wikipedia.org/wiki/Ibn_Yunus"
+  ],
+  "disputed": false
+}

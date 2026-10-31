@@ -1,0 +1,22 @@
+{
+  "id": "tsitsi-dangarembga",
+  "wikidata": "Q270837",
+  "name": "Tsitsi Dangarembga",
+  "category": "writer",
+  "start": 1959,
+  "date_precision": "day",
+  "location": {
+    "lat": -17.38,
+    "lon": 32.22,
+    "place": "Mutoko"
+  },
+  "summary": "Zimbabwean author and filmmaker, born in Mutoko. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsitsi_Dangarembga"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q270837",
+    "https://en.wikipedia.org/wiki/Tsitsi_Dangarembga"
+  ],
+  "disputed": false
+}

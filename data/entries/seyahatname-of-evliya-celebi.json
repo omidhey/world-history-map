@@ -1,0 +1,22 @@
+{
+  "id": "seyahatname-of-evliya-celebi",
+  "wikidata": "Q2916302",
+  "name": "Seyahatname of Evliya Çelebi",
+  "category": "work",
+  "start": 1848,
+  "date_precision": "year",
+  "location": {
+    "lat": 41.01,
+    "lon": 28.96,
+    "place": "Istanbul"
+  },
+  "summary": "Travel notes by Evliya Çelebi, associated with Istanbul. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Seyahatnâme"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2916302",
+    "https://en.wikipedia.org/wiki/Seyahatnâme"
+  ],
+  "disputed": false
+}

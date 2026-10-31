@@ -1,0 +1,23 @@
+{
+  "id": "nadine-gordimer",
+  "wikidata": "Q47619",
+  "name": "Nadine Gordimer",
+  "category": "writer",
+  "start": 1923,
+  "end": 2014,
+  "date_precision": "day",
+  "location": {
+    "lat": -26.25,
+    "lon": 28.44,
+    "place": "Springs"
+  },
+  "summary": "South African writer (1923–2014), born in Springs. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadine_Gordimer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q47619",
+    "https://en.wikipedia.org/wiki/Nadine_Gordimer"
+  ],
+  "disputed": false
+}

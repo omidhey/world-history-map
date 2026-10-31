@@ -1,0 +1,19 @@
+{
+  "id": "mehmed-i",
+  "wikidata": "Q168769",
+  "name": "Mehmed I",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1413,
+  "end": 1421,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehmed_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q168769",
+    "https://en.wikipedia.org/wiki/Mehmed_I"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kofi-awoonor",
+  "wikidata": "Q921435",
+  "name": "Kofi Awoonor",
+  "category": "writer",
+  "start": 1935,
+  "end": 2013,
+  "date_precision": "day",
+  "location": {
+    "lat": 5.55,
+    "lon": -0.22,
+    "place": "Gold Coast Colony"
+  },
+  "summary": "Ghanaian poet and author (1935-2013), born in Gold Coast Colony. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kofi_Awoonor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q921435",
+    "https://en.wikipedia.org/wiki/Kofi_Awoonor"
+  ],
+  "disputed": false
+}

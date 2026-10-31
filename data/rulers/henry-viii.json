@@ -1,0 +1,19 @@
+{
+  "id": "henry-viii",
+  "wikidata": "Q38370",
+  "name": "Henry VIII",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-tudor",
+  "start": 1509,
+  "end": 1547,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q38370",
+    "https://en.wikipedia.org/wiki/Henry_VIII"
+  ],
+  "disputed": false
+}

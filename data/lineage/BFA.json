@@ -1,0 +1,258 @@
+{
+ "country": "BFA",
+ "name": "Burkina Faso",
+ "area_km2": 271585,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 1.0
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2151
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2151
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2151
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2151,
+    "carried": -323
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2151,
+    "carried": -323
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7849,
+    "carried": 400
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.2151,
+    "carried": -323
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.7818
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.2084
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0098,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Mossi States",
+    "subjecto": "Mossi States",
+    "share": 0.3937
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.2815,
+    "carried": 1200
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.146,
+    "carried": 1200
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1354
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0385
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0049,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Mossi States",
+    "subjecto": "Mossi States",
+    "share": 0.3478
+   },
+   {
+    "name": "Kong Empire",
+    "subjecto": "Kong Empire",
+    "share": 0.1653
+   },
+   {
+    "name": "Berber Tribes",
+    "subjecto": "Berber Tribes",
+    "share": 0.1457,
+    "carried": 1200
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.1113,
+    "carried": 1200
+   },
+   {
+    "name": "Mossi States",
+    "subjecto": "Mossi States",
+    "share": 0.0967,
+    "carried": 1500
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.0851,
+    "carried": 1500
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0281,
+    "carried": 1500
+   },
+   {
+    "name": "Songhai",
+    "subjecto": "Songhai",
+    "share": 0.0129
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0071,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "French West Africa",
+    "subjecto": "France",
+    "share": 0.9983
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0017,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Burkina Faso",
+    "subjecto": "Burkina Faso",
+    "share": 0.9745
+   },
+   {
+    "name": "Mali",
+    "subjecto": "France",
+    "share": 0.0181
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Burkina Faso",
+    "subjecto": "Burkina Faso",
+    "share": 0.979
+   },
+   {
+    "name": "Mali",
+    "subjecto": "Mali",
+    "share": 0.0181
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.003,
+    "other": true
+   }
+  ]
+ }
+}

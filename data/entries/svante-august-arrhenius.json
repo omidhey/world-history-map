@@ -1,0 +1,23 @@
+{
+  "id": "svante-august-arrhenius",
+  "wikidata": "Q80956",
+  "name": "Svante August Arrhenius",
+  "category": "scientist",
+  "start": 1859,
+  "end": 1927,
+  "date_precision": "day",
+  "location": {
+    "lat": 59.74,
+    "lon": 17.46,
+    "place": "Wik Castle"
+  },
+  "summary": "Swedish astronomer, chemist and physicist (1859–1927), born in Wik Castle. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q80956",
+    "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+  ],
+  "disputed": false
+}

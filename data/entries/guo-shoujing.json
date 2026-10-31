@@ -1,0 +1,23 @@
+{
+  "id": "guo-shoujing",
+  "wikidata": "Q733082",
+  "name": "Guo Shoujing",
+  "category": "scientist",
+  "start": 1231,
+  "end": 1316,
+  "date_precision": "year",
+  "location": {
+    "lat": 37.07,
+    "lon": 114.48,
+    "place": "Xingtai"
+  },
+  "summary": "Chinese astronomer and mathematician (1231–1316), born in Xingtai. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guo_Shoujing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q733082",
+    "https://en.wikipedia.org/wiki/Guo_Shoujing"
+  ],
+  "disputed": false
+}

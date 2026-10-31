@@ -1,0 +1,204 @@
+{
+ "country": "SUR",
+ "name": "Suriname",
+ "area_km2": 144265,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9941
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Archaic Amerindian hunter-gatherers",
+    "subjecto": "Archaic Amerindian hunter-gatherers",
+    "share": 0.9941
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "-500": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "-323": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "-1": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "400": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "800": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "1200": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "1500": [
+   {
+    "name": "Manioc farmers",
+    "subjecto": "Manioc farmers",
+    "share": 0.9757,
+    "carried": -323
+   },
+   {
+    "name": "Amazon hunter-gatherers",
+    "subjecto": "Amazon hunter-gatherers",
+    "share": 0.0184
+   }
+  ],
+  "1800": [
+   {
+    "name": "British Guiana",
+    "subjecto": "UK",
+    "share": 0.9856
+   },
+   {
+    "name": "Viceroyalty of Brazil",
+    "subjecto": "Portugal",
+    "share": 0.0126
+   }
+  ],
+  "1914": [
+   {
+    "name": "Suriname",
+    "subjecto": "Suriname",
+    "share": 0.9625
+   },
+   {
+    "name": "Guyana",
+    "subjecto": "Guyana",
+    "share": 0.0237
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0004,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Suriname",
+    "subjecto": "Suriname",
+    "share": 0.9625
+   },
+   {
+    "name": "Guyana",
+    "subjecto": "Netherlands",
+    "share": 0.0237
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0004,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Suriname",
+    "subjecto": "Suriname",
+    "share": 0.9625
+   },
+   {
+    "name": "Guyana",
+    "subjecto": "Guyana",
+    "share": 0.0237
+   },
+   {
+    "name": "Brazil",
+    "subjecto": "Brazil",
+    "share": 0.0103
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0004,
+    "other": true
+   }
+  ]
+ }
+}

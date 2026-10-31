@@ -1,0 +1,23 @@
+{
+  "id": "elie-metchnikoff",
+  "wikidata": "Q172254",
+  "name": "Élie Metchnikoff",
+  "category": "scientist",
+  "start": 1845,
+  "end": 1916,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.82,
+    "lon": 37.97,
+    "place": "Ivanivka"
+  },
+  "summary": "Russian-French immunologist, embryologist, biologist (1845-1916), born in Ivanivka. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Élie_Metchnikoff"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q172254",
+    "https://en.wikipedia.org/wiki/Élie_Metchnikoff"
+  ],
+  "disputed": false
+}

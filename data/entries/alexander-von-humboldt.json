@@ -1,0 +1,24 @@
+{
+  "id": "alexander-von-humboldt",
+  "wikidata": "Q6694",
+  "name": "Alexander von Humboldt",
+  "category": "scientist",
+  "start": 1769,
+  "end": 1859,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.52,
+    "lon": 13.38,
+    "place": "Berlin"
+  },
+  "summary": "Prussian geographer, naturalist and explorer (1769–1859), born in Berlin. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6694",
+    "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
+    "https://plato.stanford.edu/entries/alexander-humboldt/"
+  ],
+  "disputed": false
+}

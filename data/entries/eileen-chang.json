@@ -1,0 +1,41 @@
+{
+  "id": "eileen-chang",
+  "wikidata": "Q197155",
+  "name": "Eileen Chang",
+  "category": "writer",
+  "start": 1920,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 31.24,
+    "lon": 121.47,
+    "place": "Shanghai International Settlement"
+  },
+  "summary": "Chinese-born American essayist, novelist, and screenwriter (1920–1995), born in Shanghai International Settlement. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Chang"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q197155",
+    "https://en.wikipedia.org/wiki/Eileen_Chang"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1920,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q197155"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1921,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q197155"
+      ]
+    }
+  ]
+}

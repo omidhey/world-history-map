@@ -1,0 +1,22 @@
+{
+  "id": "one-hundred-years-of-solitude",
+  "wikidata": "Q178869",
+  "name": "One Hundred Years of Solitude",
+  "category": "work",
+  "start": 1967,
+  "date_precision": "year",
+  "location": {
+    "lat": 10.59,
+    "lon": -74.19,
+    "place": "Aracataca"
+  },
+  "summary": "1967 novel by Gabriel García Márquez, associated with Aracataca. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q178869",
+    "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+  ],
+  "disputed": false
+}

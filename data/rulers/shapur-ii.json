@@ -1,0 +1,19 @@
+{
+  "id": "shapur-ii",
+  "wikidata": "Q234860",
+  "name": "Shapur II",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 309,
+  "end": 379,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shapur_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q234860",
+    "https://en.wikipedia.org/wiki/Shapur_II"
+  ],
+  "disputed": false
+}

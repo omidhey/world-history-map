@@ -1,0 +1,19 @@
+{
+  "id": "emperor-guangwu-of-han",
+  "wikidata": "Q7268",
+  "name": "Emperor Guangwu of Han",
+  "polity": "han-dynasty",
+  "title": "Emperor",
+  "dynasty": "eastern-han",
+  "start": 25,
+  "end": 57,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7268",
+    "https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han"
+  ],
+  "disputed": false
+}

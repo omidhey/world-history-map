@@ -1,0 +1,21 @@
+{
+  "id": "holy-roman-empire",
+  "wikidata": "Q12548",
+  "name": "Holy Roman Empire",
+  "border_names": [
+    "Holy Roman Empire"
+  ],
+  "type": "empire",
+  "start": 962,
+  "end": 1806,
+  "date_precision": "year",
+  "summary": "Loose union of German and neighbouring lands under an elected emperor, lasting from Otto I's coronation until Napoleon's wars.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q12548",
+    "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+  ],
+  "disputed": false
+}

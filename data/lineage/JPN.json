@@ -1,0 +1,176 @@
+{
+ "country": "JPN",
+ "name": "Japan",
+ "area_km2": 404562,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.4203
+   },
+   {
+    "name": "Jōmon",
+    "subjecto": "Jōmon",
+    "share": 0.4012
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.4152
+   },
+   {
+    "name": "Jōmon",
+    "subjecto": "Jōmon",
+    "share": 0.4012
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Late Jomon culture",
+    "subjecto": "Late Jomon culture",
+    "share": 0.6496
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.1743
+   }
+  ],
+  "-500": [
+   {
+    "name": "Late Jomon culture",
+    "subjecto": "Late Jomon culture",
+    "share": 0.6496
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.1743
+   }
+  ],
+  "-323": [
+   {
+    "name": "Late Jomon culture",
+    "subjecto": "Late Jomon culture",
+    "share": 0.6479,
+    "carried": -500
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.1743
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0071,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Late Jomon culture",
+    "subjecto": "Late Jomon culture",
+    "share": 0.6137,
+    "carried": -500
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.177
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.011
+   }
+  ],
+  "400": [
+   {
+    "name": "Late Jomon culture",
+    "subjecto": "Late Jomon culture",
+    "share": 0.6137,
+    "carried": -500
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.177
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0161
+   }
+  ],
+  "800": [
+   {
+    "name": "Japan",
+    "subjecto": "Japan",
+    "share": 0.6357
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.1857
+   }
+  ],
+  "1200": [
+   {
+    "name": "Imperial Japan (Fujiwara)",
+    "subjecto": "Imperial Japan (Fujiwara)",
+    "share": 0.6646
+   },
+   {
+    "name": "Ainu",
+    "subjecto": "Ainu",
+    "share": 0.1863
+   }
+  ],
+  "1500": [
+   {
+    "name": "Japan",
+    "subjecto": "Japan",
+    "share": 0.8441
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0024,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Japan",
+    "subjecto": "Japan",
+    "share": 0.8352
+   }
+  ],
+  "1914": [
+   {
+    "name": "Empire of Japan",
+    "subjecto": "Empire of Japan",
+    "share": 0.8228
+   }
+  ],
+  "1945": [
+   {
+    "name": "Japan (USA)",
+    "subjecto": "USA",
+    "share": 0.839
+   }
+  ],
+  "2010": [
+   {
+    "name": "Japan",
+    "subjecto": "Japan",
+    "share": 0.8444
+   }
+  ]
+ }
+}

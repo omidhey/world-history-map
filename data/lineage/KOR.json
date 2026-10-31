@@ -1,0 +1,236 @@
+{
+ "country": "KOR",
+ "name": "South Korea",
+ "area_km2": 99041,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8136
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.8961
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.8748,
+    "carried": -2000
+   },
+   {
+    "name": "Paleo-Koreans",
+    "subjecto": "Paleo-Koreans",
+    "share": 0.8707
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0444
+   }
+  ],
+  "-500": [
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.8583,
+    "carried": -2000
+   },
+   {
+    "name": "Paleo-Koreans",
+    "subjecto": "Paleo-Koreans",
+    "share": 0.0162,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0058,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Koreans",
+    "subjecto": "Koreans",
+    "share": 0.8584,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0802
+   },
+   {
+    "name": "Paleo-Koreans",
+    "subjecto": "Paleo-Koreans",
+    "share": 0.0162,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Silla",
+    "subjecto": "Silla",
+    "share": 0.6978
+   },
+   {
+    "name": "Koguryo",
+    "subjecto": "Koguryo",
+    "share": 0.1934
+   }
+  ],
+  "400": [
+   {
+    "name": "Silla",
+    "subjecto": "Silla",
+    "share": 0.6821,
+    "carried": -1
+   },
+   {
+    "name": "Paekche",
+    "subjecto": "Paekche",
+    "share": 0.3849
+   },
+   {
+    "name": "Silla",
+    "subjecto": "Silla",
+    "share": 0.3323
+   },
+   {
+    "name": "Koguryo",
+    "subjecto": "Koguryo",
+    "share": 0.186,
+    "carried": -1
+   },
+   {
+    "name": "Koguryo",
+    "subjecto": "Koguryo",
+    "share": 0.1381
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0508
+   },
+   {
+    "name": "Gaya",
+    "subjecto": "Gaya",
+    "share": 0.0171
+   }
+  ],
+  "800": [
+   {
+    "name": "Silia",
+    "subjecto": "Silia",
+    "share": 0.8707
+   },
+   {
+    "name": "Paekche",
+    "subjecto": "Paekche",
+    "share": 0.3649,
+    "carried": 400
+   },
+   {
+    "name": "Silla",
+    "subjecto": "Silla",
+    "share": 0.3592,
+    "carried": -1
+   },
+   {
+    "name": "Koguryo",
+    "subjecto": "Koguryo",
+    "share": 0.1308,
+    "carried": -1
+   },
+   {
+    "name": "Silla",
+    "subjecto": "Silla",
+    "share": 0.0356,
+    "carried": 400
+   },
+   {
+    "name": "Gaya",
+    "subjecto": "Gaya",
+    "share": 0.0144,
+    "carried": 400
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0142
+   }
+  ],
+  "1200": [
+   {
+    "name": "Goryeo",
+    "subjecto": "Goryeo",
+    "share": 0.8961
+   }
+  ],
+  "1500": [
+   {
+    "name": "Goryeo",
+    "subjecto": "Goryeo",
+    "share": 0.8748,
+    "carried": 1200
+   },
+   {
+    "name": "Korea",
+    "subjecto": "Korea",
+    "share": 0.8707
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0444
+   }
+  ],
+  "1800": [
+   {
+    "name": "Korea",
+    "subjecto": "Korea",
+    "share": 0.9099
+   }
+  ],
+  "1914": [
+   {
+    "name": "Empire of Japan",
+    "subjecto": "Empire of Japan",
+    "share": 0.8945
+   }
+  ],
+  "1945": [
+   {
+    "name": "Korea (USA)",
+    "subjecto": "USA",
+    "share": 0.8484
+   },
+   {
+    "name": "Korea (USSR)",
+    "subjecto": "USSR",
+    "share": 0.0673
+   }
+  ],
+  "2010": [
+   {
+    "name": "Korea, Republic of",
+    "subjecto": "Korea, Republic of",
+    "share": 0.9337
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0039,
+    "other": true
+   }
+  ]
+ }
+}

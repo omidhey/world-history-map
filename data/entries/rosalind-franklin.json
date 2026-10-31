@@ -1,0 +1,23 @@
+{
+  "id": "rosalind-franklin",
+  "wikidata": "Q7474",
+  "name": "Rosalind Franklin",
+  "category": "scientist",
+  "start": 1920,
+  "end": 1958,
+  "date_precision": "day",
+  "location": {
+    "lat": 51.51,
+    "lon": -0.2,
+    "place": "Notting Hill"
+  },
+  "summary": "British chemist, biophysicist, and X-ray crystallographer (1920–1958), born in Notting Hill. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q7474",
+    "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+  ],
+  "disputed": false
+}

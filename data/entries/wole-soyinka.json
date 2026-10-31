@@ -1,0 +1,22 @@
+{
+  "id": "wole-soyinka",
+  "wikidata": "Q41488",
+  "name": "Wole Soyinka",
+  "category": "writer",
+  "start": 1934,
+  "date_precision": "day",
+  "location": {
+    "lat": 7.15,
+    "lon": 3.35,
+    "place": "Abeokuta"
+  },
+  "summary": "Nigerian writer and playwright (born 1934), born in Abeokuta. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wole_Soyinka"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41488",
+    "https://en.wikipedia.org/wiki/Wole_Soyinka"
+  ],
+  "disputed": false
+}

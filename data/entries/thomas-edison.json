@@ -1,0 +1,23 @@
+{
+  "id": "thomas-edison",
+  "wikidata": "Q8743",
+  "name": "Thomas Edison",
+  "category": "scientist",
+  "start": 1847,
+  "end": 1931,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.29,
+    "lon": -82.6,
+    "place": "Milan"
+  },
+  "summary": "American inventor and businessman (1847–1931), born in Milan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Edison"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8743",
+    "https://en.wikipedia.org/wiki/Thomas_Edison"
+  ],
+  "disputed": false
+}

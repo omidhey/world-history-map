@@ -1,0 +1,19 @@
+{
+  "id": "nerva",
+  "wikidata": "Q1424",
+  "name": "Nerva",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "nerva-antonine-dynasty",
+  "start": 96,
+  "end": 98,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nerva"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1424",
+    "https://en.wikipedia.org/wiki/Nerva"
+  ],
+  "disputed": false
+}

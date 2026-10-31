@@ -1,0 +1,19 @@
+{
+  "id": "caligula",
+  "wikidata": "Q1409",
+  "name": "Caligula",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "julio-claudian-dynasty",
+  "start": 37,
+  "end": 41,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caligula"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1409",
+    "https://en.wikipedia.org/wiki/Caligula"
+  ],
+  "disputed": false
+}

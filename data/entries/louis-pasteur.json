@@ -1,0 +1,23 @@
+{
+  "id": "louis-pasteur",
+  "wikidata": "Q529",
+  "name": "Louis Pasteur",
+  "category": "scientist",
+  "start": 1822,
+  "end": 1895,
+  "date_precision": "day",
+  "location": {
+    "lat": 47.09,
+    "lon": 5.49,
+    "place": "Dole"
+  },
+  "summary": "French chemist and microbiologist (1822-1895), born in Dole. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q529",
+    "https://en.wikipedia.org/wiki/Louis_Pasteur"
+  ],
+  "disputed": false
+}

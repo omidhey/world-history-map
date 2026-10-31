@@ -1,0 +1,22 @@
+{
+  "id": "jocelyn-bell-burnell",
+  "wikidata": "Q233974",
+  "name": "Jocelyn Bell Burnell",
+  "category": "scientist",
+  "start": 1943,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.46,
+    "lon": -6.33,
+    "place": "Lurgan"
+  },
+  "summary": "British astrophysicist (born 1943), born in Lurgan. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q233974",
+    "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+  ],
+  "disputed": false
+}

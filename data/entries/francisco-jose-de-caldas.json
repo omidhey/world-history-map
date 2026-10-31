@@ -1,0 +1,23 @@
+{
+  "id": "francisco-jose-de-caldas",
+  "wikidata": "Q1442069",
+  "name": "Francisco José de Caldas",
+  "category": "scientist",
+  "start": 1768,
+  "end": 1816,
+  "date_precision": "day",
+  "location": {
+    "lat": 2.45,
+    "lon": -76.61,
+    "place": "Popayán"
+  },
+  "summary": "Neogranadine lawyer and scientist (1768-1816), born in Popayán. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_José_de_Caldas"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1442069",
+    "https://en.wikipedia.org/wiki/Francisco_José_de_Caldas"
+  ],
+  "disputed": false
+}

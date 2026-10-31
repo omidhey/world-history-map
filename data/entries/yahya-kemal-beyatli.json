@@ -1,0 +1,23 @@
+{
+  "id": "yahya-kemal-beyatli",
+  "wikidata": "Q607246",
+  "name": "Yahya Kemal Beyatlı",
+  "category": "writer",
+  "start": 1884,
+  "end": 1958,
+  "date_precision": "day",
+  "location": {
+    "lat": 42.0,
+    "lon": 21.43,
+    "place": "Skopje"
+  },
+  "summary": "Turkish statesperson (1884–1958), born in Skopje. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yahya_Kemal_Beyatlı"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q607246",
+    "https://en.wikipedia.org/wiki/Yahya_Kemal_Beyatlı"
+  ],
+  "disputed": false
+}

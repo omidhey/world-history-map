@@ -1,0 +1,189 @@
+{
+ "country": "GTM",
+ "name": "Guatemala",
+ "area_km2": 109446,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9904
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Mesoamerican hunter-gatherers and maïze farmers",
+    "subjecto": "Mesoamerican hunter-gatherers and maïze farmers",
+    "share": 0.9854
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9832
+   }
+  ],
+  "-500": [
+   {
+    "name": "Maize farmers",
+    "subjecto": "Maize farmers",
+    "share": 0.9832
+   }
+  ],
+  "-323": [
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.9902
+   }
+  ],
+  "-1": [
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.9902
+   }
+  ],
+  "400": [
+   {
+    "name": "Maya chiefdoms and states",
+    "subjecto": "Maya chiefdoms and states",
+    "share": 0.9902
+   }
+  ],
+  "800": [
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.984
+   }
+  ],
+  "1200": [
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.9588,
+    "carried": 800
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0199
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0074,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.9049,
+    "carried": 800
+   },
+   {
+    "name": "Maya city-states",
+    "subjecto": "Maya city-states",
+    "share": 0.0647
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0126
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.009,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Viceroyalty of New Spain",
+    "subjecto": "Spain",
+    "share": 0.9861
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0065,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Guatemala",
+    "subjecto": "Guatemala",
+    "share": 0.9062
+   },
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.059
+   },
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.0132
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0075,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Guatemala",
+    "subjecto": "Guatemala",
+    "share": 0.9062
+   },
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.059
+   },
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.0132
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0075,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Guatemala",
+    "subjecto": "Guatemala",
+    "share": 0.9062
+   },
+   {
+    "name": "Mexico",
+    "subjecto": "Mexico",
+    "share": 0.059
+   },
+   {
+    "name": "Honduras",
+    "subjecto": "Honduras",
+    "share": 0.0132
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0075,
+    "other": true
+   }
+  ]
+ }
+}

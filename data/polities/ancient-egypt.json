@@ -1,0 +1,26 @@
+{
+  "id": "ancient-egypt",
+  "wikidata": "Q11768",
+  "name": "Ancient Egypt",
+  "border_names": [
+    "Egypt"
+  ],
+  "type": "kingdom",
+  "start": -3100,
+  "end": -30,
+  "date_precision": "circa",
+  "capital": {
+    "lat": 29.85,
+    "lon": 31.25,
+    "place": "Memphis"
+  },
+  "summary": "Civilisation along the lower Nile ruled by pharaohs for about three thousand years, from the unification of the Two Lands to the Roman annexation after Cleopatra.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ancient_Egypt"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11768",
+    "https://en.wikipedia.org/wiki/Ancient_Egypt"
+  ],
+  "disputed": false
+}

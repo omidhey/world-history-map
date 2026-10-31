@@ -1,0 +1,26 @@
+{
+  "id": "aztec-empire",
+  "wikidata": "Q2608489",
+  "name": "Aztec Empire",
+  "border_names": [
+    "Aztec Empire"
+  ],
+  "type": "empire",
+  "start": 1428,
+  "end": 1521,
+  "date_precision": "year",
+  "capital": {
+    "lat": 19.43,
+    "lon": -99.13,
+    "place": "Tenochtitlan"
+  },
+  "summary": "Alliance led by Tenochtitlan that collected tribute from much of central Mexico until Spanish and allied forces took the capital in 1521.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aztec_Empire"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2608489",
+    "https://en.wikipedia.org/wiki/Aztec_Empire"
+  ],
+  "disputed": false
+}

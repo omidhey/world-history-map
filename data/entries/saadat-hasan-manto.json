@@ -1,0 +1,23 @@
+{
+  "id": "saadat-hasan-manto",
+  "wikidata": "Q156501",
+  "name": "Saadat Hasan Manto",
+  "category": "writer",
+  "start": 1912,
+  "end": 1955,
+  "date_precision": "day",
+  "location": {
+    "lat": 30.84,
+    "lon": 76.19,
+    "place": "Samrala"
+  },
+  "summary": "Indo-Pakistani novelist, playwright and writer (1912-1955), born in Samrala. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saadat_Hasan_Manto"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q156501",
+    "https://en.wikipedia.org/wiki/Saadat_Hasan_Manto"
+  ],
+  "disputed": false
+}

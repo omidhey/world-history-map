@@ -1,0 +1,252 @@
+{
+ "country": "KGZ",
+ "name": "Kyrgyzstan",
+ "area_km2": 195873,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.8104
+   },
+   {
+    "name": "Andronovo",
+    "subjecto": "Andronovo",
+    "share": 0.1688
+   },
+   {
+    "name": "Oxus",
+    "subjecto": "Oxus",
+    "share": 0.0208
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.7373
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.2627
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4906
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.4106,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0989,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-323": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4906,
+    "carried": -500
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.4106,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0989,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4906,
+    "carried": -500
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.4106,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0989,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4906,
+    "carried": -500
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.4108,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0988,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.4108,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.3622,
+    "carried": -500
+   },
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.1284
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0988,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0001,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 1.0
+   }
+  ],
+  "1500": [
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 1.0
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.6097
+   },
+   {
+    "name": "Qing Empire",
+    "subjecto": "Qing Empire",
+    "share": 0.3903
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 0.9957
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0043,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 0.9957
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0043,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Kyrgyzstan",
+    "subjecto": "Kyrgyzstan",
+    "share": 0.9322
+   },
+   {
+    "name": "Kazakhstan",
+    "subjecto": "Kazakhstan",
+    "share": 0.0364
+   },
+   {
+    "name": "Uzbekistan",
+    "subjecto": "Uzbekistan",
+    "share": 0.0151
+   },
+   {
+    "name": "Tajikistan",
+    "subjecto": "Tajikistan",
+    "share": 0.0109
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0054,
+    "other": true
+   }
+  ]
+ }
+}

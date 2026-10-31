@@ -1,0 +1,23 @@
+{
+  "id": "yasar-kemal",
+  "wikidata": "Q327142",
+  "name": "Yaşar Kemal",
+  "category": "writer",
+  "start": 1923,
+  "end": 2015,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.19,
+    "lon": 36.09,
+    "place": "Gökçedam"
+  },
+  "summary": "Kurdish writer and human rights activist (1923–2015), born in Gökçedam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yaşar_Kemal"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q327142",
+    "https://en.wikipedia.org/wiki/Yaşar_Kemal"
+  ],
+  "disputed": false
+}

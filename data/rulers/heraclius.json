@@ -1,0 +1,19 @@
+{
+  "id": "heraclius",
+  "wikidata": "Q41852",
+  "name": "Heraclius",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "heraclian-dynasty",
+  "start": 610,
+  "end": 641,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heraclius"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41852",
+    "https://en.wikipedia.org/wiki/Heraclius"
+  ],
+  "disputed": false
+}

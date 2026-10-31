@@ -1,0 +1,22 @@
+{
+  "id": "aryabhatiya",
+  "wikidata": "Q3518429",
+  "name": "Āryabhaṭīya",
+  "category": "work",
+  "start": 510,
+  "date_precision": "year",
+  "location": {
+    "lat": 25.61,
+    "lon": 85.14,
+    "place": "Pataliputra"
+  },
+  "summary": "Sanskrit astronomical treatise by the 5th century Indian mathematician Aryabhata, associated with Pataliputra. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aryabhatiya"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3518429",
+    "https://en.wikipedia.org/wiki/Aryabhatiya"
+  ],
+  "disputed": false
+}

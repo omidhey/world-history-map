@@ -1,0 +1,23 @@
+{
+  "id": "banu-musa",
+  "wikidata": "Q423210",
+  "name": "Banū Mūsā",
+  "category": "scientist",
+  "start": 800,
+  "end": 860,
+  "date_precision": "year",
+  "location": {
+    "lat": 33.32,
+    "lon": 44.37,
+    "place": "Baghdad"
+  },
+  "summary": "Persian brothers, mathematicians and astronomers, born in Baghdad. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Banū_Mūsā_brothers"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q423210",
+    "https://en.wikipedia.org/wiki/Banū_Mūsā_brothers"
+  ],
+  "disputed": false
+}

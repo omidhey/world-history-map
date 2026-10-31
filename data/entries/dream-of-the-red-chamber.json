@@ -1,0 +1,48 @@
+{
+  "id": "dream-of-the-red-chamber",
+  "wikidata": "Q8265",
+  "name": "Dream of the Red Chamber",
+  "category": "work",
+  "start": 1792,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.06,
+    "lon": 118.78,
+    "place": "Nanjing"
+  },
+  "summary": "One of China's Four Great Classical Novels by Cao Xueqin, associated with Nanjing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q8265",
+    "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1792,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8265"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1800,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8265"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1868,
+      "note": "Wikidata lists more than one publication year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8265"
+      ]
+    }
+  ]
+}

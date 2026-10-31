@@ -1,5 +1,6 @@
-# Publishes site/ to GitHub Pages on every push to main.
-# site/data/ is generated, so the workflow builds it from data/ first.
+# On every push to main (a merged pull request): validate the records,
+# then build site/data/ from data/, then publish site/ to GitHub Pages.
+# Deploy only runs if validation passes, so a bad record never goes live.
 name: Deploy site to GitHub Pages
 
 on:
@@ -17,7 +18,20 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install jsonschema
+        run: pip install jsonschema==4.25.1
+      - name: Validate records
+        run: python pipeline/validate.py
+
   deploy:
+    needs: validate
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -27,6 +41,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install mapshaper (converts borders to TopoJSON)
+        run: npm ci
+      - name: Download country outlines
+        run: python pipeline/download_countries.py
       - name: Build site data
         run: python pipeline/build_site.py
       - uses: actions/configure-pages@v5

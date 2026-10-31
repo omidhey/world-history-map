@@ -1,0 +1,23 @@
+{
+  "id": "joseph-von-fraunhofer",
+  "wikidata": "Q43948",
+  "name": "Joseph von Fraunhofer",
+  "category": "scientist",
+  "start": 1787,
+  "end": 1826,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.88,
+    "lon": 12.58,
+    "place": "Straubing"
+  },
+  "summary": "Bavarian physicist and optical lens manufacturer, born in Straubing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q43948",
+    "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "machado-de-assis",
+  "wikidata": "Q311145",
+  "name": "Machado de Assis",
+  "category": "writer",
+  "start": 1839,
+  "end": 1908,
+  "date_precision": "day",
+  "location": {
+    "lat": -22.91,
+    "lon": -43.21,
+    "place": "Rio de Janeiro"
+  },
+  "summary": "Brazilian writer (1839–1908), born in Rio de Janeiro. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Machado_de_Assis"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q311145",
+    "https://en.wikipedia.org/wiki/Machado_de_Assis"
+  ],
+  "disputed": false
+}

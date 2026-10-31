@@ -1,0 +1,23 @@
+{
+  "id": "song-yingxing",
+  "wikidata": "Q716217",
+  "name": "Song Yingxing",
+  "category": "scientist",
+  "start": 1587,
+  "end": 1666,
+  "date_precision": "year",
+  "location": {
+    "lat": 28.73,
+    "lon": 115.17,
+    "place": "Fengxin County"
+  },
+  "summary": "Chinese scholar (1587-1666), born in Fengxin County. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Yingxing"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q716217",
+    "https://en.wikipedia.org/wiki/Song_Yingxing"
+  ],
+  "disputed": false
+}

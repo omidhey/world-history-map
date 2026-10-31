@@ -1,0 +1,23 @@
+{
+  "id": "xin-qiji",
+  "wikidata": "Q1155987",
+  "name": "Xin Qiji",
+  "category": "writer",
+  "start": 1140,
+  "end": 1207,
+  "date_precision": "year",
+  "location": {
+    "lat": 36.68,
+    "lon": 117.06,
+    "place": "Licheng District"
+  },
+  "summary": "Chinese poet, born in Licheng District. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xin_Qiji"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1155987",
+    "https://en.wikipedia.org/wiki/Xin_Qiji"
+  ],
+  "disputed": false
+}

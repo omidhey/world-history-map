@@ -1,0 +1,328 @@
+{
+ "country": "NGA",
+ "name": "Nigeria",
+ "area_km2": 905047,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.9706
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0196
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.975
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0152
+   }
+  ],
+  "-1000": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8208
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0952
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0745
+   }
+  ],
+  "-500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8191
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0952
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0745
+   }
+  ],
+  "-323": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8191
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0952
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0745
+   }
+  ],
+  "-1": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8191
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0952,
+    "carried": -323
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0745
+   }
+  ],
+  "400": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8189
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0952,
+    "carried": -323
+   },
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.0743
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8191
+   },
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.8188,
+    "carried": 400
+   },
+   {
+    "name": "Saharan pastoral nomads",
+    "subjecto": "Saharan pastoral nomads",
+    "share": 0.0952,
+    "carried": -323
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0745
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0003,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.821
+   },
+   {
+    "name": "Tuareg Nomadic Tribes",
+    "subjecto": "Tuareg Nomadic Tribes",
+    "share": 0.0952
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0732
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0014,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.4801
+   },
+   {
+    "name": "Hausa States",
+    "subjecto": "Hausa States",
+    "share": 0.1902
+   },
+   {
+    "name": "Benin",
+    "subjecto": "Benin",
+    "share": 0.1188
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.0849
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0608
+   },
+   {
+    "name": "Oyo",
+    "subjecto": "Oyo",
+    "share": 0.0556
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "West African cereal farmers",
+    "subjecto": "West African cereal farmers",
+    "share": 0.3092,
+    "carried": 1500
+   },
+   {
+    "name": "Hausa States",
+    "subjecto": "Hausa States",
+    "share": 0.2187
+   },
+   {
+    "name": "Kanem-Bornu",
+    "subjecto": "Kanem-Bornu",
+    "share": 0.1496
+   },
+   {
+    "name": "Oyo",
+    "subjecto": "Oyo",
+    "share": 0.086
+   },
+   {
+    "name": "Kingdom of Benin",
+    "subjecto": "Kingdom of Benin",
+    "share": 0.064
+   },
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.0511,
+    "carried": 1500
+   },
+   {
+    "name": "Hausa States",
+    "subjecto": "Hausa States",
+    "share": 0.0325,
+    "carried": 1500
+   },
+   {
+    "name": "Dahomey",
+    "subjecto": "Dahomey",
+    "share": 0.0304
+   },
+   {
+    "name": "Oyo",
+    "subjecto": "Oyo",
+    "share": 0.0221,
+    "carried": 1500
+   },
+   {
+    "name": "Africa",
+    "subjecto": "Africa",
+    "share": 0.0166
+   },
+   {
+    "name": "Benin",
+    "subjecto": "Benin",
+    "share": 0.0101,
+    "carried": 1500
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0002,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Nigeria",
+    "subjecto": "United Kingdom of Great Britain and Ireland",
+    "share": 0.9201
+   },
+   {
+    "name": "Kamerun",
+    "subjecto": "Kamerun",
+    "share": 0.063
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0086,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Nigeria",
+    "subjecto": "United Kingdom",
+    "share": 0.9748
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0168,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Nigeria",
+    "subjecto": "Nigeria",
+    "share": 0.9784
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0133,
+    "other": true
+   }
+  ]
+ }
+}

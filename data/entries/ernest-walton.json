@@ -1,0 +1,23 @@
+{
+  "id": "ernest-walton",
+  "wikidata": "Q183631",
+  "name": "Ernest Walton",
+  "category": "scientist",
+  "start": 1903,
+  "end": 1995,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.1,
+    "lon": -7.62,
+    "place": "Abbeyside"
+  },
+  "summary": "Irish physicist and Nobel laureate (1903-1995), born in Abbeyside. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Walton"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q183631",
+    "https://en.wikipedia.org/wiki/Ernest_Walton"
+  ],
+  "disputed": false
+}

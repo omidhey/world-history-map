@@ -1,0 +1,24 @@
+{
+  "id": "kurt-godel",
+  "wikidata": "Q41390",
+  "name": "Kurt Gödel",
+  "category": "scientist",
+  "start": 1906,
+  "end": 1978,
+  "date_precision": "day",
+  "location": {
+    "lat": 49.2,
+    "lon": 16.61,
+    "place": "Brno"
+  },
+  "summary": "Austrian-American logician, mathematician, and philosopher of mathematics (1906–1978), born in Brno. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Gödel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41390",
+    "https://en.wikipedia.org/wiki/Kurt_Gödel",
+    "https://plato.stanford.edu/entries/goedel/"
+  ],
+  "disputed": false
+}

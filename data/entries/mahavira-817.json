@@ -1,0 +1,23 @@
+{
+  "id": "mahavira-817",
+  "wikidata": "Q2269861",
+  "name": "Mahāvīra",
+  "category": "scientist",
+  "start": 817,
+  "end": 875,
+  "date_precision": "year",
+  "location": {
+    "lat": 12.31,
+    "lon": 76.65,
+    "place": "Mysore"
+  },
+  "summary": "Mathematician, born in Mysore. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahāvīra_(mathematician)"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2269861",
+    "https://en.wikipedia.org/wiki/Mahāvīra_(mathematician)"
+  ],
+  "disputed": false
+}

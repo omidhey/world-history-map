@@ -1,0 +1,22 @@
+{
+  "id": "the-scarlet-letter",
+  "wikidata": "Q907568",
+  "name": "The Scarlet Letter",
+  "category": "work",
+  "start": 1850,
+  "date_precision": "year",
+  "location": {
+    "lat": 42.52,
+    "lon": -70.9,
+    "place": "Salem"
+  },
+  "summary": "Novel by Nathaniel Hawthorne, associated with Salem. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Scarlet_Letter"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q907568",
+    "https://en.wikipedia.org/wiki/The_Scarlet_Letter"
+  ],
+  "disputed": false
+}

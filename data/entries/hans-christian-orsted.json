@@ -1,0 +1,23 @@
+{
+  "id": "hans-christian-orsted",
+  "wikidata": "Q44412",
+  "name": "Hans Christian Ørsted",
+  "category": "scientist",
+  "start": 1777,
+  "end": 1851,
+  "date_precision": "day",
+  "location": {
+    "lat": 54.94,
+    "lon": 10.72,
+    "place": "Rudkøbing"
+  },
+  "summary": "Danish physicist and chemist (1777-1851), born in Rudkøbing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Ørsted"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q44412",
+    "https://en.wikipedia.org/wiki/Hans_Christian_Ørsted"
+  ],
+  "disputed": false
+}

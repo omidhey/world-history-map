@@ -1,0 +1,258 @@
+{
+ "country": "UZB",
+ "name": "Uzbekistan",
+ "area_km2": 461285,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 1.0
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Andronovo",
+    "subjecto": "Andronovo",
+    "share": 0.6404
+   },
+   {
+    "name": "Oxus",
+    "subjecto": "Oxus",
+    "share": 0.2934
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0639
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.5756
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.4244
+   }
+  ],
+  "-500": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.7928
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1059,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.1013,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4639,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.329
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1059,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.1013,
+    "carried": -1000
+   }
+  ],
+  "-1": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4517,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.329,
+    "carried": -323
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1059,
+    "carried": -1000
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0529,
+    "carried": -1000
+   }
+  ],
+  "400": [
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.4517,
+    "carried": -500
+   },
+   {
+    "name": "Empire of Alexander",
+    "subjecto": "Empire of Alexander",
+    "share": 0.329,
+    "carried": -323
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1059,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0605
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.0529,
+    "carried": -1000
+   }
+  ],
+  "800": [
+   {
+    "name": "Abbasid Caliphate",
+    "subjecto": "Abbasid Caliphate",
+    "share": 0.732
+   },
+   {
+    "name": "Iranian pastoralists",
+    "subjecto": "Iranian pastoralists",
+    "share": 0.1059,
+    "carried": -1000
+   },
+   {
+    "name": "Achaemenid Empire",
+    "subjecto": "Achaemenid Empire",
+    "share": 0.0793,
+    "carried": -500
+   },
+   {
+    "name": "Karasuk culture",
+    "subjecto": "Karasuk culture",
+    "share": 0.052,
+    "carried": -1000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0308
+   }
+  ],
+  "1200": [
+   {
+    "name": "Kara Khitai Khaganate",
+    "subjecto": "Kara Khitai Khaganate",
+    "share": 0.7866
+   },
+   {
+    "name": "Cuman Khanates",
+    "subjecto": "Cuman Khanates",
+    "share": 0.1725
+   },
+   {
+    "name": "Ghaznavid Emirate",
+    "subjecto": "Ghaznavid Emirate",
+    "share": 0.0198
+   }
+  ],
+  "1500": [
+   {
+    "name": "Timurid Emirates",
+    "subjecto": "Timurid Emirates",
+    "share": 0.521
+   },
+   {
+    "name": "Chagatai Khanate",
+    "subjecto": "Chagatai Khanate",
+    "share": 0.2614
+   },
+   {
+    "name": "White Horde",
+    "subjecto": "White Horde",
+    "share": 0.1619
+   }
+  ],
+  "1800": [
+   {
+    "name": "central Asian khanates",
+    "subjecto": "central Asian khanates",
+    "share": 0.9287
+   },
+   {
+    "name": "Afghanistan",
+    "subjecto": "Afghanistan",
+    "share": 0.0713
+   }
+  ],
+  "1914": [
+   {
+    "name": "Russian Empire",
+    "subjecto": "Russia",
+    "share": 1.0
+   }
+  ],
+  "1945": [
+   {
+    "name": "USSR",
+    "subjecto": "USSR",
+    "share": 1.0
+   }
+  ],
+  "2010": [
+   {
+    "name": "Uzbekistan",
+    "subjecto": "Uzbekistan",
+    "share": 0.9483
+   },
+   {
+    "name": "Turkmenistan",
+    "subjecto": "Turkmenistan",
+    "share": 0.021
+   },
+   {
+    "name": "Kazakhstan",
+    "subjecto": "Kazakhstan",
+    "share": 0.02
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0107,
+    "other": true
+   }
+  ]
+ }
+}

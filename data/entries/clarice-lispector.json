@@ -1,0 +1,23 @@
+{
+  "id": "clarice-lispector",
+  "wikidata": "Q235955",
+  "name": "Clarice Lispector",
+  "category": "writer",
+  "start": 1920,
+  "end": 1977,
+  "date_precision": "day",
+  "location": {
+    "lat": 48.21,
+    "lon": 29.36,
+    "place": "Chechelnyk"
+  },
+  "summary": "Ukrainian-Brazilian writer, poet, and journalist (1920–1977), born in Chechelnyk. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarice_Lispector"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q235955",
+    "https://en.wikipedia.org/wiki/Clarice_Lispector"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bahram-ii",
+  "wikidata": "Q299255",
+  "name": "Bahram II",
+  "polity": "sasanian-empire",
+  "title": "King of Kings",
+  "dynasty": "sasanian-dynasty",
+  "start": 274,
+  "end": 293,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahram_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q299255",
+    "https://en.wikipedia.org/wiki/Bahram_II"
+  ],
+  "disputed": false
+}

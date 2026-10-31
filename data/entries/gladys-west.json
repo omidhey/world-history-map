@@ -1,0 +1,23 @@
+{
+  "id": "gladys-west",
+  "wikidata": "Q48399950",
+  "name": "Gladys West",
+  "category": "scientist",
+  "start": 1930,
+  "end": 2026,
+  "date_precision": "day",
+  "location": {
+    "lat": 37.2,
+    "lon": -77.56,
+    "place": "Sutherland"
+  },
+  "summary": "American mathematician (1930–2026), born in Sutherland. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gladys_West"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48399950",
+    "https://en.wikipedia.org/wiki/Gladys_West"
+  ],
+  "disputed": false
+}

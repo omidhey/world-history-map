@@ -1,0 +1,177 @@
+{
+ "country": "AGO",
+ "name": "Angola",
+ "area_km2": 1245058,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8425
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.1414
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.8425
+   },
+   {
+    "name": "Bantu",
+    "subjecto": "Bantu",
+    "share": 0.14
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9864
+   }
+  ],
+  "-500": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9864
+   }
+  ],
+  "-323": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9864
+   }
+  ],
+  "-1": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.9864
+   }
+  ],
+  "400": [
+   {
+    "name": "Khoisan",
+    "subjecto": "Khoisan",
+    "share": 0.984
+   }
+  ],
+  "800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9864
+   }
+  ],
+  "1200": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9863
+   }
+  ],
+  "1500": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.9228
+   },
+   {
+    "name": "Congo",
+    "subjecto": "Congo",
+    "share": 0.0554
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0073,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Bantu peoples",
+    "subjecto": "Bantu peoples",
+    "share": 0.7798,
+    "carried": 1500
+   },
+   {
+    "name": "Lunda",
+    "subjecto": "Lunda",
+    "share": 0.143
+   },
+   {
+    "name": "Congo",
+    "subjecto": "Congo",
+    "share": 0.0552
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0083,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Angola",
+    "subjecto": "Portugal",
+    "share": 0.9687
+   },
+   {
+    "name": "Belgian Congo",
+    "subjecto": "Belgium",
+    "share": 0.0133
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.004,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Angola (Portugal)",
+    "subjecto": "Portugal",
+    "share": 0.9687
+   },
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.0133
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.004,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Angola",
+    "subjecto": "Angola",
+    "share": 0.968
+   },
+   {
+    "name": "Zaire",
+    "subjecto": "Zaire",
+    "share": 0.014
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.004,
+    "other": true
+   }
+  ]
+ }
+}

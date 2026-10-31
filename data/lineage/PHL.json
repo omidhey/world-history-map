@@ -1,0 +1,147 @@
+{
+ "country": "PHL",
+ "name": "Philippines",
+ "area_km2": 292260,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.569
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5772
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5548,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0149
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5548,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0149
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5548,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0149
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.53,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0664
+   }
+  ],
+  "400": [
+   {
+    "name": "Austronesians",
+    "subjecto": "Austronesians",
+    "share": 0.5295,
+    "carried": -2000
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0279
+   }
+  ],
+  "800": [
+   {
+    "name": "Malay",
+    "subjecto": "Malay",
+    "share": 0.5772
+   }
+  ],
+  "1200": [
+   {
+    "name": "Malay",
+    "subjecto": "Malay",
+    "share": 0.3491,
+    "carried": 800
+   },
+   {
+    "name": "Malays",
+    "subjecto": "Malays",
+    "share": 0.2485
+   },
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.0148
+   }
+  ],
+  "1500": [
+   {
+    "name": "Philippines",
+    "subjecto": "Philippines",
+    "share": 0.6207
+   }
+  ],
+  "1800": [
+   {
+    "name": "Philippines",
+    "subjecto": "Philippines",
+    "share": 0.6183
+   }
+  ],
+  "1914": [
+   {
+    "name": "Philippines",
+    "subjecto": "Philippines",
+    "share": 0.6149
+   }
+  ],
+  "1945": [
+   {
+    "name": "Philippines",
+    "subjecto": "Philippines",
+    "share": 0.6149
+   }
+  ],
+  "2010": [
+   {
+    "name": "Philippines",
+    "subjecto": "Philippines",
+    "share": 0.6362
+   }
+  ]
+ }
+}

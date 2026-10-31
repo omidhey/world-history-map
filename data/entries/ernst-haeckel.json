@@ -1,0 +1,23 @@
+{
+  "id": "ernst-haeckel",
+  "wikidata": "Q48246",
+  "name": "Ernst Haeckel",
+  "category": "scientist",
+  "start": 1834,
+  "end": 1919,
+  "date_precision": "day",
+  "location": {
+    "lat": 52.4,
+    "lon": 13.06,
+    "place": "Potsdam"
+  },
+  "summary": "German zoologist (1834-1919), born in Potsdam. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Haeckel"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q48246",
+    "https://en.wikipedia.org/wiki/Ernst_Haeckel"
+  ],
+  "disputed": false
+}

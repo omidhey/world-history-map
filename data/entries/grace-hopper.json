@@ -1,0 +1,23 @@
+{
+  "id": "grace-hopper",
+  "wikidata": "Q11641",
+  "name": "Grace Hopper",
+  "category": "scientist",
+  "start": 1906,
+  "end": 1992,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.71,
+    "lon": -74.01,
+    "place": "New York City"
+  },
+  "summary": "American computer scientist and United States Navy officer (1906–1992), born in New York City. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Hopper"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11641",
+    "https://en.wikipedia.org/wiki/Grace_Hopper"
+  ],
+  "disputed": false
+}

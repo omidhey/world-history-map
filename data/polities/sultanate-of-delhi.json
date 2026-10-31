@@ -1,0 +1,26 @@
+{
+  "id": "sultanate-of-delhi",
+  "wikidata": "Q229411",
+  "name": "Delhi Sultanate",
+  "border_names": [
+    "Sultanate of Delhi"
+  ],
+  "type": "sultanate",
+  "start": 1206,
+  "end": 1526,
+  "date_precision": "year",
+  "capital": {
+    "lat": 28.61,
+    "lon": 77.21,
+    "place": "Delhi"
+  },
+  "summary": "Series of Muslim dynasties ruling much of northern India from Delhi until the Mughal conquest of 1526.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Delhi_Sultanate"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q229411",
+    "https://en.wikipedia.org/wiki/Delhi_Sultanate"
+  ],
+  "disputed": false
+}

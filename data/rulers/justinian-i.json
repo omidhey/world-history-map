@@ -1,0 +1,19 @@
+{
+  "id": "justinian-i",
+  "wikidata": "Q41866",
+  "name": "Justinian I",
+  "polity": "byzantine-empire",
+  "title": "Emperor",
+  "dynasty": "justinian-dynasty",
+  "start": 527,
+  "end": 565,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Justinian_I"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q41866",
+    "https://en.wikipedia.org/wiki/Justinian_I"
+  ],
+  "disputed": false
+}

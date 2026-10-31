@@ -1,0 +1,19 @@
+{
+  "id": "daoguang-emperor",
+  "wikidata": "Q334351",
+  "name": "Daoguang Emperor",
+  "polity": "qing-empire",
+  "title": "Emperor",
+  "dynasty": "aisin-gioro",
+  "start": 1820,
+  "end": 1850,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Daoguang_Emperor"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q334351",
+    "https://en.wikipedia.org/wiki/Daoguang_Emperor"
+  ],
+  "disputed": false
+}

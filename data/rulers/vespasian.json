@@ -1,0 +1,19 @@
+{
+  "id": "vespasian",
+  "wikidata": "Q1419",
+  "name": "Vespasian",
+  "polity": "roman-empire",
+  "title": "Emperor",
+  "dynasty": "flavian-dynasty",
+  "start": 69,
+  "end": 79,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vespasian"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1419",
+    "https://en.wikipedia.org/wiki/Vespasian"
+  ],
+  "disputed": false
+}

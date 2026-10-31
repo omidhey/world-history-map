@@ -1,0 +1,220 @@
+{
+ "country": "THA",
+ "name": "Thailand",
+ "area_km2": 510123,
+ "source": "automatic",
+ "snapshots": {
+  "-3000": [
+   {
+    "name": null,
+    "subjecto": null,
+    "share": 0.9862
+   }
+  ],
+  "-2000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9856
+   }
+  ],
+  "-1000": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9862
+   }
+  ],
+  "-500": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9856,
+    "carried": -1000
+   }
+  ],
+  "-323": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9856,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0007,
+    "other": true
+   }
+  ],
+  "-1": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9856,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "400": [
+   {
+    "name": "Austro-Asiatic rice cultures",
+    "subjecto": "Austro-Asiatic rice cultures",
+    "share": 0.9856,
+    "carried": -1000
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0009,
+    "other": true
+   }
+  ],
+  "800": [
+   {
+    "name": "Rajput Clans and Small States",
+    "subjecto": "Rajput Clans and Small States",
+    "share": 0.7347
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.1488
+   },
+   {
+    "name": "Dvaravati",
+    "subjecto": "Dvaravati",
+    "share": 0.0887
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0131,
+    "other": true
+   }
+  ],
+  "1200": [
+   {
+    "name": "Khmer Empire",
+    "subjecto": "Khmer Empire",
+    "share": 0.4171
+   },
+   {
+    "name": "Harapunchai",
+    "subjecto": "Harapunchai",
+    "share": 0.4012
+   },
+   {
+    "name": "minor Hindu and Buddhist states",
+    "subjecto": "minor Hindu and Buddhist states",
+    "share": 0.1265
+   },
+   {
+    "name": "Srivijaya Empire",
+    "subjecto": "Srivijaya Empire",
+    "share": 0.0253
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0087,
+    "other": true
+   }
+  ],
+  "1500": [
+   {
+    "name": "Ayutthaya",
+    "subjecto": "Ayutthaya",
+    "share": 0.9241
+   },
+   {
+    "name": "Burmese kingdoms",
+    "subjecto": "Burmese kingdoms",
+    "share": 0.0404
+   },
+   {
+    "name": "Pegu",
+    "subjecto": "Pegu",
+    "share": 0.0128
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0083,
+    "other": true
+   }
+  ],
+  "1800": [
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.9807
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0044,
+    "other": true
+   }
+  ],
+  "1914": [
+   {
+    "name": "Rattanakosin Kingdom",
+    "subjecto": "Rattanakosin Kingdom",
+    "share": 0.9495
+   },
+   {
+    "name": "French Indochina",
+    "subjecto": "France",
+    "share": 0.0281
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0076,
+    "other": true
+   }
+  ],
+  "1945": [
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.9495
+   },
+   {
+    "name": "Laos",
+    "subjecto": "France",
+    "share": 0.0275
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0081,
+    "other": true
+   }
+  ],
+  "2010": [
+   {
+    "name": "Thailand",
+    "subjecto": "Thailand",
+    "share": 0.9532
+   },
+   {
+    "name": "Laos",
+    "subjecto": "Laos",
+    "share": 0.024
+   },
+   {
+    "name": "other",
+    "subjecto": null,
+    "share": 0.0079,
+    "other": true
+   }
+  ]
+ }
+}

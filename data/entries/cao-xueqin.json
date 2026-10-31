@@ -1,0 +1,23 @@
+{
+  "id": "cao-xueqin",
+  "wikidata": "Q182874",
+  "name": "Cao Xueqin",
+  "category": "writer",
+  "start": 1724,
+  "end": 1763,
+  "date_precision": "year",
+  "location": {
+    "lat": 32.06,
+    "lon": 118.78,
+    "place": "Nanjing"
+  },
+  "summary": "Chinese novelist and poet (1710–1765), born in Nanjing. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cao_Xueqin"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q182874",
+    "https://en.wikipedia.org/wiki/Cao_Xueqin"
+  ],
+  "disputed": false
+}

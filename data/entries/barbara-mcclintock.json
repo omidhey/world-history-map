@@ -1,0 +1,23 @@
+{
+  "id": "barbara-mcclintock",
+  "wikidata": "Q199654",
+  "name": "Barbara McClintock",
+  "category": "scientist",
+  "start": 1902,
+  "end": 1992,
+  "date_precision": "day",
+  "location": {
+    "lat": 41.76,
+    "lon": -72.69,
+    "place": "Hartford"
+  },
+  "summary": "American scientist and cytogeneticist, born in Hartford. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_McClintock"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q199654",
+    "https://en.wikipedia.org/wiki/Barbara_McClintock"
+  ],
+  "disputed": false
+}

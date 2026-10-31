@@ -1,0 +1,23 @@
+{
+  "id": "kobayashi-issa",
+  "wikidata": "Q312709",
+  "name": "Kobayashi Issa",
+  "category": "writer",
+  "start": 1763,
+  "end": 1828,
+  "date_precision": "day",
+  "location": {
+    "lat": 36.81,
+    "lon": 138.21,
+    "place": "Kashiwabara"
+  },
+  "summary": "Japanese writer (1763-1828), born in Kashiwabara. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kobayashi_Issa"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q312709",
+    "https://en.wikipedia.org/wiki/Kobayashi_Issa"
+  ],
+  "disputed": false
+}

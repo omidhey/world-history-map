@@ -1,0 +1,41 @@
+{
+  "id": "nazim-hikmet",
+  "wikidata": "Q184906",
+  "name": "Nâzım Hikmet",
+  "category": "writer",
+  "start": 1901,
+  "end": 1963,
+  "date_precision": "day",
+  "location": {
+    "lat": 40.64,
+    "lon": 22.94,
+    "place": "Thessaloniki"
+  },
+  "summary": "Turkish communist poet, playwright and novelist (1902–1963), born in Thessaloniki. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nâzım_Hikmet"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q184906",
+    "https://en.wikipedia.org/wiki/Nâzım_Hikmet"
+  ],
+  "disputed": true,
+  "claims": [
+    {
+      "field": "start",
+      "value": 1901,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q184906"
+      ]
+    },
+    {
+      "field": "start",
+      "value": 1902,
+      "note": "Wikidata lists more than one birth year.",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q184906"
+      ]
+    }
+  ]
+}

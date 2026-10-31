@@ -1,0 +1,19 @@
+{
+  "id": "mehmed-ii",
+  "wikidata": "Q34503",
+  "name": "Mehmed II",
+  "polity": "ottoman-empire",
+  "title": "Sultan",
+  "dynasty": "house-of-osman",
+  "start": 1451,
+  "end": 1481,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehmed_II"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q34503",
+    "https://en.wikipedia.org/wiki/Mehmed_II"
+  ],
+  "disputed": false
+}

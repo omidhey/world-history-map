@@ -1,0 +1,23 @@
+{
+  "id": "jun-ichiro-tanizaki",
+  "wikidata": "Q316213",
+  "name": "Jun'ichirō Tanizaki",
+  "category": "writer",
+  "start": 1886,
+  "end": 1965,
+  "date_precision": "day",
+  "location": {
+    "lat": 35.68,
+    "lon": 139.78,
+    "place": "Nihonbashi-ku"
+  },
+  "summary": "Japanese author (1886–1965), born in Nihonbashi-ku. Imported from Wikidata; a summary in our own words is still to be written.",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jun'ichirō_Tanizaki"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q316213",
+    "https://en.wikipedia.org/wiki/Jun'ichirō_Tanizaki"
+  ],
+  "disputed": false
+}

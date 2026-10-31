@@ -1,0 +1,19 @@
+{
+  "id": "charles-ii-of-england",
+  "wikidata": "Q122553",
+  "name": "Charles II of England",
+  "polity": "kingdom-of-england",
+  "title": "King",
+  "dynasty": "house-of-stuart",
+  "start": 1660,
+  "end": 1685,
+  "date_precision": "year",
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_England"
+  },
+  "sources": [
+    "https://www.wikidata.org/wiki/Q122553",
+    "https://en.wikipedia.org/wiki/Charles_II_of_England"
+  ],
+  "disputed": false
+}

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or map, please cite it as below."
+title: "World History Map"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-31
+authors:
+  - family-names: Heydari
+    given-names: Omid
+repository-code: "https://github.com/omidhey/world-history-map"
+url: "https://omidhey.github.io/world-history-map/"
+license: GPL-3.0-or-later
+abstract: >-
+  An open, community-edited map of the world from about 3000 BCE to today: historical
+  borders, states, dynasties and rulers, people, works, inventions and environmental
+  events, each with cited sources. Contributed text is CC BY-SA 4.0.
+keywords:
+  - history
+  - historical maps
+  - open data
+# doi: add the Zenodo version DOI here after the first archived release

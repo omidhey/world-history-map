@@ -99,6 +99,10 @@ def main() -> None:
     if areas_in.exists():
         shutil.copy2(areas_in, ROOT / "site" / "data" / "areas.json")
         print("Copied areas.json")
+    contributors_in = ROOT / "data" / "contributors.json"
+    if contributors_in.exists():
+        shutil.copy2(contributors_in, ROOT / "site" / "data" / "contributors.json")
+        print("Copied contributors.json")
     print(f"Copied {len(manifest['snapshots'])} snapshots to {BORDERS_OUT}")
     print(f"Wrote {build_entries()} entries to site/data/entries.json")
     print(f"Wrote {build_polities()} polities to site/data/polities.json")

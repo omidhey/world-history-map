@@ -1,0 +1,12 @@
+{
+  "title": "World History Map",
+  "description": "An open, community-edited map of the world from about 3000 BCE to today: historical borders, states, dynasties and rulers, people, works, inventions and environmental events, each with cited sources.",
+  "upload_type": "dataset",
+  "creators": [{"name": "Heydari, Omid"}],
+  "license": "GPL-3.0-or-later",
+  "keywords": ["history", "historical maps", "open data"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/omidhey/world-history-map", "relation": "isSupplementTo", "scheme": "url"}
+  ],
+  "notes": "Code and border data: GPL-3.0-or-later. Contributed text (summaries, docs): CC BY-SA 4.0."
+}

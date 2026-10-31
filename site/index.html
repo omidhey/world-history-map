@@ -59,8 +59,23 @@
     #main { flex: 1; display: flex; min-height: 0; }
     #map-wrap { flex: 1; position: relative; min-width: 0; }
     #map-wrap #map { position: absolute; inset: 0; }
+    #side { width: 320px; flex: none; display: flex; flex-direction: column; position: relative; min-height: 0; border-left: 1px solid #ccc; background: #fff; }
+    #side:has(#panel.collapsed) { display: none; }
+    #search-bar { display: flex; gap: 6px; padding: 6px 8px; background: #fafafa; border-bottom: 1px solid #ddd; }
+    #search { flex: 1; min-width: 0; font: inherit; font-size: 13px; padding: 4px 6px; }
+    #copy-link { font-size: 12px; cursor: pointer; }
+    #search-results {
+      position: absolute; top: 40px; left: 8px; right: 8px; z-index: 2000; max-height: 60vh; overflow-y: auto;
+      background: #fff; border: 1px solid #999; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25); font-size: 13px;
+    }
+    #search-results[hidden] { display: none; }
+    #search-results button { display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit; padding: 5px 8px; cursor: pointer; }
+    #search-results button.active, #search-results button:hover { background: #eef3fa; }
+    #search-results .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; border: 1.5px solid #fff; box-shadow: 0 0 0 1px #333; }
+    #search-results small { display: block; color: #555; margin-left: 17px; }
+    #search-results .none { padding: 8px; color: #555; }
     #panel {
-      width: 320px; flex: none; overflow-y: auto; background: #fff; border-left: 1px solid #ccc;
+      flex: 1; min-height: 0; overflow-y: auto; background: #fff;
       font-size: 13px; color: #222;
     }
     #panel.collapsed { display: none; }
@@ -111,8 +126,9 @@
     @media (max-width: 600px) {
       #title { left: 50px; right: 10px; font-size: 14px; }
       #main { flex-direction: column; }
-      #panel { width: auto; max-height: 45vh; border-left: 0; border-top: 1px solid #ccc; }
-      #panel.sheet-closed { max-height: 40px; overflow: hidden; }
+      #side { width: auto; max-height: 45vh; border-left: 0; border-top: 1px solid #ccc; }
+      #side:has(#panel.sheet-closed) { max-height: 40px; overflow: hidden; }
+      #side:has(#panel.sheet-closed) #search-bar { display: none; }
       #panel-toggle { display: none; }
       #ticks { display: none; } /* 14 labels do not fit on a phone; the title shows the year */
     }
@@ -125,7 +141,14 @@
       <div id="map"></div>
       <button id="panel-toggle" aria-label="Show or hide the side panel">Panel</button>
     </div>
-    <aside id="panel" aria-label="Entries in this period"></aside>
+    <div id="side">
+      <div id="search-bar">
+        <input id="search" type="search" placeholder="Search people, works, states…" autocomplete="off" aria-label="Search entries and states">
+        <button id="copy-link" type="button" title="Copy a link to this view">Copy link</button>
+      </div>
+      <div id="search-results" role="listbox" hidden></div>
+      <aside id="panel" aria-label="Entries in this period"></aside>
+    </div>
   </div>
   <div id="timeline" role="img" hidden></div>
   <div id="controls">
@@ -139,7 +162,7 @@
     by A. Ourednik (GPL-3.0). Borders are approximate; dashed outlines are the least certain;
     purple outlines are <a href="https://github.com/omidhey/world-history-map/blob/main/docs/vanished-realms.md">sourced corrections</a>;
     pale areas keep their last recorded realm where the source names none.
-    · Map: <a href="https://leafletjs.com">Leaflet</a>, <a href="https://github.com/topojson/topojson-client">topojson-client</a>
+    · Map: <a href="https://leafletjs.com">Leaflet</a>, <a href="https://github.com/topojson/topojson-client">topojson-client</a>, <a href="https://www.fusejs.io">Fuse.js</a>
     · <a href="https://github.com/omidhey/world-history-map">Source on GitHub</a>
     (<a href="https://github.com/omidhey/world-history-map#licensing">code GPL-3.0, text CC BY-SA 4.0</a>)
     · <a id="suggest-addition" href="https://github.com/omidhey/world-history-map/issues/new?template=add-entry.yml">Suggest an addition</a>

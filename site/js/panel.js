@@ -8,6 +8,7 @@ import { cardHtml, polityCardHtml } from "./cards.js";
 import { renderTimeline } from "./rulers.js";
 import { follow, followHtml } from "./follow.js";
 import { show } from "./main.js";
+import { syncUrl } from "./view.js";
 
 const panel = document.getElementById("panel");
 const markerById = new Map();
@@ -31,6 +32,7 @@ export function openPolityCard(polity, props, year) {
   panel.classList.remove("sheet-closed");
   renderPanel();
   renderEntries();
+  syncUrl(true);
 }
 
 export function openCards(ids, centre) {
@@ -40,13 +42,16 @@ export function openCards(ids, centre) {
   if (centre && first) map.setView([first.location.lat, first.location.lon], Math.max(map.getZoom(), 4));
   panel.classList.remove("sheet-closed");
   renderPanel();
+  syncUrl(true);
 }
 
 export function closeCards() {
+  const hadCard = Boolean(state.openIds || state.openPolity);
   state.openIds = null;
   state.openPolity = null;
   renderPanel();
   renderEntries();
+  syncUrl(hadCard);
 }
 
 export function renderPanel() {
@@ -119,7 +124,7 @@ export function renderEntries() {
 }
 
 export function loadEntries() {
-  getJson("data/entries.json")
+  return getJson("data/entries.json")
     .then((data) => {
       state.entries = data;
       renderEntries();
@@ -134,6 +139,7 @@ panel.addEventListener("change", (e) => {
   if (e.target.checked) enabled.add(e.target.value);
   else enabled.delete(e.target.value);
   renderEntries();
+  syncUrl();
 });
 panel.addEventListener("click", (e) => {
   if (e.target.closest(".stop")) { follow(null); return; }

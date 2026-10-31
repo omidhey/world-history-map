@@ -32,3 +32,18 @@ export function inPeriod(entry, { from, to }) {
   const [start, end] = entry.span || [entry.start, entry.end !== undefined ? entry.end : entry.start];
   return start <= to && end >= from;
 }
+
+// The snapshot to jump to so `range` ({start, end?, span?}) is in view: the current one if it
+// already is, else the nearest snapshot whose period overlaps it, else the latest one before it.
+export function snapshotFor(range, snapshots, current) {
+  let best = -1;
+  snapshots.forEach((_, i) => {
+    if (!inPeriod(range, periodOf(snapshots, i))) return;
+    if (best < 0 || Math.abs(i - current) < Math.abs(best - current)) best = i;
+  });
+  if (best >= 0) return best;
+  const start = range.span ? range.span[0] : range.start;
+  let before = 0;
+  snapshots.forEach((s, i) => { if (s.year <= start) before = i; });
+  return before;
+}

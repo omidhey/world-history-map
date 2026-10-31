@@ -9,6 +9,8 @@ import { loadRulers } from "./rulers.js";
 import { loadAreas } from "./areas.js";
 import { loadCountries } from "./follow.js";
 import { loadEntries, openPolityCard, renderEntries } from "./panel.js";
+import { initialIndex, restoreView, syncUrl } from "./view.js";
+import "./search.js";
 
 const DATA = "data/borders/";
 const titleEl = document.getElementById("title");
@@ -34,6 +36,7 @@ export async function show(index) {
   slider.value = index;
   titleEl.textContent = "Borders as of " + formatYear(year) + " …";
   renderEntries();
+  syncUrl();
   ticksEl.querySelectorAll("span").forEach((s, i) => s.classList.toggle("current", i === index));
 
   let geojson;
@@ -81,8 +84,8 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "ArrowRight") step(1);
 });
 
-loadCountries();
-loadEntries();
+const countriesReady = loadCountries();
+const entriesReady = loadEntries();
 loadRulers();
 loadAreas();
 const politiesReady = loadPolities();
@@ -98,7 +101,8 @@ getJson(DATA + "manifest.json")
       ticksEl.appendChild(tick);
     });
     const start = state.snapshots.findIndex((s) => s.year === 1500);
-    show(start >= 0 ? start : 0);
+    show(initialIndex(state.snapshots, start >= 0 ? start : 0));
+    return Promise.all([entriesReady, politiesReady, countriesReady]).then(restoreView);
   })
   .catch((error) => {
     titleEl.textContent =

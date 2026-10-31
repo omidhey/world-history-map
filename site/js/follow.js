@@ -5,16 +5,18 @@ import { map } from "./map.js";
 import { colourFor, escapeHtml, formatYear, getJson } from "./util.js";
 import { polityFor } from "./polities.js";
 import { closeCards, renderPanel } from "./panel.js";
+import { syncUrl } from "./view.js";
 
 const lineageCache = new Map();
 
 export function loadCountries() {
-  getJson("data/lineage/index.json")
+  const index = getJson("data/lineage/index.json")
     .then((d) => { state.countryIndex = d; if (!state.openIds && !state.openPolity) renderPanel(); })
     .catch(() => {});
-  getJson("data/countries.json")
+  const shapes = getJson("data/countries.json")
     .then((d) => { for (const f of d.features) state.countryShapes[f.properties.iso] = f; })
     .catch(() => {});
+  return Promise.all([index, shapes]);
 }
 
 export async function follow(iso) {
@@ -39,6 +41,7 @@ export async function follow(iso) {
     }
   }
   closeCards();
+  syncUrl();
 }
 
 export function followHtml(year) {

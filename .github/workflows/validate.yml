@@ -38,4 +38,4 @@ jobs:
       - name: Python tests (lineage tests are skipped without geopandas)
         run: python -m pytest -q
       - name: JavaScript tests
-        run: node --test tests/js/util.test.mjs
+        run: node --test tests/js/*.test.mjs
